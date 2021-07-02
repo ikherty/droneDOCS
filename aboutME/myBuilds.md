@@ -6,17 +6,18 @@
 ✅Пропеллеры slow fly 8-10" 
 ✅Аккумуляторы 3s 25-40C 1000-1300mAh
 
-[img]
-[img]
-[img]
-[img]
-[img]
-[img]
+![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![]
+(https://img.shields.io/github/forks/pandao/editor.md.svg) ![]
+(https://img.shields.io/github/tag/pandao/editor.md.svg) ![]
+(https://img.shields.io/github/release/pandao/editor.md.svg) ![]
+(https://img.shields.io/github/issues/pandao/editor.md.svg) ![]
+(https://img.shields.io/bower/v/editor.md.svg)
+
 
 После нескольких серьезных крашей решила взять модель попроще, собрала из потолочной плитки ЛК размахом 900: Те же мотор, регуль, приемник, аккумуляторы, но с 2 цифровыми сервами ( https://www.banggood.com/custlink/GKv384OTji ) и пропеллером 8". Тяги, кабанчики, крепления элеронов самодельные, на биплане тоже. Летала визуально, что на биплане, что на крыле. Крыло оказалось неубиваемым, только иногда меняла винглеты и выпрямляла загнутый нос после падений морковкой:)
 
-https://youtu.be/2f9aV-VkGDU
-[img]
+> https://youtu.be/2f9aV-VkGDU
+![](https://img.shields.io/github/stars/pandao/editor.md.svg)
 
 Как поднакопила(все же являлась студенткой 1 курса), решилась на квадрокоптер(может и зря я это тогда затеяла, с тех пор денег в кошельке свободных не водится, всё уходит на сетапы:D). Брала все по акциям, сборка обошлась в 10к(доллар тогда скакал в районе 66-70руб): 
 ✅Моторы Racerstar BR2205 2300kv 
@@ -29,5 +30,7 @@ https://youtu.be/2f9aV-VkGDU
 ✅Аккумы использовала 4s 45+C 1100-1400mAh, хватало на 8-10 мин полета при газе 20-60%. Один из первых полетов https://www.youtube.com/watch?v=rP0_IzMYURM 
 Вес 256г. С аккумулятором 400г.
 
-[img]
-[img]
+![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![]
+(https://img.shields.io/github/forks/pandao/editor.md.svg) ![]
+(https://img.shields.io/github/tag/pandao/editor.md.svg) ![]
+
