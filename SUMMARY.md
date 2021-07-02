@@ -39,7 +39,5 @@
 * [О себе](aboutME/README.md)
   * [Как я попала в хобби?](aboutME/howBegin.md)
   * ["Достижения"](aboutME/achiev.md)
-  * [Интересы](aboutME/intresting.md)
   * [Мои сборки](aboutME/myBuilds.md)
-  * [Сборки для знакомых](aboutME/builds4over.md)
-  * [Канал](aboutME/channel.md)
+  * [Сборки на заказ](aboutME/builds4over.md)

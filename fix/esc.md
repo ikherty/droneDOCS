@@ -1,4 +1,3 @@
-Не крутится мотор  
 
-Вероятно, пробит мосфет  
-/*тут должен быть плейлист Дрон Меша*/
+https://www.youtube.com/watch?v=XSwUD5X2UxU&list=PLoPtpxJIxgnZXd0o3jwUju9Kg4_zCiPzO
+
