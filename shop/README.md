@@ -1,45 +1,40 @@
-Сайты, на которых я закупалась и периодически мониторю цены:
+Сайты, на которых я закупалась/закупаюсь и периодически мониторю цены:
 
-bangood.com
+Российские магазины:
 
-gearbest.com
+<DT><A HREF="air-hobby.ru" >Воздушное хобби</A>
+<DT><A HREF="https://mydrone.ru">MyDrone</A>
+<DT><A HREF="https://quadro.team/">QuadroTeam</A>
+<DT><A HREF="https://coptertime.ru">Coptertime</A>
+<DT><A HREF="https://brrc.ru/catalog/li_pol/">Братья Райт Brrc.ru</A>
+<DT><A HREF="https://hobbycenter.ru/">интернет-магазин Хобби Центр</A>
+<DT><A HREF="http://fpv-community.ru/store/">FPV сообщество - полеты по камере</A>
+<DT><A HREF="http://www.spinnerproduction.ru/catalog/new_arrivals">Spinner Production</A>
+<DT><A HREF="https://xmodels.ru/">XModels</A>
+<DT><A HREF="https://fixfly.ru/">FixFly</A>
+<DT><A HREF="https://rcgood.ru/">RcGood</A>
+<DT><A HREF="t.me/microdroneshop">Телеграммный магазин microdroneshop</A>
 
-aliexpress.com
-
-chinahobbyline.com
-
-surveilzone.com
-
-hobbycool.com
-
-hobbyking.com
-
-air-hobby.ru
-
-myrcmart.com
-
-amainhobbies.com
-
-newbeedrone.com
-
-getfpv.com
-
-fpvmodel.com
-
-akktek.com
-
-betafpv.com
-
+Зарубежные магазины:
+ 
+<DT><A HREF="aliexpress.com" >Aliexpress</A> (90% прокупок отсюда)
+<DT><A HREF="bangood.com" >Bangood</A> (с промокодами и поинтами иногда выходит выгодно)
+<DT><A HREF="chinahobbyline.com" >ChiNaHobbyLine</A> (популярные по соотношению цена/качество аккумуляторы)
+<DT><A HREF="surveilzone.com" >Surveilzone</A> (второй сайт foxeer)
+<DT><A HREF="hobbycool.com" >Hobbycool</A>
+<DT><A HREF="hobbyking.com" >Hobbyking</A>
+<DT><A HREF="amainhobbies.com" >AmainHobbies</A>
+<DT><A HREF="newbeedrone.com" >NewBeeDrone</A>
+<DT><A HREF="getfpv.com" >GetFPV</A> (нет доставки в РФ, нужны перевозчики)
+<DT><A HREF="akktek.com" >AKKktek</A>
+<DT><A HREF="betafpv.com" >BetaFPV</A> (одни из лидеров по вупам)
+<DT><A HREF="gearbest.com" >Gearbest</A>
 <DT><A HREF="https://www.fpvmodel.com/" >FPV Model: RC Plane, Multicopter, Quadcopter, FPV Goggles, FPV System and all things FPV.</A>
-<DT><A HREF="http://www.myrcmart.com/">MyRcMart.COM </A>
+<DT><A HREF="http://www.myrcmart.com/">MyRcMart.COM </A> 
 <DT><A HREF="https://www.armattanquads.com/">Armattan Quads</A>
 <DT><A HREF="https://www.forcomposite.ru/catalog/tovary/plastiny/">Купить карбоновые и стеклопластиковые пластины и листы по выгодным ценам</A>
 <DT><A HREF="https://www.undergroundfpv.com/" >Underground FPV – UndergroundFPV</A>
-<DT><A HREF="http://www.spinnerproduction.ru/catalog/new_arrivals">Spinner Production :: Новые поступления</A>
-<DT><A HREF="https://brrc.ru/catalog/li_pol/">Аккумуляторы и батарейки li-pol на Brrc.ru. Лучшие цены. Отличное качество. Доставка по Москве.</A>
 <DT><A HREF="https://www.digikey.com/" >DigiKey Electronics - Electronic Components Distributor</A>
-<DT><A HREF="https://vk.com/market-152722928">Товары Рамы для Дронрейсинга (UniFrames) – 9 товаров</A>
-<DT><A HREF="https://www.alibaba.com/product-detail/Powerful-30amps-LG-HB4..">Powerful 30amps Lg Hb4 18650 </A>
 <DT><A HREF="https://store.myairbot.com/" >Airbot Multicopter</A>
 <DT><A HREF="https://eu.amaxshop.com/index.php?route=common/home">EU AMAXSHOP</A>
 <DT><A HREF="https://www.catalystmachineworks.com/">Catalyst Machineworks</A>
@@ -52,8 +47,6 @@ betafpv.com
 <DT><A HREF="https://www.progressiverc.com/">PRC Home</A>
 <DT><A HREF="https://hobbymatehobby.com/">HOBBYMATE</A>
 <DT><A HREF="https://www.racedayquads.com/">FPV Drone - Racing Drone Store - FPV Racing Quadcopter — RaceDayQuads</A>
-<DT><A HREF="https://hobbycenter.ru/toplivo/">Купить топливо для радиоуправляемых моделей в Москве недорого, интернет-магазин Хобби Центр</A>
-<DT><A HREF="http://fpv-community.ru/store/">FPV сообщество - полеты по камере</A>
 <DT><A HREF="https://www.rjxhobby.com/index.php?route=common/home">RJXHOBBY</A>
 <DT><A HREF="https://www.heli-nation.com/" >Heli-Nation - FPV Drones - Drone Racing Store - FPV Quadcopter Racing - Multicopter Parts</A>
 <DT><A HREF="https://alofthobbies.com/">Aloft - Home</A>
