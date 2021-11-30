@@ -88,6 +88,8 @@
 
 👉 Питер https://t.me/spb_copters
 
+👉 По запросу https://t.me/Pr0_fess0r можно попасть в Московский чат
+
 Авиамодели:
 
 👉 Планеристы России FPV https://t.me/joinchat/S77erT-FsfolkFTM
