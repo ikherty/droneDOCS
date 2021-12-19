@@ -37,7 +37,6 @@ jobs:
           PATH="./node_modules/.bin:$PATH"
           npm install gitbook-cli -g
           gitbook -V
-
       - name: Build GitBook
         run: |
          gitbook install
