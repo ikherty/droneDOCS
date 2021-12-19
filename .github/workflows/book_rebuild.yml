@@ -46,7 +46,6 @@ jobs:
          gitbook build
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@4.1.3
-        if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/master' }}
         with:
           branch: main
           folder: _book
