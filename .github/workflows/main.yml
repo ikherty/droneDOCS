@@ -29,7 +29,7 @@ jobs:
       - uses: EdricChan03/action-build-deploy-ghpages@v2.5.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          gh_pages_dist_folder: 'gitbook'
+          gh_pages_dist_folder: '_gitbooktest'
           gh_pages_branch: 'gh-pages'
           gh_pages_commit_message: 'Deploy commit $GITHUB_SHA\n\nAutodeployed using $GITHUB_ACTION in $GITHUB_WORKFLOW'
       
