@@ -2,11 +2,6 @@
   "language": "ru",
   "author": "PropWash Service",
   "title": "Вспомогательные материалы",
-  "links": {
-    "sidebar": {
-        "PropWash Service": "http://ikherty.github.io/propwash"
-    }
-  },
   "pdf":{
     "fontSize": 11
   },
