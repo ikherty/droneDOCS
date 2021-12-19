@@ -86,6 +86,8 @@
 
 👉 ZBestReview https://t.me/zbestfpv
 
+👉 FPV World (by Kiriodozaki) https://ikherty.github.io/droneDOCS/messages.html
+
 👉 Питер https://t.me/spb_copters
 
 👉 По запросу https://t.me/Pr0_fess0r можно попасть в Московский чат
