@@ -5,11 +5,31 @@
   "pdf":{
     "fontSize": 11
   },
-  "plugins": ["hints", "analytics"],
+  "plugins": [
+      "hints", 
+      "analytics",
+      "toolbar@https://github.com/hamishwillee/gitbook-plugin-toolbar.git"
+  ],
   "pluginsConfig": {
     "analytics": {
             "google": "UA-127136227-3"
+    },
+    "toolbar": {
+            "buttons":
+            [
+                {
+                    "label": "Edit page on github",
+                    "icon": "fa fa-pencil-square-o",
+                    "position" : "left",
+                    "url": "https://github.com/ikherty/droneDOCS/edit/main/docs/{{filepath_lang}}"
+                },
+                {
+                    "label": "GitHub",
+                    "icon": "fa fa-github",
+                    "position" : "left",
+                    "url": "https://github.com/ikherty/droneDOCS"
+                }
+            ]
     }
   }
 }
- 
