@@ -49,5 +49,6 @@ jobs:
         with:
           branch: main
           folder: _book
+          ssh-key: ${{ secrets.DEPLOY_KEY }}
           clean: true
           single-commit: true # to avoid multiple copies of large pdf files
