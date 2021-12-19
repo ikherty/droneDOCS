@@ -26,11 +26,11 @@ jobs:
       - name: checkout
       - uses: actions/checkout@v2
       
-      - name: Deploy GitHub Pages
-        if: success()
-        uses: crazy-max/ghaction-github-pages@v2.5.0
+      - uses: EdricChan03/action-build-deploy-ghpages@v2.5.0
         with:
-          target_branch: main
-          build_dir: gitbook
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          gh_pages_dist_folder: 'gitbook'
+          gh_pages_branch: 'gh-pages'
+          gh_pages_commit_message: 'Deploy commit $GITHUB_SHA\n\nAutodeployed using $GITHUB_ACTION in $GITHUB_WORKFLOW'
+      
+     
