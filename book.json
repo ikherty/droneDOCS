@@ -21,7 +21,7 @@
                     "label": "Edit page on github",
                     "icon": "fa fa-pencil-square-o",
                     "position" : "left",
-                    "url": "https://github.com/ikherty/droneDOCS/edit/main/docs/{{filepath_lang}}"
+                    "url": "https://github.com/ikherty/droneDOCS/edit/main/{{filepath_lang}}"
                 },
                 {
                     "label": "GitHub",
