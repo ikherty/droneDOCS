@@ -39,6 +39,9 @@ jobs:
           gitbook -V
       - name: Build GitBook
         run: |
+         npm set prefix ~/.npm
+         PATH="$HOME/.npm/bin:$PATH"
+         PATH="./node_modules/.bin:$PATH"
          gitbook install
          gitbook build
       - name: Deploy
