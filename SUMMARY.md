@@ -2,11 +2,10 @@
 
 * [О ресурсе](README.md)
 * [Вход в хобби](intro/README.md)
-  * [Основные инструменты и оборудование](intro/base.md)
   * [Зарядное устройство](intro/power.md)
   * [Аппаратура](intro/tx.md)
   * [Устройство приема видеосигнала](intro/videoRx.md)
-  * [Аксессуары для перевозки](intro/bags.md)
+  * [Перевозка дронов и оборудования](intro/bags.md)
 * [Введение от других пилотов](https://habr.com/ru/post/486076/)
 * [Магазины](shop/README.md)
   * [Must have вещи, нужные каждому пилоту](shop/nessesary.md)
