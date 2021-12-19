@@ -13,7 +13,7 @@
   * [Для самолетчиков](docs/shop/airplanes.md)
   * [Рекомендуемые компоненты для самосборов]()
   * [Выбор готового аппарата]()
-  * [Как экономить?]()
+  * [Как экономить?](docs/shop/lifehacks.md)
 [//]: <> (* [-]())
 * [Голоссарий](docs/community/glossarium.md)
 * [Чаты](docs/community/messages.md)
