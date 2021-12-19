@@ -35,17 +35,9 @@ jobs:
           npm set prefix ~/.npm
           PATH="$HOME/.npm/bin:$PATH"
           PATH="./node_modules/.bin:$PATH"
-          #export NPM_CONFIG_UNSAFE_PERM=1
           npm install gitbook-cli -g
-          #npm install svgexport -g
           gitbook -V
-      - name: Setup MD
-        run: |
-          export NPM_CONFIG_UNSAFE_PERM=1
-          npm install markdownlint-cli@0.28.1 -g # FIXME: https://github.com/DavidAnson/markdownlint/issues/435
-          markdownlint -V
-      - name: Run markdownlint
-        run: markdownlint docs
+
       - name: Build GitBook
         run: |
          gitbook install
