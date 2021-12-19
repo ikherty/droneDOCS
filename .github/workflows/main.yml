@@ -23,6 +23,14 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - name: checkout
       - uses: actions/checkout@v2
-      - name: GitHub Pages
+      
+      - name: Deploy GitHub Pages
+        if: success()
         uses: crazy-max/ghaction-github-pages@v2.5.0
+        with:
+          target_branch: main
+          build_dir: gitbook
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
