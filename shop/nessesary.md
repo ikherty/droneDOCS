@@ -15,8 +15,11 @@
 | Коврик для резки | опционально для авиамоделистов | [А1-А4](https://a.aliexpress.com/_mMrsq2q) | ![](https://ae04.alicdn.com/kf/H56d9dc19a40346a39ec23e7205dce46ae/-.jpg) |
 | Скальпель |  | [металлический](https://aliexpress.ru/item/1005002376163602.html) | ![](https://ae04.alicdn.com/kf/Hdc5565a2ed9e44bf85d681b5b09aa818F/ESPLB.jpeg_640x640.jpeg) |
 | Оловоотсос |  | [самый простой](https://aliexpress.ru/item/32864628837.html) | ![](https://ae04.alicdn.com/kf/HTB1vJ9xeNiH3KVjSZPfq6xBiVXam/-.jpg) |
+| Оплетка | для удаления припоя с места пайки | [1.5-3.5мм](https://aliexpress.ru/item/1005002080427004.html) | ![](https://ae04.alicdn.com/kf/Ha0bd06e38b5d4248ac042121c7b3f6abA/1-5-2.jpg) |
 | Пинцет |  | [из нержавеющей стали](https://aliexpress.ru/item/1005003535072630.html), [титановый](https://aliexpress.ru/item/1005002049014611.html) | ![](https://ae04.alicdn.com/kf/H00772b78c3cc4173917a47241064804b9/SUNSHINE-TS-11-ESD.jpg) |
 | Зачистка проводов |  | [SN-28B](https://aliexpress.ru/item/4001145869380.html), [HILDA](https://www.banggood.com/custlink/DGD38ejwoG) | ![](https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/7F/F8/48f91d67-e5ef-4346-a333-02a4c28541c7.JPG.webp) |
+| Лабораторный блок питания | для продвинутых | [минимальный](https://aliexpress.ru/item/1005001780763843.html), [RIDEN RD6006](https://aliexpress.ru/item/4000297196564.html) | ![](https://ae04.alicdn.com/kf/Hd71164aa4f2b479491e539c0d71e13c6q/RD-RD6018-RD6018W-USB-Wi-Fi.jpg) |
+| Бор машинка | | [BDCAT](https://a.aliexpress.com/_mq9ybaG) | ![](https://ae04.alicdn.com/kf/Hb9990c1a453a46e890cfd93e4fed61c7i/BDCAT.jpg) |
 | Силиконовые провода |  | [разного диаметра с силиконовой защитой](http://s.click.aliexpress.com/e/X079c0C) | ![](https://ae04.alicdn.com/kf/Haefde1c688774e77862744961f2093ac4/1-24AWG-22AWG-20AWG-18AWG-16AWG.jpg) |
 | Набор бит | пример набора, где есть все необходимое, но биты слизываются при усилиях | [Купить на Али](https://ru.aliexpress.com/item/32665387052.html) | ![](https://ae04.alicdn.com/kf/Hd1ef1acf5dcd49b0844c6b1ba031bd94T/JAKEMY-52-1.jpg) |
 | Набор шестигранников | ходовые 1.5-25мм | [1.5-3мм](https://aliexpress.ru/item/1005001404957778.html) | ![](https://ae04.alicdn.com/kf/H9f27d2fc9add4bf893f672a308fe6937u/-.jpg_640x640.jpg) |
