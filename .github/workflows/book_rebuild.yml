@@ -31,7 +31,12 @@ jobs:
         run: |
           sudo sh -c "echo ttf-mscorefonts-installer msttcorefonts/accepted-mscorefonts-eula select true | debconf-set-selections"
           sudo apt-get update && sudo apt-get install -y calibre msttcorefonts
-          builder/assets/install_gitbook.sh
+          #builder/assets/install_gitbook.sh
+          npm set prefix ~/.npm
+          #PATH="$HOME/.npm/bin:$PATH"
+          #PATH="./node_modules/.bin:$PATH"
+          export NPM_CONFIG_UNSAFE_PERM=1
+          npm install gitbook-cli -g
           npm install markdownlint-cli@0.28.1 -g # FIXME: https://github.com/DavidAnson/markdownlint/issues/435
           npm install svgexport -g
           gitbook -V
