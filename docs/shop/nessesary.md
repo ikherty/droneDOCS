@@ -24,6 +24,7 @@
 | Набор бит | пример набора, где есть все необходимое, но биты слизываются при усилиях | [Купить на Али](https://ru.aliexpress.com/item/32665387052.html) | ![](https://ae04.alicdn.com/kf/Hd1ef1acf5dcd49b0844c6b1ba031bd94T/JAKEMY-52-1.jpg) |
 | Набор шестигранников | ходовые 1.5-25мм | [1.5-3мм](https://aliexpress.ru/item/1005001404957778.html) | ![](https://ae04.alicdn.com/kf/H9f27d2fc9add4bf893f672a308fe6937u/-.jpg_640x640.jpg) |
 | Влагозащита для электроники | при желании летать в непогоду и над морем | [самая дешевая ip65](https://a.aliexpress.com/_mLZpdv0), [kotking](https://kotking.com/) | ![](https://ae04.alicdn.com/kf/H421df4cd5f694d0e9b264de5d8633b91l/-.jpg) |
+| Клей силиконовый | брать маленькими тюбиками, т.к. засыхает | [b7000](https://aliexpress.ru/item/1005002277669677.html) | ![](https://ae04.alicdn.com/kf/H5dc73fb1d40f40f086b5ffb0fb2c9506r/B7000-15-25-50-110.jpg) |
 | Полетный рюкзак |  | [iflight](https://aliexpress.ru/item/4000556632268.html), [torvol](https://rcplanet.ee/ru/fpv-aksessuary/torvol-quad-pitstop-backpack-ryukzak) | ![](https://rcplanet.ee/18414-home_default/torvol-quad-pitstop-backpack-ryukzak.jpg) |
 | Гаечный ключ | под гайки M5 | [вид 1](https://a.aliexpress.com/_mO2Wy7S), [вид 2](https://aliexpress.ru/item/4000910039139.html) | ![](https://ae04.alicdn.com/kf/H764cc7395f964aa5be188a7e893ca3a9n/M5-M4-M3.jpg) |
 | Держатель мотора | для смены пропов | [JMT](http://s.click.aliexpress.com/e/brrxcztO) | ![](https://ae04.alicdn.com/kf/HTB106IDgtfJ8KJjy0Feq6xKEXXa9/JMT.jpg) |
@@ -41,15 +42,14 @@
 | Муфта для полетов зимой | также пойдут перчатки с отрезанными кончиками у больших пальцев | [wtotoy](https://a.aliexpress.com/_mPgZBdo) | ![](https://ae04.alicdn.com/kf/H95fae52141814031afbbcf1148c792cbR/FPV-RC-AT10II-AT9S.jpg) |
 | Переходник для зарядки 6 1s аккумуляторов на ph2.0| можно сделать самому | [6s - 1s ph2.0](https://a.aliexpress.com/_mK9tVqw) | ![](https://ae04.alicdn.com/kf/H983f402992424808b315ebe699aab06dU/PH2-0-51005-1S-XT60-Gaoneng-BetaFPV-RC-FPV.jpg) |
 | Балансирные провода | на случай повреждения аккумуляторных и сборки паков | [2-6s](https://a.aliexpress.com/_mPXtzgA) | ![](https://ae04.alicdn.com/kf/HTB1ze2Sm41YBuNjy1zcq6zNcXXaQ/2s-3s-4s-5s-6s.jpg) |
-| Двусторонний скотч |  | [м3](https://aliexpress.ru/item/1005002797259090.html), [м3](https://aliexpress.ru/item/1005001375023502.html) | ![](https://ae04.alicdn.com/kf/H00542f23e5ac4d9b8a4a8b31b6f6da30B/M3-VHB.jpg) |
+| Двусторонний скотч |  | [лента](https://aliexpress.ru/item/1005002797259090.html), [кусочки](https://aliexpress.ru/item/1005001375023502.html) | ![](https://ae04.alicdn.com/kf/H00542f23e5ac4d9b8a4a8b31b6f6da30B/M3-VHB.jpg) |
 | Маленький автономный баззер | для поиска дрона, если выскочил аккумулятор | [5В](https://a.aliexpress.com/_mLvh3O2) | ![](https://ae04.alicdn.com/kf/HTB1oVOfXnHuK1RkSndVq6xVwpXax/JHE42B-s-Finder-5-100.jpg) |
 | Обычные баззеры(5В) |  | [5В](http://s.click.aliexpress.com/e/cao8vaAy) | ![](https://ae04.alicdn.com/kf/HTB1jwDXm_nI8KJjy0Ffq6AdoVXaB/diy-kit-5.jpg) |
 | Смазка для подшипников | пойдет любая для высокоскоростных подшипников, использовать только для уставших моторов | [Купить на Али](https://rcdrive.ru/unit.php?unit=9441) | ![](https://rcdrive.ru/i/catalog/scorpion-maslo_l.jpg) |
 | Коннекторы XT30, XT60 |  | [самые дешевые](https://aliexpress.ru/item/32935099224.html), [amass](https://aliexpress.ru/item/32716909493.html) | ![](https://ae04.alicdn.com/kf/HTB1SzHOXorrK1RkSne1q6ArVVXaN/10-XT30-XT60.jpg) |
 | Набор термоусадки |  | [Купить на Али](https://www.banggood.com/custlink/vDKG8eOw8W) | ![](https://imgaz2.staticbg.com/thumb/large/upload/2014/01/SKU198228/12.jpg.webp) |
 | Ремешки для крепления аккума |  | [маленькие](https://a.aliexpress.com/_mK6KJOi), [большие](https://a.aliexpress.com/_msWuFjG) | ![](https://ae04.alicdn.com/kf/H9e1cade517384bc6b157098d1f2ddd15R/5-iFlight-20-20x400-20x300-20x250-20x200.jpg) |
-| Зарядное устройство | 2 или 4 порта, блок питания либо отдельно, либо встроенный | [ToolkitRC m6d](https://a.aliexpress.com/_mLedFTM), [skyrc q200](https://www.banggood.com/custlink/3GGmbbYr83) | ![](URL) |
+| Зарядное устройство | 2 или 4 порта, блок питания либо отдельно, либо встроенный | [ToolkitRC m6d](https://a.aliexpress.com/_mLedFTM), [skyrc q200](https://www.banggood.com/custlink/3GGmbbYr83) | ![](https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/56/CE/8b95b545-394d-4ca4-9e23-d650931d2839.jpg.webp) |
 | Беки (стабилизаторы напряжения 5В) | | [2-8s 5 В/2 а 12 В/3 А](https://a.aliexpress.com/_msYgjIw) | ![](https://ae04.alicdn.com/kf/Hebacf57a0bf045d49fe7d1ad7c8c817fe/14x11x1-IFlight-Micro-2-8S-BEC-5-2-12-3.jpg) |
 | SD карты |  | [MIXZA](http://s.click.aliexpress.com/e/cl2mTtFK) | ![](https://ae04.alicdn.com/kf/Hd84fa097082d4e72a61bfc84ec508aedN/Sd-MIXZA-Origina-BF-256-128-64-U3-80.jpg) |
-| position | description | [Купить на Али](link) | ![](URL) |
 | position | description | [Купить на Али](link) | ![](URL) |
