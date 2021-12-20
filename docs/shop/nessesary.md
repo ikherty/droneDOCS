@@ -4,6 +4,8 @@
 | Электронный штангенциркуль | для точного измерения | [SHAHE](http://s.click.aliexpress.com/e/c5AjhdZI) | ![](https://amazin.su/_sh/73/7354.jpg) |
 | Паяльный фен | опционально, для термоусадки d>=30mm и ремонта электроники | [858D](https://aliexpress.ru/item/4000539586748.html), [альтернатива](https://aliexpress.ru/item/1005001354558514.html) | ![](https://ae04.alicdn.com/kf/Hce64be4545fb44b4ad7b642ceb18fe91X/858D.jpg) |
 | Паяльник | понадобится БП с напряжением и мощностью из описания паяльника | [hakko t12](https://ru.aliexpress.com/item/32740527077.html), [pine64](https://www.pine64.org/pinecil/), [sh72](https://aliexpress.ru/item/4000559692113.html), [TS100](https://aliexpress.ru/item/1005001923339560.html) | ![](https://avatars.mds.yandex.net/get-zen_doc/1886729/pub_5fc9da7f52642f33b973772b_5fc9de5452642f33b9796b6e/scale_1200) |
+| Блок питания 24В | для паяльника | [noname](https://a.aliexpress.com/_mOOikUk) | ![](https://ae04.alicdn.com/kf/H27a59edb6b724bf9bad51b6217cc91332/QUICKO-24-3a-5-5-2-1-2-5-72.jpg) |
+| Разъемы 5,5*2,5мм | для паяльника | [5 шт](https://a.aliexpress.com/_mPbb420) | ![](https://ae01.alicdn.com/kf/H2a0586981f92453c9bf3fea6fda74684K.jpg) |
 | Флюс | нейтральный не требует смывку, активный обязательно смывать | [tt flux](https://rexant.ru/catalog/flyusy/flyus-gel-dlya-payki-rexant-tt-keller-indikatornyy-20-ml-banka/) | ![](https://images.ua.prom.st/1164788298_kak-vybrat-flyus.jpg) |
 | Припой | ПОС60/ПОС61 с канифолью/без | [ПОС60](https://www.vseinstrumenti.ru/rashodnie_materialy/dlya_ruchnogo_instrumenta/dlya_payaki/pripoj/pos_60)| ![](https://cdn.vseinstrumenti.ru/images/goods/rashodnie-materialy/dlya-ruchnogo-instrumenta/766200/560x504/51594453.jpg) |
 | Губка для очистки жала | | [жесткая](https://aliexpress.ru/item/32889717103.html), [мягкая](https://aliexpress.ru/item/1005003384633675.html) | ![](https://ae04.alicdn.com/kf/H3f5e58e359e44d088504f64e4a664200H/-.jpg) |
@@ -22,7 +24,9 @@
 | Бор машинка | | [BDCAT](https://a.aliexpress.com/_mq9ybaG) | ![](https://ae04.alicdn.com/kf/Hb9990c1a453a46e890cfd93e4fed61c7i/BDCAT.jpg) |
 | Силиконовые провода |  | [разного диаметра с силиконовой защитой](http://s.click.aliexpress.com/e/X079c0C), [и еще](https://a.aliexpress.com/_mMfiFha) | ![](https://ae04.alicdn.com/kf/Haefde1c688774e77862744961f2093ac4/1-24AWG-22AWG-20AWG-18AWG-16AWG.jpg) |
 | Набор бит | пример набора, где есть все необходимое, но биты слизываются при усилиях | [Купить на Али](https://ru.aliexpress.com/item/32665387052.html) | ![](https://ae04.alicdn.com/kf/Hd1ef1acf5dcd49b0844c6b1ba031bd94T/JAKEMY-52-1.jpg) |
-| Набор шестигранников | ходовые 1.5-25мм | [1.5-3мм](https://aliexpress.ru/item/1005001404957778.html) | ![](https://ae04.alicdn.com/kf/H9f27d2fc9add4bf893f672a308fe6937u/-.jpg_640x640.jpg) |
+| Набор шестигранников | ходовые 1.5-2.5мм | [1.5-3мм](https://aliexpress.ru/item/1005001404957778.html) | ![](https://ae04.alicdn.com/kf/H9f27d2fc9add4bf893f672a308fe6937u/-.jpg_640x640.jpg) |
+| Электроотвертка | намертво не заятянет, но значительно облегчит жизнь при сборке/разборке рам| [xiaomi](https://a.aliexpress.com/_mrvSBJI) | ![](https://ae04.alicdn.com/kf/H84f9c1494cb04e5f836f5217ce11e967P/2020-Xiaomi-Mijia-Type.jpg) |
+| Весы | с точностью до 0.01г | [newcalox](https://a.aliexpress.com/_mP3rrLe) | ![](https://ae04.alicdn.com/kf/HTB1pkf6irYI8KJjy0Faq6zAiVXas/NEWACALOX-200-0-01.jpg) |
 | Влагозащита для электроники | при желании летать в непогоду и над морем | [самая дешевая ip65](https://a.aliexpress.com/_mLZpdv0), [kotking](https://kotking.com/) | ![](https://ae04.alicdn.com/kf/H421df4cd5f694d0e9b264de5d8633b91l/-.jpg) |
 | Клей силиконовый | брать маленькими тюбиками, т.к. засыхает | [b7000](https://aliexpress.ru/item/1005002277669677.html) | ![](https://ae04.alicdn.com/kf/H5dc73fb1d40f40f086b5ffb0fb2c9506r/B7000-15-25-50-110.jpg) |
 | Полетный рюкзак |  | [iflight](https://aliexpress.ru/item/4000556632268.html), [torvol](https://rcplanet.ee/ru/fpv-aksessuary/torvol-quad-pitstop-backpack-ryukzak) | ![](https://rcplanet.ee/18414-home_default/torvol-quad-pitstop-backpack-ryukzak.jpg) |
@@ -31,11 +35,14 @@
 | Стопсмокер | для первого включения дрона | [простой вариант](https://aliexpress.ru/item/4000505766463.html)| ![](https://ae04.alicdn.com/kf/Haa629538509745f295fe0b9f08489dfcD/JHEMCU-Amass-1-6S-30V-XT30-XT60.jpg) |
 | Противопожарная сумка | для хранения и перевозки аккумуляторов | [объемная сумка](http://s.click.aliexpress.com/e/cYTH0ceM), [плоская сумка](http://s.click.aliexpress.com/e/cYTH0ceM) | ![](https://ae04.alicdn.com/kf/HLB1J9ETaULrK1Rjy0Fjq6zYXFXaO/IFlight-1-RC-LiPo.jpg) |
 | Кабельные хомуты | 3-6мм ширина | [rexant](https://rexant.ru/upload/iblock/65e/65e5bf6659d053afd57fbb6d0532f04f.jpg) | ![](https://rexant.ru/upload/iblock/65e/65e5bf6659d053afd57fbb6d0532f04f.jpg) |
+| Алюминиевые стойки для рам М3 |  | [Купить на Али](https://a.aliexpress.com/_mMhuyhe) | ![](https://ae04.alicdn.com/kf/H7beb183c53144e0ca09e2460e504c810b/M3-5-6-8.jpg) |
 | Пластиковые стойки под стек |  | [Купить на Али](https://ru.aliexpress.com/item/32873076078.html) | ![](https://ae04.alicdn.com/kf/Hca8505c0cb7747ae80ceaed6125a3c2bj/50-M2-M2-5-M3-M4-L.jpg) |
 | Нейлоновые гайки |  | [Купить на Али](https://ru.aliexpress.com/item/32885983150.html) | ![](https://ae04.alicdn.com/kf/HTB1bv_KwrSYBuNjSspfq6AZCpXar/50-DIN934-M2-M2-M2-M2-2-5-M3-M4-M5-M6-M8-M10-M12.jpg) |
 | Болты нейлоновые М2 |  | [Купить на Али](https://aliexpress.ru/item/32979035684.html) | ![](https://ae04.alicdn.com/kf/HLB1Ry8MbzvuK1Rjy0Faq6x2aVXaV/50.jpg) |
 | Набор пластиковых болтов М3 с гайками |  | [Купить на Али](https://aliexpress.ru/item/32957539216.html) | ![](https://ae04.alicdn.com/kf/HTB1aJQPXIfrK1RkSmLyq6xGApXaq/160-M3-8.jpg) |
 | Гайки М5 для закручивания пропеллеров |  | [Купить на Али](https://a.aliexpress.ru/_eshnDc) | ![](https://ae04.alicdn.com/kf/HTB1zX93OVXXXXbrXpXXq6xXFXXXr/10-M2-M3-M4-M5-M6.jpg) |
+| Каптоновый скотч |  | [Купить на Али](https://a.aliexpress.com/_mqMb9SM) | ![](https://ae04.alicdn.com/kf/H02a0857078864a3ab0078b394d70d916I/-.jpg) |
+| Конденсаторы low esr |  | [Купить на Али](https://a.aliexpress.com/_mMh8iqu) | ![](https://ae04.alicdn.com/kf/H7c4d74f8799b474d8a3959d01a85f4639/2-50-10-16-25-35-50.jpg) |
 | Коврики под аккумуляторы | для плотного прилегания к раме | [Купить на Али](https://a.aliexpress.com/_m0jzM3s) | ![](https://ae04.alicdn.com/kf/H76083f88f03b4c76905149fff12a5c64F/5-100X30X2mm.jpg) |
 | Аккумуляторы 186500 LiOn | для аппаратуры и сборки под очки | [Liitokala 3000mAh](https://a.aliexpress.com/_mOTwGnY) | ![](https://ae04.alicdn.com/kf/H122a4051bca041a8be5648ebd7d4f4ffy/hg2-Liitokala-HG2-18650-3000mAh-3-6V-20A.jpg) |
 | Силиконовый герметик | для антенн | [Kafuter K-704 705 704B](https://aliexpress.ru/item/4001017724624.html) | ![](https://ae04.alicdn.com/kf/H044058c04ccc4cbb8d11945d20018e65d/Kafuter-K-704-705-704B.jpg) |
@@ -47,9 +54,10 @@
 | Обычные баззеры(5В) |  | [5В](http://s.click.aliexpress.com/e/cao8vaAy) | ![](https://ae04.alicdn.com/kf/HTB1jwDXm_nI8KJjy0Ffq6AdoVXaB/diy-kit-5.jpg) |
 | Смазка для подшипников | пойдет любая для высокоскоростных подшипников, использовать только для уставших моторов | [купить](https://rcdrive.ru/unit.php?unit=9441) | ![](https://rcdrive.ru/i/catalog/scorpion-maslo_l.jpg) |
 | Коннекторы XT30, XT60 |  | [самые дешевые](https://aliexpress.ru/item/32935099224.html), [amass](https://aliexpress.ru/item/32716909493.html) | ![](https://ae04.alicdn.com/kf/HTB1SzHOXorrK1RkSne1q6ArVVXaN/10-XT30-XT60.jpg) |
-| Набор термоусадки |  | [купить](https://www.banggood.com/custlink/vDKG8eOw8W) | ![](https://imgaz2.staticbg.com/thumb/large/upload/2014/01/SKU198228/12.jpg.webp) |
+| Набор термоусадки |  | [набор 1](https://www.banggood.com/custlink/vDKG8eOw8W), [набор 2](https://a.aliexpress.com/_mtNajZK), [прозрачные 8-40мм](https://a.aliexpress.com/_mL0Uyas), [для lion сборок](https://a.aliexpress.com/_mM7Zp40), [черные 1-10мм](https://a.aliexpress.com/_mqMy4ve) | ![](https://imgaz2.staticbg.com/thumb/large/upload/2014/01/SKU198228/12.jpg.webp) |
 | Ремешки для крепления аккума |  | [маленькие](https://a.aliexpress.com/_mK6KJOi), [большие](https://a.aliexpress.com/_msWuFjG) | ![](https://ae04.alicdn.com/kf/H9e1cade517384bc6b157098d1f2ddd15R/5-iFlight-20-20x400-20x300-20x250-20x200.jpg) |
 | Зарядное устройство | 2 или 4 порта, блок питания либо отдельно, либо встроенный | [ToolkitRC m6d](https://a.aliexpress.com/_mLedFTM), [skyrc q200](https://www.banggood.com/custlink/3GGmbbYr83) | ![](https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/56/CE/8b95b545-394d-4ca4-9e23-d650931d2839.jpg.webp) |
 | Беки (стабилизаторы напряжения 5В) | | [2-8s 5 В/2 а 12 В/3 А](https://a.aliexpress.com/_msYgjIw) | ![](https://ae04.alicdn.com/kf/Hebacf57a0bf045d49fe7d1ad7c8c817fe/14x11x1-IFlight-Micro-2-8S-BEC-5-2-12-3.jpg) |
 | SD карты |  | [MIXZA](http://s.click.aliexpress.com/e/cl2mTtFK) | ![](https://ae04.alicdn.com/kf/Hd84fa097082d4e72a61bfc84ec508aedN/Sd-MIXZA-Origina-BF-256-128-64-U3-80.jpg) |
+| Программатор stlink | на случай раскирпичивания | [stlink](https://a.aliexpress.com/_mLkPkg8) | ![](https://ae04.alicdn.com/kf/H95782f05306345268493bed60d7e20bae/1-Stlink-LINK-V2.jpg) |
 | position | description | [Купить на Али](link) | ![](URL) |
