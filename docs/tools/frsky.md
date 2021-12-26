@@ -1,3 +1,5 @@
+Все про Р9: https://docs.google.com/document/d/12bokb6-IvIn6Ptn-Y8pzlOggyinKcjDe5J3UJPv5dE8/edit
+
 https://github.com/FrSkyRC/Firmware-Test
 
 https://drive.google.com/file/d/11emna7wwV7G5n2ag5nkR-ojUYYLOQDuX/view
