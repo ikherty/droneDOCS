@@ -18,6 +18,7 @@
 * [Голоссарий](docs/community/glossarium.md)
 * [Чаты](docs/community/messages.md)
 * [Полезные материалы](docs/community/usefull.md)
+* [Пайка](docs/community/soldering.md)
   [//]: <> (* [Первый коптер](docs/firstQUAD/README.md))
   [//]: <> (  * [KIT/PNP/RTF](docs/firstQUAD/KIT.md))
   [//]: <> (  * [DIY](docs/firstQUAD/DIY.md))
