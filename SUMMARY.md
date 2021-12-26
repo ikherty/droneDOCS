@@ -9,7 +9,7 @@
 * [Введение от других пилотов](https://habr.com/ru/post/486076/)
 [//]: <> (* [Первый коптер]())
 * [Магазины](docs/shop/README.md)
-  * [Must have вещи для всех](docs/shop/nessesary.md)
+  * [Must have вещи для хоббистов](docs/shop/nessesary.md)
   * [Для самолетчиков](docs/shop/airplanes.md)
   * [Рекомендуемые компоненты для самосборов]()
   * [Выбор готового аппарата]()
