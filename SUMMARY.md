@@ -11,7 +11,7 @@
 * [Магазины](docs/shop/README.md)
   * [Must have вещи для хоббистов](docs/shop/nessesary.md)
   * [Для самолетчиков](docs/shop/airplanes.md)
-  * [Рекомендуемые компоненты для самосборов](docs/firstQUAD/DIY.md)
+  * [Компоненты для самосборов](docs/firstQUAD/DIY.md)
   * [Выбор готового аппарата](docs/firstQUAD/KIT.md)
   * [Как экономить?](docs/shop/lifehacks.md)
 [//]: <> (* [-]())
