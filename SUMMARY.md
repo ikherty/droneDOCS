@@ -18,6 +18,7 @@
 * [Голоссарий](docs/community/glossarium.md)
 * [Чаты](docs/community/messages.md)
 * [Полезные материалы](docs/community/usefull.md)
+* [Программное обеспечение](docs/firstQUAD/software.md)
 * [Пайка](docs/community/soldering.md)
   [//]: <> (  * [Настройка прошивки](docs/tools/basics.md))
   [//]: <> (    * [BetaFlight](docs/tools/bf.md))
