@@ -2,7 +2,7 @@
 
 Российские магазины:
 
-<DT><A HREF="air-hobby.ru" >Воздушное хобби</A>
+<DT><A HREF="https://air-hobby.ru" >Воздушное хобби</A>
 <DT><A HREF="https://mydrone.ru">MyDrone</A>
 <DT><A HREF="https://quadro.team/">QuadroTeam</A>
 <DT><A HREF="https://coptertime.ru">Coptertime</A>
@@ -13,22 +13,22 @@
 <DT><A HREF="https://xmodels.ru/">XModels</A>
 <DT><A HREF="https://fixfly.ru/">FixFly</A>
 <DT><A HREF="https://rcgood.ru/">RcGood</A>
-<DT><A HREF="t.me/microdroneshop">Телеграммный магазин microdroneshop</A>
+<DT><A HREF="https://t.me/microdroneshop">Телеграммный магазин microdroneshop</A>
 
 Зарубежные магазины:
  
-<DT><A HREF="aliexpress.com" >Aliexpress</A> (90% прокупок отсюда)
-<DT><A HREF="bangood.com" >Bangood</A> (с промокодами и поинтами иногда выходит выгодно)
-<DT><A HREF="chinahobbyline.com" >ChiNaHobbyLine</A> (популярные по соотношению цена/качество аккумуляторы)
-<DT><A HREF="surveilzone.com" >Surveilzone</A> (второй сайт foxeer)
-<DT><A HREF="hobbycool.com" >Hobbycool</A>
-<DT><A HREF="hobbyking.com" >Hobbyking</A>
-<DT><A HREF="amainhobbies.com" >AmainHobbies</A>
-<DT><A HREF="newbeedrone.com" >NewBeeDrone</A>
-<DT><A HREF="getfpv.com" >GetFPV</A> (нет доставки в РФ, нужны перевозчики)
-<DT><A HREF="akktek.com" >AKKktek</A>
-<DT><A HREF="betafpv.com" >BetaFPV</A> (одни из лидеров по вупам)
-<DT><A HREF="gearbest.com" >Gearbest</A>
+<DT><A HREF="https://aliexpress.com" >Aliexpress</A> (90% прокупок отсюда)
+<DT><A HREF="https://bangood.com" >Bangood</A> (с промокодами и поинтами иногда выходит выгодно)
+<DT><A HREF="https://chinahobbyline.com" >ChiNaHobbyLine</A> (популярные по соотношению цена/качество аккумуляторы)
+<DT><A HREF="https://surveilzone.com" >Surveilzone</A> (второй сайт foxeer)
+<DT><A HREF="https://hobbycool.com" >Hobbycool</A>
+<DT><A HREF="https://hobbyking.com" >Hobbyking</A>
+<DT><A HREF="https://amainhobbies.com" >AmainHobbies</A>
+<DT><A HREF="https://newbeedrone.com" >NewBeeDrone</A>
+<DT><A HREF="https://getfpv.com" >GetFPV</A> (нет доставки в РФ, нужны перевозчики)
+<DT><A HREF="https://akktek.com" >AKKktek</A>
+<DT><A HREF="https://betafpv.com" >BetaFPV</A> (одни из лидеров по вупам)
+<DT><A HREF="https://gearbest.com" >Gearbest</A>
 <DT><A HREF="https://www.fpvmodel.com/" >FPV Model: RC Plane, Multicopter, Quadcopter, FPV Goggles, FPV System and all things FPV.</A>
 <DT><A HREF="http://www.myrcmart.com/">MyRcMart.COM </A> 
 <DT><A HREF="https://www.armattanquads.com/">Armattan Quads</A>
