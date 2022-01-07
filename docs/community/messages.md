@@ -30,6 +30,8 @@
 
 💸 RC Discount https://t.me/RCDiscount
 
+💸 Dji Fpv Барахолка https://t.me/djifpvmarket
+
 Разные типы дронов:
 
 👉 Потерянные/найденные дроны https://t.me/lostdron
@@ -71,6 +73,8 @@
 👉 Express LRS  https://discord.gg/bbE3Qq
 
 Тематические:
+
+👉 BlackBox (Черный ящик) https://t.me/bfblackbox
 
 👉 Свидетели ELRS https://t.me/expresslrs_rus
 
