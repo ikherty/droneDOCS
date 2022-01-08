@@ -90,7 +90,7 @@
 
 👉 ZBestReview https://t.me/zbestfpv
 
-👉 FPV World (by Kiriodozaki) https://ikherty.github.io/droneDOCS/messages.html
+👉 FPV World (by Kiriodozaki) https://t.me/fpvworld_chat
 
 👉 Питер https://t.me/spb_copters
 
