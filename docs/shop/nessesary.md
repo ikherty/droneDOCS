@@ -29,7 +29,7 @@
 | Весы | с точностью до 0.01г | [newcalox](https://a.aliexpress.com/_mP3rrLe) | ![](https://ae04.alicdn.com/kf/HTB1pkf6irYI8KJjy0Faq6zAiVXas/NEWACALOX-200-0-01.jpg) |
 | Влагозащита для электроники | при желании летать в непогоду и над морем | [самая дешевая ip65](https://a.aliexpress.com/_mLZpdv0), [kotking](https://kotking.com/) | ![](https://ae04.alicdn.com/kf/H421df4cd5f694d0e9b264de5d8633b91l/-.jpg) |
 | Клей силиконовый | брать маленькими тюбиками, т.к. засыхает | [b7000](https://aliexpress.ru/item/1005002277669677.html) | ![](https://ae04.alicdn.com/kf/H5dc73fb1d40f40f086b5ffb0fb2c9506r/B7000-15-25-50-110.jpg) |
-| Полетный рюкзак |  | [iflight](https://aliexpress.ru/item/4000556632268.html), [torvol](https://rcplanet.ee/ru/fpv-aksessuary/torvol-quad-pitstop-backpack-ryukzak) | ![](https://rcplanet.ee/18414-home_default/torvol-quad-pitstop-backpack-ryukzak.jpg) |
+| Полетный рюкзак |  | [iflight](https://aliexpress.ru/item/4000556632268.html), [torvol](https://www.rctech.de/torvol-quad-pitstop-backpack.html) | ![](https://rcplanet.ee/18414-home_default/torvol-quad-pitstop-backpack-ryukzak.jpg) |
 | Гаечный ключ | под гайки M5 | [вид 1](https://a.aliexpress.com/_mO2Wy7S), [вид 2](https://aliexpress.ru/item/4000910039139.html) | ![](https://ae04.alicdn.com/kf/H764cc7395f964aa5be188a7e893ca3a9n/M5-M4-M3.jpg) |
 | Держатель мотора | для смены пропов | [JMT](http://s.click.aliexpress.com/e/brrxcztO) | ![](https://ae04.alicdn.com/kf/HTB106IDgtfJ8KJjy0Feq6xKEXXa9/JMT.jpg) |
 | Стопсмокер | для первого включения дрона | [простой вариант](https://aliexpress.ru/item/4000505766463.html)| ![](https://ae04.alicdn.com/kf/Haa629538509745f295fe0b9f08489dfcD/JHEMCU-Amass-1-6S-30V-XT30-XT60.jpg) |
