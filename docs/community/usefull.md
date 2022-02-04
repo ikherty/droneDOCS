@@ -1,13 +1,14 @@
 <DT><A HREF="https://www.youtube.com/channel/UCAMZOHjmiInGYjOplGhU38g" >Team BlackSheep, захватывающие пролеты по всему миру</A>
 <DT><A HREF="https://www.youtube.com/channel/UCQEqPV0AwJ6mQYLmSO0rcNA" >Mr Steele, резкий фристайл</A>
-<DT><A HREF="https://www.youtube.com/channel/UCQEqPV0AwJ6mQYLmSO0rcNA" >Le Drib, плавный фристайл</A>
-<DT><A HREF="https://www.youtube.com/channel/UCFJdwOewIZBv3dDJmhtVn1g" >MinChan FPV, один из самых быстрых гонщиков</A>
-<DT><A HREF="https://www.youtube.com/channel/UC7c1iZQpR8_mct1tCKcjWcw" >quadmovr, один из лучших визуальщиков (LOS полеты)</A>
+<DT><A HREF="https://www.youtube.com/c/LeDribFPV" >Le Drib, плавный фристайл</A>
+<DT><A HREF="https://www.youtube.com/c/MinChanKim04" >MinChan FPV, один из самых быстрых гонщиков</A>
+<DT><A HREF="https://www.youtube.com/c/quadmovr" >quadmovr, один из лучших визуальщиков (LOS полеты)</A>
 <DT><A HREF="https://www.youtube.com/channel/UCFedUk5j_EidYV4P-EnYJYg/videos" >уроки фристайла</A>
 <DT><A HREF="https://www.youtube.com/watch?v=ZZotXvbVEkI&list=PLwy7zFO7fCeM6rZilz3DlQ7kHs7HjhpYg&index=6" >DSG academy, основы пилотирования в DCL симуляторе</A>
 <DT><A HREF="https://www.youtube.com/c/Velocidrone" >velocidrone, туториалы по симулятору</A>
 
 Полезные статьи с обзорами и объяснениями:
+  
 https://blog.rcdetails.info/  
 https://oscarliang.com/  
 https://profpv.ru  
