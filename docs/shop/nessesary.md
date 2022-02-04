@@ -1,6 +1,6 @@
 | Наименование | Описание  | Ссылка  | Фото  |
 | :-------: | :-----: | :----: | :------: |
-| Мультиметр | Без вопросов, просто купи, с режимом прозвонки, вольтметром, омметром | [UNI-T UT33B+](http://s.click.aliexpress.com/e/bJWvUPOg) | ![](https://www.testers.ru/upload/iblock/023/UT33B_.jpg) |
+| Мультиметр | Без вопросов, просто купи, с режимом прозвонки, вольтметром, омметром | [UNI-T UT33B+](http://s.click.aliexpress.com/e/bJWvUPOg), [ANENG AN8008](https://aliexpress.ru/item/4000929632586.html) | ![](https://www.testers.ru/upload/iblock/023/UT33B_.jpg) |
 | Электронный штангенциркуль | для точного измерения | [SHAHE](http://s.click.aliexpress.com/e/c5AjhdZI) | ![](https://amazin.su/_sh/73/7354.jpg) |
 | Паяльный фен | опционально, для термоусадки d>=30mm и ремонта электроники | [858D](https://aliexpress.ru/item/4000539586748.html), [альтернатива](https://aliexpress.ru/item/1005001354558514.html) | ![](https://ae04.alicdn.com/kf/Hce64be4545fb44b4ad7b642ceb18fe91X/858D.jpg) |
 | Паяльник | понадобится БП с напряжением и мощностью из описания паяльника | [hakko t12](https://ru.aliexpress.com/item/32740527077.html), [pine64](https://www.pine64.org/pinecil/), [sh72](https://aliexpress.ru/item/4000559692113.html), [TS100](https://aliexpress.ru/item/1005001923339560.html) | ![](https://avatars.mds.yandex.net/get-zen_doc/1886729/pub_5fc9da7f52642f33b973772b_5fc9de5452642f33b9796b6e/scale_1200) |
