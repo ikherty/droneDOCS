@@ -17,7 +17,7 @@
 
 Из класса гоночных: holybro kopis 2, iflight mach r5, hglrc wind5.
 
-Из класса фристайловых: diatone roma f5, iflight nazgul/evoque/chimera5/titan, t-motor ft5.
+Из класса фристайловых: diatone roma f5, iflight nazgul/evoque/chimera5/titan, geprc mark 5.
 
 Из класса долголетов: hglrc rekon 4/5/7, flywoo explorer, iflight chimera7, 
 
