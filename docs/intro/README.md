@@ -1,4 +1,4 @@
-Авторы: [EIIIE](https://github.com/EIIIE), [ikherty](https://github.com/ikherty)
+Авторы: [Андрей Щ.](https://github.com/EIIIE), [Валентина](https://github.com/ikherty)
 
 ## Что за фрукт и с чем едят?
 
