@@ -11,3 +11,4 @@
 ### Авторы
 
 * Валентина, Михаил - команда PropWash Service
+* Андрей Щ. - [EIIIE](https://github.com/EIIIE)
