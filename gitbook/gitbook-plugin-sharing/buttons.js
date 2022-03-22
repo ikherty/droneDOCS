@@ -1,21 +1,5 @@
 require(['gitbook', 'jquery'], function(gitbook, $) {
     var SITES = {
-        'facebook': {
-            'label': 'Facebook',
-            'icon': 'fa fa-facebook',
-            'onClick': function(e) {
-                e.preventDefault();
-                window.open('http://www.facebook.com/sharer/sharer.php?s=100&p[url]='+encodeURIComponent(location.href));
-            }
-        },
-        'twitter': {
-            'label': 'Twitter',
-            'icon': 'fa fa-twitter',
-            'onClick': function(e) {
-                e.preventDefault();
-                window.open('http://twitter.com/home?status='+encodeURIComponent(document.title+' '+location.href));
-            }
-        },
         'google': {
             'label': 'Google+',
             'icon': 'fa fa-google-plus',
@@ -24,20 +8,12 @@ require(['gitbook', 'jquery'], function(gitbook, $) {
                 window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href));
             }
         },
-        'weibo': {
-            'label': 'Weibo',
-            'icon': 'fa fa-weibo',
+        'telegram': {
+            'label': 'Telegram',
+            'icon': 'fa fa-telegram',
             'onClick': function(e) {
                 e.preventDefault();
-                window.open('http://service.weibo.com/share/share.php?content=utf-8&url='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title));
-            }
-        },
-        'instapaper': {
-            'label': 'Instapaper',
-            'icon': 'fa fa-instapaper',
-            'onClick': function(e) {
-                e.preventDefault();
-                window.open('http://www.instapaper.com/text?u='+encodeURIComponent(location.href));
+                window.open('https://web.telegram.org/z/'+encodeURIComponent(location.href));
             }
         },
         'vk': {
@@ -45,11 +21,10 @@ require(['gitbook', 'jquery'], function(gitbook, $) {
             'icon': 'fa fa-vk',
             'onClick': function(e) {
                 e.preventDefault();
-                window.open('http://vkontakte.ru/share.php?url='+encodeURIComponent(location.href));
+                window.open('http://vk.com/share.php?url='+encodeURIComponent(location.href));
             }
         }
     };
-
 
 
     gitbook.events.bind('start', function(e, config) {

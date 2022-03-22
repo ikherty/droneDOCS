@@ -11,6 +11,14 @@
       "toolbar@https://github.com/hamishwillee/gitbook-plugin-toolbar.git"
   ],
   "pluginsConfig": {
+  "sharing": {
+            "facebook": false,
+            "twitter": false,
+            "google": false,
+            "weibo": false,
+            "instapaper": false,
+            "vk": false
+        },
     "analytics": {
             "google": "UA-127136227-3"
     },
