@@ -21,6 +21,7 @@
 * [Полезные материалы](docs/community/usefull.md)
 * [Программное обеспечение](docs/firstQUAD/software.md)
 * [Пайка](docs/community/soldering.md)
+* [Влагозащита](docs/community/coating.md)
   [//]: <> (  * [Настройка прошивки](docs/tools/basics.md))
   [//]: <> (    * [BetaFlight](docs/tools/bf.md))
   [//]: <> (    * [INav](docs/tools/inav.md))
