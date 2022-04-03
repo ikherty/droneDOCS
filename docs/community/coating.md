@@ -11,7 +11,7 @@
 * mg chemicals 422С
 * DCA Electrolube (прозрачный лак на основе модифицированного силикона)
 * Spinner protection silicone conformal coating V2 (спинер жижа v2)
-* fx_fpv aero X (аналог коткинга)
+* FX_FPV AeroX (аналог коткинга)
 * китайская силиконовая защита для плат ip65
 
 Немного о каждом из них:
