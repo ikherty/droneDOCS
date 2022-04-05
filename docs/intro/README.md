@@ -112,17 +112,15 @@
 
 ### Трикоптеры, бикоптеры, монокоптеры
 
-Оно тебе не нужно, даже не думай. Нет, оно не интересное. Нет, оно нормально не летает.
+Есть такие классы, не так просты, как квадрокоптер, по схеме, специфично управляются, собираются среди хоббистов крайне редко, и в основном в экспериментальных/развлекательных сферах.
 
 <p align="center">
   <img src="https://ardupilot.org/copter/_images/motororder-bicopter.png" height="200" title="">
   <img src="https://ardupilot.org/copter/_images/motororder-tri-a-2d.png" height="200" title="">
 </p>
 
-Используется только военными и крупными компаниями с собственным штатом разработчиков. Обычное открытое программное обеспечение не способно адекватно заставить ЭТО летать.
 
 <p align="center">
-  <img src="http://theuavdigest.com/wp-content/uploads/2014/06/roboseed.png" height="300" title="">
   <img src="https://i.ytimg.com/vi/t36SHm18Gkc/maxresdefault.jpg" height="300" title="">
   <img src="https://rcexplorer.se/wp-content/uploads/2015/08/MiniTrii1.jpg" height="300" title="">
 </p>
