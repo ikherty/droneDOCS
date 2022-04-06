@@ -6,7 +6,6 @@
   * [Устройство приема видеосигнала](docs/intro/videoRx.md)
   * [Зарядное устройство](docs/intro/power.md)
   * [Перевозка дронов и оборудования](docs/intro/bags.md)
-* [Введение от других пилотов](https://habr.com/ru/post/486076/)
 * [Стили полета](docs/intro/flightstyles.md)
 [//]: <> (* [Первый коптер]())
 * [Магазины](docs/shop/README.md)
