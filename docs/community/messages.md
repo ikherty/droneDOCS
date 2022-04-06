@@ -22,15 +22,17 @@
 👉 DRS Оборудование https://t.me/FPVequipment
 
 
-💸 Крупнейшая FPV-барахолка для объявлений "продам" FPVMARKET https://t.me/fpvmarket
+💸 Крупнейшая FPV-барахолка для объявлений "продам" и "куплю" FPVMARKET, отправляются заявки через вход https://t.me/fpvmarket
 
-💸 Крупнейшая FPV-барахолка для объявлений "куплю" FPVMARKET https://t.me/joinchat/-iHcTqL9qSIxMGNi
+💸 FPVMARKET курилка https://t.me/fpvmarketflood
 
 💸 Отзывы о продавцах FPVMARKET https://t.me/fpvmarket_review
 
 💸 RC Discount https://t.me/RCDiscount
 
 💸 Dji Fpv Барахолка https://t.me/djifpvmarket
+
+💸 Антикризисный FPV шоппинг https://t.me/fpvshopping
 
 Разные типы дронов:
 
@@ -56,6 +58,8 @@
 
 👉 Inav https://t.me/INAVFlight
 
+👉 Inav RU https://t.me/INAV_ru
+
 👉 Betaflight https://t.me/betaflight_users
 
 👉 Betaflight devs on Slack https://slack.betaflight.com/
@@ -71,6 +75,8 @@
 👉 UAV Tech https://discord.gg/8VFFBs
 
 👉 Express LRS  https://discord.gg/bbE3Qq
+
+👉 tBeacon RU https://t.me/tBeaconRU
 
 Тематические:
 
@@ -90,11 +96,16 @@
 
 👉 ZBestReview https://t.me/zbestfpv
 
+👉 FPV Moscow Band (by Anton Evdakov) https://t.me/FPV_Moscow
+
 👉 FPV World (by Kiriodozaki) https://t.me/fpvworld_chat
 
 👉 Питер https://t.me/spb_copters
 
 👉 По запросу https://t.me/Pr0_fess0r можно попасть в Московский чат
+
+👉 Белгород https://t.me/dronerace31
+
 
 Авиамодели:
 
@@ -102,4 +113,8 @@
 
 👉 FPVwingRussia (Drak) https://t.me/FPVwingRussia
 
+👉 FPV крылья и самолеты СПб https://t.me/joinchat/RuJoRQDrMkoqqVW1
+
 👉 Печатные крылья https://t.me/printedwings
+
+👉 RC модели из листовых материалов https://t.me/RCMODELCUT
