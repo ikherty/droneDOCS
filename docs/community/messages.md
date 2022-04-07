@@ -34,6 +34,8 @@
 
 💸 Антикризисный FPV шоппинг https://t.me/fpvshopping
 
+💸 Предзаказы с teamblacksheep (by FX_FPV) https://t.me/+dwSQ9n4hJM03MmJk
+
 Разные типы дронов:
 
 👉 Потерянные/найденные дроны https://t.me/lostdron
