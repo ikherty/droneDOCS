@@ -107,7 +107,11 @@
 
 👉 По запросу https://t.me/Pr0_fess0r можно попасть в Московский чат
 
+👉 По запросу https://t.me/ValentinaPetrenko можно попасть в Обнинский/Наро-Фоминский чат
+
 👉 Белгород https://t.me/dronerace31
+
+👉 FPV Georgia (Грузия) https://t.me/fpv_georgia
 
 
 Авиамодели:
