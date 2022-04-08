@@ -53,6 +53,8 @@
 
 👉 FPV симуляторы и киберспорт https://t.me/FpvCyberSport
 
+👉 DCL - The Game (симулятор) https://t.me/DCLTheGame
+
 Для разработчиков и гиков:
 
 👉 ArduPilot/PX4 https://t.me/ardu_px4
