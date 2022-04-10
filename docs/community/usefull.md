@@ -1,3 +1,5 @@
+Каналы с примерами полетов:
+
 <DT><A HREF="https://www.youtube.com/channel/UCAMZOHjmiInGYjOplGhU38g" >Team BlackSheep, захватывающие пролеты по всему миру</A>
 <DT><A HREF="https://www.youtube.com/channel/UCQEqPV0AwJ6mQYLmSO0rcNA" >Mr Steele, резкий фристайл</A>
 <DT><A HREF="https://www.youtube.com/c/LeDribFPV" >Le Drib, плавный фристайл</A>
