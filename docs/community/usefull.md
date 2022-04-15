@@ -86,6 +86,6 @@ https://datastudio.google.com/u/0/reporting/1pK1PFw0eWmsgl2npvuzwAqscVzlhJvuF/pa
 
 https://kernel-machine.github.io/INavMagAlignHelper/ - поворот компаса в INAV
 
-https://howtomechatronics.com/how-it-works/how-brushless-motor-and-esc-work/ - калькулятор пересчета рейтов из actual в betaflight
+https://www.desmos.com/calculator/oaa7ealifn?lang=ru - калькулятор пересчета рейтов из actual в betaflight
   
   
