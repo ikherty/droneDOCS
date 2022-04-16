@@ -88,4 +88,4 @@ https://kernel-machine.github.io/INavMagAlignHelper/ - поворот компа
 
 https://www.desmos.com/calculator/oaa7ealifn?lang=ru - калькулятор пересчета рейтов из actual в betaflight
   
-  
+https://brushlessmotorsparade.com/ - подбор мотора
