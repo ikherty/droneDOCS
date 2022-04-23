@@ -1,41 +1,35 @@
 # Table of contents
-
 * [О ресурсе](README.md)
+
+### Введение
+
 * [Вход в хобби](docs/intro/README.md)
-  * [Аппаратура](docs/intro/tx.md)
-  * [Устройство приема видеосигнала](docs/intro/videoRx.md)
-  * [Зарядное устройство](docs/intro/power.md)
-  * [Перевозка дронов и оборудования](docs/intro/bags.md)
 * [Стили полета](docs/intro/flightstyles.md)
-[//]: <> (* [Первый коптер]())
+  * [Аппаратура](docs/intro/tx.md)
+  * [Видеосвязь](docs/intro/videoRx.md)
+  * [Зарядное устройство](docs/intro/power.md)
+
+### Покупки
+
 * [Магазины](docs/shop/README.md)
-  * [Must have вещи для хоббистов](docs/shop/nessesary.md)
-  * [Для самолетчиков](docs/shop/airplanes.md)
-  * [Компоненты для самосборов](docs/firstQUAD/DIY.md)
-  * [Выбор готового аппарата](docs/firstQUAD/KIT.md)
-  * [Как экономить?](docs/shop/lifehacks.md)
-[//]: <> (* [-]())
+* [Must have вещи для хоббистов](docs/shop/nessesary.md)
+* [Для самолетчиков](docs/shop/airplanes.md)
+* [Компоненты для самосборов](docs/firstQUAD/DIY.md)
+* [Выбор готового аппарата](docs/firstQUAD/KIT.md)
+* [Как экономить?](docs/shop/lifehacks.md)
+  
+### Комьюнити
+
 * [Голоссарий](docs/community/glossarium.md)
 * [Чаты](docs/community/messages.md)
 * [Полезные материалы](docs/community/usefull.md)
 * [Программное обеспечение](docs/firstQUAD/software.md)
 * [Пайка](docs/community/soldering.md)
 * [Влагозащита](docs/community/coating.md)
-  [//]: <> (  * [Настройка прошивки](docs/tools/basics.md))
-  [//]: <> (    * [BetaFlight](docs/tools/bf.md))
-  [//]: <> (    * [INav](docs/tools/inav.md))
-  [//]: <> (    * [EmuFlight](docs/tools/emu.md))
-  [//]: <> (    * [Ardupilot](docs/tools/ardu.md))
-  [//]: <> (    * [PX4](docs/tools/px4.md))
-  [//]: <> (  * [Настройка приемника](docs/tools/rx.md))
-  [//]: <> (  * [Возможные проблемы](docs/tools/problems.md))
-  [//]: <> (  * [Проблемы с blheli(s/32) конфигуратором](docs/tools/blheli.md))
-[//]: <> (* [-]())
-* [Пресеты](docs/tools/presets.md)
-* [Пользователям FrSky](docs/tools/frsky.md)
-  [//]: <> (* [Ремонт](docs/fix/README.md))
-  [//]: <> (  * [FPV](docs/fix/fpv.md))
-  [//]: <> (  * [Полетный контроллер](docs/fix/fc.md))
-  [//]: <> (  * [Регуляторы](docs/fix/esc.md))
-  [//]: <> (  * [Приемник](docs/fix/rx.md))
-  [//]: <> (* [Моторы](docs/fix/motors.md))
+* [Перевозка дронов и оборудования](docs/intro/bags.md)
+
+### Настройки
+
+* [Рейты](docs/settings/rates.md)
+* [Пресеты](docs/settings/presets.md)
+* [Пользователям FrSky](docs/settings/frsky.md)
