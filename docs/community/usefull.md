@@ -18,6 +18,8 @@ http://paulnurkkala.com/nurks-betaflight-settings-overview-3-5-1/
 https://www.maartenbaert.be/quadcopters/  
 https://theuavtech.com/  
 
+<DT><A HREF="https://rotorbuilds.com/explore" >Сетапы пилотов</A>
+    
 Познавательные каналы:
 <DT><A HREF="https://www.youtube.com/channel/UCX3eufnI7A2I7IkKHZn8KSQ" >Joshua Bardwell</A>  
 <DT><A HREF="https://www.youtube.com/channel/UC3c9WhUvKv2eoqZNSqAGQXg/videos" >Drone Mesh</A>  
@@ -29,9 +31,6 @@ https://theuavtech.com/
 <DT><A HREF="https://www.youtube.com/channel/UC29J5CXmsnqX7JPAzlU9yCQ" >Anik FPV</A>  
 <DT><A HREF="https://www.youtube.com/user/Elektraua" >Олег Стельмах</A>  
 <DT><A HREF="https://www.youtube.com/channel/UCeCu93sLBkcgbIkIC7Jaauw" >Copter Express</A>
-
-
-<DT><A HREF="https://rotorbuilds.com/explore" >Сетапы пилотов</A>
 
 Для авиамоделистов полеты, сборки:
 
