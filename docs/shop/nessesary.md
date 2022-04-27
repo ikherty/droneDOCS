@@ -27,7 +27,7 @@
 | Набор шестигранников | ходовые 1.5-2.5мм | [1.5-3мм](https://aliexpress.ru/item/1005001404957778.html) | ![](https://ae04.alicdn.com/kf/H9f27d2fc9add4bf893f672a308fe6937u/-.jpg_640x640.jpg) |
 | Электроотвертка | намертво не заятянет, но значительно облегчит жизнь при сборке/разборке рам| [xiaomi](https://a.aliexpress.com/_mrvSBJI) | ![](https://ae04.alicdn.com/kf/H84f9c1494cb04e5f836f5217ce11e967P/2020-Xiaomi-Mijia-Type.jpg) |
 | Весы | с точностью до 0.01г | [newcalox](https://a.aliexpress.com/_mP3rrLe) | ![](https://ae04.alicdn.com/kf/HTB1pkf6irYI8KJjy0Faq6zAiVXas/NEWACALOX-200-0-01.jpg) |
-| Влагозащита для электроники | при желании летать в непогоду и над морем | [самая дешевая ip65](https://a.aliexpress.com/_mLZpdv0), [kotking](https://kotking.com/) | ![](https://ae04.alicdn.com/kf/H421df4cd5f694d0e9b264de5d8633b91l/-.jpg) |
+| Влагозащита для электроники | при желании летать в непогоду и над морем | [смотри тут](https://propwashservice.ru/docs/community/coating.html) | ![](https://ae04.alicdn.com/kf/H421df4cd5f694d0e9b264de5d8633b91l/-.jpg) |
 | Клей силиконовый | брать маленькими тюбиками, т.к. засыхает | [b7000](https://aliexpress.ru/item/1005002277669677.html) | ![](https://ae04.alicdn.com/kf/H5dc73fb1d40f40f086b5ffb0fb2c9506r/B7000-15-25-50-110.jpg) |
 | Полетный рюкзак |  | [iflight](https://aliexpress.ru/item/4000556632268.html), [torvol](https://www.rctech.de/torvol-quad-pitstop-backpack.html) | ![](https://rcplanet.ee/18414-home_default/torvol-quad-pitstop-backpack-ryukzak.jpg) |
 | Гаечный ключ | под гайки M5 | [вид 1](https://a.aliexpress.com/_mO2Wy7S), [вид 2](https://aliexpress.ru/item/4000910039139.html) | ![](https://ae04.alicdn.com/kf/H764cc7395f964aa5be188a7e893ca3a9n/M5-M4-M3.jpg) |
