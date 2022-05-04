@@ -117,6 +117,8 @@
 
 Авиамодели:
 
+👉 DRS Крылья https://t.me/FPVwing
+
 👉 Планеристы России FPV https://t.me/joinchat/S77erT-FsfolkFTM
 
 👉 FPVwingRussia (Drak) https://t.me/FPVwingRussia
@@ -130,3 +132,9 @@
 👉 Класс RU_SPEC - чат пилотов (Гоночные крылья, основанные на классе SPEC FPVWRA) https://t.me/+kCuZbAB7w0o3ZTEy
 
 👉 Класс RU_SPEC - техничка https://t.me/+Xs1r2OD5G7sxZjIy
+
+👉 Heewing https://t.me/heewing
+
+👉 Funjet Multiplex https://t.me/+zQn6DbkunHo0YTg6
+
+👉 Дельфинарий (AtomRC Dolphin и ArWing Pro) https://t.me/dolph_pilots
