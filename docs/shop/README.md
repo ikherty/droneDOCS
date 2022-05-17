@@ -11,10 +11,12 @@
 <DT><A HREF="http://fpv-community.ru/store/">FPV сообщество</A>
 <DT><A HREF="http://www.spinnerproduction.ru">Spinner Production</A>
 <DT><A HREF="https://xmodels.ru/">XModels</A>
+<DT><A HREF="https://fpvmatrix.ru/">FPV матрица</A>
 <DT><A HREF="https://fixfly.ru/">FixFly</A>
 <DT><A HREF="https://rcgood.ru/">RcGood</A>
 <DT><A HREF="https://t.me/microdroneshop">Телеграммный магазин microdroneshop</A>
-
+<DT><A HREF="https://t.me/seagulldrone">Телеграммный магазин seagull drone shop</A>
+ 
 Зарубежные магазины:
  
 <DT><A HREF="https://aliexpress.com" >Aliexpress</A> (90% прокупок отсюда)
