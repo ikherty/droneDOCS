@@ -114,6 +114,8 @@
 
 👉 FPV Georgia (Грузия) https://t.me/fpv_georgia
 
+👉 Беларусь dr1by https://t.me/dr1by
+
 
 Авиамодели:
 
