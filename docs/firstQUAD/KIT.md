@@ -10,16 +10,16 @@
 
 ##### Какой коптер выбрать?
 
-Из класса тинивупов: happymodel mobula6/moblite6 или betafpv meteor 65.
+Из класса тинивупов: happymodel mobula6/moblite6.
 
 Из класса синевупов: flywoo cinerace20, geprc cinelog 25/30, betafpv pavo30 для naked gopro. geprc cinelog 30/35 для полной гопро. 
 
-Из класса зубочисток: hglrc pertel 3", betafpv hx115, diatone gtb 329.
+Из класса зубочисток: hglrc pertel 3", betafpv hx115, geprc smart 2.5/3.5".
 
-Из класса гоночных: holybro kopis 2, iflight mach r5, hglrc wind5.
+Из класса гоночных: foxeer caesar, iflight mach r5, hglrc wind5.
 
-Из класса фристайловых: diatone roma f5, iflight nazgul/evoque/chimera5/titan, geprc mark 5.
+Из класса фристайловых: iflight nazgul/evoque/chimera5/titan, geprc mark 5.
 
-Из класса долголетов: hglrc rekon 4/5/7, flywoo explorer, iflight chimera7, 
+Из класса долголетов: geprc crocodile baby 4/5/7 pro, hglrc rekon 4/5/7, flywoo explorer, iflight chimera7, 
 
 Из класса синелифтеров: Quadlabs Siccario FPV Cinelifter, iFlight Taurus X8, Nurk FPV Special Edition Merica 9.
