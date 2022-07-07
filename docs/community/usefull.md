@@ -11,13 +11,11 @@
 
 Полезные статьи с обзорами и объяснениями:
   
-https://blog.rcdetails.info/  
-https://oscarliang.com/  
-https://profpv.ru  
-http://paulnurkkala.com/nurks-betaflight-settings-overview-3-5-1/  
-https://www.maartenbaert.be/quadcopters/  
-https://theuavtech.com/  
-
+<DT><A HREF="https://oscarliang.com/" >OscarLiang blog (en)</A>
+<DT><A HREF="https://blog.rcdetails.info/" >RCDetails Blog(переводы OscarLiang на ru)</A> 
+<DT><A HREF="https://profpv.ru" >Profpv blog</A>
+<DT><A HREF="http://paulnurkkala.com" >Nurk blog</A>
+<DT><A HREF="https://theuavtech.com/" >UAVTech blog</A>
 <DT><A HREF="https://rotorbuilds.com/explore" >Сетапы пилотов</A>
     
 Познавательные каналы:
@@ -28,25 +26,25 @@ https://theuavtech.com/
 <DT><A HREF="https://www.youtube.com/channel/UC45_6KVAAZG_iOgzksGswMw" >Chris Rosser</A>  
 <DT><A HREF="https://www.youtube.com/c/Pawe%C5%82Spychalski" >Paweł Spychalski</A>  
 <DT><A HREF="https://www.youtube.com/channel/UC4yjtLpqFmlVncUFExoVjiQ" >Kabab FPV</A>  
+<DT><A HREF="https://www.youtube.com/c/areyouroo" >areyouroo</A>  
 <DT><A HREF="https://www.youtube.com/channel/UC29J5CXmsnqX7JPAzlU9yCQ" >Anik FPV</A>  
 <DT><A HREF="https://www.youtube.com/user/Elektraua" >Олег Стельмах</A>  
 <DT><A HREF="https://www.youtube.com/channel/UCeCu93sLBkcgbIkIC7Jaauw" >Copter Express</A>
+<DT><A HREF="https://www.youtube.com/c/propwashservice" >Propwash Service</A>
+<DT><A HREF="https://www.youtube.com/channel/UCBFJQVEoNPIe852VN4N1m_g" >UAVProf</A>
+<DT><A HREF="https://www.youtube.com/c/microuav" >MAVLab TU Delft</A>
+<DT><A HREF="https://www.youtube.com/c/RooFPV" >RooFPV</A>
+<DT><A HREF="https://www.youtube.com/c/RotorRiot" >RotorRiot</A>
 
 Для авиамоделистов полеты, сборки:
 
-https://vk.com/ivan.pawlenko
-
-https://www.youtube.com/watch?v=aSD69jdi2CE&list=WL&index=65&
-
-http://www.parkflyer.ru/ru/blogs/view_entry/15827/
-
-https://www.youtube.com/channel/UCMcdwq_cRfNyQZExxXLqfgw
-
-https://www.youtube.com/channel/UC2QTy9BHei7SbeBRq59V66Q
-
-https://www.youtube.com/channel/UCG367mifGbd4_K9UTqYQrVQ
-
-https://www.youtube.com/channel/UCatTqPsEwHGgtAXuC6WMq9w
+<DT><A HREF="https://vk.com/ivan.pawlenko" >ivan pawlenko</A>
+<DT><A HREF="https://www.youtube.com/c/SammSheperd" >Samm Sheperd</A>
+<DT><A HREF="http://www.parkflyer.ru/ru/blogs/view_entry/15827/" >ПАРКФЛАЕР</A>
+<DT><A HREF="https://www.youtube.com/channel/UCMcdwq_cRfNyQZExxXLqfgw" >Joyplanes RC</A>  
+<DT><A HREF="https://www.youtube.com/channel/UC2QTy9BHei7SbeBRq59V66Q" >Andrew Newton</A>  
+<DT><A HREF="https://www.youtube.com/channel/UCG367mifGbd4_K9UTqYQrVQ" >areyouroo</A>  
+<DT><A HREF="https://www.youtube.com/channel/UCatTqPsEwHGgtAXuC6WMq9w" >ALMODELS</A>
 
 Полезные статьи:
 <DT><A HREF="http://www.fireniko.ru/2017/04/%D0%B4%D0%BB%D0%B8%D0%BD%D0%B0-%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B9-%D1%87%D0%B0%D1%81%D1%82%D0%B8-%D0%B0%D0%BD%D1%82%D0%B5%D0%BD%D0%BD-%D1%83-%D0%BF%D1%80%D0%B8%D0%B5%D0%BC%D0%BD%D0%B8/" >Длина активной части антенны</A>
@@ -88,3 +86,5 @@ https://kernel-machine.github.io/INavMagAlignHelper/ - поворот компа
 https://www.desmos.com/calculator/oaa7ealifn?lang=ru - калькулятор пересчета рейтов из actual в betaflight
   
 https://brushlessmotorsparade.com/ - подбор мотора
+  
+https://lan143.github.io/ - слайдеры как в betaflight для kiss ПИДов
