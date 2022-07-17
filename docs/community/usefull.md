@@ -88,3 +88,5 @@ https://www.desmos.com/calculator/oaa7ealifn?lang=ru - калькулятор п
 https://brushlessmotorsparade.com/ - подбор мотора
   
 https://lan143.github.io/ - слайдеры как в betaflight для kiss ПИДов
+  
+https://bf43-safe-migration.robertodedomenico.it/ - мигратор диффа из betaflight 4.2 в 4.3 (использовать крайне внимательно)
