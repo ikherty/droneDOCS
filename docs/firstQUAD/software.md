@@ -29,6 +29,8 @@ https://github.com/bitdump/BLHeli/releases
 Конфигуратор ExpressLRS (для прошивки приемников и передатчиков ELRS):
 https://github.com/ExpressLRS/ExpressLRS-Configurator/releases
 
+Конфигуратор EdgeTX (для прошивки аппаратур на базе OpenTX):
+https://buddy.edgetx.org/#/flash
 
 УСТАРЕВШЕЕ:
 
