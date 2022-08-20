@@ -20,17 +20,22 @@ https://github.com/betaflight/blackbox-log-viewer/releases
 Анализатор логов PIDtoolbox:
 https://github.com/bw1129/PIDtoolbox/releases
 
+Конфигуратор Bluejay Configurator (для прошивки регуляторов прошивкой BLheli_S; BlueJay, с возможностью использования rpm-фильтров)  (8bit):
+https://esc-configurator.com/ (также поддерживает экспериментальную прошивку AM32 для 32bit регуляторов)
+
+Конфигуратор BlHeli Suite (для прошивки регуляторов) (32bit):
+https://github.com/bitdump/BLHeli/releases
+
+Конфигуратор ExpressLRS (для прошивки приемников и передатчиков ELRS):
+https://github.com/ExpressLRS/ExpressLRS-Configurator/releases
+
+
+УСТАРЕВШЕЕ:
+
 Конфигуратор BLHeli_S Configurator (для прошивки регуляторов, без возможности использования rpm-фильтров) (8bit):
 https://github.com/blheli-configurator/blheli-configurator/releases
 
 Конфигуратор (jazzmaverick) BLHeli_M Configurator (для прошивки регуляторов, с возможностью использования rpm-фильтров) (8bit):
 https://github.com/Asizon/blheli-configurator/releases/
 
-Конфигуратор Bluejay Configurator (для прошивки регуляторов, с возможностью использования rpm-фильтров)  (8bit):
-https://esc-configurator.com/
 
-Конфигуратор BlHeli Suite (для прошивки регуляторов) (32bit):
-https://github.com/bitdump/BLHeli
-
-Конфигуратор AM32 (для прошивки регуляторов) (32bit):
-https://github.com/AlkaMotors/AM32-MultiRotor-ESC-firmware/releases
