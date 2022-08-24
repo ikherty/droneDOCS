@@ -28,6 +28,8 @@
 
 💸 Dji Fpv Барахолка https://t.me/djifpvmarket
 
+💸 FPV-барахолка (by Alexander Chuykin) https://t.me/fpv_obmen
+
 💸 Антикризисный FPV шоппинг https://t.me/fpvshopping
 
 💸 Предзаказы с teamblacksheep (by FX_FPV) https://t.me/+dwSQ9n4hJM03MmJk
@@ -102,7 +104,13 @@
 
 👉 FPV Moscow Band (by Anton Evdakov) https://t.me/FPV_Moscow
 
+👉 Дроны, вупы, FPV (by Alexander Chuykin) https://t.me/whoop_chat
+
+👉 Техпомощь (by Alexander Chuykin) https://t.me/tex_otd
+
 👉 FPV World (by Kiriodozaki) https://t.me/fpvworld_chat
+
+👉 setUP (by Alex setUP) https://t.me/setUP_m
 
 👉 Питер https://t.me/spb_copters
 
@@ -110,12 +118,17 @@
 
 👉 По запросу https://t.me/ValentinaPetrenko можно попасть в Обнинский/Наро-Фоминский чат
 
+👉 По запросу https://t.me/orlv_tattooo можно попасть в чат Краснодарского края
+
+👉 По запросу https://t.me/hiflowfpv можно попасть в чат Курска
+
+👉 По запросу https://t.me/C21735 можно попасть в чат Дальнего Востока
+
 👉 Белгород https://t.me/dronerace31
 
 👉 FPV Georgia (Грузия) https://t.me/fpv_georgia
 
 👉 Беларусь dr1by https://t.me/dr1by
-
 
 Авиамодели:
 
