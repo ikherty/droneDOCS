@@ -29,6 +29,8 @@ https://github.com/bitdump/BLHeli/releases
 Конфигуратор ExpressLRS (для прошивки приемников и передатчиков ELRS):
 https://github.com/ExpressLRS/ExpressLRS-Configurator/releases
 
+Online конфигуратор ExpressLRS: https://pkendall64.github.io/elrs-web-flasher/
+
 Конфигуратор Agent M (для прошивки Team BlackSheep продукции):
 https://www.team-blacksheep.com/agentm/
 
