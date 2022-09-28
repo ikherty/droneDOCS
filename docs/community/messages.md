@@ -96,6 +96,8 @@
 
 👉 DJI FPV https://t.me/djifpvrus
 
+👉 Avatar HD FPV system https://t.me/avatarfpv
+
 👉 Spinner Production https://t.me/spinnerproduction
 
 👉 Человек с Земли FPV https://t.me/fpvearth
