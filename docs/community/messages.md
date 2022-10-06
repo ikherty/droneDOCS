@@ -118,6 +118,12 @@
 
 👉 По запросу https://t.me/Pr0_fess0r можно попасть в Московский чат
 
+👉 Новокосино, ВАО Москвы https://t.me/fpvVAO
+
+👉 ВАО Москвы https://t.me/fpvuaoandmo
+
+👉 ЗАО Москвы https://t.me/fpv_zao
+
 👉 По запросу https://t.me/ValentinaPetrenko можно попасть в Обнинский/Наро-Фоминский чат
 
 👉 По запросу https://t.me/orlv_tattooo можно попасть в чат Краснодарского края
@@ -128,7 +134,13 @@
 
 👉 Белгород https://t.me/dronerace31
 
+👉 Казань https://t.me/fpv_dron_kazan
+
+👉 Краснодар https://t.me/fpvkrd
+
 👉 FPV Georgia (Грузия) https://t.me/fpv_georgia
+
+👉 FPV Armenia (Армения) https://t.me/fpv_armenia
 
 👉 Беларусь dr1by https://t.me/dr1by
 
