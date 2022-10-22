@@ -48,7 +48,7 @@
 
 👉 По отдельному запросу можно попасть в DRS Долго и далеко (группа по дальнолетам), писать https://t.me/ValentinaPetrenko
 
-👉 DJI FPV Drone http://t.me/djidron
+👉 DJI FPV Drone / Avata https://t.me/dji_fpv_avata
 
 👉 DRS Разговорчики (болото) https://t.me/drstrep
 
