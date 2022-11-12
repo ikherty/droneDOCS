@@ -88,6 +88,8 @@
 
 👉 BlackBox (Черный ящик) https://t.me/bfblackbox
 
+👉 BlackBox 2.0 https://t.me/blackbox_two
+
 👉 Свидетели ELRS https://t.me/expresslrs_rus
 
 👉 Air Hobby https://t.me/airhobby
@@ -116,6 +118,12 @@
 
 👉 Питер https://t.me/spb_copters
 
+👉 Южный чат СПб https://t.me/SouthDrone78
+
+👉 По запросу https://t.me/KKastyan можно попасть в Северный чат СПб
+
+👉 Самолеты СПб https://t.me/joinchat/RuJoRQDrMkoqqVW1
+
 👉 По запросу https://t.me/Pr0_fess0r можно попасть в Московский чат
 
 👉 Новокосино, ВАО Москвы https://t.me/fpvVAO
@@ -136,11 +144,25 @@
 
 👉 Казань https://t.me/fpv_dron_kazan
 
+👉 По запросу https://t.me/ivan_racing_drone_omsk можно попасть в чат Омска
+
+👉 Киров https://t.me/fpv43
+
+👉 Сочи https://t.me/fpvsochichat
+
 👉 Краснодар https://t.me/fpvkrd
+
+👉 По запросу https://t.me/elementale можно попасть в чат Красноярска
+
+👉 По запросу https://t.me/mzhelskiy можно попасть в чат Кемерово и Новосибирска
+
+👉 FPV комьюнити по Уфе и Республике Башкортостан https://t.me/fpvufarb
 
 👉 FPV Georgia (Грузия) https://t.me/fpv_georgia
 
 👉 FPV Armenia (Армения) https://t.me/fpv_armenia
+
+👉 FPV Antalya https://t.me/fpv_antalya
 
 👉 Беларусь dr1by https://t.me/dr1by
 
@@ -163,6 +185,8 @@
 👉 Класс RU_SPEC - техничка https://t.me/+Xs1r2OD5G7sxZjIy
 
 👉 Heewing https://t.me/heewing
+
+👉 Talon https://t.me/talonfpv
 
 👉 Funjet Multiplex https://t.me/+zQn6DbkunHo0YTg6
 
