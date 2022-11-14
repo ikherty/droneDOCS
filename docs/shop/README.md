@@ -13,21 +13,20 @@
 <DT><A HREF="https://xmodels.ru/">XModels (Москва)</A>
 <DT><A HREF="https://fpvmatrix.ru/">FPV матрица (Москва)</A>
 <DT><A HREF="https://fixfly.ru/">FixFly (Санкт-Петербург)</A>
-<DT><A HREF="https://rcgood.ru/">RcGood (не активен, Москва)</A>
-<DT><A HREF="https://t.me/microdroneshop">Телеграммный магазин microdroneshop (Сочи)</A>
 <DT><A HREF="https://t.me/seagulldrone">Телеграммный магазин seagull drone shop (Сочи)</A>
+<DT><A HREF="https://rcgood.ru/">RcGood (не активен, Москва)</A>
  
 Зарубежные магазины:
  
 <DT><A HREF="https://aliexpress.com" >Aliexpress</A> (90% прокупок отсюда)
 <DT><A HREF="https://bangood.com" >Bangood</A> (с промокодами и поинтами иногда выходит выгодно, но периодически проблемы с доставкой и не лучшая тех.поддержка)
-<DT><A HREF="https://chinahobbyline.com" >ChiNaHobbyLine</A> (популярные по соотношению цена/качество аккумуляторы)
+<DT><A HREF="https://chinahobbyline.com" >ChiNaHobbyLine</A> (популярные по соотношению цена/качество аккумуляторы, для РФ сейчас доступна покупка только через алиэкспресс магазин)
+<DT><A HREF="https://caddxfpv.com/" >Caddx FPV, доступна оплата через QiWi</A>
 <DT><A HREF="https://surveilzone.com" >Surveilzone</A> (второй сайт foxeer)
 <DT><A HREF="https://amainhobbies.com" >AmainHobbies</A>
 <DT><A HREF="https://newbeedrone.com" >NewBeeDrone</A>
 <DT><A HREF="https://akktek.com" >AKKktek</A>
 <DT><A HREF="https://betafpv.com" >BetaFPV</A> (одни из лидеров по вупам, но к качеству электроники много вопросов)
-<DT><A HREF="https://gearbest.com" >Gearbest</A>
 <DT><A HREF="https://www.fpvmodel.com/" >FPV Model</A>
 <DT><A HREF="http://www.myrcmart.com/">MyRcMart</A> 
 <DT><A HREF="https://www.armattanquads.com/">Armattan Quads</A>
@@ -38,8 +37,6 @@
 <DT><A HREF="https://hobbymatehobby.com/">HOBBYMATE</A>
 <DT><A HREF="https://www.dronezbaserc.com/">DRONEZ BASE</A>
 <DT><A HREF="https://www.rjxhobby.com/">RJXHOBBY</A>
-
-Менее популярные:
 <DT><A HREF="https://getfpv.com" >GetFPV</A> (нет доставки в РФ, нужны перевозчики)
 <DT><A HREF="https://hobbycool.com" >Hobbycool</A>
 <DT><A HREF="https://hobbyking.com" >Hobbyking</A>
