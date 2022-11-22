@@ -1,0 +1,30 @@
+{
+  "name": "dronedocs",
+  "version": "1.0.0",
+  "description": "auxiliary materials about flying drones",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "docsify serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikherty/droneDOCS.git"
+  },
+  "keywords": [
+    "drone",
+    "gitbook",
+    "instruction"
+  ],
+  "author": "ikherty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikherty/droneDOCS/issues"
+  },
+  "homepage": "https://github.com/ikherty/droneDOCS#readme",
+  "dependencies": {
+    "docsify-cli": "^4.4.4"
+  }
+}
