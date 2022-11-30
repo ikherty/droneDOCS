@@ -16,6 +16,7 @@
 <DT><A HREF="https://t.me/seagulldrone">Телеграммный магазин seagull drone shop (Сочи)</A>
 <DT><A HREF="https://rcgood.ru/">RcGood (не активен, Москва)</A>
  
+ 
 Зарубежные магазины:
  
 <DT><A HREF="https://aliexpress.com" >Aliexpress</A> (90% прокупок отсюда)
