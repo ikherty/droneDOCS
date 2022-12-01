@@ -1,7 +1,6 @@
-Сайты, на которых я закупалась/закупаюсь и периодически мониторю цены:
-
-Российские магазины:
-
+Сайты, на которых я закупалась/закупаюсь и периодически мониторю цены:<br>
+<br>
+Российские магазины:<br>
 <DT><A HREF="https://air-hobby.ru" >Воздушное хобби (Москва)</A>
 <DT><A HREF="https://mydrone.ru">MyDrone (Москва)</A>
 <DT><A HREF="https://quadro.team/">QuadroTeam (только онлайн, Москва)</A>
@@ -14,11 +13,10 @@
 <DT><A HREF="https://fpvmatrix.ru/">FPV матрица (Москва)</A>
 <DT><A HREF="https://fixfly.ru/">FixFly (Санкт-Петербург)</A>
 <DT><A HREF="https://t.me/seagulldrone">Телеграммный магазин seagull drone shop (Сочи)</A>
-<DT><A HREF="https://rcgood.ru/">RcGood (не активен, Москва)</A>
- 
- 
-Зарубежные магазины:
- 
+<DT><A HREF="https://rcgood.ru/">RcGood (не активен, Москва)</A><br>
+<br>
+Зарубежные магазины:<br>
+<br>
 <DT><A HREF="https://aliexpress.com" >Aliexpress</A> (90% прокупок отсюда)
 <DT><A HREF="https://bangood.com" >Bangood</A> (с промокодами и поинтами иногда выходит выгодно, но периодически проблемы с доставкой и не лучшая тех.поддержка)
 <DT><A HREF="https://chinahobbyline.com" >ChiNaHobbyLine</A> (популярные по соотношению цена/качество аккумуляторы, для РФ сейчас доступна покупка только через алиэкспресс магазин)
