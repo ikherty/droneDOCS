@@ -2,30 +2,25 @@
 
 ## Что за фрукт и с чем едят?
 
-Коптеры представляют собой летательные аппараты (ЛА) мультироторного типа. В зависимости от числа винто-моторных групп (ВМГ) добавляется греческая приставка:
-- двухмоторные - бикоптеры
-- трех - трикоптеры
-- четырех - квадрокоптеры
-- шести - гексокоптеры
-- восьми - октокоптеры 
-- и множество других вариаций, подвидов для конкретных задач
+Коптеры представляют собой летательные аппараты (ЛА) мультироторного типа. В зависимости от числа винто-моторных групп (ВМГ) добавляется греческая приставка: 
+двухмоторные - бикоптеры, трех - трикоптеры, четырех - квадрокоптеры, шести - гексокоптеры, восьми - октокоптеры и множество других вариаций и подвидов для конкретных задач.
 
 Коптеры принципиально отличаются от самолетов способом изменения своего положения в пространстве. У коптеров, за редким исключением, отсутствуют крылья и отклоняемые поверхности (элероны, рули управления и высоты). 
 
 <p align="center">
-  <img align="center" src="https://sanstv.ru/dict/images/collier/00786.jpg" width="600" title="">
+  <img src="https://sanstv.ru/dict/images/collier/00786.jpg" width="600" alt="схема, изображающая потоки, создающие силу тяги и подъемную силу у вертолета и самолета">
 </p>
 
 Своё положение они меняют при помощи управления разностью скоростей вращения моторов, крайне схоже с вертолетами. 
 
 <p align="center">
-  <img src="https://oyla.xyz/uploads/oylaarticle/oyla-44-62-9eb40c6bed.jpg" width="600" title="">
+  <img src="https://oyla.xyz/uploads/oylaarticle/oyla-44-62-9eb40c6bed.jpg" width="600" alt="схема, описывающая управление вертолета хвостовым винтом">
 </p>
 
 Однако, у вертолетов сам винт изменяет геометрию во время полета, в то время как у коптеров винты жестко зафиксированы. 
 
 <p align="center">
-  <img src="https://pp.userapi.com/c845522/v845522211/8947b/ppmlsMnCFoM.jpg" width="600" title="">
+  <img src="https://pp.userapi.com/c845522/v845522211/8947b/ppmlsMnCFoM.jpg" width="600" alt="схема, описывающая как вертолет переходит из режима висения на полет вбок">
 </p>
 
 Самая популярная схема - квадрокоптер (4-ре винта) - оптимальная с точки зрения сложности и эффективности. Летательные аппараты сложнее своих наземных собратьев требованиями к уравновешиванию всех действующих на них сил. Так, большую часть коптеров составляют аппараты с парным числом винтов, где половина вращается в направлении по часовой стрелке, а другая - против. Для понимания проще всего взглянуть на вертолет, где есть хвостовой винт, не дающий аппарату бесконтрольно вращаться. Большее количество моторов (чем 4-ре) устанавливают на коптеры для увеличения веса, который он может поднять и для улучшения отказоустойчивости (в теории 6-ти, 8-ми и тд винтовые коптеры способны продолжить полет при потере нескольких винтов, на практике есть свои ограничения).
@@ -35,7 +30,7 @@
 Даже в рамках одного количества винтов (пропеллеров) коптеры отличаются по размеру. Обычно не говорят конкретные размеры аппарата в сантиметрах, а используют для этого диаметр пропеллера коптера (в дюймах). Так как именно размер (диаметр), число лопастей и их угол наклона определяет тягу, выдаваемую коптером.
 
 <p align="center">
-  <img src="https://oscarliang.com/ctt/uploads/2017/03/size-6-5-4-3-inch-mini-quad-frame-1024x499.jpg" width="500" title="">
+  <img src="https://oscarliang.com/ctt/uploads/2017/03/size-6-5-4-3-inch-mini-quad-frame-1024x499.jpg" width="500" alt="выставленные в ряд коптеры с разными размерами рам">
 </p>
 
 Но "больше" не значит "лучше". Чем больше пропеллеров и моторов, тем больший требуется размер рамы и больший аккумулятор(ы) - всё это масса аппарата. А именно соотношение тяги к массе определяет, насколько коптер будет проворным. 
@@ -55,20 +50,20 @@
 Имеет 4-ре винта и 4-ре мотора установленные на разных концах аппарата.
 
 <p align="center">
-  <img src="https://ardupilot.org/copter/_images/motororder-quad-x-2d.png" height="200" title="">
-  <img src="https://ardupilot.org/copter/_images/motororder-quad-plus-2d.png" height="200" title="">
+  <img src="https://ardupilot.org/copter/_images/motororder-quad-x-2d.png" height="200" alt="коптер схемы Quad X">
+  <img src="https://ardupilot.org/copter/_images/motororder-quad-plus-2d.png" height="200" alt="коптер схемы Quad+">
 </p>
 
 Относительно прямого направления полета моторы могут быть в различных положениях, под разные задачи.
 
 <p align="center">
-  <img src="https://oscarliang.com/ctt/uploads/2017/03/types-style-h-x-hybrid-X-box-mini-quad-frame-1024x819.jpg" width="400" title="">
+  <img src="https://oscarliang.com/ctt/uploads/2017/03/types-style-h-x-hybrid-X-box-mini-quad-frame-1024x819.jpg" width="400" alt="различные по форме рамы квадрокоптера">
 </p>
 
-Самый популярный тип. Используется как для полетов в свое удовольствие, так и для гонок, и для коммерческих целей (дрифт обычно снимают именно они).
+Квадрокоптер - самый популярный тип. Используется как для полетов в свое удовольствие, так и для гонок, и для коммерческих целей (дрифт обычно снимают именно они).
 
 <p align="center">
-  <img src="https://i.ytimg.com/vi/Xp5BV08cd5M/maxresdefault.jpg" width="500" title="">
+  <img src="https://i.ytimg.com/vi/Xp5BV08cd5M/maxresdefault.jpg" width="500" alt="гоночная машина, входящая в поворот на скорости">
 </p>
 
 * Лучшая универсальность
@@ -79,19 +74,19 @@
 
 ### Гексакоптер, Октокоптер и подобные:
 
-Аппараты с парным числом моторов (более 4-ех) и пропеллеров, расположенных в одной плоскости вокруг тела аппарата.
+Аппараты с парным числом моторов (более 4-х) и пропеллеров, расположенных в одной плоскости вокруг тела аппарата.
 
 <p align="center">
-  <img src="https://ardupilot.org/copter/_images/motororder-hexa-x-2d.png" height="200" title="">
-  <img src="https://ardupilot.org/copter/_images/motororder-octo-x-2d.png" height="200" title="">
+  <img src="https://ardupilot.org/copter/_images/motororder-hexa-x-2d.png" height="200" alt="Схематическое изображение Hexa X коптера">
+  <img src="https://ardupilot.org/copter/_images/motororder-octo-x-2d.png" height="200" alt="Схематическое изображение Octo X коптера">
 </p>
 
 Большая часть создана для профессионального использования и подъема в небо тяжелых грузов.
 Чаще всего применяются в видеопроизводстве, агротехнике, сканировании местности.
 
 <p align="center">
-  <img src="https://oscarliang.com/ctt/uploads/2013/10/autodesk-octocopter-4.jpg" width="400" title="">
-  <img src="https://homeschoolauthority.files.wordpress.com/2020/12/adobestock_165576005.jpeg?w=1200" width="400" title="">
+  <img src="https://oscarliang.com/ctt/uploads/2013/10/autodesk-octocopter-4.jpg" width="400" alt="октокоптер с подвешенной на нем профессиональной фотокамерой">
+  <img src="https://homeschoolauthority.files.wordpress.com/2020/12/adobestock_165576005.jpeg?w=1200" width="400" alt="октокоптер летит над полем с посевами и распыляет удобрения">
 </p>
 
 * Максимальная полезная нагрузка
@@ -102,17 +97,17 @@
 Дроны у которых моторы установлены друг над другом. Обычно для названия используются сокращения, буква обозначает количество концов рамы, число - количество установленных моторов.
 
 <p align="center">
-  <img src="https://ardupilot.org/copter/_images/motororder-y6a-2d.png" height="200" title="">
-  <img src="https://ardupilot.org/copter/_images/motororder-octoquad-x-2d.png" height="200" title="">
-  <img src="https://ardupilot.org/copter/_images/motororder-dodecahexa-x-2d.png" height="200" title="">
+  <img src="https://ardupilot.org/copter/_images/motororder-y6a-2d.png" height="200" alt="схема коптера Y6A">
+  <img src="https://ardupilot.org/copter/_images/motororder-octoquad-x-2d.png" height="200" alt="схема коптера Octo Quad X8">
+  <img src="https://ardupilot.org/copter/_images/motororder-dodecahexa-x-2d.png" height="200" alt="схема коптера Dodeca Hexa X">
 </p>
 
 Компромиссный вариант компоновки, когда требуется увеличить тягу аппарата, без увеличения габаритов. Однако, нижние винты дают на ~20% меньше тяги нежели верхние.
 Чаще всего используются при кинопроизводстве, когда необходима маневренность квадрокоптера, но при этом необходимо носить полноразмерную киношную камеру.
 
 <p align="center">
-  <img src="https://rotorbuilds.com/pictures/f_2092_XfeOZAxA039k2iN2bi51AGfeK.jpg" height="300" title="">
-  <img src="https://www.fpv-report.com/wp-content/uploads/2021/04/iFlight-FPV-Taurus-X8-HD-Cinelifter-e1619794423174-580x420.jpg" height="300" title="">
+  <img src="https://rotorbuilds.com/pictures/f_2092_XfeOZAxA039k2iN2bi51AGfeK.jpg" height="300" alt="коптер схемы Y6 с установленным на нем профессиональным микрофоном">
+  <img src="https://www.fpv-report.com/wp-content/uploads/2021/04/iFlight-FPV-Taurus-X8-HD-Cinelifter-e1619794423174-580x420.jpg" height="300" alt="коптер схемы Octo Quad X8 с установленной на нем киношной видеокамерой">
 </p>
 
 * Сохранение баланса полезной нагрузки и маневренности
@@ -123,14 +118,14 @@
 Есть такие классы, но они не так просты по схеме, как квадрокоптер, специфично управляются, собираются среди хоббистов крайне редко, и, в основном, в экспериментальных или развлекательных целях.
 
 <p align="center">
-  <img src="https://ardupilot.org/copter/_images/motororder-bicopter.png" height="200" title="">
-  <img src="https://ardupilot.org/copter/_images/motororder-tri-a-2d.png" height="200" title="">
+  <img src="https://ardupilot.org/copter/_images/motororder-bicopter.png" height="200" alt="схема бикоптера">
+  <img src="https://ardupilot.org/copter/_images/motororder-tri-a-2d.png" height="200" alt="схема трикоптера">
 </p>
 
 
 <p align="center">
-  <img src="https://i.ytimg.com/vi/t36SHm18Gkc/maxresdefault.jpg" height="300" title="">
-  <img src="https://rcexplorer.se/wp-content/uploads/2015/08/MiniTrii1.jpg" height="300" title="">
+  <img src="https://i.ytimg.com/vi/t36SHm18Gkc/maxresdefault.jpg" height="300" alt="фотография бикоптера">
+  <img src="https://rcexplorer.se/wp-content/uploads/2015/08/MiniTrii1.jpg" height="300" alt="фотография трикоптера">
 </p>
 
 ## Области применения ЛА:
