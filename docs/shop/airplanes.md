@@ -1,6 +1,6 @@
 | Наименование | Описание  | Ссылка  | Фото  |
 | :-------: | :-----: | :----: | :------: |
-| Петли |   | [нейлоновые](http://s.click.aliexpress.com/e/nMhjNGM)  | ![](https://ae04.alicdn.com/kf/HTB142ECNXXXXXcDXVXXq6xXFXXXi/10-RC-aileron.jpg) |
+| Петли нейлоновые|   | [купить](https://aliexpress.ru/item/32799882853.html?sku_id=65809468034&spm=a2g2w.productlist.list.8.32066938k02zV5)  | ![](https://ae04.alicdn.com/kf/HTB142ECNXXXXXcDXVXXq6xXFXXXi/10-RC-aileron.jpg) |
 | Вольтметр с пищалкой по отсечке |   | [купить](https://ru.aliexpress.com/item/32720299175.html)  | ![](https://ae04.alicdn.com/kf/HTB17gGMMVXXXXXXXVXXq6xXFXXXa/3-7-30-1-8-s-fe-li-ion-lipo.jpg)  |
 | 9г самые обычные сервы |   | [синие](http://s.click.aliexpress.com/e/gOBHHC4)  | ![](https://ae04.alicdn.com/kf/HTB10UBzQFXXXXaqXXXXq6xXFXXX3/5-10-20-50-100-SG90-SG-90.jpg)  |
 | Цифровые сервы с металлредуктором(Emax ES08MDII) |   | [Emax ES08MDII](https://a.aliexpress.com/_mrGXFYW)  | ![](https://ae04.alicdn.com/kf/Hbc881443307b4c0cb1fa3f8b521a5876k/EMAX-ES08MDII.jpg)  |
