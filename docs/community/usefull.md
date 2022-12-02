@@ -9,7 +9,7 @@
 <DT><A HREF="https://www.youtube.com/watch?v=ZZotXvbVEkI&list=PLwy7zFO7fCeM6rZilz3DlQ7kHs7HjhpYg&index=6" >DSG academy, основы пилотирования в DCL симуляторе</A>
 <DT><A HREF="https://www.youtube.com/c/Velocidrone" >velocidrone, туториалы по симулятору</A>
 
-<br>Полезные статьи с обзорами и объяснениями:
+Полезные статьи с обзорами и объяснениями:
   
 <DT><A HREF="https://oscarliang.com/" >OscarLiang blog (en)</A>
 <DT><A HREF="https://blog.rcdetails.info/" >RCDetails Blog(переводы OscarLiang на ru)</A> 
@@ -17,9 +17,9 @@
 <DT><A HREF="http://paulnurkkala.com" >Nurk blog</A>
 <DT><A HREF="https://theuavtech.com/" >UAVTech blog</A>
 <DT><A HREF="https://rotorbuilds.com/explore" >Сетапы пилотов</A>
-    
+<br>
 <br>Познавательные каналы:
-  
+<br>
 <DT><A HREF="https://www.youtube.com/channel/UCX3eufnI7A2I7IkKHZn8KSQ" >Joshua Bardwell</A>  
 <DT><A HREF="https://www.youtube.com/channel/UC3c9WhUvKv2eoqZNSqAGQXg/videos" >Drone Mesh</A>  
 <DT><A HREF="https://www.youtube.com/channel/UCI2MZOaHJFMAmW5ni7vuAQg" >UAV Tech</A>  
