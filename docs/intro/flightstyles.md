@@ -17,8 +17,8 @@ Cinewhoop-ы используют в помещениях и небольших 
 Но стоит учесть, что 7" аппарат стоит сильно дороже, взлетный вес 1.5-2кг, и при его габаритах летать у людей непозволительно.
 
 Примеры перечисленных аппаратов:
-* cinewhoop geprc cinelog 30(35)/betafpv 85x
-* 5" geprc mark 5/iflight nazgul(evoque)/diatone roma
+* cinewhoop geprc cinelog 25/30/35
+* 5" geprc mark 5/iflight nazgul evoque/diatone roma/iflight aos 5
 * 7" iflight chimera 7
 
 ### Фристайл
@@ -32,7 +32,7 @@ Cinewhoop-ы используют в помещениях и небольших 
 Известных фристайлеров и обучающие ролики можно найти здесь: https://propwashservice.ru/docs/community/usefull.html
 
 Типичные представители этого класса в BNF формате:
-* iflight nazgul/evoque/titan/chimera 5
+* iflight nazgul evoque/titan/aos 5
 * diatone roma
 * geprc mark5
 
@@ -43,7 +43,6 @@ Cinewhoop-ы используют в помещениях и небольших 
 https://docs.google.com/spreadsheets/d/1Gdlgnqrr5GdPEuTgQub0CQ1S-vTG_-CpGC9lJ3ElOME/edit#gid=872057514 
 
 Среди BNF комплектов можно выделить:
-* holybro kopis2
 * foxeer caesar
 * iflight mach r5
 * hglrc wind5
