@@ -1,16 +1,15 @@
-Сайты, на которых я закупалась/закупаюсь и периодически мониторю цены:<br>
-<br>
 Российские магазины:<br>
 <DT><A HREF="https://air-hobby.ru" >Воздушное хобби (Москва)</A>
 <DT><A HREF="https://mydrone.ru">MyDrone (Москва)</A>
 <DT><A HREF="https://quadro.team/">QuadroTeam (только онлайн, Москва)</A>
 <DT><A HREF="https://coptertime.ru">Coptertime (Москва)</A>
+<DT><A HREF="vertorix.ru">Vertorix (Москва)</A>
 <DT><A HREF="https://brrc.ru/catalog/li_pol/">Братья Райт (Москва)</A>
 <DT><A HREF="https://hobbycenter.ru/">интернет-магазин Хобби Центр (Химки)</A>
 <DT><A HREF="http://fpv-community.ru/store/">FPV сообщество (Москва)</A>
-<DT><A HREF="http://www.spinnerproduction.ru">Spinner Production (Тула, Санкт-Петербург)</A>
 <DT><A HREF="https://xmodels.ru/">XModels (Москва)</A>
 <DT><A HREF="https://fpvmatrix.ru/">FPV матрица (Москва)</A>
+<DT><A HREF="http://www.spinnerproduction.ru">Spinner Production (Тула, Санкт-Петербург)</A>
 <DT><A HREF="https://fixfly.ru/">FixFly (Санкт-Петербург)</A>
 <DT><A HREF="https://t.me/seagulldrone">Телеграммный магазин seagull drone shop (Сочи)</A>
 <DT><A HREF="https://rcgood.ru/">RcGood (не активен, Москва)</A><br>
