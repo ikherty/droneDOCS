@@ -1,9 +1,9 @@
 * **Введение**
   * [Вход в хобби](intro/README.md)
   * [Стили полета](intro/flightstyles.md)
-    * [Аппаратура](intro/tx.md)
-    * [Видеосвязь](intro/videoRx.md)
-    * [Зарядное устройство](intro/power.md)
+  * [Аппаратура](intro/tx.md)
+  * [Видеосвязь](intro/videoRx.md)
+  * [Зарядное устройство](intro/power.md)
 * **Покупки**
   * [Магазины](shop/README.md)
   * [Must have вещи для хоббистов](shop/nessesary.md)
