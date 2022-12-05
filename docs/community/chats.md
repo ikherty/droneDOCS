@@ -100,6 +100,8 @@
 
 👉 Avatar HD FPV system https://t.me/avatarfpv
 
+👉 SharkByte FPV / HDZERO https://t.me/SharkByteFPVru
+
 👉 Spinner Production https://t.me/spinnerproduction
 
 👉 Человек с Земли FPV https://t.me/fpvearth
