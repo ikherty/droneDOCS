@@ -13,7 +13,7 @@
   * [Как экономить?](shop/lifehacks.md)
 * **Комьюнити**
   * [Голоссарий](community/glossarium.md)
-  * [Чаты](community/messages.md)
+  * [Чаты](community/chats.md)
   * [Полезные материалы](community/usefull.md)
   * [Программное обеспечение](firstQUAD/software.md)
   * [Пайка](community/soldering.md)
