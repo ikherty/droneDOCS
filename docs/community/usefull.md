@@ -9,7 +9,7 @@
 <DT><A HREF="https://www.youtube.com/watch?v=ZZotXvbVEkI&list=PLwy7zFO7fCeM6rZilz3DlQ7kHs7HjhpYg&index=6" >DSG academy, основы пилотирования в DCL симуляторе</A>
 <DT><A HREF="https://www.youtube.com/c/Velocidrone" >velocidrone, туториалы по симулятору</A>
 
-### Полезные статьи с обзорами и объяснениями:
+### Полезные статьи с обзорами и объяснениями
   
 <DT><A HREF="https://oscarliang.com/" >OscarLiang blog (en)</A>
 <DT><A HREF="https://blog.rcdetails.info/" >RCDetails Blog(переводы OscarLiang на ru)</A> 
@@ -17,9 +17,9 @@
 <DT><A HREF="http://paulnurkkala.com" >Nurk blog</A>
 <DT><A HREF="https://theuavtech.com/" >UAVTech blog</A>
 <DT><A HREF="https://rotorbuilds.com/explore" >Сетапы пилотов</A>
-<br>
+
 ### Познавательные каналы:
-<br>
+
 <DT><A HREF="https://www.youtube.com/channel/UCX3eufnI7A2I7IkKHZn8KSQ" >Joshua Bardwell</A>  
 <DT><A HREF="https://www.youtube.com/@MadRC" >Mads Tech</A>    
 <DT><A HREF="https://www.youtube.com/@IvanEfimovLimon" >Ivan Efimov (Limon)</A>
@@ -40,7 +40,6 @@
 <DT><A HREF="https://www.youtube.com/@kiriodozaki_fpv" >Kiriodozaki</A>
 <DT><A HREF="https://www.youtube.com/@CopterTime" >CopterTime</A>
 
-
 ### Для авиамоделистов полеты, сборки:
   
 <DT><A HREF="https://www.youtube.com/channel/UCG367mifGbd4_K9UTqYQrVQ" >areyouroo</A>  
@@ -51,7 +50,6 @@
 <DT><A HREF="http://www.parkflyer.ru/ru/blogs/view_entry/15827/" >ПАРКФЛАЕР</A>
 <DT><A HREF="https://www.youtube.com/channel/UCMcdwq_cRfNyQZExxXLqfgw" >Joyplanes RC</A>  
 <DT><A HREF="https://www.youtube.com/channel/UC2QTy9BHei7SbeBRq59V66Q" >Andrew Newton</A>  
-
   
 
 ### Полезные статьи:
@@ -64,8 +62,6 @@
 <DT><A HREF="http://mshtools.c1.biz/2017/07/12/the-great-copters-theorem/" >Великая коптерная теорема</A>
 <DT><A HREF="https://www.electricrcaircraftguy.com/2013/09/propeller-static-dynamic-thrust-equation.html">Propeller Static & Dynamic Thrust Calculation - Part 1 of 2 - How Did I Come Up With This Equation?</A>
 <DT><A HREF="https://www.electricrcaircraftguy.com/2014/04/propeller-static-dynamic-thrust-equation-background.html">Propeller Static & Dynamic Thrust Calculation - Part 2 of 2 - How Did I Come Up With This Equation?</A>
-  
-
 
 ### Курс по автономным полетам:
 
