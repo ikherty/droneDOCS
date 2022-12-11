@@ -14,7 +14,7 @@
 
 Из класса синевупов: flywoo cinerace20, geprc cinelog 25/30, betafpv pavo30 для naked gopro. geprc cinelog 30/35 для полной гопро. 
 
-Из класса зубочисток: hglrc pertel 3", betafpv hx115, geprc smart 2.5/3.5".
+Из класса зубочисток: hglrc pertel 3", betafpv hx115, geprc smart 2.5/3.5", happymodel crux 3/3.5".
 
 Из класса гоночных: foxeer caesar, iflight mach r5, hglrc wind5.
 
