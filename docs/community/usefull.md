@@ -9,9 +9,11 @@
 <DT><A HREF="https://www.youtube.com/channel/UCFedUk5j_EidYV4P-EnYJYg/videos" >уроки фристайла</A>
 <DT><A HREF="https://www.youtube.com/watch?v=ZZotXvbVEkI&list=PLwy7zFO7fCeM6rZilz3DlQ7kHs7HjhpYg&index=6" >DSG academy, основы пилотирования в DCL симуляторе</A>
 <DT><A HREF="https://www.youtube.com/c/Velocidrone" >velocidrone, туториалы по симулятору</A>
-
-### Полезные статьи с обзорами и объяснениями
   
+### Полезные статьи с обзорами и объяснениями
+
+  
+<DT><A HREF="https://quadquestions.com/blog/2017/02/22/choose-right-size-motors-drone/" >Инфографика</A>
 <DT><A HREF="https://oscarliang.com/" >OscarLiang blog (en)</A>
 <DT><A HREF="https://blog.rcdetails.info/" >RCDetails Blog(переводы OscarLiang на ru)</A> 
 <DT><A HREF="https://profpv.ru" >Profpv blog</A>
