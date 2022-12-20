@@ -13,6 +13,7 @@
 <DT><A HREF="https://fixfly.ru/">FixFly (Санкт-Петербург)</A>
 <DT><A HREF="https://t.me/seagulldrone">Телеграммный магазин seagull drone shop (Сочи)</A>
 <DT><A HREF="https://rcgood.ru/">RcGood (не активен, Москва)</A><br>
+ <br>Белорусские магазины:<br>
 <DT><A HREF="https://t.me/FPV_shop">FPV_shop (Минск)</A><br>
 <br>
 Зарубежные магазины:<br>
