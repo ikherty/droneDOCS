@@ -1,4 +1,5 @@
 * **Введение**
+* Купить Velocidrone(shop/sim.md)
   * [Вход в хобби](intro/README.md)
   * [Стили полета](intro/flightstyles.md)
   * [Аппаратура](intro/tx.md)
