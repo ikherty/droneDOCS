@@ -89,6 +89,8 @@ https://datastudio.google.com/u/0/reporting/1pK1PFw0eWmsgl2npvuzwAqscVzlhJvuF/pa
 ### Калькуляторы:
 
 https://kernel-machine.github.io/INavMagAlignHelper/ - поворот компаса в INAV
+  
+https://oscarliang.com/js/fpvrange.html - расчет дальности по характеристикам видеосистемы
 
 https://www.desmos.com/calculator/oaa7ealifn?lang=ru - калькулятор пересчета рейтов из actual в betaflight
   
