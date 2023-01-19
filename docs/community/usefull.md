@@ -1,5 +1,6 @@
 ### Каналы с примерами полетов:
 
+<DT><A HREF="https://www.airvuz.com" >AirVUZ, платформа, где топ пилоты выкладывают свои ролики</A>
 <DT><A HREF="https://www.youtube.com/channel/UCAMZOHjmiInGYjOplGhU38g" >Team BlackSheep, захватывающие пролеты по всему миру</A>
 <DT><A HREF="https://www.youtube.com/channel/UCQEqPV0AwJ6mQYLmSO0rcNA" >Mr Steele, резкий фристайл</A>
 <DT><A HREF="https://www.youtube.com/c/LeDribFPV" >Le Drib, плавный фристайл</A>
@@ -8,9 +9,11 @@
 <DT><A HREF="https://www.youtube.com/channel/UCFedUk5j_EidYV4P-EnYJYg/videos" >уроки фристайла</A>
 <DT><A HREF="https://www.youtube.com/watch?v=ZZotXvbVEkI&list=PLwy7zFO7fCeM6rZilz3DlQ7kHs7HjhpYg&index=6" >DSG academy, основы пилотирования в DCL симуляторе</A>
 <DT><A HREF="https://www.youtube.com/c/Velocidrone" >velocidrone, туториалы по симулятору</A>
-
-### Полезные статьи с обзорами и объяснениями
   
+### Полезные статьи с обзорами и объяснениями
+<DT><A HREF="https://betaflight.com/docs/configurator/setup-tab#calibrate-accelerometer" >Вики Betaflight Configuator</A>
+
+<DT><A HREF="https://quadquestions.com/blog/2017/02/22/choose-right-size-motors-drone/" >Инфографика</A>
 <DT><A HREF="https://oscarliang.com/" >OscarLiang blog (en)</A>
 <DT><A HREF="https://blog.rcdetails.info/" >RCDetails Blog(переводы OscarLiang на ru)</A> 
 <DT><A HREF="https://profpv.ru" >Profpv blog</A>
@@ -86,6 +89,8 @@ https://datastudio.google.com/u/0/reporting/1pK1PFw0eWmsgl2npvuzwAqscVzlhJvuF/pa
 ### Калькуляторы:
 
 https://kernel-machine.github.io/INavMagAlignHelper/ - поворот компаса в INAV
+  
+https://oscarliang.com/js/fpvrange.html - расчет дальности по характеристикам видеосистемы
 
 https://www.desmos.com/calculator/oaa7ealifn?lang=ru - калькулятор пересчета рейтов из actual в betaflight
   

@@ -168,6 +168,8 @@
 
 👉 Беларусь dr1by https://t.me/dr1by
 
+👉 Кипр https://t.me/fpvcyprus
+
 Авиамодели:
 
 👉 DRS Крылья https://t.me/FPVwing
