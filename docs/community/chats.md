@@ -34,6 +34,9 @@
 
 💸 Предзаказы с teamblacksheep (by FX_FPV) https://t.me/+dwSQ9n4hJM03MmJk
 
+💸 Предзаказы с различных магазинов (сервис от QUADRO.TEAM) https://t.me/keksexpress
+
+
 Разные типы дронов:
 
 👉 Потерянные/найденные дроны https://t.me/lostdron
@@ -91,6 +94,8 @@
 👉 BlackBox 2.0 https://t.me/blackbox_two
 
 👉 Свидетели ELRS https://t.me/expresslrs_rus
+
+👉 Чат  FPV пилотов QT(QUADRO.TEAM) https://t.me/quadroteam
 
 👉 Air Hobby https://t.me/airhobby
 
