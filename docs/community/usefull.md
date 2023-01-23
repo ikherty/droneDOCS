@@ -11,8 +11,8 @@
 <DT><A HREF="https://www.youtube.com/c/Velocidrone" >velocidrone, туториалы по симулятору</A>
   
 ### Полезные статьи с обзорами и объяснениями
+  
 <DT><A HREF="https://betaflight.com/docs/configurator/setup-tab#calibrate-accelerometer" >Вики Betaflight Configuator</A>
-
 <DT><A HREF="https://quadquestions.com/blog/2017/02/22/choose-right-size-motors-drone/" >Инфографика</A>
 <DT><A HREF="https://oscarliang.com/" >OscarLiang blog (en)</A>
 <DT><A HREF="https://blog.rcdetails.info/" >RCDetails Blog(переводы OscarLiang на ru)</A> 
@@ -20,7 +20,8 @@
 <DT><A HREF="http://paulnurkkala.com" >Nurk blog</A>
 <DT><A HREF="https://theuavtech.com/" >UAVTech blog</A>
 <DT><A HREF="https://rotorbuilds.com/explore" >Сетапы пилотов</A>
-<DT><A HREF="https://www.vitroidfpv.com/faq" >Vitroidfpv blogв</A>
+<DT><A HREF="https://www.vitroidfpv.com/faq" >Vitroidfpv blog</A>
+  
 ### Познавательные каналы:
 
 <DT><A HREF="https://www.youtube.com/channel/UCX3eufnI7A2I7IkKHZn8KSQ" >Joshua Bardwell</A>  
