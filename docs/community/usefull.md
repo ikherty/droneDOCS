@@ -20,7 +20,7 @@
 <DT><A HREF="http://paulnurkkala.com" >Nurk blog</A>
 <DT><A HREF="https://theuavtech.com/" >UAVTech blog</A>
 <DT><A HREF="https://rotorbuilds.com/explore" >Сетапы пилотов</A>
-
+<DT><A HREF="https://www.vitroidfpv.com/faq" >Vitroidfpv blogв</A>
 ### Познавательные каналы:
 
 <DT><A HREF="https://www.youtube.com/channel/UCX3eufnI7A2I7IkKHZn8KSQ" >Joshua Bardwell</A>  
