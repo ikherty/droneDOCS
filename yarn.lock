@@ -135,9 +135,9 @@
   resolved "https://registry.npmjs.org/@docsearch/css/-/css-3.3.2.tgz"
   integrity sha512-dctFYiwbvDZkksMlsmc7pj6W6By/EjnVXJq5TEPd05MwQe+dcdHJgaIn1c8wfsucxHpIsdrUcgSkACHCq6aIhw==
 
-"@docsearch/js@^3.3.1":
+"@docsearch/js@3.3.2", "@docsearch/js@^3.3.1":
   version "3.3.2"
-  resolved "https://registry.npmjs.org/@docsearch/js/-/js-3.3.2.tgz"
+  resolved "https://registry.yarnpkg.com/@docsearch/js/-/js-3.3.2.tgz#fd7d5dfdd79abfe2bc8011b119215e0b08e33138"
   integrity sha512-k2yiB9attFvKoiYswrRtKhIO+qHuzAj1FHYfFWrKz3wSzB2G6s/7EZL9Rf6iytUo1Ok00LUj2C6mWoOnsUTkxg==
   dependencies:
     "@docsearch/react" "3.3.2"
