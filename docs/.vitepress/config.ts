@@ -4,14 +4,25 @@ export default defineConfig({
   title: "Drone Docs",
   description: "Справочник по FPV хобби",
   themeConfig: {
+    siteTitle: 'Drone Docs',
+    logo: '/assets/img/favicon.png',
+    outlineTitle: 'Содержание:',
     footer: {
       message: 'Released under the <a href="https://github.com/vuejs/vitepress/blob/main/LICENSE">MIT License</a>.',
-      copyright: 'Copyright © 2023-present <a href="https://github.com/ikherty">PropWash Service</a>',
+      copyright: 'Copyright © 2023-present <a href="https://github.com/ikherty">PropWash Service</a>'
     },
     docFooter: {
-      prev: "Предыдущий раздел",
-      next: "Следующий раздел",
+      prev: "Назад",
+      next: "Далее",
     },
+    editLink: {
+      pattern: 'https://github.com/ikherty/droneDocs/edit/master/docs/:path',
+      text: 'Редактировать эту страницу на GitHub'
+    },
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/ikherty/droneDocs' },
+      { icon: 'youtube', link: 'https://www.youtube.com/@PropWashService' }
+    ],
     sidebar: [
       {
         text: "Введение",
