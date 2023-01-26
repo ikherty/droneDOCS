@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as l,d as a}from"./app.33aa95b4.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"settings/rates.md"}'),i={name:"settings/rates.md"},p=a("",9),r=[p];function s(o,_,n,c,u,h){return l(),e("div",null,r)}const g=t(i,[["render",s]]);export{d as __pageData,g as default};
