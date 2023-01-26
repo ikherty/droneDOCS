@@ -1,8 +1,8 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: "dronedocs",
-  description: "guides and reviews",
+  title: "Drone Docs",
+  description: "Справочник по FPV хобби",
   themeConfig: {
     footer: {
       message: 'Released under the <a href="https://github.com/vuejs/vitepress/blob/main/LICENSE">MIT License</a>.',
@@ -13,12 +13,12 @@ export default defineConfig({
         text: "Введение",
         collapsible: false,
         items: [
-          { text: "Купить Velocidrone", link: "/shop/sim" },
+          { text: "Купить Velocidrone", link: "/shop/buyVeloci" },
           { text: "Вход в хобби", link: "/intro/beginning" },
           { text: "Стили полета", link: "/intro/flightstyles" },
           { text: "Аппаратура", link: "/intro/tx" },
           { text: "Видеосвязь", link: "/intro/videoRx" },
-          { text: "Зарядное устройство", link: "/intro/power" }
+          { text: "Источники питания", link: "/intro/power" }
         ]
     },
     {
@@ -56,5 +56,5 @@ export default defineConfig({
         ]
       }
     ],
-  },
-}
+  }
+})

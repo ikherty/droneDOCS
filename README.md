@@ -6,17 +6,18 @@
 
 Данные материалы исходят из личного опыта, наблюдений в FPV сообществе. Никакой рекламы, спонсорства, все по личной инициативе для продвижения хобби в массы. Приятного чтения!
 
-Проект базируется на генераторе [Docsify](https://docsify.js.org/) и [Github Pages](https://pages.github.com/)
+Проект базируется на генераторе [VitePress](https://vitepress.vuejs.org) и [Github Pages](https://pages.github.com/)
 
 Содержимое страниц лежит в папке `docs`. Pull request'ы по улучшению ресурса приветствуются.
 
 Локальный запуск и отладка:
 ```shell
-npm install
-npm run dev
+yarn init
+yarn docs:dev
 ```
 
 ### Авторы
 
-* Валентина, Михаил - команда PropWash Service
+* Валентина, Михаил - команда [PropWash Service](https://github.com/ikherty)
 * Андрей Щ. - [EIIIE](https://github.com/EIIIE)
+* Дмитрий В. - [dimazollo](https://github.com/dimazollo)
