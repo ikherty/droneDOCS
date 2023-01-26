@@ -4,7 +4,7 @@ export default defineConfig({
   title: "Drone Docs",
   description: "Справочник по FPV хобби",
   lang: "ru",
-  base: "/droneDOCS/",
+  // base: "/droneDOCS/",
   head: [["link", { rel: "icon", type: "image/x-icon", href: "/assets/img/favicon.png" }]],
   themeConfig: {
     siteTitle: "Drone Docs",
