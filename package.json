@@ -1,6 +1,6 @@
 {
   "name": "drone-docs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "FPV guides",
   "main": "index.js",
   "repository": "https://github.com/ikherty/droneDOCS.git",
