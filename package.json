@@ -1,30 +1,27 @@
 {
-  "name": "dronedocs",
+  "name": "drone-docs",
   "version": "1.0.0",
-  "description": "auxiliary materials about flying drones",
+  "description": "FPV guides",
   "main": "index.js",
-  "directories": {
-    "doc": "docs"
+  "repository": "https://github.com/ikherty/droneDOCS.git",
+  "author": "ikherty <ikherty@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.49.0",
+    "@typescript-eslint/parser": "^5.49.0",
+    "eslint": "^8.32.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-vue": "^9.9.0",
+    "prettier": "^2.8.3",
+    "typescript": "^4.9.4",
+    "vitepress": "^1.0.0-alpha.40",
+    "vue": "^3.2.45"
   },
   "scripts": {
-    "dev": "docsify serve docs"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ikherty/droneDOCS.git"
-  },
-  "keywords": [
-    "drone",
-    "gitbook",
-    "instruction"
-  ],
-  "author": "ikherty",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ikherty/droneDOCS/issues"
-  },
-  "homepage": "https://github.com/ikherty/droneDOCS#readme",
-  "dependencies": {
-    "docsify-cli": "^4.4.4"
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs",
+    "lint": "npx eslint . --fix"
   }
 }

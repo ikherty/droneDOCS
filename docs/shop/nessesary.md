@@ -1,7 +1,7 @@
 | Наименование | Описание  | Ссылка  | Фото  |
 | :-------: | :-----: | :----: | :------: |
 | Мультиметр | Без вопросов, просто купи, с режимом прозвонки, вольтметром, омметром | [UNI-T UT33B+](http://s.click.aliexpress.com/e/bJWvUPOg), [ANENG AN8008](https://aliexpress.ru/item/4000929632586.html) | ![](https://www.testers.ru/upload/iblock/023/UT33B_.jpg) |
-| Электронный штангенциркуль | для точного измерения | [SHAHE](http://s.click.aliexpress.com/e/c5AjhdZI) | ![](https://amazin.su/_sh/73/7354.jpg) |
+| Электронный штангенциркуль | для точного измерения | [SHAHE](http://s.click.aliexpress.com/e/c5AjhdZI) | ![](https://ae04.alicdn.com/kf/S8ef2203574fd45eab9047f287ce99e49U/SHAHE-0-150.jpg) |
 | Паяльный фен | опционально, для термоусадки d>=30mm и ремонта электроники | [858D](https://aliexpress.ru/item/4000539586748.html), [альтернатива](https://aliexpress.ru/item/1005001354558514.html) | ![](https://ae04.alicdn.com/kf/Hce64be4545fb44b4ad7b642ceb18fe91X/858D.jpg) |
 | Паяльник | понадобится БП с напряжением и мощностью из описания паяльника | [hakko t12](https://ru.aliexpress.com/item/32740527077.html), [pine64](https://www.pine64.org/pinecil/), [sh72](https://aliexpress.ru/item/4000559692113.html), [TS100](https://aliexpress.ru/item/1005001923339560.html) | ![](https://ae01.alicdn.com/kf/H6812ee554b1946079aac049f54f10f40Z.jpg) |
 | Блок питания 24В | для паяльника | [noname](https://a.aliexpress.com/_mOOikUk) | ![](https://ae04.alicdn.com/kf/H27a59edb6b724bf9bad51b6217cc91332/QUICKO-24-3a-5-5-2-1-2-5-72.jpg) |
@@ -60,4 +60,3 @@
 | Беки (стабилизаторы напряжения 5В) | | [2-8s 5 В/2 а 12 В/3 А](https://a.aliexpress.com/_msYgjIw) | ![](https://ae04.alicdn.com/kf/Hebacf57a0bf045d49fe7d1ad7c8c817fe/14x11x1-IFlight-Micro-2-8S-BEC-5-2-12-3.jpg) |
 | SD карты |  | [поиск на Ali](https://aliexpress.ru/wholesale?SearchText=micro+sd) | ![](https://ae04.alicdn.com/kf/Hd84fa097082d4e72a61bfc84ec508aedN/Sd-MIXZA-Origina-BF-256-128-64-U3-80.jpg) |
 | Программатор stlink | на случай раскирпичивания | [stlink](https://a.aliexpress.com/_mLkPkg8) | ![](https://ae04.alicdn.com/kf/H95782f05306345268493bed60d7e20bae/1-Stlink-LINK-V2.jpg) |
-| position | description | [Купить на Али](link) | ![](URL) |

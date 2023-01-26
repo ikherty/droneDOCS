@@ -4,3 +4,7 @@
 .vscode
 
 node_modules
+
+docs/.vitepress/cache
+
+yarn-error.log
