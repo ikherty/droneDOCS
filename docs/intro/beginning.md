@@ -45,13 +45,13 @@
 
 Начнем со стандартных типов и будем двигаться вглубь кротовой норы.
 
-## Квадрокоптер:
+## Квадрокоптер
 
 Имеет 4-ре винта и 4-ре мотора установленные на разных концах аппарата.
 
 <p align="center">
-  <img src="/assets/img/quad.png" height="100" alt="коптер схемы Quad X">
-  <img src="/assets/img/quadX.png" height="100" alt="коптер схемы Quad+">
+  <img src="/assets/img/quad.png" width="200" alt="коптер схемы Quad X">
+  <img src="/assets/img/quadX.png" width="200" alt="коптер схемы Quad+">
 </p>
 
 Относительно прямого направления полета моторы могут быть в различных положениях, под разные задачи.
@@ -62,7 +62,7 @@
 
 Квадрокоптер - самый популярный тип. Используется как для полетов в свое удовольствие, так и для гонок, и для коммерческих целей.
 
-## Гексакоптер, Октокоптер и подобные:
+## Гексакоптер, Октокоптер и подобные
 
 Аппараты с парным числом моторов (более 4-х) и пропеллеров, расположенных в одной плоскости вокруг тела аппарата.
 
@@ -87,17 +87,17 @@
 Дроны у которых моторы установлены друг над другом. Обычно для названия используются сокращения, буква обозначает количество концов рамы, число - количество установленных моторов.
 
 <p align="center">
-  <img src="https://ardupilot.org/copter/_images/motororder-y6a-2d.png" height="200" alt="схема коптера Y6A">
-  <img src="https://ardupilot.org/copter/_images/motororder-octoquad-x-2d.png" height="200" alt="схема коптера Octo Quad X8">
-  <img src="https://ardupilot.org/copter/_images/motororder-dodecahexa-x-2d.png" height="200" alt="схема коптера Dodeca Hexa X">
+  <img src="/assets/img/motororder-y6a-2d.png" width="200" alt="схема коптера Y6A">
+  <img src="/assets/img/motororder-octoquad-x-2d.png" width="200" alt="схема коптера Octo Quad X8">
+  <img src="/assets/img//motororder-dodecahexa-x-2d.png" width="200" alt="схема коптера Dodeca Hexa X">
 </p>
 
 Компромиссный вариант компоновки, когда требуется увеличить тягу аппарата, без увеличения габаритов. Однако, нижние винты дают на ~20% меньше тяги нежели верхние.
 Чаще всего используются при кинопроизводстве, когда необходима маневренность квадрокоптера, но при этом необходимо носить полноразмерную киношную камеру.
 
 <p align="center">
-  <img src="https://rotorbuilds.com/pictures/f_2092_XfeOZAxA039k2iN2bi51AGfeK.jpg" height="300" alt="коптер схемы Y6 с установленным на нем профессиональным микрофоном">
-  <img src="https://www.fpv-report.com/wp-content/uploads/2021/04/iFlight-FPV-Taurus-X8-HD-Cinelifter-e1619794423174-580x420.jpg" height="300" alt="коптер схемы Octo Quad X8 с установленной на нем киношной видеокамерой">
+  <img src="/assets/img/f_2092_XfeOZAxA039k2iN2bi51AGfeK.jpg" width="200" alt="коптер схемы Y6 с установленным на нем профессиональным микрофоном">
+  <img src="/assets/img/iFlight-FPV-Taurus-X8-HD-Cinelifter-e1619794423174-580x420.jpg" width="200" alt="коптер схемы Octo Quad X8 с установленной на нем киношной видеокамерой">
 </p>
 
 * Сохранение баланса полезной нагрузки и маневренности
@@ -108,17 +108,17 @@
 Есть такие классы, но они не так просты по схеме, как квадрокоптер, специфично управляются, собираются среди хоббистов крайне редко, и, в основном, в экспериментальных или развлекательных целях.
 
 <p align="center">
-  <img src="https://ardupilot.org/copter/_images/motororder-bicopter.png" height="200" alt="схема бикоптера">
-  <img src="https://ardupilot.org/copter/_images/motororder-tri-a-2d.png" height="200" alt="схема трикоптера">
+  <img src="https://ardupilot.org/copter/_images/motororder-bicopter.png" width="200" alt="схема бикоптера">
+  <img src="https://ardupilot.org/copter/_images/motororder-tri-a-2d.png" width="200" alt="схема трикоптера">
 </p>
 
 
 <p align="center">
-  <img src="https://i.ytimg.com/vi/t36SHm18Gkc/maxresdefault.jpg" height="300" alt="фотография бикоптера">
-  <img src="https://rcexplorer.se/wp-content/uploads/2015/08/MiniTrii1.jpg" height="300" alt="фотография трикоптера">
+  <img src="https://i.ytimg.com/vi/t36SHm18Gkc/maxresdefault.jpg" width="200" alt="фотография бикоптера">
+  <img src="https://rcexplorer.se/wp-content/uploads/2015/08/MiniTrii1.jpg" width="200" alt="фотография трикоптера">
 </p>
 
-## Области применения ЛА:
+## Области применения ЛА
 
 * аэросъемка (создание рекламы, роликов для платформ, кино)
 * гонки (класс F3U, если речь о дронах, также известен как drone racing; и множество классов для ЛА самолетного типа)
