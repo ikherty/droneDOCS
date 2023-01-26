@@ -8,11 +8,13 @@ export default defineConfig({
   themeConfig: {
     siteTitle: "Drone Docs",
     logo: "/assets/img/favicon.png",
-    outline: { label: "Содержание:" },
     footer: {
       message: 'Released under the <a href="https://github.com/vuejs/vitepress/blob/main/LICENSE">MIT License</a>.',
       copyright: 'Copyright © 2023-present <a href="https://github.com/ikherty">PropWash Service</a>',
     },
+    returnToTopLabel: "Наверх",
+    sidebarMenuLabel: "Меню",
+    outline: { label: "Содержание:" },
     docFooter: {
       prev: "Назад",
       next: "Далее",
