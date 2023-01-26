@@ -5,10 +5,10 @@ export default defineConfig({
   description: "Справочник по FPV хобби",
   lang: "ru",
   // base: "/droneDOCS/",
-  head: [["link", { rel: "icon", type: "image/x-icon", href: "/assets/img/favicon.png" }]],
+  head: [["link", { rel: "icon", type: "image/x-icon", href: "/favicon.png" }]],
   themeConfig: {
     siteTitle: "Drone Docs",
-    logo: "/assets/img/favicon.png",
+    logo: "/favicon.png",
     footer: {
       message: 'Released under the <a href="https://github.com/vuejs/vitepress/blob/main/LICENSE">MIT License</a>.',
       copyright: 'Copyright © 2023-present <a href="https://github.com/ikherty">PropWash Service</a>',
