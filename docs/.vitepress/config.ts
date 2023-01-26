@@ -1,4 +1,6 @@
-export default {
+import { defineConfig } from 'vitepress'
+
+export default defineConfig({
   title: "dronedocs",
   description: "guides and reviews",
   themeConfig: {
@@ -51,4 +53,4 @@ export default {
       }
     ],
   },
-};
+});
