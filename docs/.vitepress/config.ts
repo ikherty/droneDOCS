@@ -3,6 +3,8 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "Drone Docs",
   description: "Справочник по FPV хобби",
+  lang: "ru",
+  head: [["link", { rel: "icon", type: "image/x-icon", href: "/assets/img/favicon.png" }]],
   themeConfig: {
     siteTitle: 'Drone Docs',
     logo: '/assets/img/favicon.png',
@@ -33,10 +35,10 @@ export default defineConfig({
           { text: "Стили полета", link: "/intro/flightstyles" },
           { text: "Аппаратура", link: "/intro/tx" },
           { text: "Видеосвязь", link: "/intro/videoRx" },
-          { text: "Источники питания", link: "/intro/power" }
-        ]
-    },
-    {
+          { text: "Источники питания", link: "/intro/power" },
+        ],
+      },
+      {
         text: "Покупки",
         collapsible: false,
         items: [
@@ -71,5 +73,5 @@ export default defineConfig({
         ],
       },
     ],
-  }
-})
+  },
+});
