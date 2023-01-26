@@ -5,6 +5,6 @@
 
 node_modules
 
-.vitepress/cache
+docs/.vitepress/cache
 
 yarn-error.log

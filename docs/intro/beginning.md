@@ -47,16 +47,20 @@
 
 ## Квадрокоптер
 
-Имеет 4-ре винта и 4-ре мотора установленные на разных концах аппарата.
+Имеет четыре винта и четыре мотора установленные на разных концах аппарата.
 
-<p align="center">
+![foo](/assets/img/quad.png)
+
+---
+
+<p>
   <img src="/assets/img/quad.png" width="200" alt="коптер схемы Quad X">
   <img src="/assets/img/quadX.png" width="200" alt="коптер схемы Quad+">
 </p>
 
 Относительно прямого направления полета моторы могут быть в различных положениях, под разные задачи.
 
-<p align="center">
+<p>
   <img src="/assets/img/types-style-h-x-hybrid-X-box-mini-quad-frame-1024x819.jpg" width="600" alt="различные по форме рамы квадрокоптера">
 </p>
 

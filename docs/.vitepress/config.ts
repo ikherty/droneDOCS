@@ -4,6 +4,10 @@ export default defineConfig({
   title: "Drone Docs",
   description: "Справочник по FPV хобби",
   themeConfig: {
+    editLink: {
+      pattern: "https://github.com/ikherty/droneDOCS/blob/vitepress/docs/:path",
+      text: "Редактировать эту страницу GitHub",
+    },
     footer: {
       message: 'Released under the <a href="https://github.com/vuejs/vitepress/blob/main/LICENSE">MIT License</a>.',
       copyright: 'Copyright © 2023-present <a href="https://github.com/ikherty">PropWash Service</a>',
@@ -22,10 +26,10 @@ export default defineConfig({
           { text: "Стили полета", link: "/intro/flightstyles" },
           { text: "Аппаратура", link: "/intro/tx" },
           { text: "Видеосвязь", link: "/intro/videoRx" },
-          { text: "Источники питания", link: "/intro/power" }
-        ]
-    },
-    {
+          { text: "Источники питания", link: "/intro/power" },
+        ],
+      },
+      {
         text: "Покупки",
         collapsible: false,
         items: [
@@ -60,5 +64,5 @@ export default defineConfig({
         ],
       },
     ],
-  }
-})
+  },
+});
