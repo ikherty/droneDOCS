@@ -60,4 +60,3 @@
 | Беки (стабилизаторы напряжения 5В) | | [2-8s 5 В/2 а 12 В/3 А](https://a.aliexpress.com/_msYgjIw) | ![](https://ae04.alicdn.com/kf/Hebacf57a0bf045d49fe7d1ad7c8c817fe/14x11x1-IFlight-Micro-2-8S-BEC-5-2-12-3.jpg) |
 | SD карты |  | [поиск на Ali](https://aliexpress.ru/wholesale?SearchText=micro+sd) | ![](https://ae04.alicdn.com/kf/Hd84fa097082d4e72a61bfc84ec508aedN/Sd-MIXZA-Origina-BF-256-128-64-U3-80.jpg) |
 | Программатор stlink | на случай раскирпичивания | [stlink](https://a.aliexpress.com/_mLkPkg8) | ![](https://ae04.alicdn.com/kf/H95782f05306345268493bed60d7e20bae/1-Stlink-LINK-V2.jpg) |
-| position | description | [Купить на Али](link) | ![](URL) |

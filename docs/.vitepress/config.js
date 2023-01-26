@@ -2,13 +2,17 @@ export default {
   title: "dronedocs",
   description: "guides and reviews",
   themeConfig: {
+    footer: {
+      message: 'Released under the <a href="https://github.com/vuejs/vitepress/blob/main/LICENSE">MIT License</a>.',
+      copyright: 'Copyright © 2023-present <a href="https://github.com/ikherty">PropWash Service</a>'
+    },
     sidebar: [
       {
         text: "Введение",
         collapsible: false,
         items: [
           { text: "Купить Velocidrone", link: "/shop/sim" },
-          { text: "Вход в хобби", link: "/intro/README" },
+          { text: "Вход в хобби", link: "/intro/beginning" },
           { text: "Стили полета", link: "/intro/flightstyles" },
           { text: "Аппаратура", link: "/intro/tx" },
           { text: "Видеосвязь", link: "/intro/videoRx" },
@@ -51,4 +55,4 @@ export default {
       }
     ],
   },
-};
+}
