@@ -9,7 +9,7 @@ module.exports = {
     parser: "@typescript-eslint/parser",
     sourceType: "module",
   },
-  ignorePatterns: ["!docs/.vitepress", "docs/.vitepress/cache", "node_modules"],
+  ignorePatterns: ["!docs/.vitepress", "docs/.vitepress/cache", "docs/.vitepress/dist", "node_modules"],
   plugins: ["vue", "@typescript-eslint", "prettier"],
   rules: {
     "prettier/prettier": "warn",
