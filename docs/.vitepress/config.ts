@@ -5,7 +5,10 @@ export default defineConfig({
   description: "Справочник по FPV хобби",
   lang: "ru",
   // base: "/droneDOCS/",
-  head: [["link", { rel: "icon", type: "image/x-icon", href: "/favicon.png" }]],
+  head: [
+    ["link", { rel: "icon", type: "image/x-icon", href: "/favicon.png" }],
+    ["meta", { name: "yandex-verification", content: "ac3f48c559d3d12e" }],
+  ],
   themeConfig: {
     siteTitle: "Drone Docs",
     logo: "/favicon.png",
@@ -30,9 +33,9 @@ export default defineConfig({
       { icon: "youtube", link: "https://www.youtube.com/@PropWashService" },
     ],
     algolia: {
-      appId: 'R2IYF7ETH7',
-      apiKey: '599cec31baffa4868cae4e79f180729b',
-      indexName: 'docsearch'
+      appId: "R2IYF7ETH7",
+      apiKey: "599cec31baffa4868cae4e79f180729b",
+      indexName: "docsearch",
     },
     sidebar: [
       {
