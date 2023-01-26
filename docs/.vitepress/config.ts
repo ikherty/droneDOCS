@@ -14,8 +14,8 @@ export default defineConfig({
       copyright: 'Copyright © 2023-present <a href="https://github.com/ikherty">PropWash Service</a>',
     },
     docFooter: {
-      prev: "Предыдущий раздел",
-      next: "Следующий раздел",
+      prev: "Предыдущая страница",
+      next: "Следующая страница",
     },
     sidebar: [
       {
