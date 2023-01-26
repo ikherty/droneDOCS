@@ -14,6 +14,7 @@ export default defineConfig({
     },
     returnToTopLabel: "Наверх",
     sidebarMenuLabel: "Меню",
+    darkModeSwitchLabel: "Сменить тему",
     outline: { label: "Содержание:" },
     docFooter: {
       prev: "Назад",
