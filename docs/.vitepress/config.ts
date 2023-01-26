@@ -3,6 +3,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "Drone Docs",
   description: "Справочник по FPV хобби",
+  lang: "ru",
   head: [["link", { rel: "icon", type: "image/x-icon", href: "/assets/img/favicon.png" }]],
   themeConfig: {
     editLink: {
