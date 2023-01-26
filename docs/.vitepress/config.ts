@@ -6,24 +6,24 @@ export default defineConfig({
   lang: "ru",
   head: [["link", { rel: "icon", type: "image/x-icon", href: "/assets/img/favicon.png" }]],
   themeConfig: {
-    siteTitle: 'Drone Docs',
-    logo: '/assets/img/favicon.png',
-    outlineTitle: 'Содержание:',
+    siteTitle: "Drone Docs",
+    logo: "/assets/img/favicon.png",
+    outline: { label: "Содержание:" },
     footer: {
       message: 'Released under the <a href="https://github.com/vuejs/vitepress/blob/main/LICENSE">MIT License</a>.',
-      copyright: 'Copyright © 2023-present <a href="https://github.com/ikherty">PropWash Service</a>'
+      copyright: 'Copyright © 2023-present <a href="https://github.com/ikherty">PropWash Service</a>',
     },
     docFooter: {
       prev: "Назад",
       next: "Далее",
     },
     editLink: {
-      pattern: 'https://github.com/ikherty/droneDocs/edit/master/docs/:path',
-      text: 'Редактировать эту страницу на GitHub'
+      pattern: "https://github.com/ikherty/droneDocs/edit/master/docs/:path",
+      text: "Редактировать эту страницу на GitHub",
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/ikherty/droneDocs' },
-      { icon: 'youtube', link: 'https://www.youtube.com/@PropWashService' }
+      { icon: "github", link: "https://github.com/ikherty/droneDocs" },
+      { icon: "youtube", link: "https://www.youtube.com/@PropWashService" },
     ],
     sidebar: [
       {
