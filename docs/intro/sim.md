@@ -3,9 +3,13 @@
 ## Какой симулятор лучше купить?
 
 ### Velocidrone
+
 ### Liftoff
+
 ### The Uncrashed
+
 ### DCL the game
+
 ### Tryp
 
 ## Симуляторы для вупа
@@ -14,6 +18,4 @@
 
 ### tini whoop go
 
-
 ## Мероприятия в симах
-

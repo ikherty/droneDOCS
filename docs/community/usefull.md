@@ -1,4 +1,5 @@
 # Полезные ресурсы в одном месте
+
 ## Каналы с примерами полетов:
 
 <DT><A HREF="https://www.airvuz.com" >AirVUZ, платформа, где топ пилоты выкладывают свои ролики</A></DT>
@@ -46,7 +47,7 @@
 <DT><A HREF="https://www.youtube.com/@CopterTime" >CopterTime</A></DT>
 
 ## Для авиамоделистов полеты, сборки:
-  
+
 <DT><A HREF="https://www.youtube.com/channel/UCG367mifGbd4_K9UTqYQrVQ" >areyouroo</A></DT>
 <DT><A HREF="https://www.youtube.com/channel/UCatTqPsEwHGgtAXuC6WMq9w" >ALMODELS</A></DT>
 <DT><A HREF="https://www.youtube.com/@Skyglide" >Skyglide (Печатные самолеты)</A></DT>
@@ -55,9 +56,9 @@
 <DT><A HREF="http://www.parkflyer.ru/ru/blogs/view_entry/15827/" >ПАРКФЛАЕР</A></DT>
 <DT><A HREF="https://www.youtube.com/channel/UCMcdwq_cRfNyQZExxXLqfgw" >Joyplanes RC</A></DT>
 <DT><A HREF="https://www.youtube.com/channel/UC2QTy9BHei7SbeBRq59V66Q" >Andrew Newton</A></DT>
-  
 
 ## Полезные статьи:
+
 <DT><A HREF="http://www.fireniko.ru/2017/04/%D0%B4%D0%BB%D0%B8%D0%BD%D0%B0-%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B9-%D1%87%D0%B0%D1%81%D1%82%D0%B8-%D0%B0%D0%BD%D1%82%D0%B5%D0%BD%D0%BD-%D1%83-%D0%BF%D1%80%D0%B8%D0%B5%D0%BC%D0%BD%D0%B8/" >Длина активной части антенны</A></DT>
 <DT><A HREF="https://bester-ltd.ru/articl/teoriya_praktika/krugovaya_polyarizatsiya/krugovaya_polyarizatsiya.html" >Антенны эллептической поляризации</A></DT>
 <DT><A HREF="https://blog.rcdetails.info/kak-vybrat-motory-dlya-kvadrokoptera-ili-gonochnogo-drona/" >Выбор мотора</A></DT>
@@ -72,32 +73,30 @@
 
 https://www.youtube.com/playlist?list=PLTQSXsG86pGfyZm5ac6-ZtQsEniUJIE9o
 
-
 ## Дронин с альтернативой pid регулятору:
 
 https://github.com/d-ronin/dRonin
 
 ## Ценосравнители:
 
-https://couponsfromchina.com/2019/  
+https://couponsfromchina.com/2019/
 
 https://rcsearch.info
-  
+
 ## Статистика от betaflight конфигуратора:
-  
+
 https://datastudio.google.com/u/0/reporting/1pK1PFw0eWmsgl2npvuzwAqscVzlhJvuF/page/kctPB?s=kfHdPaVFYUU
-  
-  
+
 ## Калькуляторы:
 
 https://kernel-machine.github.io/INavMagAlignHelper/ - поворот компаса в INAV
-  
+
 https://oscarliang.com/js/fpvrange.html - расчет дальности по характеристикам видеосистемы
 
 https://www.desmos.com/calculator/oaa7ealifn?lang=ru - калькулятор пересчета рейтов из actual в betaflight
-  
+
 https://brushlessmotorsparade.com/ - подбор мотора
-  
+
 https://lan143.github.io/ - слайдеры как в betaflight для kiss ПИДов
-  
+
 https://bf43-safe-migration.robertodedomenico.it/ - мигратор диффа из betaflight 4.2 в 4.3 (использовать крайне внимательно)

@@ -11,6 +11,7 @@
 Содержимое страниц лежит в папке `docs`. Pull request'ы по улучшению ресурса приветствуются.
 
 Локальный запуск и отладка:
+
 ```shell
 yarn init
 yarn docs:dev
@@ -18,6 +19,6 @@ yarn docs:dev
 
 ### Авторы
 
-* Валентина, Михаил - команда [PropWash Service](https://github.com/ikherty)
-* Андрей Щ. - [EIIIE](https://github.com/EIIIE)
-* Дмитрий В. - [dimazollo](https://github.com/dimazollo)
+- Валентина, Михаил - команда [PropWash Service](https://github.com/ikherty)
+- Андрей Щ. - [EIIIE](https://github.com/EIIIE)
+- Дмитрий В. - [dimazollo](https://github.com/dimazollo)
