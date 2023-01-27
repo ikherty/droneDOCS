@@ -3,6 +3,7 @@
 ## Какой симулятор лучше купить?
 
 ### Velocidrone
+https://www.velocidrone.com/shop
 
 ### Liftoff
 
@@ -14,8 +15,13 @@
 
 ## Симуляторы для вупа
 
-### Velocidrone microdrones
+## Liftoff®: Micro Drones
+https://store.steampowered.com/app/1432320/Liftoff_Micro_Drones/
 
-### tini whoop go
+### Velocidrone Micro Class Quads
+https://www.velocidrone.com/shop
+
+### Tiny Whoop GO
+https://www.tinywhoopclubnetwork.com/twgo
 
 ## Мероприятия в симах

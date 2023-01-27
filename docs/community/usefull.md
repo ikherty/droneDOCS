@@ -61,6 +61,8 @@
 
 <DT><A HREF="http://www.fireniko.ru/2017/04/%D0%B4%D0%BB%D0%B8%D0%BD%D0%B0-%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B9-%D1%87%D0%B0%D1%81%D1%82%D0%B8-%D0%B0%D0%BD%D1%82%D0%B5%D0%BD%D0%BD-%D1%83-%D0%BF%D1%80%D0%B8%D0%B5%D0%BC%D0%BD%D0%B8/" >Длина активной части антенны</A></DT>
 <DT><A HREF="https://bester-ltd.ru/articl/teoriya_praktika/krugovaya_polyarizatsiya/krugovaya_polyarizatsiya.html" >Антенны эллептической поляризации</A></DT>
+<DT><A HREF="https://www.maartenbaert.be/quadcopters/antennas/pagoda-antenna/" > Про пагоду и клевер антенны</A></DT>
+<DT><A HREF="https://dr1.by/fpv-antena-tests/"> Тесты антенн</A></DT>
 <DT><A HREF="https://blog.rcdetails.info/kak-vybrat-motory-dlya-kvadrokoptera-ili-gonochnogo-drona/" >Выбор мотора</A></DT>
 <DT><A HREF="https://howtomechatronics.com/how-it-works/how-brushless-motor-and-esc-work/" >How Brushless Motor and ESC Work</A></DT>  
 <DT><A HREF="https://pikabu.ru/story/letatelnyiy_post_7_propelleryi_4404295" >О пропах</A></DT>
