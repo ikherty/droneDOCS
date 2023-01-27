@@ -1,3 +1,5 @@
+<meta name="yandex-verification" content="70a661cfc8a7eb46" />
+
 # О ресурсе
 
 ![](./assets/hero-bg.jpg)
