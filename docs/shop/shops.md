@@ -41,7 +41,7 @@
 <DT><A HREF="https://getfpv.com" >GetFPV (нет доставки в РФ, нужны перевозчики)</A> </DT>
 <DT><A HREF="https://hobbycool.com" >Hobbycool</A></DT>
 <DT><A HREF="https://hobbyking.com" >Hobbyking</A></DT>
-<DT><A HREF="https://www.forcomposite.ru/catalog/tovary/plastiny/">Rарбоновые и стеклопластиковые пластины</A></DT>
+<DT><A HREF="https://www.forcomposite.ru/catalog/tovary/plastiny/">Карбоновые и стеклопластиковые пластины</A></DT>
 <DT><A HREF="https://www.undergroundfpv.com/" >UndergroundFPV</A></DT>
 <DT><A HREF="https://www.digikey.com/" >DigiKey</A></DT>
 <DT><A HREF="https://www.catalystmachineworks.com/">Catalyst Machineworks</A></DT>
