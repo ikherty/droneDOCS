@@ -7,7 +7,7 @@ export default defineConfig({
   // base: "/droneDOCS/",
   head: [
     ["link", { rel: "icon", type: "image/x-icon", href: "/favicon.png" }],
-    ["meta", { name: "yandex-verification", content: "ac3f48c559d3d12e" }],
+    ["meta", { name: "yandex-verification", content: "70a661cfc8a7eb46" }],
   ],
   themeConfig: {
     siteTitle: "Drone Docs",
