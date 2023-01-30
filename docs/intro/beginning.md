@@ -98,8 +98,8 @@
 Чаще всего используются при кинопроизводстве, когда необходима маневренность квадрокоптера, но при этом необходимо носить полноразмерную киношную камеру.
 
 <p align="center">
-  <img src="/assets/img/f_2092_XfeOZAxA039k2iN2bi51AGfeK.webp" width="200" alt="коптер схемы Y6 с установленным на нем профессиональным микрофоном">
-  <img src="/assets/img/iFlight-FPV-Taurus-X8-HD-Cinelifter-e1619794423174-580x420.webp" width="200" alt="коптер схемы Octo Quad X8 с установленной на нем киношной видеокамерой">
+  <img src="/assets/img/f_2092_XfeOZAxA039k2iN2bi51AGfeK.webp" width="600" alt="коптер схемы Y6 с установленным на нем профессиональным микрофоном">
+  <img src="/assets/img/iFlight-FPV-Taurus-X8-HD-Cinelifter-e1619794423174-580x420.webp" width="600" alt="коптер схемы Octo Quad X8 с установленной на нем киношной видеокамерой">
 </p>
 
 - Сохранение баланса полезной нагрузки и маневренности
@@ -115,8 +115,8 @@
 </p>
 
 <p align="center">
-  <img src="https://i.ytimg.com/vi/t36SHm18Gkc/maxresdefault.jpg" width="600" alt="фотография бикоптера">
-  <img src="https://rcexplorer.se/wp-content/uploads/2015/08/MiniTrii1.jpg" width="600" alt="фотография трикоптера">
+  <img src="/assets/img/maxresdefault.webp" width="600" alt="фотография бикоптера">
+  <img src="/assets/img//MiniTrii1.webp" width="600" alt="фотография трикоптера">
 </p>
 
 ## Области применения ЛА
