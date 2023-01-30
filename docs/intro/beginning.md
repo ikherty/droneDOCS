@@ -115,8 +115,8 @@
 </p>
 
 <p align="center">
-  <img src="https://i.ytimg.com/vi/t36SHm18Gkc/maxresdefault.jpg" width="300" alt="фотография бикоптера">
-  <img src="https://rcexplorer.se/wp-content/uploads/2015/08/MiniTrii1.jpg" width="300" alt="фотография трикоптера">
+  <img src="https://i.ytimg.com/vi/t36SHm18Gkc/maxresdefault.jpg" width="600" alt="фотография бикоптера">
+  <img src="https://rcexplorer.se/wp-content/uploads/2015/08/MiniTrii1.jpg" width="600" alt="фотография трикоптера">
 </p>
 
 ## Области применения ЛА
