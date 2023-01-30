@@ -35,9 +35,9 @@ export default defineConfig({
       { icon: "youtube", link: "https://www.youtube.com/@PropWashService" },
     ],
     algolia: {
-      appId: "R2IYF7ETH7",
-      apiKey: "599cec31baffa4868cae4e79f180729b",
-      indexName: "docsearch",
+      appId: "T2WUNRWNAH",
+      apiKey: "682cbd880443f6771b3b4c37c137984e",
+      indexName: "propwashservice_ru",
     },
     sidebar: [
       {
