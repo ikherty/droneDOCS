@@ -91,7 +91,7 @@
 <p align="center">
   <img src="/assets/img/motororder-y6a-2d.webp" width="200" alt="схема коптера Y6A">
   <img src="/assets/img/motororder-octoquad-x-2d.webp" width="200" alt="схема коптера Octo Quad X8">
-  <img src="/assets/img//motororder-dodecahexa-x-2d.webp" width="200" alt="схема коптера Dodeca Hexa X">
+  <img src="/assets/img/motororder-dodecahexa-x-2d.webp" width="200" alt="схема коптера Dodeca Hexa X">
 </p>
 
 Компромиссный вариант компоновки, когда требуется увеличить тягу аппарата, без увеличения габаритов. Однако, нижние винты дают на ~20% меньше тяги нежели верхние.
@@ -110,8 +110,8 @@
 Есть такие классы, но они не так просты по схеме, как квадрокоптер, специфично управляются, собираются среди хоббистов крайне редко, и, в основном, в экспериментальных или развлекательных целях.
 
 <p align="center">
-  <img src="motororder-bicopter.webp" width="300" alt="схема бикоптера">
-  <img src="motororder-tri-a-2d.webp" width="300" alt="схема трикоптера">
+  <img src="/assets/img/motororder-bicopter.webp" width="300" alt="схема бикоптера">
+  <img src="/assets/img/motororder-tri-a-2d.webp" width="300" alt="схема трикоптера">
 </p>
 
 <p align="center">
