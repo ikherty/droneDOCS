@@ -55,7 +55,7 @@ KIT набор самолета часто подразумевает тольк
 
 Из класса гоночных: foxeer caesar, iflight mach r5, hglrc wind5, QUADRO.TEAM TYPE-R.
 
-Из класса фристайловых: iflight nazgul/evoque/chimera5/titan, geprc mark 5.
+Из класса фристайловых: iflight nazgul/evoque/chimera5/titan/aos 5, geprc mark 5.
 
 Из класса долголетов: geprc crocodile baby 4/5/7 pro, hglrc rekon 4/5/7, flywoo explorer, iflight chimera7,
 
