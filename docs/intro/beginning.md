@@ -51,15 +51,15 @@
 
 Имеет четыре винта и четыре мотора установленные на разных концах аппарата.
 
-<p align="center">
-  <img src="/assets/img/quad.webp" width="200" alt="коптер схемы Quad X">
-  <img src="/assets/img/quadX.webp" width="200" alt="коптер схемы Quad+">
+<p style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap">
+    <img style="height: 300px" src="/assets/img/quad.webp" alt="коптер схемы Quad X" />
+    <img style="height: 300px" src="/assets/img/quadX.webp" alt="коптер схемы Quad+" />
 </p>
 
 Относительно прямого направления полета моторы могут быть в различных положениях, под разные задачи.
 
-<p align="center">
-  <img src="/assets/img/types-style-h-x-hybrid-X-box-mini-quad-frame-1024x819.webp" width="600" alt="различные по форме рамы квадрокоптера">
+<p style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap">
+    <img src="/assets/img/types-style-h-x-hybrid-X-box-mini-quad-frame-1024x819.webp" width="600" alt="различные по форме рамы квадрокоптера">
 </p>
 
 Квадрокоптер - самый популярный тип. Используется как для полетов в свое удовольствие, так и для гонок, и для коммерческих целей.
@@ -68,38 +68,38 @@
 
 Аппараты с парным числом моторов (более 4-х) и пропеллеров, расположенных в одной плоскости вокруг тела аппарата.
 
-<p align="center">
-  <img src="/assets/img/motororder-hexa-x-2d.webp" width="200" alt="Схематическое изображение Hexa X коптера">
-  <img src="/assets/img/motororder-octo-x-2d.webp" width="200" alt="Схематическое изображение Octo X коптера">
+<p style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap">
+    <img style="height: 300px" src="/assets/img/motororder-hexa-x-2d.webp" alt="Схематическое изображение Hexa X коптера">
+    <img style="height: 300px" src="/assets/img/motororder-octo-x-2d.webp" alt="Схематическое изображение Octo X коптера">
 </p>
 
 Большая часть создана для профессионального использования и подъема в небо тяжелых грузов.
 Чаще всего применяются в видеопроизводстве, агротехнике, сканировании местности.
 
-<p align="center">
-  <img src="/assets/img/autodesk-octocopter-4.webp" width="200" alt="октокоптер с подвешенной на нем профессиональной фотокамерой">
-  <img src="/assets/img/adobestock_165576005.webp" width="200" alt="октокоптер летит над полем с посевами и распыляет удобрения">
+<p style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap">
+    <img style="height: 300px" src="/assets/img/autodesk-octocopter-4.webp" alt="октокоптер с подвешенной на нем профессиональной фотокамерой">
+    <img style="height: 300px" src="/assets/img/adobestock_165576005.webp" alt="октокоптер летит над полем с посевами и распыляет удобрения">
 </p>
 
 - Максимальная полезная нагрузка
 - Теоретическая устойчивость к потере одного (нескольких) моторов
 
-## Коаксиальные аппараты (X8, Y6)
+## Соосные аппараты (X8, Y6)
 
 Дроны у которых моторы установлены друг над другом. Обычно для названия используются сокращения, буква обозначает количество концов рамы, число - количество установленных моторов.
 
-<p align="center">
-  <img src="/assets/img/motororder-y6a-2d.webp" width="200" alt="схема коптера Y6A">
-  <img src="/assets/img/motororder-octoquad-x-2d.webp" width="200" alt="схема коптера Octo Quad X8">
-  <img src="/assets/img/motororder-dodecahexa-x-2d.webp" width="200" alt="схема коптера Dodeca Hexa X">
+<p style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap">
+    <img style="height: 250px" src="/assets/img/motororder-y6a-2d.webp" alt="схема коптера Y6A">
+    <img style="height: 250px" src="/assets/img/motororder-octoquad-x-2d.webp" alt="схема коптера Octo Quad X8">
+    <img style="height: 250px" src="/assets/img/motororder-dodecahexa-x-2d.webp" alt="схема коптера Dodeca Hexa X">
 </p>
 
 Компромиссный вариант компоновки, когда требуется увеличить тягу аппарата, без увеличения габаритов. Однако, нижние винты дают на ~20% меньше тяги нежели верхние.
 Чаще всего используются при кинопроизводстве, когда необходима маневренность квадрокоптера, но при этом необходимо носить полноразмерную киношную камеру.
 
-<p align="center">
-  <img src="/assets/img/f_2092_XfeOZAxA039k2iN2bi51AGfeK.webp" width="600" alt="коптер схемы Y6 с установленным на нем профессиональным микрофоном">
-  <img src="/assets/img/iFlight-FPV-Taurus-X8-HD-Cinelifter-e1619794423174-580x420.webp" width="600" alt="коптер схемы Octo Quad X8 с установленной на нем киношной видеокамерой">
+<p style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap">
+    <img style="height: 250px" src="/assets/img/f_2092_XfeOZAxA039k2iN2bi51AGfeK.webp" alt="коптер схемы Y6 с установленным на нем профессиональным микрофоном">
+    <img style="height: 250px" src="/assets/img/iFlight-FPV-Taurus-X8-HD-Cinelifter-e1619794423174-580x420.webp" alt="коптер схемы Octo Quad X8 с установленной на нем киношной видеокамерой">
 </p>
 
 - Сохранение баланса полезной нагрузки и маневренности
@@ -109,14 +109,14 @@
 
 Есть такие классы, но они не так просты по схеме, как квадрокоптер, специфично управляются, собираются среди хоббистов крайне редко, и, в основном, в экспериментальных или развлекательных целях.
 
-<p align="center">
-  <img src="/assets/img/motororder-bicopter.webp" width="300" alt="схема бикоптера">
-  <img src="/assets/img/motororder-tri-a-2d.webp" width="300" alt="схема трикоптера">
+<p style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap">
+    <img style="height: 250px" src="/assets/img/motororder-bicopter.webp" alt="схема бикоптера">
+    <img style="height: 250px" src="/assets/img/motororder-tri-a-2d.webp" alt="схема трикоптера">
 </p>
 
-<p align="center">
-  <img src="/assets/img/maxresdefault.webp" width="600" alt="фотография бикоптера">
-  <img src="/assets/img//MiniTrii1.webp" width="600" alt="фотография трикоптера">
+<p style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap">
+    <img style="height: 250px" src="/assets/img/maxresdefault.webp" alt="фотография бикоптера">
+    <img style="height: 250px" src="/assets/img/MiniTrii1.webp" alt="фотография трикоптера">
 </p>
 
 ## Области применения ЛА
