@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r,d as s}from"./app.4fac507e.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"settings/skyzone.md"}'),i={name:"settings/skyzone.md"},o=s("",6),a=[o];function n(D,p,_,l,c,B){return r(),t("div",null,a)}const m=e(i,[["render",n]]);export{h as __pageData,m as default};
