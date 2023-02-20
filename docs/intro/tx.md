@@ -1,3 +1,12 @@
+<style lang="scss">
+.image-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 40px;
+}
+</style>
+
 # Как выбрать аппаратуру радиоуправления?
 
 > Авторы: [Андрей Щ.](https://github.com/EIIIE), [Валентина](https://github.com/ikherty)
