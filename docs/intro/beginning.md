@@ -38,7 +38,7 @@
 
 - [Словарь](https://propwashservice.ru/community/glossarium.html)
 - [Аппаратура радиоуправления](https://propwashservice.ru/intro/tx.html)
-- [Симулятор]()
+- Симулятор
 - [Очки или шлем](https://propwashservice.ru/intro/videoRx.html)
 - [Дрон](https://propwashservice.ru/intro/flightstyles.html)
 - [Аккумуляторы и зарядное устройство](https://propwashservice.ru/intro/power.html)
