@@ -113,7 +113,7 @@
 
 👉 Техпомощь (by Alexander Chuykin) https://t.me/tex_otd
 
-👉 FPV World (by Kiriodozaki) https://t.me/fpvworld_chat
+👉 FPV Guild (by Kiriodozaki) https://t.me/fpvguild
 
 👉 setUP (by Alex setUP) https://t.me/setUP_m
 
