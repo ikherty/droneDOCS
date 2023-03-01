@@ -139,7 +139,7 @@
 
 👉 По запросу https://t.me/hiflowfpv можно попасть в чат Курска
 
-👉 По запросу https://t.me/C21735 можно попасть в чат Дальнего Востока
+👉 Дальний Восток https://t.me/fpvdvru 
 
 👉 Белгород https://t.me/dronerace31
 
@@ -163,7 +163,7 @@
 
 👉 FPV Armenia (Армения) https://t.me/fpv_armenia
 
-👉 FPV Antalya https://t.me/fpv_antalya
+👉 FPV Antalya (Турция) https://t.me/fpv_antalya
 
 👉 Беларусь dr1by https://t.me/dr1by
 
