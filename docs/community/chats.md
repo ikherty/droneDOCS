@@ -161,6 +161,8 @@
 
 👉 FPV комьюнити по Уфе и Республике Башкортостан https://t.me/fpvufarb
 
+👉 FPV Бали https://t.me/bali_fpv
+
 👉 FPV Georgia (Грузия) https://t.me/fpv_georgia
 
 👉 FPV Armenia (Армения) https://t.me/fpv_armenia
