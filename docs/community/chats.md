@@ -97,7 +97,9 @@
 
 👉 DJI FPV https://t.me/djifpvrus
 
-👉 Avatar HD FPV system https://t.me/avatarfpv
+👉 Avatar digital system, Fatshark / Walksnail https://t.me/avatarfpv
+
+👉 Walksnail Avatar (ru) https://t.me/hdfpv
 
 👉 SharkByte FPV / HDZERO https://t.me/SharkByteFPVru
 
