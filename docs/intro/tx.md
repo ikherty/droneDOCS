@@ -17,7 +17,7 @@
 Положение стиков отправляются на радиопередатчик (transmitter, tx, в аппаратуре), преобразующий сигналы в команды определенного протокола передачи данных. Команды передаются коптеру "по воздуху" на определенной частоте (обычно 900 МГЦ или 2.4 ГГЦ). На борту коптера команды принимает радиоприемник (receiver, rx) и отправляет их на полетный контроллер (flight controller, FC) для исполнения.
 
 <p class="image-container">
-  <img src="/assets/img/tx-rx.webp" width="600" alt="связь между аппаратурой и дроном" title="связь между аппаратурой и дроном">
+  <img src="/assets/img/tx-rx.webp" width="600" alt="Связь между аппаратурой и дроном" title="Связь между аппаратурой и дроном">
 </p>
 
 ## Протоколы передачи данных
@@ -64,24 +64,26 @@
 
 Аппаратура и коптер общаются между собой при помощи передатчика и приемника.
 Передатчик в аппаратуре может быть как встроенным (распаянным на плате), так и внешним (вставляющимся в слот на задней части аппаратуры). Встроенный модуль, как правило, удобнее ввиду компактности, в некоторых случаях потребляет меньше питания, чем внешний. Максимальная мощность внешнего передатчика может быть ограничена 250мВт. Однако этого достаточно даже для 50 км. Если глянуть [таблицу с тестами на сайте ELRS](https://www.expresslrs.org/software/switch-config/), то в некоторых случаях может быть мало.
+> Ниже представлены аппаратура без кожуха и внешний модуль ELRS. На плате можно найти модуль-передачтик. Внешний же модуль-передатчик устанавливается в специальный разъём снаружи аппаратуры
 
 <p class="image-container">
-  <img src="http://www.multirotorguide.com/wp-content/uploads/2021/06/TBS-Mambo-Tracer-module-and-PCB-antenna-picture-by-LIVYU-768x520.jpg" height="300" alt="аппаратура без кожуха">
-  <img src="https://www.fpvknowitall.com/wp-content/uploads/2021/12/happy-odel-2.4ghz-es24tx-es24tx-Express-fpv-know-it-all-joshua-bardwell.webp" height="400" alt="модуль ELRS">
+  <img src="http://www.multirotorguide.com/wp-content/uploads/2021/06/TBS-Mambo-Tracer-module-and-PCB-antenna-picture-by-LIVYU-768x520.jpg" height="300" alt="Аппаратура без кожуха" title="Аппаратура без кожуха">
+  <img src="https://www.fpvknowitall.com/wp-content/uploads/2021/12/happy-odel-2.4ghz-es24tx-es24tx-Express-fpv-know-it-all-joshua-bardwell.webp" height="400" alt="Внешний модуль ELRS" title="Внешний модуль ELRS">
 </p>
 
-Приемник - это небольшая плата с антенной(ами), устанавливающаяся на дрон и подключающаяся к его полетному контроллеру на uart.
+Приемник - это небольшая плата с антенной(ами), устанавливающаяся на дрон и подключающаяся к его полетному контроллеру на [UART (Universal Asynchronous Receiver-Transmitter, универсальный асинхронный приёмопередатчик)](https://ru.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B0%D1%81%D0%B8%D0%BD%D1%85%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%B8%D1%91%D0%BC%D0%BE%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%82%D1%87%D0%B8%D0%BA).
+> Ниже представлены приемник большого радиуса Happymodel ELRS и приемник Ghost
 
 <p class="image-container">
-    <img style="height: 300px" src="https://www.fpvknowitall.com/wp-content/uploads/2020/06/xsr-receiver-fpv-know-it-all-joshua-bardwell.jpg" alt="Приемник большого радиуса Happymodel express SLRS ELRS 2.4GHz">
-    <img style="height: 300px" src="https://www.fpvknowitall.com/wp-content/uploads/2021/04/immersion-rc-ghost-atto-reciever-fpv-know-it-all-joshua-bardwell.jpg" alt="Приемник Ghost">
+    <img style="height: 300px" src="https://www.fpvknowitall.com/wp-content/uploads/2020/06/xsr-receiver-fpv-know-it-all-joshua-bardwell.jpg" alt="Приемник большого радиуса Happymodel ELRS 2.4GHz" title="Приемник большого радиуса Happymodel ELRS 2.4GHz">
+    <img style="height: 300px" src="https://www.fpvknowitall.com/wp-content/uploads/2021/04/immersion-rc-ghost-atto-reciever-fpv-know-it-all-joshua-bardwell.jpg" alt="Приемник Ghost" title="Приемник Ghost">
 </p>
 
 **Не важны различия в производителях передатчика и приемника, пока они оба работают на одном протоколе. Но если речь идет про ELRS, лучше изучить рекомендации и тесты железа разных производителей.**
 
 ## Выбор аппаратуры
 
-Обновляемая статья на английском языке про аппаратуры, достойные внимания - https://oscarliang.com/radio-transmitter/
+Обновляемая статья на английском языке про аппаратуры, достойная внимания - https://oscarliang.com/radio-transmitter/
 
 Краткий перечень на английском языке без "воды" - https://www.fpvknowitall.com/fpv-shopping-list-controller-and-receiver/
 
@@ -91,31 +93,31 @@
 
 Настоятельно рекомендуется рассматривать аппаратуры, работающие на ПО OpenTX (потомком которого является EdgeTX). Это как операционная система компьютера. С ним ты будешь уверен, что спокойно подключишь к симулятору и будешь продолжать получать обновления с новыми фишками.
 
-**RADIOMASTER TX16S** - Если у тебя большие руки, нужно много свитчей (переключателей, тумблеров, потов/крутилок), хочется (зачем-то) большой экран
+[**RADIOMASTER TX16S**](https://www.radiomasterrc.com/products/tx16s-mark-ii-radio-controller) - Если у тебя большие руки, нужно много свитчей (переключателей, тумблеров, потов/крутилок), хочется (зачем-то) большой экран.
 
 Цены обычно от 200$, есть версии со встроенным ELRS (внимательно читайте описание, не путайте с мультимодулем (4in1, cc2500), который не включает в себя ELRS и Crossfire). Можно поставить внешний передатчик по вкусу (30-250$). Существует в различных модификациях - цветные корпусы, алюминиевые стики, с тачскрином. Дополнительно разноцветные моды есть, в целом, у всех аппаратур от radiomaster.
 
 <p class="image-container">
-  <img src="https://www.fpvknowitall.com/wp-content/uploads/2020/06/tx16s-fpv-know-it-all-joshua-bardwell.jpg" height="400" alt="аппаратура RADIOMASTER TX16S">
+  <img src="https://www.fpvknowitall.com/wp-content/uploads/2020/06/tx16s-fpv-know-it-all-joshua-bardwell.jpg" height="400" alt="Аппаратура RADIOMASTER TX16S" title="Аппаратура RADIOMASTER TX16S">
 </p>
 
-**RADIOMASTER BOXER** - Средний вариант по габаритам с полноценными стиками, минимально необходимым количеством свитчей, черно-белый экран (это не недостаток, он нужен только для отображения меню настроек и моделей)
+[**RADIOMASTER BOXER**](https://www.radiomasterrc.com/products/boxer-radio-controller-m2?_pos=1&_sid=194aad403&_ss=r) - Средний вариант по габаритам с полноценными стиками, минимально необходимым количеством свитчей, черно-белый экран (это не недостаток, он нужен только для отображения меню настроек и моделей)
 
 Есть также вариант со встроенным ELRS модулем на 1Вт и мультимодулями. Цена 130-160$. Считается компромисом между tx16 и компактными вариантами, которые ниже по списку. Подойдет большинству начинающих и не только.
 
 <p class="image-container">
-  <img src="https://cdn.shopify.com/s/files/1/0609/8324/7079/products/BOXER-001_720x.jpg?v=1669108916" height="400" alt="аппаратура RADIOMASTER boxer">
+  <img src="https://cdn.shopify.com/s/files/1/0609/8324/7079/products/BOXER-001_720x.jpg?v=1669108916" height="400" alt="Аппаратура RADIOMASTER Boxer" title="Аппаратура RADIOMASTER Boxer">
 </p>
 
-**RADIOMASTER TX12 mk2** - Компактная версия "кирпичика" с мини версией стиков.
+[**RADIOMASTER TX12 mk2**](https://www.radiomasterrc.com/products/tx12-mark-ii-radio-controller?_pos=1&_sid=02bbb6530&_ss=r) - Компактная версия "кирпичика" с мини версией стиков.
 
 Цены обычно от 80$, есть версии со встроенным ELRS (внимательно читайте описание, можно поставить внешний передатчик по вкусу (30-250$)). Отдельно можно приобрести цветные корпусы, алюминиевые стики. Также неплохой вариант для начала, когда не понятно, что хочется, и нужна компактность. Легко будет продать в любой момент на барахолке, если по какой-либо причине "не зайдет".
 
 <p class="image-container">
-  <img src="https://cdn.shopify.com/s/files/1/0609/8324/7079/products/1000X1000-2_1800x1800.jpg?v=1659343246" height="400" alt="аппаратура RADIOMASTER TX12">
+  <img src="https://cdn.shopify.com/s/files/1/0609/8324/7079/products/1000X1000-2_1800x1800.jpg?v=1659343246" height="400" alt="Аппаратура RADIOMASTER TX12" title="Аппаратура RADIOMASTER TX12">
 </p>
 
-**TBS TANGO 2** - Компактный вариант со строенным crossfire передатчиком. Подходит, если цель путешествовать налегке. Не путать с первой версией :)
+[**TBS TANGO 2**](https://www.team-blacksheep.com/products/prod:tbs_tango_2) - Компактный вариант со строенным crossfire передатчиком. Подходит, если цель путешествовать налегке. Не путать с первой версией :)
 
 Есть обычная версия за 160$ и pro за 200$. В России цены от 20 тыс. руб., продавцы объсняют такую разницу сложностями поставок. Основное отличие pro версии в складывающихся стиках, но явного преимущества в этом нет. Встроенный передатчик TBS CROSSFIRE, мощность зависит от версии платы. При особой любви и необходимости можно установить внешний передатчик. Также есть вариант встроить ELRS модуль с небольшой мощностью для полетов неподалеку, как [в этом видео](https://www.youtube.com/watch?v=2cn96u_nlnw). Крайне маленький экран, но для полетов в режиме FPV он и не нужен. Кнопки вместо тумблеров - дело на любителя, но не всегда получается моментально "задизармить" коптер (то есть выключить моторы). Бывают проблемы со стиками: поскольку используется "супер технология" с одним датчиком на 2 оси, калибровку надо производить строго по инструкции производителя. Сами стики "разведены" на материнской плате, поэтому нет возможности легко заменить их на другие, как в случае с аппаратурами Radiomaster. Иногда бывают проблемы с глюками экрана, "окирпичиванием" модуля при прошивке, требованием калибровки при запуске. Но, несмотря на это, все еще пользуется популярностью.
 
@@ -123,35 +125,38 @@
   <img src="https://www.team-blacksheep.com/img/gallery/A7300896.JPG" height="400" alt="аппаратура TBS Tango 2">
 </p>
 
-**Jumper T-pro, Jumper T-Lite, Radiomaster Zorro** - когда хочется аналог TBS Tango со встроенным ELRS
+**[Jumper T-Pro](https://www.jumper-rc.com/products/transmitters/t-pro/), [Jumper T-Lite](https://www.jumper-rc.com/products/transmitters/t-lite/), [Radiomaster Zorro](https://www.radiomasterrc.com/products/zorro-radio-controller?_pos=1&_sid=49612d66c&_ss=r)** - когда хочется аналог TBS Tango со встроенным ELRS
 
-Цены 50-100$, некий компромисс, когда хочется компактности, есть версии со встроенным модулем ELRS и мультимодулем, не путать! У всех претендентов есть свои плюсы и минусы, рекомендуется глянуть обзоры перед покупкой. У [Валентины](https://github.com/ikherty) аппаратура Zorro. Главный недостаток этой аппаратуры - аккумуляторы 18350 (нестандартный труднодоступный вариант Li-Ion аккумуляторов). Встроенная зарядка в аппаратуре не балансировала ячейки при зарядке как следует, и, как итог, аккумулятор испортился и требует постоянного контроля за нагревом. Приходится использовать внешний 2S аккумулятор. По габаритам аппаратура как Radiomaster TX12. Eсли бы они в версии ELRS вышли одновременно, то приобрела бы ТХ12, поскольку там удобные 18650 ячейки lion.
+Цены 50-100$, некий компромисс, когда хочется компактности, есть версии со встроенным модулем ELRS и мультимодулем, не путать! У всех претендентов есть свои плюсы и минусы, рекомендуется глянуть обзоры перед покупкой. У [Валентины](https://github.com/ikherty) аппаратура Zorro. Главный недостаток этой аппаратуры - аккумуляторы 18350 (нестандартный труднодоступный вариант Li-Ion аккумуляторов). Встроенная зарядка в аппаратуре не балансировала ячейки при зарядке как следует, и, как итог, аккумулятор испортился и требует постоянного контроля за нагревом. Приходится использовать внешний 2S аккумулятор. По габаритам аппаратура как Radiomaster TX12. Eсли бы они в версии ELRS вышли одновременно, то приобрела бы ТХ12, поскольку там удобные 18650 ячейки Li-Ion.
+Аппаратуры Jumper T-Pro и Jumper T-Lite подойдут тем, кто хочет минимальных вложений для входа в хобби (а вдруг не понравится/не получится - зачем тратиться). Но не нужно думать, что данные аппаратуры совсем плохи. Из-за их доступности многие дроноводы не бояться кастомизировать и экспериментировать. В Интернете можно найти пошаговые инструкции как в Jumper T-Lite запихнуть стики [AG 01](https://www.radiomasterrc.com/products/ag01-cnc-hall-gimbal-sets-new-colors) (данные стики считаются крутыми). [Видео-инструкция с просторов Интернета "как поместить стики AG 01 в Jumper T-Lite](https://www.youtube.com/watch?v=wslSmuW3DDI).
+Также обращаем внимание на то, что размер T-Pro отличается от размера T-Lite. T-Pro лучше T-Lite, но бывают и такие случаи: человек покупает Jumper T-Lite, развивается как пилот, покупает Jumper T-Pro, ему не нравится как T-Pro сидит в руке, поэтому он продаёт T-Pro, покупает стики, меняет их на T-Lite, летает с удовольствием. Совет: перед покупкой аппаратуры найти людей с такой аппаратурой и попросить "подержать в руке".
 
 <p class="image-container">
-  <img src="https://www.jumper-rc.com/wp-content/uploads/2022/01/2.jpg" height="300" alt="аппаратура jumper t-pro">
-  <img src="https://www.jumper-rc.com/wp-content/uploads/2021/03/未标题-1.png" height="300" alt="аппаратура jumper t-lite">
-  <img src="https://cdn.shopify.com/s/files/1/0609/8324/7079/products/Zorro1000X1000-1_1800x1800.jpg?v=1639385410" height="300" alt="аппаратура radiomaster zorro">
+  <img src="https://www.jumper-rc.com/wp-content/uploads/2022/01/2.jpg" height="300" alt="Аппаратура Jumper T-Pro" title="Аппаратура Jumper T-Pro">
+  <img src="https://www.jumper-rc.com/wp-content/uploads/2021/03/未标题-1.png" height="300" alt="Аппаратура Jumper T-Lite" title="Аппаратура Jumper T-Lite">
+  <img src="https://cdn.shopify.com/s/files/1/0609/8324/7079/products/Zorro1000X1000-1_1800x1800.jpg?v=1639385410" height="300" alt="Аппаратура RadioMaster ZORRO" title="Аппаратура RadioMaster ZORRO">
 </p>
 
-**TBS MAMBO** - Типовой кирпичик для фанатов TBS Tracer
+[TBS Mambo](https://www.team-blacksheep.com/products/prod:tbs_mambo) - Типовой кирпичик для фанатов TBS Tracer
 
-140$, в России часто от 18 тыс. руб.. Встроенный передатчик TBS Tracer. У аппаратуры большое количество свитчей, полноценный черно-белый экран, есть слот под внешний передатчик. Есть мнение, что с мамбо срисован radiomaster boxer, формфактор практически идентичен, расположение свитчей схоже.
+140$, в России часто от 18 тыс. руб.. Встроенный передатчик TBS Tracer. У аппаратуры большое количество свитчей, полноценный черно-белый экран, есть слот под внешний передатчик. Есть мнение, что с мамбо срисован RadioMaster Boxer - формфактор практически идентичен, расположение свитчей схоже.
 Из недостатков: ощущается дешевле ранее упомянутых аппаратур, стики как у танго 2. Формфактор кирпичика на любителя.
 
 <p class="image-container">
-  <img src="https://www.team-blacksheep.com/img/gallery/A7301739.JPG" height="400" alt="аппаратура TBS Mambo">
+  <img src="https://www.team-blacksheep.com/img/gallery/A7301739.JPG" height="400" alt="Аппаратура TBS Mambo" title="Аппаратура TBS Mambo">
 </p>
 
 ## Необходимые аксессуары
 
 - Аккумулятор - если в аппаратуре нет встроенной батареи, то необходимо обзавестись подходящей по размеру в аппаратуру. Как правило используются сборки 2S или две ячейки Li-Ion 18650 в переходнике под 2S.
+> Отдельно прикрепляем ссылку на [статью про аккумуляторы для дронов](https://propwashservice.ru/intro/power.html)
 
 <p class="image-container">
-  <img src="https://www.fpvknowitall.com/wp-content/uploads/2020/11/rdq-series-7.4v-2s-5000mah-tx16s-tx16s-compatible-lipo-battery-xt60-fpv-know-it-all-joshua-bardwell.jpg" height="200" alt="аккумуляторная батарея, совместимая с Radiomaster TX16s">
+  <img src="https://www.fpvknowitall.com/wp-content/uploads/2020/11/rdq-series-7.4v-2s-5000mah-tx16s-tx16s-compatible-lipo-battery-xt60-fpv-know-it-all-joshua-bardwell.jpg" height="200" alt="Аккумуляторная батарея, совместимая с RadioMaster TX16S" title="Аккумуляторная батарея, совместимая с RadioMaster TX16S">
 </p>
 
 - Ремешок для шеи - держать аппаратуру в руках на весу в течении пары часов может быть ещё тем испытанием. Рекомендуется, чтобы у ремешка был Fastex (пластиковый карабин посередине) для случаев, когда необходимо положить аппаратуру, не снимая сам ремешок через голову, на которой наверняка FPV очки.
 
 <p class="image-container">
-  <img src="https://www.fpvknowitall.com/wp-content/uploads/2020/06/best-fpv-neck-strap-fpv-know-it-all-joshua-bardwell.jpg" height="200" alt="ремешок для шеи">
+  <img src="https://www.fpvknowitall.com/wp-content/uploads/2020/06/best-fpv-neck-strap-fpv-know-it-all-joshua-bardwell.jpg" height="200" alt="Ремешок для шеи" title="Ремешок для шеи">
 </p>
