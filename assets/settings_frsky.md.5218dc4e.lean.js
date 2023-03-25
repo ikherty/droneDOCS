@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as t,d as a}from"./app.8037606b.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"settings/frsky.md"}'),o={name:"settings/frsky.md"},n=a("",7),s=[n];function i(_,p,c,d,h,m){return t(),r("div",null,s)}const l=e(o,[["render",i]]);export{g as __pageData,l as default};
