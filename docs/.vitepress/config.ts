@@ -92,7 +92,6 @@ export default defineConfig({
         collapsible: false,
         items: [
           { text: "Рейты", link: "/settings/rates" },
-          { text: "Пресеты", link: "/settings/presets" },
           { text: "Пользователям FrSky", link: "/settings/frsky" },
           { text: "Skyzone SteadyView", link: "/settings/skyzone" },
         ],
