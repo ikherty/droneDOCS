@@ -71,6 +71,15 @@
 <DT><A HREF="https://www.electricrcaircraftguy.com/2013/09/propeller-static-dynamic-thrust-equation.html">Propeller Static & Dynamic Thrust Calculation - Part 1 of 2 - How Did I Come Up With This Equation?</A></DT>
 <DT><A HREF="https://www.electricrcaircraftguy.com/2014/04/propeller-static-dynamic-thrust-equation-background.html">Propeller Static & Dynamic Thrust Calculation - Part 2 of 2 - How Did I Come Up With This Equation?</A></DT>
 
+## Пресеты для Betaflight
+
+http://pidhub.io/pids
+
+https://theuavtech.com/presets/
+
+https://github.com/betaflight/firmware-presets
+
+
 ## Курс по автономным полетам:
 
 https://www.youtube.com/playlist?list=PLTQSXsG86pGfyZm5ac6-ZtQsEniUJIE9o
