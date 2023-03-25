@@ -71,7 +71,6 @@ export default defineConfig({
           { text: "Для самолетчиков", link: "/shop/airplanes" },
           { text: "Компоненты для самосборов", link: "/shop/DIY" },
           { text: "Выбор готового аппарата", link: "/shop/KIT" },
-          { text: "Как экономить?", link: "/shop/lifehacks" },
         ],
       },
       {
