@@ -43,7 +43,7 @@ You should have at least 16 GB of spare disk space to install VelociDrone.
 >
 > **Ориентировочные** цены на текущий момент:
 >
-> лицензия Velocidrone - 1700 руб,
+> лицензия Velocidrone - 1800 руб,
 >
 > Freestyle Pack - 500 руб,
 >
