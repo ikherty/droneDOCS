@@ -51,4 +51,7 @@ You should have at least 16 GB of spare disk space to install VelociDrone.
 >
 > Micro Class Quads - 400 руб,
 >
-> Mega Class Quads - 400 руб.
+> Mega Class Quads - 400 руб,
+>
+> Champions Series - 400 руб.
+
