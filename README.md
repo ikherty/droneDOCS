@@ -13,8 +13,8 @@
 Локальный запуск и отладка:
 
 ```shell
-yarn init
-yarn docs:dev
+yarn install
+yarn dev
 ```
 
 ### Авторы
