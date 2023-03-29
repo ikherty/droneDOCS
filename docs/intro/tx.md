@@ -69,9 +69,29 @@
 
 > Ниже представлены аппаратура без кожуха и внешний модуль ELRS. На плате можно найти модуль-передачтик. Внешний же модуль-передатчик устанавливается в специальный разъём снаружи аппаратуры
 
-<p class="image-container">
-  <img src="/assets/img/TBS-Mambo-Tracer-module-and-PCB-antenna-picture-by-LIVYU-768x520.jpg" height="300" alt="Аппаратура без кожуха" title="Аппаратура без кожуха">
-  <img src="/assets/img/happy-odel-2.4ghz-es24tx-es24tx-Express-fpv-know-it-all-joshua-bardwell.webp" height="400" alt="Внешний модуль ELRS" title="Внешний модуль ELRS">
+<style>
+  .img-inline {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    grid-auto-rows: minmax(250px, 340px);
+    gap: 0px 5px;
+    padding: 0;
+    align-items: center;
+    justify-items: center;
+  }
+  .left {
+    grid-column: 1;
+    grid-row: 1;
+  }
+  .right {
+    grid-column: 2;
+    grid-row: 1;
+  }
+</style>
+
+<p class="img-inline">
+  <img class="left" style="height: 340px;" src="/assets/img/TBS-Mambo-Tracer-module-and-PCB-antenna-picture-by-LIVYU-768x520.jpg" alt="Аппаратура без кожуха" title="Аппаратура без кожуха">
+  <img class="right" style="height: 340px;" src="/assets/img/happy-odel-2.4ghz-es24tx-es24tx-Express-fpv-know-it-all-joshua-bardwell.webp" alt="Внешний модуль ELRS" title="Внешний модуль ELRS">
 </p>
 
 Приемник - это небольшая плата с антенной(ами), устанавливающаяся на дрон и подключающаяся к его полетному контроллеру на [UART (Universal Asynchronous Receiver-Transmitter, универсальный асинхронный приёмопередатчик)](https://ru.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B0%D1%81%D0%B8%D0%BD%D1%85%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%B8%D1%91%D0%BC%D0%BE%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%82%D1%87%D0%B8%D0%BA).
