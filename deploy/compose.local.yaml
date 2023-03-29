@@ -7,6 +7,8 @@ services:
     build:
       context: ..
       dockerfile: deploy/Dockerfile
+      args:
+        HTTP_OR_HTTPS: ${DRONE_DOCS_HTTP_OR_HTTPS:-http}
     ports:
       - 443:443
       - 80:80
