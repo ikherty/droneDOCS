@@ -14,7 +14,7 @@
 
 ```shell
 yarn init
-yarn docs:dev
+yarn dev
 ```
 
 ### Запуск через Docker
@@ -101,3 +101,4 @@ yarn docs:dev
 - Валентина, Михаил - команда [PropWash Service](https://github.com/ikherty)
 - Андрей Щ. - [EIIIE](https://github.com/EIIIE)
 - Дмитрий В. - [dimazollo](https://github.com/dimazollo)
+- Никита - [Suput](https://github.com/Suput)
