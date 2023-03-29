@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  drone-docs:
+    container_name: drone-docs
+    image: test-drone-docs
+    build:
+      context: ..
+      dockerfile: deploy/Dockerfile
+    ports:
+      - 443:443
+      - 80:80
+    networks:
+      - drone_docs
+
+networks:
+  drone_docs:
+    driver: bridge
+    name: drone_docs
