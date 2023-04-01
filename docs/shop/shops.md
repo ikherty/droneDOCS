@@ -6,7 +6,7 @@
 <DT><A HREF="https://mydrone.ru">MyDrone (Москва)</A></DT>
 <DT><A HREF="https://quadro.team/">QuadroTeam (только онлайн, Москва)</A></DT>
 <DT><A HREF="https://coptertime.ru">Coptertime (Москва)</A></DT>
-<DT><A HREF="vertorix.ru">Vertorix (Москва)</A></DT>
+<DT><A HREF="https://vertorix.ru">Vertorix (Москва)</A></DT>
 <DT><A HREF="https://brrc.ru/catalog/li_pol/">Братья Райт (Москва)</A></DT>
 <DT><A HREF="https://hobbycenter.ru/">интернет-магазин Хобби Центр (Химки)</A></DT>
 <DT><A HREF="http://fpv-community.ru/store/">FPV сообщество (Москва)</A></DT>
