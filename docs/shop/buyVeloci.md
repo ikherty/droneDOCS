@@ -43,15 +43,15 @@ You should have at least 16 GB of spare disk space to install VelociDrone.
 >
 > **Ориентировочные** цены на текущий момент:
 >
-> лицензия Velocidrone - 1800 руб,
+> лицензия Velocidrone - 1900 руб,
 >
-> Freestyle Pack - 500 руб,
+> Freestyle Pack - 560 руб,
 >
-> VelociDrone Combat - 800 руб,
+> VelociDrone Combat - 900 руб,
 >
-> Micro Class Quads - 400 руб,
+> Micro Class Quads - 450 руб,
 >
-> Mega Class Quads - 400 руб,
+> Mega Class Quads - 450 руб,
 >
-> Champions Series - 400 руб.
+> Champions Series - 450 руб.
 
