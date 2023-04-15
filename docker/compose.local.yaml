@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  drones-docs:
+    build:
+      context: ..
+      dockerfile: docker/local.Dockerfile
+    ports:
+      # Default vitepress port
+      - 5173:5173
+    volumes:
+      - ../docs/:/code/droneDOCS/docs/
+    environment:
+      # This env value is needed for corrent HMR working
+      - CHOKIDAR_USEPOLLING=true
