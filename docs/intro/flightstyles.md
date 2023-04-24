@@ -19,7 +19,7 @@ Cinewhoop-ы используют в помещениях и небольших 
 
 Примеры перечисленных аппаратов:
 
-- cinewhoop geprc cinelog 25/30/35
+- cinewhoop geprc cinelog 25/30/35, cinebot30
 - 5" geprc mark 5/iflight nazgul evoque/diatone roma/iflight aos 5
 - 7" iflight chimera 7
 
