@@ -19,8 +19,6 @@
 
 💸 Антикризисный FPV шоппинг https://t.me/fpvshopping
 
-💸 Предзаказы с teamblacksheep (by FX_FPV) https://t.me/+dwSQ9n4hJM03MmJk
-
 💸 Предзаказы с различных магазинов (сервис от QUADRO.TEAM) https://t.me/keksexpress
 
 ## Разные типы дронов:
@@ -117,6 +115,8 @@
 
 👉 FPV Guild (by Kiriodozaki) https://t.me/fpvguild
 
+👉 WARP chat (сообщество пилотов, продвигающих FPV LiveStyle) https://t.me/warpchat
+
 👉 setUP (by Alex setUP) https://t.me/setUP_m
 
 👉 Питер https://t.me/spb_copters
@@ -129,8 +129,6 @@
 
 👉 По запросу https://t.me/Pr0_fess0r можно попасть в Московский чат
 
-👉 Новокосино, ВАО Москвы https://t.me/fpvVAO
-
 👉 ВАО Москвы https://t.me/fpvuaoandmo
 
 👉 ЗАО Москвы https://t.me/fpv_zao
@@ -140,6 +138,8 @@
 👉 По запросу https://t.me/orlv_tattooo можно попасть в чат Краснодарского края
 
 👉 По запросу https://t.me/hiflowfpv можно попасть в чат Курска
+
+👉 Екатеринбург https://t.me/fpv_ekb
 
 👉 Дальний Восток https://t.me/fpvdvru 
 
