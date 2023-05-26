@@ -115,7 +115,7 @@
 
 👉 FPV Guild (by Kiriodozaki) https://t.me/fpvguild
 
-👉 WARP chat (сообщество пилотов, продвигающих FPV LiveStyle) https://t.me/warpchat
+👉 WARP chat (сообщество пилотов, продвигающих FPV LifeStyle) https://t.me/warpchat
 
 👉 setUP (by Alex setUP) https://t.me/setUP_m
 
