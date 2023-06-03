@@ -23,7 +23,8 @@
 <DT><A HREF="https://theuavtech.com/" >UAVTech blog</A></DT>
 <DT><A HREF="https://rotorbuilds.com/explore" >Сетапы пилотов</A></DT>
 <DT><A HREF="https://www.vitroidfpv.com/faq" >Vitroidfpv blog</A></DT>
-  
+<DT><A HREF="https://www.vitroidfpv.com/faq" >Vitroidfpv blog</A></DT>
+<DT><A HREF="https://www.djifpv.ru/" >DJI Digital FPV System - коллективная база знаний </A></DT>
 ## Познавательные каналы:
 
 <DT><A HREF="https://www.youtube.com/channel/UCX3eufnI7A2I7IkKHZn8KSQ" >Joshua Bardwell</A></DT>
