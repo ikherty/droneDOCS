@@ -90,7 +90,7 @@ export default defineConfig({
         text: "Настройки",
         collapsible: false,
         items: [
-          { text: "Вопросы новичков", link: "https://github.com/ikherty/droneDOCS/blob/master/docs/settings/FAQ.md" },
+          { text: "Вопросы новичков", link: "/settings/FAQ" },
           { text: "Рейты", link: "/settings/rates" },
           { text: "Пользователям FrSky", link: "/settings/frsky" },
           { text: "Skyzone SteadyView", link: "/settings/skyzone" },
