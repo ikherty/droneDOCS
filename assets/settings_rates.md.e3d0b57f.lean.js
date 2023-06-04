@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a,d as i}from"./app.923cf464.js";const d=JSON.parse('{"title":"Рейты (Rates) в Betaflight","description":"","frontmatter":{},"headers":[],"relativePath":"settings/rates.md"}'),l={name:"settings/rates.md"},r=i("",10),s=[r];function p(o,_,n,h,c,f){return a(),e("div",null,s)}const g=t(l,[["render",p]]);export{d as __pageData,g as default};
