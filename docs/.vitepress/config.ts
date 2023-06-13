@@ -77,7 +77,7 @@ export default defineConfig({
         text: "Сообщество",
         collapsible: false,
         items: [
-          { text: "Голоссарий", link: "/community/glossarium" },
+          { text: "Глоссарий", link: "/community/glossarium" },
           { text: "Чаты", link: "/community/chats" },
           { text: "Полезные материалы", link: "/community/usefull" },
           { text: "Программное обеспечение", link: "/community/software" },
