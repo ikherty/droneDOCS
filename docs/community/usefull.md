@@ -24,6 +24,7 @@
 <DT><A HREF="https://rotorbuilds.com/explore" >Сетапы пилотов</A></DT>
 <DT><A HREF="https://www.vitroidfpv.com/faq" >Vitroidfpv blog</A></DT>
 <DT><A HREF="https://www.djifpv.ru/" >DJI Digital FPV System - коллективная база знаний </A></DT>
+<DT><A HREF="http://www.expresslrs.ru" >ExpressLRS + HDzero</A></DT>
 
 ## Познавательные каналы:
 
