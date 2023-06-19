@@ -14,6 +14,7 @@
 <DT><A HREF="https://fpvmatrix.ru/">FPV матрица (Москва)</A></DT>
 <DT><A HREF="http://www.spinnerproduction.ru">Spinner Production (Тула, Санкт-Петербург)</A></DT>
 <DT><A HREF="https://fixfly.ru/">FixFly (Санкт-Петербург)</A></DT>
+<DT><A HREF="https://poigraem-rc.ru"> Поиграем - Радиоуправляемые модели (Красноярск)</A></DT>
 <DT><A HREF="https://t.me/seagulldrone">Телеграммный магазин seagull drone shop (Сочи)</A></DT>
 <DT><A HREF="https://rcgood.ru/">RcGood (не активен, Москва)</A><br></DT>
  <br>Белорусские магазины:<br>
