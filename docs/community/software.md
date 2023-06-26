@@ -19,6 +19,18 @@ https://github.com/iNavFlight/inav-configurator/releases
 Конфигуратор QuickSilver (для прошивки полетного контроллера **tiny whoop-а**, потомок silverware):
 https://config.bosshobby.com/#/home
 
+Конфигуратор KISS ULTRA (для прошивки полетного контроллера KISS ULTRA):
+https://github.com/KissUltra/gui/releases
+
+Конфигуратор KISS (для прошивки полетного контроллера KISS или Fettec):
+https://github.com/flyduino/kiss-gui/releases
+
+Конфигуратор FlightOne FalcoX Alpha (для прошивки полетных контроллеров от FlightOne или полетников с купленной прошивкой FalcoX):
+https://flightone.com/download.php?version=alpha
+
+Конфигуратор EmuFlight (для прошивки полетного контроллера):
+https://github.com/emuflight/EmuConfigurator/releases
+
 Просмотрщик логов Betaflight Blackbox Explorer:
 https://github.com/betaflight/blackbox-log-viewer/releases
 
