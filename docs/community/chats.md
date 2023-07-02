@@ -161,6 +161,8 @@
 
 👉 FPV Бали https://t.me/bali_fpv
 
+👉 FPV Thailand (Таиланд) https://t.me/ThailandFPV
+
 👉 FPV Georgia (Грузия) https://t.me/fpv_georgia
 
 👉 FPV Armenia (Армения) https://t.me/fpv_armenia
