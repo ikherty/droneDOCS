@@ -22,16 +22,18 @@ yarn dev
 ### С помощью Docker
 1. Запустить докер контейнер
     ```bash
-    docker compose -f docker/compose.local.yaml up -d --build
+    docker compose -f docker/compose.local.yaml up --build
     ```
     > Данная команда соберёт образ и запустит контейнер
 1. [Перейти на http://localhost:5173](http://localhost:5173). Проверить, что всё запустилось
 1. Открыть свою любимую IDE и редактировать файлы в папке `docs/`
     > Ваши изменения должны моментально отображаться в браузере
 1. По окончании работы остановить контейнер
-    ```bash
-    docker compose -f docker/compose.local.yaml stop
-    ```
+    - Вернутся в терминал из шага 1 и нажать `CTRL + C`
+    - Или открыть новый терминал и прописать команду остановки
+        ```bash
+        docker compose -f docker/compose.local.yaml stop
+        ```
 1. Или даже удалить контейнер, образ и сеть (докер создаёт сеть по умолчанию, ему это нужно для работы)
     ```bash
     docker compose -f docker/compose.local.yaml down --rmi all --volumes --remove-orphans
