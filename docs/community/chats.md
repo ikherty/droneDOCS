@@ -173,6 +173,10 @@
 
 👉 Кипр https://t.me/fpvcyprus
 
+👉 Сербия https://t.me/fpvserbia
+
+👉 Аргентина https://t.me/argentinafpv
+
 ## Авиамодели:
 
 👉 DRS Крылья https://t.me/FPVwing
