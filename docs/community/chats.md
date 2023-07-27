@@ -17,6 +17,8 @@
 
 💸 FPV-барахолка (by Alexander Chuykin) https://t.me/fpv_obmen
 
+💸 FPV барахолка Москва https://t.me/fpvsale
+
 💸 Антикризисный FPV шоппинг https://t.me/fpvshopping
 
 💸 Предзаказы с различных магазинов (сервис от QUADRO.TEAM) https://t.me/keksexpress
