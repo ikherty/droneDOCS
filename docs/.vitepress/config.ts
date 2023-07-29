@@ -54,7 +54,6 @@ export default defineConfig({
         text: "Введение",
         collapsible: false,
         items: [
-          { text: "Купить Velocidrone", link: "/shop/buyVeloci" },
           { text: "Вход в хобби", link: "/intro/beginning" },
           { text: "Стили полета", link: "/intro/flightstyles" },
           { text: "Аппаратура", link: "/intro/tx" },
@@ -71,6 +70,7 @@ export default defineConfig({
           { text: "Для самолетчиков", link: "/shop/airplanes" },
           { text: "Компоненты для самосборов", link: "/shop/DIY" },
           { text: "Выбор готового аппарата", link: "/shop/KIT" },
+          { text: "Купить Velocidrone", link: "/shop/buyVeloci" },
         ],
       },
       {
@@ -92,6 +92,7 @@ export default defineConfig({
         items: [
           { text: "Вопросы новичков", link: "/settings/FAQ" },
           { text: "Рейты", link: "/settings/rates" },
+          { text: "Скрипты для аппаратуры", link: "/settings/scripts" },
           { text: "Пользователям FrSky", link: "/settings/frsky" },
           { text: "Skyzone SteadyView", link: "/settings/skyzone" },
         ],
