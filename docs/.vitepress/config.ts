@@ -56,6 +56,7 @@ export default defineConfig({
         items: [
           { text: "Вход в хобби", link: "/intro/beginning" },
           { text: "Стили полета", link: "/intro/flightstyles" },
+          { text: "Симулятор", link: "/intro/sim" },
           { text: "Аппаратура", link: "/intro/tx" },
           { text: "Видеосвязь", link: "/intro/vrx" },
           { text: "Источники питания", link: "/intro/power" },
