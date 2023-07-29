@@ -14,3 +14,4 @@
 - Валентина, Михаил - команда PropWash Service
 - Андрей Щ. - [EIIIE](https://github.com/EIIIE)
 - Дмитрий В. - [dimazollo](https://github.com/dimazollo)
+- Никита - [Suput](https://github.com/Suput)
