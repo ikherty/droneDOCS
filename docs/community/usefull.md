@@ -11,7 +11,8 @@
 <DT><A HREF="https://www.youtube.com/channel/UCFedUk5j_EidYV4P-EnYJYg/videos" >уроки фристайла</A></DT>
 <DT><A HREF="https://www.youtube.com/watch?v=ZZotXvbVEkI&list=PLwy7zFO7fCeM6rZilz3DlQ7kHs7HjhpYg&index=6" >DSG academy, основы пилотирования в DCL симуляторе</A></DT>
 <DT><A HREF="https://www.youtube.com/c/Velocidrone" >velocidrone, туториалы по симулятору</A></DT>
-  
+<DT><A HREF="https://www.youtube.com/watch?v=hIbHrO-VBu8&ab_channel=Phantom" > 96 трюков фристайла в одном видео</A></DT>
+
 ## Полезные статьи с обзорами и объяснениями
   
 <DT><A HREF="https://betaflight.com/docs/configurator/setup-tab#calibrate-accelerometer" >Вики Betaflight Configuator</A></DT>
