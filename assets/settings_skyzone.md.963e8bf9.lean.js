@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as r,d as a}from"./app.d05cc863.js";const B=JSON.parse('{"title":"Режимы работы SkyZone SteadyView","description":"","frontmatter":{},"headers":[],"relativePath":"settings/skyzone.md"}'),o={name:"settings/skyzone.md"},s=a("",9),n=[s];function i(p,l,d,D,_,c){return r(),t("div",null,n)}const k=e(o,[["render",i]]);export{B as __pageData,k as default};
