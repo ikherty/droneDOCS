@@ -84,6 +84,7 @@ export default defineConfig({
           { text: "Программное обеспечение", link: "/community/software" },
           { text: "Пайка", link: "/community/soldering" },
           { text: "Влагозащита", link: "/community/coating" },
+          { text: "Правила полетов", link: "https://fpvcodex.ru/" },
           { text: "Перевозка дронов и оборудования", link: "/community/bags" },
         ],
       },
