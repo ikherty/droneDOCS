@@ -133,6 +133,8 @@
 
 👉 setUP (by Alex setUP) https://t.me/setUP_m
 
+## Чаты по городам и странам
+
 👉 Питер https://t.me/spb_copters
 
 👉 Южный чат СПб https://t.me/SouthDrone78
@@ -177,21 +179,27 @@
 
 👉 FPV Бали https://t.me/bali_fpv
 
-👉 FPV Thailand (Таиланд) https://t.me/ThailandFPV
+👉 🇹🇭 FPV Thailand (Таиланд) https://t.me/ThailandFPV
 
-👉 FPV Georgia (Грузия) https://t.me/fpv_georgia
+👉 🇰🇿 Казахстан https://t.me/dronekzfpv
 
-👉 FPV Armenia (Армения) https://t.me/fpv_armenia
+👉 🇬🇪 FPV Georgia (Грузия) https://t.me/fpv_georgia
 
-👉 FPV Antalya (Турция) https://t.me/fpv_antalya
+👉 🇦🇲 FPV Armenia (Армения) https://t.me/fpv_armenia
 
-👉 Беларусь dr1by https://t.me/dr1by
+👉 🇹🇷 FPV Antalya (Турция) https://t.me/fpv_antalya
 
-👉 Кипр https://t.me/fpvcyprus
+👉 🇹🇷 Турция - видеографы, коптеры, дроны, операторы https://t.me/turkey_filmmakers
 
-👉 Сербия https://t.me/fpvserbia
+👉 🇧🇾 Беларусь dr1by https://t.me/dr1by
 
-👉 Аргентина https://t.me/argentinafpv
+👉 🇵🇱 Польша https://t.me/fpv_poland
+
+👉 🇨🇾 Кипр https://t.me/fpvcyprus
+
+👉 🇷🇸 Сербия https://t.me/fpvserbia
+
+👉 🇦🇷 Аргентина https://t.me/argentinafpv
 
 ## Авиамодели:
 
