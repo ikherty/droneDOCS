@@ -1,0 +1,1 @@
+import{_ as t,c as d,o as r,d as e}from"./app.7ab0326e.js";const f=JSON.parse('{"title":"Словарь FPV-шника","description":"","frontmatter":{},"headers":[],"relativePath":"community/glossarium.md"}'),o={name:"community/glossarium.md"},a=e("",2),i=[a];function s(n,c,h,l,p,u){return r(),d("div",null,i)}const m=t(o,[["render",s]]);export{f as __pageData,m as default};
