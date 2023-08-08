@@ -71,8 +71,6 @@ export default defineConfig({
           { text: "Для самолетчиков", link: "/shop/airplanes" },
           { text: "Стартовые наборы", link: "/shop/set" },
           { text: "Компоненты для самосборов", link: "/shop/DIY" },
-          { text: "Выбор готового аппарата", link: "/shop/KIT" },
-          { text: "Купить Velocidrone", link: "/shop/buyVeloci" },
         ],
       },
       {
