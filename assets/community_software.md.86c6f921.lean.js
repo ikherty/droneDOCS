@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r,d as a}from"./app.91b8b69c.js";const u=JSON.parse('{"title":"Используемое программное обеспечение","description":"","frontmatter":{},"headers":[],"relativePath":"community/software.md"}'),s={name:"community/software.md"},o=a("",22),l=[o];function i(n,h,p,g,c,b){return r(),t("div",null,l)}const m=e(s,[["render",i]]);export{u as __pageData,m as default};

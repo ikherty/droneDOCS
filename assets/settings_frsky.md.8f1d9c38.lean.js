@@ -1,1 +1,0 @@
-import{_ as e,c as r,o as t,d as a}from"./app.7ab0326e.js";const l=JSON.parse('{"title":"Прошивки FRSky","description":"","frontmatter":{},"headers":[],"relativePath":"settings/frsky.md"}'),o={name:"settings/frsky.md"},n=a("",8),s=[n];function i(_,c,p,d,h,f){return t(),r("div",null,s)}const g=e(o,[["render",i]]);export{l as __pageData,g as default};
