@@ -91,7 +91,7 @@
 
 <p class="img-inline">
   <img class="left" style="height: 340px;" src="/assets/img/TBS-Mambo-Tracer-module-and-PCB-antenna-picture-by-LIVYU-768x520.jpg" alt="Аппаратура без кожуха" title="Аппаратура без кожуха">
-  <img class="right" style="height: 340px;" src="/assets/img/happy-odel-2.4ghz-es24tx-es24tx-Express-fpv-know-it-all-joshua-bardwell.webp" alt="Внешний модуль ELRS" title="Внешний модуль ELRS">
+  <img class="right" style="height: 340px;" src="/assets/img/happy-odel-2.4ghz-es24tx.png" alt="Внешний модуль ELRS" title="Внешний модуль ELRS">
 </p>
 
 Приемник - это небольшая плата с антенной(ами), устанавливающаяся на дрон и подключающаяся к его полетному контроллеру на [UART (Universal Asynchronous Receiver-Transmitter, универсальный асинхронный приёмопередатчик)](https://ru.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B0%D1%81%D0%B8%D0%BD%D1%85%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%B8%D1%91%D0%BC%D0%BE%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%82%D1%87%D0%B8%D0%BA).
@@ -99,8 +99,8 @@
 > Ниже представлены приемник Happymodel EP2 ELRS с керамической антенной и приемник Ghost с диполь антенной
 
 <p class="image-container">
-    <img style="height: 300px" src="/assets/img/EP2_RX1.jpg" alt="Приемник Happymodel ELRS 2.4GHz" title="Приемник Happymodel ELRS 2.4GHz">
-    <img style="height: 300px" src="/assets/img/immersion-rc-ghost-atto-reciever-fpv-know-it-all-joshua-bardwell.jpg" alt="Приемник Ghost" title="Приемник Ghost">
+    <img style="height: 300px" src="/assets/img/EP2_RX1.png" alt="Приемник Happymodel ELRS 2.4GHz" title="Приемник Happymodel ELRS 2.4GHz">
+    <img style="height: 300px" src="/assets/img/immersion-rc-ghost-atto-reciever.png" alt="Приемник Ghost" title="Приемник Ghost">
 </p>
 
 **Не важны различия в производителях передатчика и приемника, пока они оба работают на одном протоколе. Но если речь идет про ELRS, лучше изучить рекомендации и тесты железа разных производителей.**
@@ -122,23 +122,31 @@
 Цены обычно от 200$, есть версии со встроенным ELRS (внимательно читайте описание, не путайте с мультимодулем (4in1, cc2500), который не включает в себя ELRS и Crossfire). Можно поставить внешний передатчик по вкусу (30-250$). Существует в различных модификациях - цветные корпусы, алюминиевые стики, с тачскрином. Дополнительно разноцветные моды есть, в целом, у всех аппаратур от radiomaster.
 
 <p class="image-container">
-  <img src="/assets/img/tx16s-fpv-know-it-all-joshua-bardwell.jpg" height="400" alt="Аппаратура RADIOMASTER TX16S" title="Аппаратура RADIOMASTER TX16S">
+  <img src="/assets/img/tx16s.png" height="400" alt="Аппаратура RADIOMASTER TX16S" title="Аппаратура RADIOMASTER TX16S">
 </p>
 
-[**RADIOMASTER BOXER**](https://www.radiomasterrc.com/products/boxer-radio-controller-m2?_pos=1&_sid=194aad403&_ss=r) - Средний вариант по габаритам с полноценными стиками, минимально необходимым количеством свитчей, черно-белый экран (это не недостаток, он нужен только для отображения меню настроек и моделей)
+[**RADIOMASTER BOXER**](https://www.radiomasterrc.com/products/boxer-radio-controller-m2?_pos=1&_sid=194aad403&_ss=r) - Средний вариант по габаритам с полноразмерными стиками, достаточным количеством свитчей даже для самолетчиков.
 
-Есть также вариант со встроенным ELRS модулем на 1Вт и мультимодулями. Цена 130-160$. Считается компромисом между tx16 и компактными вариантами, которые ниже по списку. Подойдет большинству начинающих и не только.
+Цена 130-160$ в зависимости от версии, есть вариант со встроенным ELRS модулем на 1Вт и мультимодулями, в прозрачном или черном корпусе. Для питания необходимы 2 lion 18650, но также вместится и 2s из 21700. Считается компромисом между tx16 и компактными вариантами, которые ниже по списку. Подойдет большинству начинающих и не только.
 
 <p class="image-container">
-  <img src="/assets/img/BOXER-001_720x.webp" height="400" alt="Аппаратура RADIOMASTER Boxer" title="Аппаратура RADIOMASTER Boxer">
+  <img src="/assets/img/BOXER.png" height="400" alt="Аппаратура RADIOMASTER Boxer" title="Аппаратура RADIOMASTER Boxer">
 </p>
 
 [**RADIOMASTER TX12 mk2**](https://www.radiomasterrc.com/products/tx12-mark-ii-radio-controller?_pos=1&_sid=02bbb6530&_ss=r) - Компактная версия "кирпичика" с мини версией стиков.
 
-Цены обычно от 80$, есть версии со встроенным ELRS (внимательно читайте описание, можно поставить внешний передатчик по вкусу (30-250$)). Отдельно можно приобрести цветные корпусы, алюминиевые стики. Также неплохой вариант для начала, когда не понятно, что хочется, и нужна компактность. Легко будет продать в любой момент на барахолке, если по какой-либо причине "не зайдет".
+Цены обычно от 80$, есть версии со встроенным ELRS (внимательно читайте описание). Отдельно можно приобрести цветные корпусы, алюминиевые стики. Для питания необходимы 2 lion 18650. Также неплохой вариант для начала, когда не понятно, что хочется, и нужна компактность. Легко будет продать в любой момент на барахолке, если по какой-либо причине "не зайдет".
 
 <p class="image-container">
-  <img src="/assets/img/tx12.webp" height="400" alt="Аппаратура RADIOMASTER TX12" title="Аппаратура RADIOMASTER TX12">
+  <img src="/assets/img/tx12.png" height="400" alt="Аппаратура RADIOMASTER TX12" title="Аппаратура RADIOMASTER TX12">
+</p>
+
+[**RADIOMASTER Pocket**](https://www.radiomasterrc.com/collections/transmitter/products/pocket-radio-controller-m2) - Упрощенная полноценная версия аппаратуры в "карманном" варианте с откосом под танго.
+
+Цены от 54$, есть версии со встроенным ELRS (внимательно читайте описание). Стики минимального размера, пока что нет возможности заменить на более качественные. Отдельно можно приобрести цветные корпусы. Есть возможность установить внешний передатчик. Для питания необходимы 2 lion 18650. Неплохой вариант для самого бюджетного комплекта, когда не понятно, что хочется, и нужна компактность. Свежая новинка, неизвестно, какие проблемы стоит ожидать.
+
+<p class="image-container">
+  <img src="/assets/img/POCKET.png" height="400" alt="Аппаратура RADIOMASTER TX12" title="Аппаратура RADIOMASTER Pocket">
 </p>
 
 [**TBS TANGO 2**](https://www.team-blacksheep.com/products/prod:tbs_tango_2) - Компактный вариант со строенным crossfire передатчиком. Подходит, если цель путешествовать налегке. Не путать с первой версией :)
@@ -146,7 +154,7 @@
 Есть обычная версия за 160$ и pro за 200$. В России цены от 20 тыс. руб., продавцы объсняют такую разницу сложностями поставок. Основное отличие pro версии в складывающихся стиках, но явного преимущества в этом нет. Встроенный передатчик TBS CROSSFIRE, мощность зависит от версии платы. При особой любви и необходимости можно установить внешний передатчик. Также есть вариант встроить ELRS модуль с небольшой мощностью для полетов неподалеку, как [в этом видео](https://www.youtube.com/watch?v=2cn96u_nlnw). Крайне маленький экран, но для полетов в режиме FPV он и не нужен. Кнопки вместо тумблеров - дело на любителя, но не всегда получается моментально "задизармить" коптер (то есть выключить моторы). Бывают проблемы со стиками: поскольку используется "супер технология" с одним датчиком на 2 оси, калибровку надо производить строго по инструкции производителя. Сами стики "разведены" на материнской плате, поэтому нет возможности легко заменить их на другие, как в случае с аппаратурами Radiomaster. Иногда бывают проблемы с глюками экрана, "окирпичиванием" модуля при прошивке, требованием калибровки при запуске. Но, несмотря на это, все еще пользуется популярностью.
 
 <p class="image-container">
-  <img src="/assets/img/tango2.jpeg" height="400" alt="аппаратура TBS Tango 2">
+  <img src="/assets/img/tango2.png" height="400" alt="аппаратура TBS Tango 2">
 </p>
 
 **[Jumper T-Pro](https://www.jumper-rc.com/products/transmitters/t-pro/), [Jumper T-Lite](https://www.jumper-rc.com/products/transmitters/t-lite/), [Radiomaster Zorro](https://www.radiomasterrc.com/products/zorro-radio-controller?_pos=1&_sid=49612d66c&_ss=r)** - когда хочется аналог TBS Tango со встроенным ELRS
@@ -155,9 +163,9 @@
 Аппаратуры Jumper T-Pro и Jumper T-Lite подойдут тем, кто хочет минимальных вложений для входа в хобби (а вдруг не понравится/не получится - зачем тратиться). Но не нужно думать, что данные аппаратуры совсем плохи, ввиду их компактности и наличия встроенного ELRS модуля немалое количество пилотов покупает их в качестве второй аппаратуры. Они легко поддаются модификациям: замена антенны, стиков (на примере t-lite https://youtu.be/wslSmuW3DDI). Это позволяет кастомизировать аппу и улучшить некоторые ее детали, однако компонентная база платы аппаратуры "скудная" и надо быть готовым, что в один момент что-то может выйти из строя.
 
 <p class="image-container">
-  <img src="/assets/img/t-pro.jpg" height="300" alt="Аппаратура Jumper T-Pro" title="Аппаратура Jumper T-Pro">
+  <img src="/assets/img/t-pro.png" height="300" alt="Аппаратура Jumper T-Pro" title="Аппаратура Jumper T-Pro">
   <img src="/assets/img/t-lite.png" height="300" alt="Аппаратура Jumper T-Lite" title="Аппаратура Jumper T-Lite">
-  <img src="/assets/img/zorro.webp" height="300" alt="Аппаратура RadioMaster ZORRO" title="Аппаратура RadioMaster ZORRO">
+  <img src="/assets/img/zorro.png" height="300" alt="Аппаратура RadioMaster ZORRO" title="Аппаратура RadioMaster ZORRO">
 </p>
 
 [TBS Mambo](https://www.team-blacksheep.com/products/prod:tbs_mambo) - Типовой кирпичик для фанатов TBS Tracer
@@ -166,7 +174,7 @@
 Из недостатков: ощущается дешевле ранее упомянутых аппаратур, стики как у танго 2. Формфактор кирпичика на любителя.
 
 <p class="image-container">
-  <img src="/assets/img/mambo.jpeg" height="400" alt="Аппаратура TBS Mambo" title="Аппаратура TBS Mambo">
+  <img src="/assets/img/mambo.png" height="400" alt="Аппаратура TBS Mambo" title="Аппаратура TBS Mambo">
 </p>
 
 ## Необходимые аксессуары
@@ -175,11 +183,11 @@
   > Отдельно прикрепляем ссылку на [статью про аккумуляторы для дронов](https://propwashservice.ru/intro/power.html)
 
 <p class="image-container">
-  <img src="/assets/img/lipoTX.jpg" height="200" alt="Аккумуляторная батарея, совместимая с RadioMaster TX16S" title="Аккумуляторная батарея, совместимая с RadioMaster TX16S">
+  <img src="/assets/img/lipoTX.png" height="200" alt="Аккумуляторная батарея, совместимая с RadioMaster TX16S" title="Аккумуляторная батарея, совместимая с RadioMaster TX16S">
 </p>
 
 - Ремешок для шеи - держать аппаратуру в руках на весу в течении пары часов может быть ещё тем испытанием. Рекомендуется, чтобы у ремешка был Fastex (пластиковый карабин посередине) для случаев, когда необходимо положить аппаратуру, не снимая сам ремешок через голову, на которой наверняка FPV очки.
 
 <p class="image-container">
-  <img src="/assets/img/neck.jpg" height="200" alt="Ремешок для шеи" title="Ремешок для шеи">
+  <img src="/assets/img/neck.png" height="200" alt="Ремешок для шеи" title="Ремешок для шеи">
 </p>
