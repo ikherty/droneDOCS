@@ -133,6 +133,8 @@
 
 👉 setUP (by Alex setUP) https://t.me/setUP_m
 
+👉 FPVersus (by GreyDevilFox) https://t.me/fpversus
+
 ## Чаты по городам и странам
 
 👉 Питер https://t.me/spb_copters
