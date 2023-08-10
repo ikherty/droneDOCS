@@ -109,7 +109,9 @@ https://oscarliang.com/js/fpvrange.html - расчет дальности по �
 
 https://www.desmos.com/calculator/oaa7ealifn?lang=ru - калькулятор пересчета рейтов из actual в betaflight
 
-https://brushlessmotorsparade.com/ - подбор мотора
+https://www.warpdriveprops.com/propspd2.html - подбор ВМГ
+
+https://brushlessmotorsparade.com/ - подбор ВМГ
 
 https://lan143.github.io/ - слайдеры как в betaflight для kiss ПИДов
 
