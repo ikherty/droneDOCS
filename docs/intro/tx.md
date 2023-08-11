@@ -202,3 +202,11 @@
 <p class="image-container">
   <img src="/assets/img/neck.webp" height="200" alt="Ремешок для шеи" title="Ремешок для шеи">
 </p>
+
+## Настройка аппаратуры
+
+Подробная документация по EdgeTX:
+https://edgetx.gitbook.io/edgetx-user-manual/b-and-w-radios
+
+Видео со стартовой настройкой аппаратуры на базе EdgeTX:
+https://www.youtube.com/watch?v=wU67j2G5Ibg
