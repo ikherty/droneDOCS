@@ -67,7 +67,7 @@ hota f6 - компактный вариант без встроенного бл
 [ToolkitRC M6](https://rcsearch.ru/-c6063), [ToolkitRC M7](https://rcsearch.ru/-c25346), [ToolkitRC m4 pocket(карманный вариант)](https://rcsearch.ru/-c32468),
 [ISDT PD60(карманный вариант)](https://rcsearch.ru/-c16236), [ISDT Q6 nano](https://rcsearch.ru/-c14405)
 
-### Обнопортовые со встроенным БП
+### Однопортовые со встроенным БП
 
 [iSDT 608AC](https://rcsearch.ru/-c8911),
 [ToolkitRC M7AC](https://rcsearch.ru/-c39020)
