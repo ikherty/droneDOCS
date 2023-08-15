@@ -159,6 +159,8 @@
 
 👉 Екатеринбург https://t.me/fpv_ekb
 
+👉 Иркутск (см. описание чата) https://t.me/drones_irk
+
 👉 Дальний Восток https://t.me/fpvdvru 
 
 👉 Белгород https://t.me/dronerace31
@@ -184,6 +186,8 @@
 👉 🇹🇭 FPV Thailand (Таиланд) https://t.me/ThailandFPV
 
 👉 🇰🇿 Казахстан https://t.me/dronekzfpv
+
+👉 🇰🇬 FPV Кыргызстан https://t.me/fpvkg
 
 👉 🇬🇪 FPV Georgia (Грузия) https://t.me/fpv_georgia
 
