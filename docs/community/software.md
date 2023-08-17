@@ -27,6 +27,12 @@ https://github.com/KissUltra/gui/releases
 Конфигуратор KISS (для прошивки полетного контроллера KISS или Fettec):
 https://github.com/flyduino/kiss-gui/releases
 
+Конфигуратор Mission Planner (для прошивки Ardupilot (см. [список поддерживаемых полетных контроллеров](https://ardupilot.org/copter/docs/common-autopilots.html))):
+https://ardupilot.org/planner/docs/mission-planner-installation.html
+
+Конфигуратор QGroundControl (для прошивки PX4 и Ardupilot (см. [список поддерживаемых полетных контроллеров](https://discuss.px4.io/t/list-of-px4-supported-fc-hardware/24901))):
+http://qgroundcontrol.com/downloads
+
 Конфигуратор FlightOne FalcoX Alpha (для прошивки полетных контроллеров от FlightOne или полетников с купленной прошивкой FalcoX):
 https://flightone.com/download.php?version=alpha
 
@@ -36,7 +42,7 @@ https://github.com/emuflight/EmuConfigurator/releases
 ## Для регуляторов
 
 Конфигуратор Bluejay Configurator (для прошивки регуляторов прошивкой BLheli_S; BlueJay, с возможностью использования rpm-фильтров) (8bit):
-https://esc-configurator.com/ (также поддерживает экспериментальную прошивку AM32 для 32bit регуляторов)
+https://esc-configurator.com (также поддерживает экспериментальную прошивку AM32 для 32bit регуляторов)
 
 Конфигуратор BlHeli Suite (для прошивки регуляторов) (32bit):
 https://github.com/bitdump/BLHeli/releases
@@ -46,12 +52,12 @@ https://github.com/bitdump/BLHeli/releases
 Конфигуратор ExpressLRS (для прошивки приемников и передатчиков ELRS):
 https://github.com/ExpressLRS/ExpressLRS-Configurator/releases
 
-Online конфигуратор ExpressLRS: https://pkendall64.github.io/elrs-web-flasher/
+Online конфигуратор ExpressLRS: https://pkendall64.github.io/elrs-web-flasher
 
 ## Для TBS
 
 Конфигуратор Agent M (для прошивки Team BlackSheep продукции):
-https://www.team-blacksheep.com/agentm/
+https://www.team-blacksheep.com/agentm
 
 ## Для аппаратуры
 
@@ -67,7 +73,7 @@ DJI Assistant 2 **(Consumer Drones Series)** (для прошивки DJI goggle
 https://www.dji.com/global/downloads/softwares/dji-assistant-2-consumer-drones-series
 
 Прошивки для Walksnail Avatar:
-https://avatar-firmware.d3vl.com/ (если недоступно, откройте через VPN или возьмите файлы [тут](https://github.com/D3VL/Avatar-Firmware-Updates))
+https://avatar-firmware.d3vl.com (если недоступно, откройте через VPN или возьмите файлы [тут](https://github.com/D3VL/Avatar-Firmware-Updates))
 
 Прошивки для HDZero:
 https://www.hd-zero.com/document
@@ -83,6 +89,21 @@ https://github.com/bw1129/PIDtoolbox/releases
 Онлайн просмотрщик логов аппаратуры на базе OpenTx:
 https://maxbl4.github.io/otx/index.html
 
+## Фиксеры драйверов для Windows
+
+Ссылки на скачивание находятся на главной странице бетафлайт конфигуратора в желтой зоне, но на всякий случай продублированы здесь:
+
+CP210x USB to UART Bridge Virtual COM Port (VCP) driver (на случай, если система не корректно распознает порт, по которому подключен полетный контроллер или аппаратура):
+https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers
+
+Zadig (для обновления USB драйверов, чаще всего нужен при проблемах в режиме бутлоадера(загрузчика)):   
+https://zadig.akeo.ie
+
+ImpulseRC driver fixer (фиксит драйвера для работы с полетным контроллером):
+https://impulserc.com/pages/downloads
+
+Симуляторы находятся на отдельной странице:
+https://propwashservice.ru/intro/sim.html
 
 УСТАРЕВШЕЕ:
 
