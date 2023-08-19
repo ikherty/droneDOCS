@@ -45,6 +45,8 @@
 
 👉 Синевупы https://t.me/Cinewhoopers
 
+👉 BetaFPV Pavo Pico https://t.me/pavopico
+
 👉 DRS Фристайл и съемки https://t.me/fpv_freestyle
 
 👉 DRS Крылья https://t.me/FPVwing
