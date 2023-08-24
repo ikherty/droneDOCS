@@ -47,6 +47,8 @@
 
 👉 BetaFPV Pavo Pico https://t.me/pavopico
 
+👉 KinoDrone - киноДрон https://t.me/KinoDrone
+
 👉 DRS Фристайл и съемки https://t.me/fpv_freestyle
 
 👉 DRS Крылья https://t.me/FPVwing
