@@ -15,6 +15,12 @@
 Подробный разбор актуальных на 2023 год видеосистем можно прочесть [по ссылке.](https://oscarliang.com/fpv-system/)
 Здесь можно сравнить FOV (field of view) разных шлемов - https://oscarliang.com/js/fpvgogglefov.html.
 
+Инструкции от сообщества по DJI FPV:
+https://www.djifpv.ru
+Инструкции от сообщества по HDZero:
+http://expresslrs.ru/HdZero/Index/
+
+
 ## Integra или DJI Goggles 2 (g2)?
 Отличия интегры от гулес2:
 
