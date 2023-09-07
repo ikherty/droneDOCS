@@ -123,8 +123,6 @@
 
 👉 Человек с Земли FPV https://t.me/fpvearth
 
-👉 ZBestReview https://t.me/zbestfpv
-
 👉 FPV Moscow Band (by Anton Evdakov) https://t.me/FPV_Moscow
 
 👉 Дроны, вупы, FPV (by Alexander Chuykin) https://t.me/whoop_chat
