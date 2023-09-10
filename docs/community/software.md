@@ -69,7 +69,7 @@ https://buddy.edgetx.org/#/flash
 DJI Assistant 2 **(DJI FPV series)** (для прошивки DJI goggles v2, caddx vista, dji air unit):
 https://www.dji.com/global/downloads/softwares/dji-assistant-2-dji-fpv-series
 
-DJI Assistant 2 **(Consumer Drones Series)** (для прошивки DJI goggles 2, integra, O3 ait unit):
+DJI Assistant 2 **(Consumer Drones Series)** (для прошивки DJI goggles 2, integra, O3 air unit):
 https://www.dji.com/global/downloads/softwares/dji-assistant-2-consumer-drones-series
 
 Прошивки для Walksnail Avatar:
