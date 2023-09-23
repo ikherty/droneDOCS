@@ -113,7 +113,7 @@
 
 👉 ReadyEdi https://t.me/readyediru
 
-👉 DJI FPV https://t.me/djifpvrus
+👉 DJI FPV https://t.me/djifpvru
 
 👉 Walksnail Avatar (ru) https://t.me/hdfpv
 
