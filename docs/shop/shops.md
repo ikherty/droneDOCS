@@ -24,6 +24,7 @@
 <br>
 Зарубежные магазины:<br>
 <br>
+<DT><A HREF="https://www.searchfpv.com/cgi/searchtool" >Поиск магазинов по странам</A> </DT>
 <DT><A HREF="https://aliexpress.com" >Aliexpress (90% прокупок отсюда)</A> </DT>
 <DT><A HREF="https://bangood.com" >Bangood</A></DT>
 <DT><A HREF="https://chinahobbyline.com" >ChiNaHobbyLine(популярные по соотношению цена/качество аккумуляторы, для РФ сейчас доступна покупка только через алиэкспресс магазин)</A></DT>
