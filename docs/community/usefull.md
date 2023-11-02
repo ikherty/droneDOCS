@@ -74,6 +74,12 @@
 <DT><A HREF="https://www.electricrcaircraftguy.com/2013/09/propeller-static-dynamic-thrust-equation.html">Propeller Static & Dynamic Thrust Calculation - Part 1 of 2 - How Did I Come Up With This Equation?</A></DT>
 <DT><A HREF="https://www.electricrcaircraftguy.com/2014/04/propeller-static-dynamic-thrust-equation-background.html">Propeller Static & Dynamic Thrust Calculation - Part 2 of 2 - How Did I Come Up With This Equation?</A></DT>
 
+## Законы про полеты на дронах в разных странах
+
+https://drone-laws.com/
+
+https://uavcoach.com/drone-laws/
+
 ## Пресеты для Betaflight
 
 http://pidhub.io/pids
