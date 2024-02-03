@@ -139,6 +139,8 @@
 
 👉 Официальный чат CADDX FPV https://t.me/caddxfpv_ruchat
 
+👉 fpvsim https://t.me/fpvsim
+
 ## Чаты по городам и странам
 
 👉 Питер https://t.me/spb_copters
@@ -186,6 +188,8 @@
 👉 По запросу https://t.me/mzhelskiy можно попасть в чат Кемерово
 
 👉 Новосибирск https://t.me/nskfpv
+
+👉 Хабаровск FPV - сообщество https://t.me/FPVCHAT 
 
 👉 FPV комьюнити по Уфе и Республике Башкортостан https://t.me/fpvufarb
 
