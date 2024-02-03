@@ -137,6 +137,8 @@
 
 👉 FPVersus (by GreyDevilFox) https://t.me/fpversus
 
+👉 Официальный чат CADDX FPV https://t.me/caddxfpv_ruchat
+
 ## Чаты по городам и странам
 
 👉 Питер https://t.me/spb_copters
@@ -249,11 +251,23 @@
 
 📌 3D печатные самолеты https://t.me/fpvprinted
 
+📌 Caddx FPV & Walksnail https://t.me/CaddxFPVnWalksnail
+
+📌 FPVDudes - Новости, FPV, дроны https://t.me/fpvdudes
+
+📌 RDR.Инфо 🚀🚀🚀 Гонки дронов, FPV, drone racing https://t.me/rdrleague
+
+📌 Wow, That Flies! https://t.me/wtflies
+
 ### Блоги
 
 📌 LeshaRodin FPV https://t.me/FPVSHIT
 
 📌 Naminao 1045 https://t.me/naminao_1045
+
+📌 Flix: разработка полетного контроллера с нуля https://t.me/opensourcequadcopter
+
+📌 Anik FPV https://t.me/anikfpvlive
 
 📌 PropWash Service https://t.me/propwash
 
@@ -270,4 +284,6 @@
 📌 Lavka u Lisa https://t.me/lavkaulisa
 
 📌 Keks Express https://t.me/keksexpress
+
+📌 RCSearch.ru FPV новинки скидки купоны промокоды https://t.me/rcmarket_rus
 
