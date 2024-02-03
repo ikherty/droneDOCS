@@ -1,4 +1,4 @@
-# Общеизвестные чаты по FPV тематике
+# Общеизвестные чаты и каналы по FPV и авиа тематике
 
 ## Правила чатов
 
@@ -167,6 +167,8 @@
 
 👉 Белгород https://t.me/dronerace31
 
+👉 RC AVIA 39 Авиамоделизм Калининград https://t.me/+3_BbiaLe6_01N2Yy
+
 👉 Казань https://t.me/fpv_dron_kazan
 
 👉 По запросу https://t.me/ivan_racing_drone_omsk можно попасть в чат Омска
@@ -236,3 +238,36 @@
 👉 Funjet Multiplex https://t.me/+zQn6DbkunHo0YTg6
 
 👉 Дельфинарий (AtomRC Dolphin и ArWing Pro) https://t.me/dolph_pilots
+
+## Каналы
+
+### Тематические
+
+📌 FPV приколы https://t.me/fpvfunrus
+
+📌 RC AVIA 39 / Авиамоделизм https://t.me/rcavia39
+
+📌 3D печатные самолеты https://t.me/fpvprinted
+
+### Блоги
+
+📌 LeshaRodin FPV https://t.me/FPVSHIT
+
+📌 Naminao 1045 https://t.me/naminao_1045
+
+📌 PropWash Service https://t.me/propwash
+
+📌 WARP FACTORY https://t.me/warpfactory
+
+📌 FPV LJ https://t.me/FPVLJ
+
+📌 Lemirix FPV https://t.me/Lemirix_Fpv
+
+📌 FPV Trip https://t.me/FPVtrip
+
+### Блоги с магазинами
+
+📌 Lavka u Lisa https://t.me/lavkaulisa
+
+📌 Keks Express https://t.me/keksexpress
+
