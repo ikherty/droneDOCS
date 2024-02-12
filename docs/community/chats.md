@@ -191,6 +191,8 @@
 
 👉 Хабаровск FPV - сообщество https://t.me/FPVCHAT 
 
+👉 FPV хулиганы Владивосток https://t.me/vdkfpv
+
 👉 FPV комьюнити по Уфе и Республике Башкортостан https://t.me/fpvufarb
 
 👉 FPV Бали https://t.me/bali_fpv
