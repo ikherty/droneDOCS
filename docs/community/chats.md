@@ -55,7 +55,7 @@
 
 👉 DRS Микродроны https://t.me/tinywhoop_fpv
 
-👉 По отдельному запросу можно попасть в DRS Долго и далеко (группа по дальнолетам), писать https://t.me/ikherty
+👉 По отдельному запросу можно попасть в DRS Долго и далеко (группа по дальнолетам), писать https://t.me/ValentinaPetrenko
 
 👉 DJI FPV Drone / Avata https://t.me/dji_fpv_avata
 
@@ -99,7 +99,7 @@
 
 👉 ЧАТ Мероприятий DSG (Drone Sports Global) https://t.me/DSG_EVENT
 
-👉 PropWash Service Chat (by ikherty) https://t.me/propwashservice
+👉 PropWash Service Chat (by ValentinaPetrenko) https://t.me/propwashservice
 
 👉 BlackBox (Черный ящик) https://t.me/bfblackbox
 
@@ -157,7 +157,7 @@
 
 👉 ЗАО Москвы https://t.me/fpv_zao
 
-👉 По запросу https://t.me/ikherty можно попасть в Обнинский/Наро-Фоминский чат
+👉 По запросу https://t.me/ValentinaPetrenko можно попасть в Обнинский/Наро-Фоминский чат
 
 👉 По запросу https://t.me/orlv_tattooo можно попасть в чат Краснодарского края
 
