@@ -80,6 +80,8 @@ https://drone-laws.com/
 
 https://uavcoach.com/drone-laws/
 
+Где можно летать в РФ - https://wheretoflyfpv.ru
+
 ## Пресеты для Betaflight
 
 http://pidhub.io/pids
