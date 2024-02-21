@@ -26,6 +26,7 @@
 <DT><A HREF="https://www.vitroidfpv.com/faq" >Vitroidfpv blog</A></DT>
 <DT><A HREF="https://www.djifpv.ru/" >DJI Digital FPV System - коллективная база знаний </A></DT>
 <DT><A HREF="http://www.expresslrs.ru" >ExpressLRS + HDzero</A></DT>
+<DT><A HREF="https://hackmd.io/@nerdCopter" >NerdCopter</A></DT>
 
 ## Познавательные каналы:
 
