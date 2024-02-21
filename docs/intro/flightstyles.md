@@ -89,3 +89,4 @@ Ardupilot и px4 уже для более опытных пользовател�
 - Flywoo Explorer LR4, diatone roma l5
 - hglrc rekon (4-7")
 - STPHobby Aquila 7"
+- geprc moz7
