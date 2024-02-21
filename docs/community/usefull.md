@@ -75,6 +75,7 @@
 <DT><A HREF="https://www.electricrcaircraftguy.com/2013/09/propeller-static-dynamic-thrust-equation.html">Propeller Static & Dynamic Thrust Calculation - Part 1 of 2 - How Did I Come Up With This Equation?</A></DT>
 <DT><A HREF="https://www.electricrcaircraftguy.com/2014/04/propeller-static-dynamic-thrust-equation-background.html">Propeller Static & Dynamic Thrust Calculation - Part 2 of 2 - How Did I Come Up With This Equation?</A></DT>
 <DT><A HREF="https://iflight-rc.eu/blogs/news/m10-gps-3d-fix-enhancement" >Настройка GPS в Ublox Center</A></DT>
+<DT><A HREF="https://www.mrd-rc.com/tutorials-tools-and-testing/inav-flight/inav-stick-commands-for-all-transmitter-modes/" >Комбинации стиками для настроек под разные модыr</A></DT>
 
 ## Законы про полеты на дронах в разных странах
 
