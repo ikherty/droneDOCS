@@ -199,7 +199,7 @@
 
 👉 🇹🇭 FPV Thailand (Таиланд) https://t.me/ThailandFPV
 
-👉 🇰🇿 Казахстан https://t.me/dronekzfpv
+👉 🇰🇿 Казахстан https://t.me/FPVKazakhstan
 
 👉 🇰🇬 FPV Кыргызстан https://t.me/fpvkg
 
