@@ -13,7 +13,10 @@
 ## Для полетных контроллеров
 
 Конфигуратор Betaflight Configurator (для прошивки полетного контроллера):
-https://github.com/betaflight/betaflight-configurator/releases
+
+Десктоп версия, также доступна под андроид - https://github.com/betaflight/betaflight-configurator/releases
+
+Онлайн версия - https://app.betaflight.com/
 
 Конфигуратор INav Configurator (для прошивки полетного контроллера):
 https://github.com/iNavFlight/inav-configurator/releases
@@ -47,12 +50,12 @@ https://esc-configurator.com (также поддерживает экспери
 Конфигуратор BlHeli Suite (для прошивки регуляторов) (32bit):
 https://github.com/bitdump/BLHeli/releases
 
-## Для RC приемников
+## Для RC приемников и передатчиков
 
 Конфигуратор ExpressLRS (для прошивки приемников и передатчиков ELRS):
 https://github.com/ExpressLRS/ExpressLRS-Configurator/releases
 
-Online конфигуратор ExpressLRS: https://pkendall64.github.io/elrs-web-flasher
+Online конфигуратор ExpressLRS: https://expresslrs.github.io/web-flasher/
 
 ## Для TBS
 
@@ -86,13 +89,19 @@ https://propwashservice.ru/intro/sim.html
 ## Для изучения логов
 
 Просмотрщик логов Betaflight Blackbox Explorer:
-https://github.com/betaflight/blackbox-log-viewer/releases
 
-Анализатор логов PIDtoolbox:
-https://github.com/bw1129/PIDtoolbox/releases
+Десктоп версия - https://github.com/betaflight/blackbox-log-viewer/releases
+
+Онлайн версия - https://blackbox.betaflight.com/
+
+Анализатор логов PIDtoolbox (начиная с версии 0.7 стал платным, доступен по подписке на патреоне - https://www.patreon.com/ThePIDtoolboxGuy):
+старые версии - https://github.com/bw1129/PIDtoolbox/releases
 
 Онлайн просмотрщик логов аппаратуры на базе OpenTx:
 https://maxbl4.github.io/otx/index.html
+
+Онлайн-помогатор для настройки по методике Россера:
+https://fpv-drone.info/tools/tuning-tools/
 
 ## Фиксеры драйверов для Windows
 
