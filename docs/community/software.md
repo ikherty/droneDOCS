@@ -47,6 +47,9 @@ https://github.com/emuflight/EmuConfigurator/releases
 Конфигуратор Bluejay Configurator (для прошивки регуляторов прошивкой BLheli_S; BlueJay, с возможностью использования rpm-фильтров) (8bit):
 https://esc-configurator.com (также поддерживает экспериментальную прошивку AM32 для 32bit регуляторов)
 
+Конфигуратор AM32 (для регуляторов с прошивкой AM32):
+https://am32.ca/
+
 Конфигуратор BlHeli Suite (для прошивки регуляторов) (32bit):
 https://github.com/bitdump/BLHeli/releases
 
