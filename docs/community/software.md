@@ -119,6 +119,8 @@ https://zadig.akeo.ie
 ImpulseRC driver fixer (фиксит драйвера для работы с полетным контроллером):
 https://impulserc.com/pages/downloads
 
+Драйвера для DFU и COM AT32: [по ссылке](https://drive.google.com/drive/folders/1N9b9aRWggz9G2T83CFeXRQgvVgxlf5Y3?usp=drive_link)
+
 Также полезные драйвера можно скачать здесь: [архивы в облаке](https://clck.ru/35Xp2W).
 
 УСТАРЕВШЕЕ:
