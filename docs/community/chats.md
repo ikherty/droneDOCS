@@ -175,6 +175,8 @@
 
 👉 Казань https://t.me/fpv_dron_kazan
 
+👉 FPV Дагестан https://t.me/fpv_dag
+
 👉 По запросу https://t.me/ivan_racing_drone_omsk можно попасть в чат Омска
 
 👉 Киров https://t.me/fpv43
