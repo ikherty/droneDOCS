@@ -224,5 +224,5 @@
 - после вскрытия долго не хранится
 - нельзя паять через нанесенный слой
 
-## Силиконовый лак Antas ZS-NJ-D955, [купить можно здесь](https://quadro.team/goods/Vysokoprochnoe-konformnoe-silikonovoe-pokrytie-Antas-ZS-NJ-D955-Keks-Edition?mod_id=300898141)
+### Силиконовый лак Antas ZS-NJ-D955, [купить можно здесь](https://quadro.team/goods/Vysokoprochnoe-konformnoe-silikonovoe-pokrytie-Antas-ZS-NJ-D955-Keks-Edition?mod_id=300898141)
 Лак. Продается в удобном тюбике с кисточкой. Схватывается за 10-15 минут. Можно ускорить отверждение нагреванием. Застывший слой не вязкий.
