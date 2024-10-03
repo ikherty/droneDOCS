@@ -133,7 +133,7 @@
 - доступен только в РФ
 
 <p align="center">
-  <img src="/assets/img/aeroLite.jpg" width="600" alt="Aero Light">
+  <img src="/assets/img/aerolite.jpg" width="600" alt="Aero Light">
 </p>
 
 ## DCA Electrolube, [купить можно здесь](https://air-hobby.ru/katalog/product/2286-dca-electrolube-prozrachniy-lak-na-osnove-modifitsirovannogo-silikona-20ml.html)
