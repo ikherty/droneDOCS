@@ -7,6 +7,7 @@
 По закону все очень лайтово:
 
 до 900 грамм - 1 категория, нужно регать, только если:
+
 - летаешь выше 100 метров,
 - около аэродромов,
 - 500+ метров от себя,
@@ -75,8 +76,7 @@
    > You buy and pay online and send to our warehouse in Germany.
    > When it arrives there in the first next tour, we bring it to Serbia.
    > Price is from 5€ per kilogram, minimum charge 20€ for packages from 0 to 4kg.
-   > Send invoices to ukprevozin@gmail.com
-   > \*Note for packages outside the EU (China, America, UK, CH, Norway) that are subject to customs. You can buy only packages for which you can pay the tax online because we are no longer able to pay the tax for you.
+   > Send invoices to ukprevozin@gmail.com > \*Note for packages outside the EU (China, America, UK, CH, Norway) that are subject to customs. You can buy only packages for which you can pay the tax online because we are no longer able to pay the tax for you.
 
 3. И вот такой адрес (в таком формате с вашими данными):
 

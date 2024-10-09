@@ -63,7 +63,7 @@ hota f6 - компактный вариант без встроенного бл
 
 ### Однопортовые без БП
 
-[SkyRC b6 neo](https://rcsearch.ru/-c47308), 
+[SkyRC b6 neo](https://rcsearch.ru/-c47308),
 [ToolkitRC M6](https://rcsearch.ru/-c6063), [ToolkitRC M7](https://rcsearch.ru/-c25346), [ToolkitRC m4 pocket(карманный вариант)](https://rcsearch.ru/-c32468),
 [ISDT PD60(карманный вариант)](https://rcsearch.ru/-c16236), [ISDT Q6 nano](https://rcsearch.ru/-c14405)
 
@@ -80,6 +80,7 @@ hota f6 - компактный вариант без встроенного бл
 
 [Hota D6 Pro](https://rcsearch.ru/-c5511),
 [ISDT D2](https://rcsearch.ru/-c2175)
+
 ### Четырехпортовые без БП
 
 [Hota F6](https://rcsearch.ru/-c24672)

@@ -14,7 +14,7 @@
 <DT><A HREF="https://www.youtube.com/watch?v=hIbHrO-VBu8&ab_channel=Phantom" > 96 трюков фристайла в одном видео</A></DT>
 
 ## Полезные статьи с обзорами и объяснениями
-  
+
 <DT><A HREF="https://betaflight.com/docs/configurator/setup-tab#calibrate-accelerometer" >Вики Betaflight Configuator</A></DT>
 <DT><A HREF="https://quadquestions.com/blog/2017/02/22/choose-right-size-motors-drone/" >Инфографика</A></DT>
 <DT><A HREF="https://oscarliang.com/" >OscarLiang blog (en)</A></DT>
@@ -92,7 +92,6 @@ http://pidhub.io/pids
 https://theuavtech.com/presets/
 
 https://github.com/betaflight/firmware-presets
-
 
 ## Курс по автономным полетам:
 
