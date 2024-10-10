@@ -4,17 +4,20 @@
 
 ## Минимально необходимые для большинства
 
-Betaflight LUA script https://github.com/betaflight/betaflight-tx-lua-scripts
+* [Betaflight LUA script](https://github.com/betaflight/betaflight-tx-lua-scripts)
+
 В случае наличия телеметрии с приемника дрона можно настроить большинство настроек бетафлайта, не подключаясь к конфигуратору. Не забудьте сохранить изменения!
 
-ExpressLRS (в случае, если у вас ELRS радиосистема управления) https://www.expresslrs.org/quick-start/transmitters/lua-howto/
-Важно иметь скрипт той же версии, что и версия вашего ЕЛРС передатчика (v2 для 2._._, v3 для 3._._).
+* [ExpressLRS (в случае, если у вас ELRS радиосистема управления)](https://www.expresslrs.org/quick-start/transmitters/lua-howto/)
 
-TBS Agent Lite (для crossfire/tracer радиосистем) https://www.team-blacksheep.com/products/prod:agentx
+Важно иметь скрипт той же версии, что и версия вашего ЕЛРС передатчика (v2 для 2.*.*, v3 для 3.*.*).
+
+* [TBS Agent Lite (для crossfire/tracer радиосистем)](https://www.team-blacksheep.com/products/prod:agentx)
 
 ## Опциональные скрипты
 
-Скрипт-симулятор от AlexeyStn (один из ТОПовых пилотов-гонщиков из РФ) https://github.com/alexeystn/lua-fpv-sim
+* [Скрипт-симулятор от AlexeyStn (один из ТОПовых пилотов-гонщиков из РФ)](https://github.com/alexeystn/lua-fpv-sim)
+
 Позволяет скоротать время с пользой, если у вас под рукой только аппаратура.
 
-Множество скриптов собрано тут: https://github.com/EdgeTX/lua-scripts
+* [Множество скриптов собрано тут](https://github.com/EdgeTX/lua-scripts).
