@@ -8,7 +8,10 @@ export const ru = defineConfig({
   themeConfig: {
     returnToTopLabel: "Наверх",
     sidebarMenuLabel: "Меню",
-    darkModeSwitchLabel: "Сменить тему",
+    darkModeSwitchLabel: "Оформление",
+    lightModeSwitchTitle: "Переключить на светлую тему",
+    darkModeSwitchTitle: "Переключить на тёмную тему",
+    langMenuLabel: "Изменить язык",
     outline: { label: "Содержание:" },
     lastUpdated: {
       text: "Обновлено",
