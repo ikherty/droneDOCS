@@ -10,7 +10,13 @@ export const ru = defineConfig({
     sidebarMenuLabel: "Меню",
     darkModeSwitchLabel: "Сменить тему",
     outline: { label: "Содержание:" },
-
+    lastUpdated: {
+      text: "Обновлено",
+      formatOptions: {
+        dateStyle: "short",
+        timeStyle: "short",
+      },
+    },
     docFooter: {
       prev: "Назад",
       next: "Далее",
