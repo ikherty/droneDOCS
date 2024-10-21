@@ -45,12 +45,12 @@ https://github.com/emuflight/EmuConfigurator/releases
 ## Для регуляторов
 
 Конфигуратор Bluejay Configurator (для прошивки регуляторов прошивкой BLheli_S; BlueJay, с возможностью использования rpm-фильтров) (8bit):
-https://esc-configurator.com (также поддерживает экспериментальную прошивку AM32 для 32bit регуляторов)
+https://esc-configurator.com (также поддерживает прошивку AM32 для 32bit регуляторов)
 
 Конфигуратор AM32 (для регуляторов с прошивкой AM32):
 https://am32.ca/
 
-Конфигуратор BlHeli Suite (для прошивки регуляторов) (32bit):
+Конфигуратор BlHeli Suite (для настройки регуляторов blheli32) (32bit):
 https://github.com/bitdump/BLHeli/releases
 
 ## Для RC приемников и передатчиков
@@ -87,7 +87,7 @@ https://www.hd-zero.com/document
 ## Симуляторы
 
 Симуляторы находятся на отдельной странице:
-https://propwashservice.ru/intro/sim.html
+https://propwashservice.ru/ru/intro/sim.html
 
 ## Для изучения логов
 

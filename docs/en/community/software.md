@@ -1,136 +1,136 @@
-# Используемое программное обеспечение
+# Software
 
 ```
-Для Windows файлы с расширением .EXE
-Для Linux .rpm, .deb
-Для Mac .dmg
-Для Android .apk
+For Windows files with the extension .EXE
+For Linux - .rpm, .deb
+For Mac - .dmg
+For Android - .apk
 ```
 
-> Фразы "Release Candidate (RC)", "Pre-release" означают следующее: это релиз-кандидат, предназначенный для тестирования, и некоторые вещи еще нуждаются в исправлении и тонкой настройке. Пожалуйста, используйте его с осторожностью и сообщайте о любых проблемах [по адресу.](https://github.com/betaflight/betaflight-configurator/issues)
-Чем новее релиз-кандидат, тем больше исправлений, но ошибки все еще могут оставаться ввиду человеческого фактора в тестировании и возможных ошибок при слиянии веток разработки(см. как работает git). Если вы не готовы к рискам, связанным с этим, рекомендуется использовать только релизы (Release). Настоятельно рекомендуется использовать соответствующие версии прошивок и конфигураторов: в INav нумерация идентична, в Betaflight для 4.5.\* версии нужен конфигуратор 10.10.\* или новее, для 4.4.х нужен 10.9.х, для прошивок регуляторов и приемников необходима просто последняя версия конфигуратора, обратная совместимость есть.
+> The terms "Release Candidate (RC)" and "Pre-release" mean the following: this is a release candidate intended for testing, and some things may still need fixing and fine-tuning. Please use it with caution and report any [issues here](https://github.com/betaflight/betaflight-configurator/issues).
+The newer the release candidate, the more fixes it contains, but bugs may still remain due to the human factor in testing and possible errors during development branch merges (see how git works). If you're not prepared for the risks associated with this, it's recommended to use only releases (Release). It's strongly advised to use matching versions of firmware and configurators: in INav, the numbering is identical, in Betaflight, for version 4.5.x, you need configurator 10.10.x. or newer, for 4.4.x you need 10.9.x, and for ESC and receiver firmware, simply use the latest version of the configurator, as backward compatibility is present.
 
-## Для полетных контроллеров
+## For flight controllers
 
-Конфигуратор Betaflight Configurator (для прошивки полетного контроллера):
+Betaflight Configurator (for flashing the flight controller):
 
-Десктоп версия, также доступна под андроид - https://github.com/betaflight/betaflight-configurator/releases
+Desktop version, also available for Android - https://github.com/betaflight/betaflight-configurator/releases
 
-Онлайн версия - https://app.betaflight.com/
+Online version - https://app.betaflight.com/
 
-Конфигуратор INav Configurator (для прошивки полетного контроллера):
+INav Configurator (for flashing the flight controller to INav firmware):
 https://github.com/iNavFlight/inav-configurator/releases
 
-Конфигуратор QuickSilver (для прошивки полетного контроллера **tiny whoop-а**, потомок silverware):
+QuickSilver Configurator (for flashing the **tiny whoop's** flight controller to QuickSilver firmware, a descendant of Silverware):
 https://config.bosshobby.com/#/home
 
-Конфигуратор KISS ULTRA (для прошивки полетного контроллера KISS ULTRA):
+KISS ULTRA Configurator (for flashing the KISS ULTRA flight controller):
 https://github.com/KissUltra/gui/releases
 
-Конфигуратор KISS (для прошивки полетного контроллера KISS или Fettec):
+KISS Configurator (for flashing KISS or Fettec flight controllers):
 https://github.com/flyduino/kiss-gui/releases
 
-Конфигуратор Mission Planner (для прошивки Ardupilot (см. [список поддерживаемых полетных контроллеров](https://ardupilot.org/copter/docs/common-autopilots.html))):
+Mission Planner (for flashing Ardupilot (see [list of supported flight controllers](https://ardupilot.org/copter/docs/common-autopilots.html))):
 https://ardupilot.org/planner/docs/mission-planner-installation.html
 
-Конфигуратор QGroundControl (для прошивки PX4 и Ardupilot (см. [список поддерживаемых полетных контроллеров](https://discuss.px4.io/t/list-of-px4-supported-fc-hardware/24901))):
+QGroundControl (for flashing PX4 and Ardupilot (see [list of supported flight controllers](https://discuss.px4.io/t/list-of-px4-supported-fc-hardware/24901))):
 http://qgroundcontrol.com/downloads
 
-Конфигуратор FlightOne FalcoX Alpha (для прошивки полетных контроллеров от FlightOne или полетников с купленной прошивкой FalcoX):
+FlightOne FalcoX Alpha Configurator (for flashing FlightOne flight controllers or those with purchased FalcoX firmware):
 https://flightone.com/download.php?version=alpha
 
-Конфигуратор EmuFlight (для прошивки полетного контроллера):
+EmuFlight Configurator (for flashing the flight controller to EmuFlight firmware):
 https://github.com/emuflight/EmuConfigurator/releases
 
-## Для регуляторов
+## For ESCs
 
-Конфигуратор Bluejay Configurator (для прошивки регуляторов прошивкой BLheli_S; BlueJay, с возможностью использования rpm-фильтров) (8bit):
-https://esc-configurator.com (также поддерживает экспериментальную прошивку AM32 для 32bit регуляторов)
+Bluejay Configurator (for flashing ESCs with BLheli_S firmware; BlueJay, with the option to use RPM filters) (8bit):
+https://esc-configurator.com (also supports AM32 firmware for 32bit ESCs))
 
-Конфигуратор AM32 (для регуляторов с прошивкой AM32):
+AM32 Configurator (for ESCs with AM32 firmware):
 https://am32.ca/
 
-Конфигуратор BlHeli Suite (для прошивки регуляторов) (32bit):
+BlHeli Suite (for set up ESCs with blheli32 firmware) (32bit):
 https://github.com/bitdump/BLHeli/releases
 
-## Для RC приемников и передатчиков
+## For RC receivers and transmitters
 
-Конфигуратор ExpressLRS (для прошивки приемников и передатчиков ELRS):
+ExpressLRS Configurator (for flashing ELRS receivers and transmitters):
 https://github.com/ExpressLRS/ExpressLRS-Configurator/releases
 
-Online конфигуратор ExpressLRS: https://expresslrs.github.io/web-flasher/
+Online ExpressLRS Configurator: https://expresslrs.github.io/web-flasher/
 
-## Для TBS
+## For TBS
 
-Конфигуратор Agent M (для прошивки Team BlackSheep продукции):
+Agent M (for flashing Team BlackSheep products):
 https://www.team-blacksheep.com/agentm
 
-## Для аппаратуры
+## For radio transmitters
 
-Конфигуратор EdgeTX (для прошивки аппаратур на базе OpenTX):
+EdgeTX Configurator (for flashing OpenTX-based transmitters):
 https://buddy.edgetx.org/#/flash
 
-## Для прошивки видеосистем
+## For Video Systems
 
-DJI Assistant 2 **(DJI FPV series)** (для прошивки DJI goggles v2, caddx vista, dji air unit):
+DJI Assistant 2 **(DJI FPV series)** (for flashing DJI goggles v2, Caddx Vista, DJI Air Unit):
 https://www.dji.com/global/downloads/softwares/dji-assistant-2-dji-fpv-series
 
-DJI Assistant 2 **(Consumer Drones Series)** (для прошивки DJI goggles 2, integra, O3 air unit):
+DJI Assistant 2 **(Consumer Drones Series)** (for flashing DJI goggles 2, Integra, O3 Air Unit):
 https://www.dji.com/global/downloads/softwares/dji-assistant-2-consumer-drones-series
 
-Прошивки для Walksnail Avatar:
-https://avatar-firmware.d3vl.com (если недоступно, откройте через VPN или возьмите файлы [тут](https://github.com/D3VL/Avatar-Firmware-Updates))
+Walksnail Avatar Firmware:
+https://avatar-firmware.d3vl.com
 
-Прошивки для HDZero:
+HDZero Firmware:
 https://www.hd-zero.com/document
 
-## Симуляторы
+## Simulators
 
-Симуляторы находятся на отдельной странице:
-https://propwashservice.ru/intro/sim.html
+Simulators can be found on a separate page:
+https://propwashservice.ru/en/intro/sim.html
 
-## Для изучения логов
+## For log analysis
 
-Просмотрщик логов Betaflight Blackbox Explorer:
+Betaflight Blackbox Explorer (log viewer):
 
-Десктоп версия - https://github.com/betaflight/blackbox-log-viewer/releases
+Desktop version - https://github.com/betaflight/blackbox-log-viewer/releases
 
-Онлайн версия - https://blackbox.betaflight.com/
+Online version - https://blackbox.betaflight.com/
 
-Анализатор логов PIDtoolbox (начиная с версии 0.7 стал платным, доступен по подписке на патреоне - https://www.patreon.com/ThePIDtoolboxGuy):
-старые версии - https://github.com/bw1129/PIDtoolbox/releases
+PIDtoolbox (log analyzer, starting from version 0.7 it's paid, available via Patreon subscription - https://www.patreon.com/ThePIDtoolboxGuy):
+Older versions - https://github.com/bw1129/PIDtoolbox/releases
 
-Онлайн просмотрщик логов аппаратуры на базе OpenTx:
+Online OpenTx-based transmitter log viewer:
 https://maxbl4.github.io/otx/index.html
 
-Онлайн-помогатор для настройки по методике Россера:
+Online tuning helper using Rosser's method:
 https://fpv-drone.info/tools/tuning-tools/
 
-## Фиксеры драйверов для Windows
+## Driver fixers for Windows
 
-Ссылки на скачивание находятся на главной странице бетафлайт конфигуратора в желтой зоне, но на всякий случай продублированы здесь:
+Download links are available on the main page of the Betaflight Configurator in the yellow section, but they are also duplicated here:
 
-CP210x USB to UART Bridge Virtual COM Port (VCP) driver (на случай, если система не корректно распознает порт, по которому подключен полетный контроллер или аппаратура):
+CP210x USB to UART Bridge Virtual COM Port (VCP) driver (in case the system doesn't recognize the port connected to the flight controller or transmitter correctly):
 https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers
 
-Zadig (для обновления USB драйверов, чаще всего нужен при проблемах в режиме бутлоадера(загрузчика)):  
+Zadig (for updating USB drivers, usually needed for bootloader mode issues):
 https://zadig.akeo.ie
 
-ImpulseRC driver fixer (фиксит драйвера для работы с полетным контроллером):
+ImpulseRC Driver Fixer (fixes drivers for flight controller operation):
 https://impulserc.com/pages/downloads
 
-Драйвера для DFU и COM AT32: [по ссылке](https://drive.google.com/drive/folders/1N9b9aRWggz9G2T83CFeXRQgvVgxlf5Y3?usp=drive_link)
+Drivers for DFU and COM AT32: [link here](https://drive.google.com/drive/folders/1N9b9aRWggz9G2T83CFeXRQgvVgxlf5Y3?usp=drive_link)
 
-Также полезные драйвера можно скачать здесь: [архивы в облаке](https://clck.ru/35Xp2W).
+Other useful drivers can be downloaded here: [archives in the cloud](https://clck.ru/35Xp2W).
 
-## Для настройки GPS
+## For GPS Setup
 
 Ublox center: https://www.u-blox.com/en/product/u-center
 
-УСТАРЕВШЕЕ:
+OBSOLETE:
 
-Конфигуратор BLHeli_S Configurator (для прошивки регуляторов, без возможности использования rpm-фильтров) (8bit):
+BLHeli_S Configurator (for flashing ESCs, without RPM filter support) (8bit):
 https://github.com/blheli-configurator/blheli-configurator/releases
 
-Конфигуратор (jazzmaverick) BLHeli_M Configurator (для прошивки регуляторов, с возможностью использования rpm-фильтров) (8bit):
+JazzMaverick BLHeli_M Configurator (for flashing ESCs, with RPM filter support) (8bit):
 https://github.com/Asizon/blheli-configurator/releases/
