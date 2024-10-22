@@ -1,90 +1,87 @@
-# Коротко про аккумуляторы и зарядные устройства
+# Brief overview of batteries and chargers
 
-## Какие аккумуляторы используются, что означают числа на них?
+## What types of batteries are used, and what do the numbers on them mean?
 
-Аккумуляторы подбираются под задачи и винто-моторную группу ЛА. Есть примерные значения характеристик аккумуляторов для типовых классов дронов, нередко к готовым дронам производители в описании указывают их. Что эти цифры означают?
+Batteries are selected based on the specific tasks and motor-propeller group of the aircraft. Manufacturers often list approximate specifications for batteries suited to typical drone classes in product descriptions. But what do these numbers mean?
 
-Например, у нас аккумулятор LiPo (литий-полимерный) 6S (количество ячеек, также схема их подключения) 1300mAh (емкость, количество милиампер-часов) 100C (С-рейтинг). Иногда также указывают напряжение аккумулятора в режиме хранения - 22,2В (3,7-3,8В на банку).
+For example, let's consider a LiPo (lithium-polymer) battery with the following specs: 6S (number of cells and their configuration) 1300mAh (capacity, measured in milliamp-hours) 100C (C-rating). Sometimes the battery's storage voltage is also indicated, such as 22.2V (3.7-3.8V per cell).
 
-Схема подключения определяется следующим образом: количество ячеек перед S идет последовательно, количество P-параллельно.
+The configuration is as follows: the number before the 'S' indicates the number of cells connected in series, while 'P' (if mentioned) shows how many are connected in parallel.
 
-Если указано 2S или 2S1P (при 1Р часто не упоминают эту информацию) - это две ячейки(2 элемента, 2 банки - встречаются разные формулировки в сообществе), подключенные последовательно. По курсу физики 8 класса вспоминаем, что при таком подключении емкость ячеек в связке равна емкости одной ячейки, а общее напряжение аккумулятора суммируется из напряжений всех ячеек. Каждая ячейка LiPo может быть заряжена до 4,2В. То есть в заряженном состоянии 2S1P сборка будет с напряжением 4,2\*2=8,4В.
+If a battery is labeled 2S or 2S1P (1P is often omitted), this means there are two cells connected in series. According to basic physics, the total capacity of the battery remains the same as one cell's capacity, but the total voltage is the sum of all the cells' voltages. Each LiPo cell can be charged to 4.2V. So, a 2S1P battery will have a fully charged voltage of 4.2 * 2 = 8.4V.
 
-Если, например, сборка 2S3P, то у нас по 2 ячейки запареллелено 3 раза. При параллельном подключении суммируется емкость, напряжение равно сумме напряжений ячеек в одной параллели. В таком случае напряжение батареи 4,2\*2=8,4В, а количество ампер-часов в три раза больше, чем у 1 ячейки.
+For example, in a 2S3P configuration, two cells are paralleled three times. In a parallel connection, the total capacity is the sum of the capacities of all the cells, while the voltage remains the same. Thus, the total voltage of this pack would be 4.2 * 2 = 8.4V, and the capacity would be three times that of a single cell.
 
-Вернемся к изначальному примеру: 6S = 6 ячеек в последовательном соединении с максимальным напряжением аккумулятора 4,2\*6=25,2В.
+Returning to our initial example: 6S means 6 cells connected in series, with a maximum battery voltage of 4.2 * 6 = 25.2V.
 
-Чтобы посчитать токоотдачу аккумулятора, необходимо умножить емкость (Ah, ампер\*час) на C-рейтинг, в примере 1,3Ач\*100С=130А, это токоотдача данного аккумулятора на длительном интервале либо в пике, тут каждый производитель по своему решает, укзать С-рейтинг в пике или нет. Иногда встречается более правильное указание через дробь, например, 100/120С, это значит, что 100С на продолжительном интервале, 120С в пике (краткосрочно). Также в сообществе часто упоминается, что заявленный С-рейтинг не соответствует реальности, можно посчитать по формуле, но это не так важно. И, спрашивается, зачем тогда производитель врет? Сложно сказать.. однако, при наличии двух разных аккмулятров одного производителя по характеристикам с этикетки мы сможем выявить более мощный вариант.
+To calculate the discharge current of the battery, multiply the capacity (Ah, amp-hours) by the C-rating. In the example, 1.3Ah * 100C = 130A, which is the battery's discharge rate over a long interval or peak, depending on how the manufacturer specifies it. Sometimes you’ll see a dual C-rating, such as 100/120C, where 100C is continuous, and 120C is peak (short-term). There's debate in the community about the accuracy of C-ratings, but the general consensus is that you can still use them to compare batteries from the same manufacturer.
 
-[Подробнее про аккумуляторы.](https://dronomania.ru/faq/vsyo-o-lipo-batareyah-dlya-fpv-dronov.html)
+## How to choose a charger?
 
-## Как выбрать зарядное устройство?
+Key criteria include:
 
-Есть следующие критерии:
+- Budget
+- Size
+- Number of ports
+- Power and balancing current
+- Built-in power supply (PS)
+- Supported battery cell count
+- Brand
 
-- бюджет
-- габариты
-- количество портов
-- мощность и балансировочный ток
-- наличие встроенного БП
-- поддерживаемое количество ячеек аккумулятора
-- бренд
+A basic charger and PS can cost around 20$. At this price, you’ll likely get an old, weak charger and a generic power supply. It's a gamble whether it will charge and balance your batteries properly, and you might be in for an unpleasant surprise if it overcharges the batteries, possibly leading to a fire.
 
-Пойдем по порядку. Минимально зарядное устройство (ЗУ) и блок питания могут обойтись условно в 1500 рублей. За эти деньги вы получите старенькую слабенькую зарядку и ноунейм блок питания. Насколько хорошо оно будет заряжать и балансировать аккумуляторы - неизвестно. Повезет, если не будет перезаряжать, иначе придется делать незапланированный ремонт квартиры после пожара.
+A good charger can last for many years, so it's often a one-time investment until you need better features. Therefore, I don’t recommend skimping on this. Prices vary, but be ready to spend $60 or more for a decent charger.
 
-Зарядное устройство может прослужить много лет, можно сказать одноразовая покупка, пока не появится потребность в характеристиках лучше. Потому экономить и брать самое дешевое не рекомендую. Средний ценник назвать трудно, каждый год появляются более новые модели, надо быть готовым к сумме 60+$.
+There are compact, “pocket” chargers, which are convenient to carry around, but they usually don’t have a built-in power supply, so you’ll need to find a compatible one. “Stationary” chargers are bulkier and often come with a built-in PS. Many hobbyists have both types: a “travel” charger for use with a car battery or spare large battery and a multi-port one for home use.
 
-Есть варианты "карманные", что удобно носить с собой. По умолчанию у них не встроен блок питания, нужно дополнительно искать с подходящей мощностью и напряжением. Есть "стационарные", более увесистые, габаритные, чаще со встроенным блоком питания. Многие хоббисты берут оба варианта, один "походный", чтобы была возможность подзарядиться от автомобильного аккумулятора или запасного круппного аккума, и один многопортовый дома. Удобно.
+Some chargers come with 1-4 ports, meaning you can charge 1-4 batteries simultaneously, with each port acting as an independent charger. Not many chargers have 4 ports, but popular 4-port models include the SkyRC Q200Neo and Hota F6.
 
-Бывают с 1-4 портами для заряда 1-4 аккумуляторов соответственно, каждый порт - самостоятельное ЗУ. Представителей ЗУ с 4 портами не так много. Из популярных 4-портовых могу назвать skyrc q200neo, hota f6.
+[Skyrc q200](https://rcsearch.info/-c49307)is a well-known, reliable charger, though it's somewhat outdated. The new Q200Neo model is smaller, features a USB Type-C PD output, but otherwise retains the same functionality.
 
-[Skyrc q200](https://rcsearch.info/-c49307) добротная, проверенная временнем зарядка. Уже морально устарела. Недавно вышла обновленная версия q200neo, меньше по габаритам, изменен USB выход на type-C PD, в остальном функционал остался прежним.
+The Hota F6 is a compact option without a built-in power supply, priced [around $100](https://rcsearch.info/-c24672).
 
-hota f6 - компактный вариант без встроенного блока питания. Цена близка к 100$, [где купить.](https://rcsearch.ru/-c24672)
+If you’re not set on popular models and want to choose based on your needs, you’ll need to calculate the charger's power requirements. Charging high-drain batteries (which may wear out within a few months) at up to 5C is often practiced when quick recharges are necessary for more training. However, the standard recommendation is to charge at 1C. Some hobbyists report charging their batteries at 2C without faster degradation.
 
-Если не брать в счет популярное, а выявлять по необходимости, нам нужно высчитать мощность ЗУ.
-Расчитать мощность легко. Высокотоковые аккумуляторы, уходящие в расход за месяц-три можно заряжать током вплоть до 5С(если так сказано в описании аккумулятора, читайте внимательно), чаще всего такое практикуется, если необходимо быстро зарядить аккумы и пойти дальше тренироваться. В обычном режиме эксплуатации рекомендуется заряжать током 1С, некоторые хоббисты делились информацией, что заряжают свои аккумуляторы(с допустимым током заряда 5С) стабильно 2С, и не заметили более быстрой деградации.
+Let’s go back to the example of a 6S 1300mAh 100C battery. Power (N) = V * I = 6 * 4.2 * 1.3 = 32.76W at 1C, 65.52W at 2C. Adding a 20% buffer gives 78.624W. So, a single-port 80W charger would suffice, but what about future needs? If you get a 7" drone, you’ll need larger batteries, and a lower-power charger might not handle even 1C charging, making the process take over an hour. My recommendation: the price difference isn’t too high, so consider a 200-600W charger with 2-4 ports.
 
-Вернемся к примеру с 6S 1300mAh 100C. Мощность(N)=V\*I=6\*4.2\*1.3=32.76 Вт при токе 1С, для 2С 65.52 Вт, берем 20% запаса - 78.624 Вт. Итого, можно брать 1-портовый зарядник на 80Вт и не заморачиваться, но что насчет перспектив на будущее? Появится у вас 7" дрон, аккумуляторы понадобятся совсем другие, с большей емкостью. Таким ЗУ возможно не получится заряжать даже током 1С, и время зарядки одного аккмулятора может занять больеш часа. Моя рекомендация: разница в цене не так высока, есть смысл взять сразу на 200-600Вт 2 или 4-портовый.
+Regarding balancing current—the higher the balancing current, the quicker the voltage will equalize at the end of the charge cycle. Typically, the charger reaches 97+% quickly, and then balancing begins. A charger with a balancing current of 0.4A will take twice as long to balance as one with balancing current=0.8A.
 
-Что касается балансировочного тока ЗУ-чем больше балансировочный ток, тем быстрее под конец заряда будет выравниваться напряжение на банках. Как правило, до 97+-% заряд доходит быстро, а далее начинается балансировка, и будь у ЗУ балансировочный ток 0.4А - выравнивать напряжение на банках оно будет в два раза дольше, чем ЗУ с балансировочным током 0.8А.
+A built-in power supply isn’t necessary. You can always repurpose a laptop or computer PS by soldering the right connector for your charger, or you can buy a quality PS for $30+ that fits your charger’s power needs.
 
-Встроенный блок питания не обязателен. Всегда можно найти компьютерный/ноутбучный и перепаять разъем под ЗУ, либо купить за 30+-$ хороший БП с нужной для ЗУ мощностью.
+Most new chargers support up to 6S batteries, but there are exceptions, like the Toolkit M4DAC, which can be a disappointment. If you buy it without checking, you might regret it, especially since most new drones are designed for 6S.
 
-Как правило, новые зарядные устройства поддерживают аккумуляторы до 6S, но всегда находятся исключения из правил, например, toolkit m4dac - это провал. Кто купил не глядя, скорее всего пожалел, так как новые ЛА в основном предлагаются под 6S.
+Lastly, don’t forget that reputable brands are more reliable. Avoid imax B6 clones unless you want a fire hazard. Stick to trusted brands like Hota, SkyRC, and ISDT. ToolkitRC is also recommended, though some users report balancing issues or occasional defects. Be cautious during the first few charge cycles before making it your go-to charger.
 
-И, конечно же, не стоит забывать, что проверенные бренды надежнее. Не стоит брать клоны imax b6, если не хотите устроить пожар. В первую очередь стоит рассмотреть варианты от hota, skyrc, isdt. Также рекомендуют toolkitrc, но есть отзывы, что балансировка ячеек не идеальна, и периодически приезжает с браком. Внимательно отнеситесь к первым циклам зарядки, прежде чем переходить на постоянное пользование.
+## Recommended chargers
 
-## Рекомендуемые зарядки
+### For whoop (1S) batteries
 
-### Для вуповых (1S) аккмууляторов
+[VIFLY WhoopStor v2/v3](https://rcsearch.info/-c46257)
 
-[VIFLY WhoopStor](https://rcsearch.ru/-c46257)
+### Single-port chargers without PS
 
-### Однопортовые без БП
+[SkyRC b6 neo](https://rcsearch.info/-c47308),
+[ToolkitRC M6](https://rcsearch.info/-c6063), [ToolkitRC M7](https://rcsearch.info/-c25346), [ToolkitRC m4 pocket](https://rcsearch.info/-c32468),
+[ISDT PD60](https://rcsearch.info/-c16236), [ISDT Q6 nano](https://rcsearch.info/-c14405)
 
-[SkyRC b6 neo](https://rcsearch.ru/-c47308),
-[ToolkitRC M6](https://rcsearch.ru/-c6063), [ToolkitRC M7](https://rcsearch.ru/-c25346), [ToolkitRC m4 pocket(карманный вариант)](https://rcsearch.ru/-c32468),
-[ISDT PD60(карманный вариант)](https://rcsearch.ru/-c16236), [ISDT Q6 nano](https://rcsearch.ru/-c14405)
+### Single-port chargers with built-in PS
 
-### Однопортовые со встроенным БП
+[iSDT 608AC](https://rcsearch.info/-c8911),
+[ToolkitRC M7AC](https://rcsearch.info/-c39020)
 
-[iSDT 608AC](https://rcsearch.ru/-c8911),
-[ToolkitRC M7AC](https://rcsearch.ru/-c39020)
+### Dual-port chargers without PS
 
-### Двухпортовые без БП
+[ToolkitRC M6D](https://rcsearch.info/?s=toolkit+m6d)
 
-[ToolkitRC M6D](https://rcsearch.ru/?s=toolkit+m6d)
+### Dual-port chargers with built-in PS
 
-### Двухпортовые со встроенным БП
+[Hota D6 Pro](https://rcsearch.info/-c5511),
+[ISDT D2](https://rcsearch.info/-c2175)
 
-[Hota D6 Pro](https://rcsearch.ru/-c5511),
-[ISDT D2](https://rcsearch.ru/-c2175)
+### Four-port chargers without PS
 
-### Четырехпортовые без БП
+[Hota F6](https://rcsearch.info/-c24672)
 
-[Hota F6](https://rcsearch.ru/-c24672)
-
-### Четырехпортовые со встроенным БП
+### Four-port chargers with built-in PS
 
 [SkyRC Q200neo](https://rcsearch.info/-c49307)

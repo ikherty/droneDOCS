@@ -7,68 +7,61 @@
 }
 </style>
 
-# Введение
+# Introduction
 
-Авторы: [Андрей Щ.](https://github.com/EIIIE), [Валентина](https://github.com/ikherty)
+Authors: [Андрей Щ.](https://github.com/EIIIE), [Валентина](https://github.com/ikherty)
 
-## Что за фрукт и с чем едят?
+## What is it, and how is it used?
 
-Коптеры представляют собой летательные аппараты (ЛА) мультироторного типа. В зависимости от числа винто-моторных групп (ВМГ) добавляется греческая приставка:
-двухмоторные - бикоптеры, трех - трикоптеры, четырех - квадрокоптеры, шести - гексокоптеры, восьми - октокоптеры и множество других вариаций и подвидов для конкретных задач.
+Drones, or quadcopters, are multirotor flying devices. Depending on the number of motor-propeller groups (MPGs), a Greek prefix is added: two motors - bicopters, three - tricopters, four - quadcopters, six - hexacopters, eight - octocopters, and there are various other configurations for specific tasks.
 
-Самая популярная схема - квадрокоптер (4-ре винта), оптимальная с точки зрения сложности и эффективности. Летательные аппараты сложнее своих наземных собратьев требованиями к уравновешиванию всех действующих на них сил. Так, большую часть коптеров составляют аппараты с парным числом винтов, где половина вращается в направлении по часовой стрелке, а другая - против. Для понимания проще всего взглянуть на вертолет, где есть хвостовой винт, не дающий аппарату бесконтрольно вращаться. Большее количество моторов (чем 4-ре) устанавливают на коптеры для увеличения веса, который он может поднять и для улучшения отказоустойчивости (в теории 6-ти, 8-ми и тд винтовые коптеры способны продолжить полет при потере нескольких винтов, на практике есть свои ограничения).
+The most popular design is the quadcopter (four propellers), which is optimal in terms of complexity and efficiency. Aerial vehicles are more complex than their ground-based counterparts due to the need to balance all forces acting on them. Most drones have an even number of propellers, where half spin clockwise and the other half counterclockwise. For easier understanding, think of a helicopter: it has a tail rotor that prevents the aircraft from uncontrollably spinning. Adding more motors than four is done to increase the load-carrying capacity and improve redundancy (theoretically, 6- or 8-propeller drones can keep flying even if some motors fail, though this has practical limitations).
 
-Популярные сокращения квадрокоптера: дрон, квад, коптер.
+Common abbreviations for quadcopters include drone, quad, and copter.
 
-Даже в рамках одного количества винтов (пропеллеров) коптеры отличаются по размеру. Обычно не говорят конкретные размеры аппарата в сантиметрах, а используют для этого диаметр пропеллера коптера (в дюймах). Так как именно размер (диаметр), число лопастей и их угол наклона определяет тягу, выдаваемую коптером.
+Even within the same number of propellers, drones vary in size. Instead of referring to exact dimensions in centimeters, people typically refer to the propeller diameter (in inches), as the propeller size, number of blades, and their pitch define the thrust produced by the drone.
 
 <p class="image-container">
   <img src="/assets/img/size-6-5-4-3-inch-mini-quad-frame-1024x499.webp" width="600" alt="выставленные в ряд коптеры с разными размерами рам">
 </p>
 
-Но "больше" не значит "лучше". Чем больше пропеллеров и моторов, тем больший требуется размер рамы и больший аккумулятор(ы) - всё это масса аппарата. А именно соотношение тяги к массе определяет, насколько коптер будет проворным.
-Однако, снижать вес надо с умом и расчетом. Так, если только убрать массу с рамы (а не со всего аппарата), то это приведет к уменьшению её прочности, а мы ведь не хотим, чтобы коптер пылился на полке в ожидании ремонта и запчастей. Если снижать массу, то убирать её отовсюду.
+However, "bigger" doesn’t necessarily mean "better." The more propellers and motors, the larger the frame and batteries required, increasing the drone's weight. It's the thrust-to-weight ratio that determines how agile a drone will be.
+But reducing weight requires a careful approach. If weight is only reduced from the frame (and not the whole drone), it can weaken its structural integrity. And no one wants their drone sitting on a shelf, waiting for repairs or spare parts. When reducing weight, it needs to be done across the entire drone.
 
-Из этого следует два правила:
+This leads to two key rules:
 
-- Чем легче (меньше) аппарат, тем сложнее его сломать (но сломать можно всё)
-- Соотношение максимальной тяги всех винтов к массе аппарата определяет скоростные возможности коптера
+- The lighter (and smaller) the drone, the harder it is to break (but everything can break).
+- The thrust-to-weight ratio determines the drone’s speed capabilities.
 
-## Что входит в минимальный комплект для полета на FPV дроне?
+## What is the minimum set needed to fly an FPV drone?
 
-- [Словарь](https://propwashservice.ru/ru/community/glossarium)
-- [Аппаратура радиоуправления](https://propwashservice.ru/ru/intro/tx)
-- [Симулятор](https://propwashservice.ru/ru/intro/sim)
-- [Очки или шлем](https://propwashservice.ru/ru/intro/vrx)
-- [Дрон](https://propwashservice.ru/ru/intro/flightstyles)
-- [Аккумуляторы и зарядное устройство](https://propwashservice.ru/ru/intro/power)
-- [Инструменты и запчасти](https://propwashservice.ru/ru/shop/nessesary)
-- [Локальное комьюнити](https://propwashservice.ru/ru/community/chats)
+- [Glossary](https://propwashservice.ru/en/community/glossarium)
+- [Transmitter](https://propwashservice.ru/en/intro/tx)
+- [Simulator](https://propwashservice.ru/en/intro/sim)
+- [Headset](https://propwashservice.ru/en/intro/vrx)
+- [Drone](https://propwashservice.ru/en/intro/flightstyles)
+- [Batteries and charger](https://propwashservice.ru/en/intro/power)
+- [Tools and spare parts](https://propwashservice.ru/en/shop/nessesary)
+- [Local community](https://propwashservice.ru/en/community/chats)
 
-[Примеры стартовых комплектов под различный бюджет.](https://propwashservice.ru/ru/shop/set)
+[Examples of starter kits for various budgets](https://propwashservice.ru/en/shop/set).
 
-## Сколько стоит?
+## How much does it cost?
 
-> Начинающему пилоту крайне не рекомендуется покупать б/у запчасти и летательные аппараты без доп.помощи с первым взлетом от продавца. Первое время будет сложно отличить свою неопытность от неисправности комплектующих.
+> It's strongly recommended that beginners avoid buying used parts or drones without additional help during their first flights. At first, it can be hard to tell the difference between your lack of experience and component malfunction.
 
-По цене хобби обходится, как и любой спорт на более-менее серьезном/профессиональном уровне. Можно начать с малого - покупки радиоаппаратуры и симулятора, чтобы понять, нужно ли оно, интересно ли, да и в целом без тренировок до более-менее осознанного управления пытаться взлететь на реальном дроне настоятельно не рекомендуется. Средняя стоимость аппаратуры 120$, симулятор около 15$. Для любительских полетов по дому цена входа будет от 300$ (да, есть коптеры спокойно помещающиеся на ладонь; нет, ремонт они не попортят). "Комплект" с дроном для полетов на открытых площадках на аналоговой видеосвязи от 500$, на цифровой видеосистеме от 1000$.
+The hobby costs as much as any sport at a somewhat serious or professional level. You can start small by purchasing a radio transmitter and a simulator to see if it’s something you enjoy. It's generally not recommended to try flying a real drone without adequate simulator practice. The average cost of a transmitter is about $120, and simulators are around $15. Entry-level indoor drones can cost from $300 (yes, there are drones that fit in the palm of your hand; no, repairing them won’t break the bank). A full setup for outdoor flying with analog video transmission starts at $500, while a setup with digital video starts at $1,000.
 
-Почему в долларах? Курс рубля меняется, а товары, необходимые для хобби, чаще всего остаются в том же ценовом диапазоне в долларах.
+It's not necessary to spend a fortune immediately, but over time, you’ll understand what spares you need, what you should upgrade, and you’ll be more comfortable with the costs.
 
-Если заниматься постоянно, особенно в гонках или в съемке, в среднем каждый месяц может уходить от 100$ до 600$ (на личном опыте проверено). Постепенно аппаратов будет становиться всё больше, под разные задачи, как и расходников, инструментов, комплектующих для срочного ремонта.
+## Is this for me?
 
-Не обязательно сразу вкладывать несколько зарплат, но, со временем, придет понимание, что нужно взять про запас, что стоит обновить, и к тратам уже относиться будете спокойнее.
+Good question! We recommend learning about the different styles of flying (see [flight styles](https://propwashservice.ru/en/intro/flightstyles)), evaluating your budget, free time, and potential (for example, in Russia, top young drone racers can rise to the top in six months, while older pilots may take three years or more; similarly in filming, the market is becoming crowded with "specialists"). Most importantly, start with a simulator to see if you enjoy it before making any major investments.
 
-Большинство популярных магазинов можно найти по [ссылке](https://propwashservice.ru/ru/shop/shops).
+You can buy used equipment, and if the hobby doesn’t take off, you can sell it with little financial loss, but you’ll gain valuable experience.
 
-## А надо ли оно мне?
+However, don't rely on a single source of information. The technology evolves rapidly, and modern gear is far more efficient than older equipment, which may feel like "junk" by comparison. It's crucial to stay informed by reading and asking for advice in forums and communities.
 
-Хороший вопрос! Рекомендуем изучить направления (см. [стили полета](https://propwashservice.ru/ru/intro/flightstyles)) , оценить бюджет, свободное время, перспективы (в RU сегменте топ гонщиком в юном возрасте можно стать и за полгода, а в среднем возрасте может потребоваться и три, да и не факт, что выйдет; аналогично и в сфере съемки, на рынке с каждым днем все больше "специалистов" в этой области). И, в первую очередь, начать с симулятора, чтобы с минимальным вложением понять, затягивает ли, а главное - хватит ли времени. Можно приобрести Б/У аппаратуру, если не затянет отправить его на барахолку, ничего не потеряв по деньгам, но получив ценный жизненный опыт.
+Remember, drone pilots are usually very friendly and open to helping newcomers enjoy the skies.
 
-Но точно не стоит слушать один источник (периодически встречаются случаи изучения старых материалов, до 2019 года, и покупки наборов "того времени", а далее мучений и непонимания, что делать с этим. Поскольку прогресс не стоит на месте, современное железо намного производительнее и мощнее чем старое, которое, по сравнению с новым, просто "хлам"). Рекомендуем изучать разные источники, точки зрения, не бояться спрашивать в чатах советов по той, или иной теме. Но также не стоит наседать на людей без самостоятельных попыток поиска ответов на просторах интернета, т.к. все ценят свое время.
-
-Стоит предупредить, что самые актуальные и подробные статьи/видео представлены на английском языке. Так что без знания английского языка на уровне чтения прогресс значительно замедлится, а отставания от актуальной информации будет только увеличиваться.
-
-Помните, пилоты дронов в большинстве случаев очень дружелюбные и открытые люди, которые всегда подскажут и помогут новичкам, чтобы и те смогли насладиться видом с воздуха.
-
-[Введение от других пилотов.](https://habr.com/ru/post/486076/)
+[Introduction from other pilots](https://habr.com/ru/post/486076/).

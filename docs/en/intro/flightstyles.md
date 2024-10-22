@@ -1,91 +1,84 @@
-# Стили полета, какие они бывают, чем отличаются?
+# Types of FPV flying: what are they, and how do they differ?
 
-В первую очередь стоит определить, что вам интереснее всего, какими возможностями и бюджетом обладаете, и чего хотите добиться (как минимум хотя бы попробовать). Полеты на FPV дронах это не всегда съемки видео, не по полчаса как на мавиках, не только в стабилизационных режимах с возвратом и зависанием по GPS..
+First, it's important to determine what you're most interested in, what resources and budget you have, and what you want to achieve (at the very least, give it a try!). FPV drone flights are not always about video shooting; they don't last for half an hour like with Mavics, and they don't just rely on stabilization modes with GPS-assisted return and hover functions.
 
-> Если какие-то термины непонятны, ищите тут: [Глоссарий](https://propwashservice.ru/ru/community/glossarium).
+> If any terms are unclear, check this [glossary](https://propwashservice.ru/en/community/glossarium).
 
-## Indoor полеты (в помещениях)
+## Indoor flying
 
-Данную нишу занимают микродроны, как правило, из класса tiny whoop - размер рамы 65 или 75мм по диагонали между моторами, обязательно с пропгардами вокруг пропеллеров, и на аккумуляторах 1-2S. Если помещение больше, чем среднестатистическая квартира, можно использовать аппараты на 2-4S (как правило, это минимально допустимое напряжение для дронов с цифровой видеосистемой по типу DJI FPV), но в случае квартиры 20-60 кв.м. подобным дроном без нужного уровня пилотирования будет трудно рулить.
-Взлетная масса тинивупа порядка 20-36г, и чем легче аппарат, тем бодрее полет на нем и меньше инерция. Среднее время полета такого дрона 4 минуты, но может составлять 2-9 минут в зависимости от стиля полета, "свежести" аккмулятора, и сетапа дрона. Тинивупы нередко используются новичками для обучения полетам, на них проходят гонки в сезон - с осени до весны (поскольку зимой летать на улице не очень приятно и интересно), но с учетом текущих распоряжений в РФ и не только для многих полеты дома - единственно возможные условия. Тинивупы можно собрать, причем достаточно просто, поскольку бОльшая часть на коннекторах, и паять практически ничего не нужно, но если хочется получить бодрый тинивуп - лучше заморочиться с облегчением всех компонентов - убрать разъемы, использовать печатную канопу, подобрать более легкие комплектующие (примеры комплектующих можно найти в разделе [Компоненты для самосборов](https://propwashservice.ru/ru/shop/DIY)). Также есть неплохие варианты готовых дронов в данном классе, например, от happymodel, как на аналоговой видеосистеме, так и на hdzero и avatar цирфовых системах. На тинивупах используются платы "все в одном" - AIO, где на одной плате расположены полетный контроллер + регуляторы + приемник + (опционально) аналоговый видеопередатчик. При выборе дрона или AIO для него учитывайте протокол приемника и его подключение, в случае ELRS системы (возможно SPI подключение (версия прошивки приемника зависит от версии бетафлайта) и serial (он же UART), что более предпочтительно, поскольку постепенно прекращается поддержка SPI приемников).
+This niche is mainly occupied by microdrones, typically from the tiny whoop class, with frame sizes of 65 to 75 mm between motors, equipped with propeller guards, and powered by 1-2S batteries. If the indoor space is larger than the average apartment, you can use drones with 2-4S batteries (this is the minimum voltage typically required for drones with digital video systems like DJI FPV). However, in an apartment of 20-60 sq.m., flying such a drone would be challenging without sufficient piloting skills.
 
-Примеры перечисленных аппаратов:
+The takeoff weight of a tiny whoop is around 20-36g, and the lighter the drone, the more agile the flight and the less inertia it has. The average flight time of such drones is about 4 minutes, but it can range from 2 to 9 minutes depending on flight style, battery condition, and drone setup. Tiny whoops are often used by beginners for training and are also raced during the season from fall to spring (as outdoor flying isn't as fun in winter). Due to current regulations, indoor flights may be the only option for many. Tiny whoops can be assembled relatively easily since most components are plug-and-play, and soldering is rarely required. For a more agile drone, you can minimize weight by removing connectors, using 3D-printed canopies, and selecting lighter components (examples can be found in the [DIY components section](https://propwashservice.ru/en/shop/DIY)). There are also good options for ready-to-fly drones in this category, such as those from Happymodel, available with both analog video systems and digital systems like HDZero and Avatar. Tiny whoops use "all-in-one" (AIO) boards, where the flight controller, ESCs, receiver, and (optionally) analog video transmitter are integrated on a single board. When choosing a drone or AIO for it, pay attention to the receiver protocol and how it's connected. For ELRS systems, there are SPI connections (with receiver firmware version depending on Betaflight version) and serial (UART), which is preferred as SPI receiver support is gradually being phased out.
 
-- happymodel mobula 8 dji (минимальный размер тинивупа на DJI видеосистеме);
-- happymodel mobula / moblite / mobeetle 6 версии (65мм) и 7 версии (75мм)
-- betafpv meteor pro 65/75 (pro версия метеора имеет увеличенный диаметр пропгарда, что позволяет использовать 35мм пропеллеры вместо 31мм для 65мм рамы и 45мм вместо 40мм пропеллеры в 75мм раме).
+Examples of drones in this category include:
 
-## Синематик
+- happymodel mobula 8 dji (smallest size tiny whoop with DJI video system);
+- happymodel mobula / moblite / mobeetle 6 (65mm) and 7 (75mm);
+- betafpv meteor pro 65/75.
 
-Полеты с экшн камерой на борту для съемок роликов, фильмов, рекламы. Как правило, дроны для синематика используются в качестве ИНСТРУМЕНТА для съемки, никак не для полетов в удовольствие, выполения трюков, полета далеко.
-В большинстве случаев используется камера insta go/caddx peanut/naked gopro/gopro hero. Naked-раздетая камера, у которой остается лишь материнская плата, бек для питания, матрица с объективом, пластиковый корпус. Сие чудо весит в 6 раз меньше полной gopro hero, что позволяет ставить ее на маленькие аппараты, называемые cinewhoop-ами.
+## Cinematic Flying
 
-Cinewhoop-ы, как правило, используются в формате 2-3.5" (диаметр пропеллера), на 3-3.5" также возможно ношение не раздетой камеры, но по полетным характеристикам и времени в полной нагрузке будет уступать аппарату с большим запасом по тяге.
+Cinematic flying involves drones equipped with action cameras to shoot videos for films, advertisements, and content creation. These drones are tools for filming rather than for freestyle tricks or long-distance flying. Typical cameras include insta360 go, caddx peanut, naked GoPro, or a full-sized GoPro. A naked GoPro is stripped down to its essential components, significantly reducing its weight, allowing it to be mounted on small drones called cinewhoops.
 
-Cinewhoop-ы летают по 2-5 минут на одном аккумуляторе, что позволяет заснять несколько роликов и на монтаже в дальнейшем склеить их. Не надо сравнивать их с мавиками, они более маневренные, но не могут ни при каких обстоятельствах летать по полчаса.
+Cinewhoops are usually 2-3.5 inches in propeller size. Larger cinewhoops can carry a full-sized camera but with reduced flight time and performance. These drones typically fly for 2-5 minutes per battery, allowing the capture of several short clips that can be edited together later. Unlike Mavics, cinewhoops are more maneuverable but can't fly for 30 minutes at a time.
 
-Cinewhoop-ы используют в помещениях и небольших локациях, где могут проходить люди. Несмотря на крохотный размер, с аккумулятором и тяжелой камерой на борту они могут без проблем нанести ущерб окружающим, потому использовать рекомендуется максимально осторожно, как и все дроны в целом.
-Для пролетов вокруг дрифтующих тачек, мимо велосипедистов и других движущихся по дороге объектов используют 5" фристайловые аппараты, где стоит полноразмерная gopro hero; такие аппараты в бодром полете могут вытягивать до 5 минут. Соответственно, за это время максимальная дистанция 2+-км (если вы рассчитываете посадку у места взлета).
+Cinewhoops are often used indoors or in confined spaces. Despite their small size, they can still cause damage, so caution is necessary. For flying around drift cars or cyclists, 5-inch freestyle drones are preferred, typically equipped with a full-sized GoPro Hero. These can fly up to 5 minutes and cover distances of about 2 km in one go.
 
-В случае, если вас интересует только синематик в путешествиях, нужен компактный комплект и минимум "вникания" в сферу FPV, можно глянуть в сторону DJI Avata, естественно, предварительно перед покупкой почитайте и посмотрите обзоры, что из себя представляет, какие условия использования. Если вы все же хотите освоиться в FPV, попробовать разные классы дронов, авата будет не так интересна.
+If you're only interested in cinematic flights during travels, need a compact setup, and want to minimize the need to dive deep into the FPV world, you might want to consider the DJI Avata 2. However, be sure to read reviews and watch videos about what it offers and the conditions for its use before making a purchase. If you're looking to get familiar with FPV and try different types of drones, the Avata 2 might not be as appealing.
 
-Для полетов у гор, находящихся сильно далеко от вас, необходимы 7-13" аппараты, которые позволят увеличить полетное время до 10-30 минут, и в зависимости от нагруженности будут более/менее маневренными. Но они гарантированно позволят вам улететь подальше, пока будет пробивать видеосвязь.
-Но стоит учесть, что 7" аппарат стоит сильно дороже, взлетный вес 1-2кг, и при его габаритах летать у людей **непозволительно**.
+For flying near mountains that are far away from you, you'll need 7-13" drones, which can extend flight time to 10-30 minutes, depending on the payload, making them more or less maneuverable. However, they will definitely allow you to fly further as long as the video link holds. It's important to note that 7" drones are much more expensive, with a takeoff weight of 1-2 kg, and due to their size, flying near people is **strictly prohibited**.
 
-Примеры перечисленных аппаратов:
+Examples of cinewhoops and cinematic drones include:
 
-- cinewhoop geprc cinelog 25/30/35, cinebot30
-- 5" geprc mark 5/iflight nazgul evoque/diatone roma/iflight aos 5
-- 7" iflight Chimera7 Pro V2, geprc moz7
+- cinewhoops geprc cinelog 25/30/35, cinebot30;
+- 5" geprc mark 5/iflight nazgul evoque/diatone roma/iflight aos 5;
+- 7" iflight Chimera7 Pro V2, geprc moz7.
 
-## Фристайл
+## Freestyle
 
-Под фристайлом подразумевается полет с выполнением акробатических трюков, как с gopro на борту для публикации достижений в просторах интернета, так и без экшн камеры, "полеты для души".
-Но если вернуться к расшифровке freestyle (дословно свободный стиль), то никто не заставляет вас крутить финты аля [mr.steele](https://www.youtube.com/@MrSteeleFPV), летайте как хотите, это ваше право.
+Freestyle flying involves performing acrobatic tricks, either with or without an action camera (like a GoPro). It's all about flying for fun, without the pressure of following a specific style. While many associate freestyle with performing tricks like [Mr. Steele](https://www.youtube.com/@MrSteeleFPV), the beauty of freestyle is that you can fly however you like—it's your choice.
 
-В классическом варианте фристайловый аппарат подразумевает 5" вытянутую раму (известные как автобусы), где умещаются 30\*30 стеки, либо полетные контроллеры с платой распределения питания в одном, к которому подведены 4 раздельных регулятора, расположенных на каждом луче (последние годы не актуально для коптеров <7"). Угол камеры 15-30 градусов, как правило (индивидуально, можно любой другой, но с большим углом сложнее выполнять ряд трюков).
+Typically, a freestyle drone has a 5-inch frame, often referred to as a "bus" frame, which accommodates a 30x30 stack or an all-in-one board with separate ESCs on each arm (though this configuration is no longer common for sub-7-inch drones). The camera angle is usually between 15 and 30 degrees, as a rule (though it's individual and you can choose any other), a larger camera angle makes it harder to perform certain tricks.
 
-Моторы формата 2306 со средним kv в допустимом для аккумулятора диапазоне (для 4S 2300-2700, предпочтительнее 2400-2500 соответственно; для 6S 1700-2000, для фристайла 1800 в самый раз). Но опять же, вас никто не должен ограничивать, хотите более шустрый полет, берите выше kv, не нравятся заносы по инерции - облегчайте аппарат, или вообще берите мелкаша 3", чего вам до мнения других? :)
+Motors in the 2306 format with medium kv, within the acceptable range for the battery (for 4S 2300-2700, preferably 2400-2500; for 6S 1700-2000, with 1800 being perfect for freestyle). Again, nobody should limit you—if you want faster flights, go for a higher kv; if you don't like momentum drifts, lighten the drone or go for a smaller 3" model. Why care about others' opinions? :)
 
-Известных фристайлеров и обучающие ролики можно найти [в разделе Полезные материалы](https://propwashservice.ru/ru/community/usefull).
+Typical representatives of this class in BNF format include:
 
-Типичные представители этого класса в BNF формате:
+- iFlight Nazgul Evoque/Titan/AOS 5
+- Diatone Roma
+- GEPRC Mark5
 
-- iflight nazgul evoque/titan/aos 5
-- diatone roma
-- geprc mark5
 
-## Гонки
+## Drone racing
 
-Гоночные дроны используются в дисциплине drone racing (гонки на дронах), принципиальное отличие от фристайловых аппаратов-соответствие регламентам гонок, в которых планируется использовать дрон. На соревнованиях с разрядами от ФАСР необходимо наличие спортивной лицензии и регистрационного номера дрона! Для гонок попроще достаточно только регистрационного номера (читайте требования к конкретным эвентам). Основные требования в большинстве гонок: рама под 4-6", пропеллеры до 6" включительно, аккумулятор до 6S включительно, управляемые светодиоды от 40шт на коптер с расположением на каждом луче с двух сторон, быстрая смена видеоканала (пока что обязательно АНАЛОГОВАЯ видеосистема) и мощность vtx 25мВт (возможно изменение по усмотрению судей). Как правило, используется 5" 6s 1300-1400мАч 100+С, вес коптера не ограничен, но чем легче, тем проще проходить трассу по минимальной траектории. Большинство сетапов до 300г (без аккумулятора). Угол камеры в среднем 50 градусов, но это дело индивидуальное, как и рейты.
+Racing drones are used in the drone racing discipline. The main difference from freestyle drones is compliance with race regulations. 
 
-[Здесь](https://docs.google.com/spreadsheets/d/1Gdlgnqrr5GdPEuTgQub0CQ1S-vTG_-CpGC9lJ3ElOME/edit#gid=872057514) представлена информация по пилотам multiGP, какое оборудование, настройки камеры, прошивки они используют.
+[Here](https://docs.google.com/spreadsheets/d/1Gdlgnqrr5GdPEuTgQub0CQ1S-vTG_-CpGC9lJ3ElOME/edit#gid=872057514) is information of MultiGP pilots, including equipment, camera settings, and firmware they use.
 
-Среди BNF комплектов можно выделить:
+Notable BNF racing kits include:
 
-- foxeer caesar
-- iflight mach r5
-- hglrc wind5
-- Quadro.Team Type-R 5" (PNP)
+- Foxeer Caesar
+- iFlight Mach R5
+- HGLRC Wind5
 
 ## Long Range (LR)
 
-Этот класс подразумевает не только дальнолеты но и долголеты. Речь как правило о времени полета >10 мин и дальности от 5 км. Каждый оценивает эти понятия по разному, но условно можно отделить от обычных фристайловых 5" аппаратов такими показателями, а также наличием на борту датчиков для навигации - gps, compass, barometer.
+This class includes drones meant for long-duration and long-distance flights. Generally, it's about flight times of more than 10 minutes and distances over 5 km. Definitions vary, but LR drones are often distinguished by longer flight times and navigation sensors such as GPS, compass, and barometer.
 
-Чтобы были навигационные функции, необходима прошивка полетного контроллера iNav или PX4/Ardupilot. Inav это брат Betaflight (который используется на большинстве ранее упомянутых квадрокоптеров), но в айнаве упор сделан на навигацию - есть функции зависания, кружения в точке, автоматических взлетов и посадки (взлет только для крылатых ЛА), возврат домой (RTH). В бетафлайте из навигации на данный момент есть только gps resque - спасательный режим для дрона. Начиная с версии бетафлайт 4.4, gps resque является полноценным ртх с автопосадкой, если выполнены все проверки (зафиксирована точка дома, достаточное количество спутников в момент вызова рескью, и т.д.), до 4.4 версии рескью только возвращал ЛА в зону приема сигнала, далее, если не перехватить управление, дрон просто падал. Если все же решено использовать бетафлайт для LR дрона, убедитесь по [issues из репозитория в гитхабе](https://github.com/betaflight/betaflight/issues), что в используемой версии прошивки нет проблем с рескью.
+For navigation features, the flight controller firmware needs to be iNav or PX4/ArduPilot. iNav is a sibling of Betaflight (used in most previously mentioned drones), but it focuses on navigation, offering features like hovering, circling a point, auto-takeoff/landing (for wings), and Return to Home (RTH). In Betaflight, GPS Rescue is the main navigation feature, allowing the drone to return to signal range in an emergency. Starting from Betaflight 4.4, GPS Rescue has become a full-fledged RTH function with automatic landing, assuming all checks (e.g., home point fixed, enough satellites) are passed. Before version 4.4, the drone would only return to the signal range and then drop if control wasn't regained. If you decide to use Betaflight for an LR drone, be sure to check [the issues in the GitHub repository](https://github.com/betaflight/betaflight/issues) to confirm there are no problems with GPS Rescue in your version.
 
-Ardupilot и px4 уже для более опытных пользователей, процесс изучения и настройки занимает больше времени, чем для того же айнава, но все функции отрабатываются достаточно точно. Но акро режим у данных прошивок не такой приятный, как у того же бетафлайта.
+ArduPilot and PX4 are more advanced, with a steeper learning curve but precise functions. However, their acro mode is not as smooth as Betaflight's.
 
-Что касаемтся конфигурации LR дрона - помимо упомянутых ранее датчиков также часто ставят маяки и автономные пищалки - потерять ЛА при любой нештатной ситуации на дальнем растоянии очень просто, так что стоит подумать от спасательных операциях.
+Regarding LR drone configurations, apart from the aforementioned sensors, beacons and self-powered buzzers are often installed, as losing a drone in a remote location is easy, so it's worth considering rescue measures.
 
-По времени полета обычно долголеты-коптеры достигают максимум 60 минут (облегченная конфигурация без экшн камеры на борту в самых благоприятных условиях), среднее же время в районе 20-30 минут (даже с экшн камерой), но для таких значений не подразумеваются финтеля и полеты со скоростью 140+км/ч, нет, речь о средних скоростях до 80км/ч. Аккумуляторы как правило li-ion, поскольку при равных весах с li-po обладают большей емкостью (но меньшей токоотдачей, из за чего такие аккумуляторы актуальны только для LR).
+Flight times for long-range drones can reach up to 60 minutes in optimal conditions without an action camera, but on average, it's around 20-30 minutes (even with an action camera). Speeds are moderate, up to 80 km/h, and high-speed stunts or flights at 140+ km/h are not typical. Batteries are usually Li-Ion, as they offer more capacity than LiPo at the same weight (though with lower discharge rates, making them suitable only for LR).
 
-Касаемо габаритов - это могут быть аппараты от 4 до 7 и более дюймов (по размеру пропеллера). Но если стоит задача летать с полной экшн камерой на борту далеко - вам нужен 7" аппарат, 4" не вытянут такой вес и время полета будет очень маленьким.
+In terms of size, LR drones range from 4" to 7" or larger (based on propeller size). However, if you need to fly far with a full action camera on board, you'll need a 7" drone; a 4" won’t handle the weight, and flight time will be short.
 
-Примеры готовых LR BNF (увы, все на бетафлайт):
+Examples of ready-to-fly LR BNF drones (all on Betaflight):
 
-- iflight chimera lr (4-7")
-- Flywoo Explorer LR4, diatone roma l5
-- hglrc rekon (4-7")
+- iFlight Chimera LR (4-7")
+- Flywoo Explorer LR4, Diatone Roma L5
+- HGLRC Rekon (4-7")
 - STPHobby Aquila 7"
-- geprc moz7
+- GEPRC MOZ7

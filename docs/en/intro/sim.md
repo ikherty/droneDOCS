@@ -1,52 +1,49 @@
-# Симы, симуляторы, flight simulator, "эмуляторы полета", и как их только не называют
+# Sims, Flight Simulators
 
-Зачем симулятор полетов на дроне нужен, где его взять и как выбрать самый реалистичный? Можно ли скачать бесплатно, торрентом?
+Why do you need a drone flight simulator, where can you get one, and how do you choose the most realistic one? Can you download it for free?
 
-Авторы: [Никита](https://github.com/suput), [Валентина](https://github.com/ikherty), [Илья](https://t.me/uncleDX)
+Authors: [Никита](https://github.com/suput), [Валентина](https://github.com/ikherty), [Илья](https://t.me/uncleDX)
 
-Статья на этапе написания.
+## Why Do You Need a Simulator?
 
-## Зачем нужен симулятор?
+#### For Training
 
-#### Проведение тренировок
+Simulators are essential for learning how to fly. This applies to both beginners—who need to learn the basics of flying—and professionals, who use it to master new tricks and maintain their skills when real-life (IRL) training isn’t possible. For beginners, it’s the first step into the hobby (see [introduction](https://propwashservice.ru/en/intro/beginning#how-much-does-it-cost)).
 
-Симуляторы необходимы для обучения полётам. Причём данное правило распространяется как для новичков - научиться летать, так и для профессионалов - учить новые трюки, поддерживать скилл, когда нет возможности проводить тренировки in real life (IRL). Для новичков это первый шаг на пути в хобби (см. [введение](https://propwashservice.ru/ru/intro/beginning#сколько-стоит))
+#### Saves Your Money and Time
 
-#### Симулятор экономит ваши деньги и время
+Even an expensive simulator can save you money. In a simulator, you don't worry about losing or crashing your drone, so you can experiment, try new moves, and fly faster. You also save time—there’s no need to travel to a flying spot, as the simulator is always available on your computer. Plus, you don’t have to wait for replacement parts after crashes to keep flying.
 
-Даже дорогой симулятор будет экономить ваши деньги. Летая в симуляторе, вы не боитесь потерять или разбить дрон, потому можете экспериментировать, пробовать новые движения, ускоряться. Вам не нужно тратить время на дорогу до спота для полетов, он всегда под рукой в вашем компьютере. Вам не надо ждать, когда придут запчасти для ремонта, чтобы снова полетать.
+#### For Beginners
 
-#### Для новичков
+Learning to fly a real drone is something only those with an unlimited budget can afford. A simulator helps you understand flight physics, what controls to press, how much to move them, and how to avoid crashes. Many stories can be found online about people who spent 10-100 hours in a simulator (the number of hours varies from person to person, more on this later), bought a drone, and flew well—performing tricks right from the start. These stories aren’t myths.
 
-Учиться летать IRL на дроне могут позволить себе только люди с неограниченным бюджетом. Для понимания физики полёта, куда нажимать, что двигать, насколько двигать, как увернуться и избежать столкновений - для этого всего и нужен симулятор. На просторах Интернета можно найти истории, как человек отлетал 10-100 часов в симуляторе (количество часов в симуляторе - сугубо индивидуальная тема, об этом ниже), купил себе дрон и хорошо полетел, делая трюки, уже с первого раза. Эти истории не мифы.
+## How many hours should you spend in a simulator before your first IRL FPV Drone flight?
 
-## Сколько часов надо отлетать в симуляторе перед первым IRL полетом на FPV дроне?
+The answers to this question vary widely—5, 10, 20, 100, or even 1,000 hours. The truth is, there’s no set number, as it depends on a variety of factors:
 
-Каждый отвечает по разному на этот вопрос - 5/10/20/100/1000 часов.. Правильнее сказать, что определенной цифры нет, потому что сильно зависит от ряда факторов:
-1 - тянет ли ваше оборудование симуляторы, и выдерживает ли ваш организм полеты в нем (когда я (Валентина) начинала, в распоряжении был слабый ноутбук, который с трудом тянул первую трассу liftoff, и более-менее вывозил fpvfreerider demo трассу, однако после 15 минут уже начинало тошнить из-за лагов, потому даже час в день не могла вынести);
-2 - есть ли у вас опыт управления Р/У (радиоуправляемыми) моделями или чем-то близким из игр на приставке (до FPV дронов я летала визуально на самолетах, и отчасти этот опыт ускорил мой процесс обучения FPV);
-3 - насколько вы целеустремлены, и как часто вы готовы тренироваться (идеальным вариантом будет отводить на симулятор по 15-60 минут каждый день, возможно, разбивать тренировки на две-три в день, поскольку важно закрепить уже "изученный материал");
-4 - что вы делаете в симуляторе (очень часто новички пытаются взлететь и сразу делать трюки или хаотично болтаться в воздухе - абсолютно неправильный подход, нужно отточить базовые элементы, такие как взлет, полет по прямой, синхронные повороты, полет между препятствиями и на одной высоте, посадка, - после того, как натренируете "мышечную память", вы уже станете управлять дроном, а не он вами);
-5 - моральный настрой (если вы уже ощущаете, что летите туда, куда хотите, можно считать, что вы готовы к первому IRL полету);
+- Can your equipment handle the simulator, and can your body handle flying in it? (for example, when I (Valentina) started, I had a weak laptop that could barely handle the first track in Liftoff and could only somewhat run the FPV Freerider demo track. After 15 minutes, I’d start feeling nauseous due to the lag, so I couldn’t manage even an hour a day);
+- Do you have prior experience with RC (radio-controlled) models or something similar from console games? (Before FPV drones, I flew visual-line-of-sight planes, which somewhat sped up my learning process for FPV);
+- How determined are you, and how often are you willing to practice? (Ideally, you should spend 15-60 minutes a day in the simulator, maybe breaking training into two or three sessions a day to reinforce what you’ve already learned);
+- What are you doing in the simulator? (Beginners often try to take off and start doing tricks or flying aimlessly, which is the wrong approach. You need to master basic skills like taking off, flying in a straight line, coordinated turns, flying between obstacles at a steady altitude, and landing. Once you’ve developed "muscle memory," you’ll be controlling the drone, not the other way around);
+- Your mindset. (If you feel like you’re flying where you want to, that’s a sign you’re ready for your first IRL flight).
 
-Я уже рассказывала немного о подготовках к первому полету на канале UAVProf, [запись эфира по ссылке](https://youtu.be/XAZyLe0AR5I).
+There’s [a video](https://youtu.be/F8kNLYu5qDs) where a guy starts understanding how to move the sticks after just an hour in the simulator, but that’s not enough to feel confident in real life—your flight shouldn’t be that jerky. His next stage at 25 hours, however, shows the kind of smoothness that indicates readiness for IRL flights.
 
-На просторах интернета есть [такое видео](https://youtu.be/F8kNLYu5qDs), где парень уже спустя час полета в симе вполне хорошо понимает, куда отклонять стики при какой ситуации, но такого, конечно, недостаточно, чтобы уверенно ощущать себя IRL, полет не должен быть таким дерганным, другое же дело на его следующем этапе при 25 часах, при такой плавности уже можно смело выходить на спот.
-
-## Какие симуляторы есть для FPV дронов?
+## What FPV Drone Simulators Are Available?
 
 > 🐧 - Linux,
 > 🍏 - MacOS,
 > 🪟 - Windows
 
-## Для ПК
+## For PC
 
-К сожалению, заранее не предсказать, какой из симуляторов вам будет ближе всего, потому рекомендуется ознакомиться со всеми вариантами и выбрать самостоятельно, а то и приобрести несколько, чтобы сравнить. Стоит также учесть, что у разных симуляторов разные требования к ПК!
+Unfortunately, it is impossible to predict which simulator will suit you best in advance, so it is recommended to familiarize yourself with all the options and choose the one that fits your needs. You might even consider purchasing several to compare. Also, keep in mind that different simulators have varying system requirements!
 
-### 🐧🍏🪟 Velocidrone, [подробнее](https://www.velocidrone.com/shop).
+### 🐧🍏🪟 Velocidrone, [buy here](https://www.velocidrone.com/shop).
 
-Стоимость £16.99.
-Велосидрон (иногда его ошибочно зовут велосити, velocity) считается лучшим симулятором для гонщиков, поскольку максимально близок по физике полета гоночного дрона, есть редактор для создания собственной трассы, а в наборе карт симулятора часто можно встретить реальные трассы с известных соревнований. В нем тренируются все гонщики, а также проводятся онлайн соревнования (из актуального https://t.me/velocidrone_battle) и ежедневные тренировки (https://vdt.the23.ru/?help). В списке моделей доступны и микродроны и фристайловые, огромное количество локаций и трасс, подходит не только для гонок, но и для отработки трюков или обучения. Симулятор доступен под все операционные системы (Linux, Windows, Mac OS), однако требователен к ресурсам компьютера, перед покупкой изучите рекомендации:
+Price: £16.99.  
+Velocidrone (sometimes mistakenly called Velocity) is considered the best simulator for racers, as it closely mimics the flight physics of a racing drone. It includes a track editor for creating your own courses, and many maps feature real tracks from well-known competitions. All racers train in this simulator, and online competitions are held regularly (e.g., [current events](https://t.me/velocidrone_battle)) as well as daily training sessions ([read more here](https://vdt.the23.ru/?help)). The model list includes both micro and freestyle drones, a vast number of locations and tracks, making it suitable not only for racing but also for practicing tricks or learning. The simulator is available for all operating systems (Linux, Windows, Mac OS), but it is resource-intensive, so be sure to review the system requirements before purchasing:
 
 ```
 VelociDrone will run on Windows 7, 8 and 10, Mac OSX and Linux - in 64 bit versions (we do not support 32 bit operating systems).
@@ -62,59 +59,57 @@ VelociDrone is more sensitive to graphics card than CPU, so we always recommend 
 You should have at least 16 GB of spare disk space to install VelociDrone.
 ```
 
-Покупка возможна только с:
+Purchases can only be made through:
 
-- [официального сайта](https://www.velocidrone.com/shop), но оплата производится дебетовой картой не из РФ или через PayPal (также недоступен в РФ)
-- [tbs сайта](https://www.team-blacksheep.com/simulator) с оплатой через PayPal или криптовалютой.
+- [the official website](https://www.velocidrone.com/shop),
+- [the TBS website](https://www.team-blacksheep.com/simulator).
 
-Если у вас есть возможность оплатить криптовалютой, вам подойдет второй вариант ([инструкция](https://teletype.in/@baykart/W0wwZT9Qv_C)). **НО** так можно купить только лицензию на симулятор, дополнения приобретаются только на официальном сайте. Если нет, ищите людей с зарубежной картой, которые помогут с оплатой на оф. сайте.
+### 🍏🪟 Liftoff FPV Drone Simulator, [more info here](https://store.steampowered.com/app/410340/Liftoff_FPV_Drone_Racing/).
 
-### 🍏🪟 Liftoff FPV Drone Simulator, [подробнее](https://store.steampowered.com/app/410340/Liftoff_FPV_Drone_Racing/).
+Price: 10.49 USD. There are also torrents available, if I’m not mistaken. Typically, this simulator is recommended alongside Velocidrone. It’s one of the better simulators for freestyle but less realistic for racing. However, that doesn’t mean you can’t train for gate flying here. If it's easier for you to buy Liftoff, give it a try.
 
-Стоимость 10.49 USD. Также имеются торренты, если не ошибаюсь. В России данный товар последнее время недоступен, приходится менять регион стим аккаунта. Как правило, данный симулятор стоит в одном ряду рекомендаций с велосидроном. Для фристайла один из неплохих симуляторов, для гонок недостаточно реалистичный, но это не значит, что в нем нельзя тренироваться с полетами по воротам, и если вам удобнее приобрести лифтофф, то попробуйте.
+### 🍏🪟 The Uncrashed, [more info here](https://store.steampowered.com/app/1682970/Uncrashed__FPV_Drone_Simulator/).
 
-### 🍏🪟 The Uncrashed, [подробнее](https://store.steampowered.com/app/1682970/Uncrashed__FPV_Drone_Simulator/).
+Price: $8.49 USD. It’s a decent simulator for freestyle, but it’s not as good for racing compared to Liftoff.
 
-Стоимость $8.49 USD. Ключ для uncrashed можно купить в рублях тут https://quadro.team/goods/UNCRASHED_KEYS. Для фристайла один из неплохих симуляторов, для гонок похуже, чем лифтофф. Периодически у quadro.team проходят конкурсы в этом симуляторе.
+### 🍏🪟 DCL the Game, [more info here](https://store.steampowered.com/app/964570/DCL__The_Game/).
 
-### 🍏🪟 DCL the game, [подробнее](https://store.steampowered.com/app/964570/DCL__The_Game/).
+Price: $14.99 USD. This simulator is based on the physics of real [DCL](https://dcl.aero/) drones, but the 5" model is not as well-developed, and the flight physics are far from accurate. If you are not participating in DCL races (and likely you are not) or in online competitions from [DSG](https://dronesportsglobal.ru/), then this simulator may not be for you. The DCL sim also features [pilot training lessons from DSG](https://www.youtube.com/watch?v=ZZotXvbVEkI&list=PLwy7zFO7fCeM6rZilz3DlQ7kHs7HjhpYg&index=6).
 
-Стоимость $14.99 USD. Симулятор сделан исходя из физики реальных [DCL](https://dcl.aero/) дронов, но модель 5" проработана хуже, и физика полета далека от истины. Если вы не участвуете в DCL гонках (а скорее всего не участвуете), или в онлайн соревнованиях от [DSG](https://dronesportsglobal.ru/), то вам этот симулятор не нужен. На примере ДЦЛ сима есть также [уроки пилотирования от DSG](https://www.youtube.com/watch?v=ZZotXvbVEkI&list=PLwy7zFO7fCeM6rZilz3DlQ7kHs7HjhpYg&index=6).
+### 🍏🪟 Tryp FPV: The Drone Racer Simulator, [more info here](https://store.steampowered.com/app/1881200/TRYP_FPV__The_Drone_Racer_Simulator/).
 
-### 🍏🪟 Tryp FPV : The Drone Racer Simulator, [подробнее](https://store.steampowered.com/app/1881200/TRYP_FPV__The_Drone_Racer_Simulator/).
+Previously free, now priced at $8.49 USD. It is considered a decent option for practicing cinematic flying due to its realism for this flight style and colorful maps. The simulator is relatively new, and it doesn’t have as many pilots compared to Liftoff and Velocidrone users who have tried the Tryp simulator.
 
-Ранее был бесплатным, сейчас стоимость $8.49 USD. Считается неплохим для тренировки синематик полетов ввиду реалистичного для данного стиля полета и красочных карт. Симулятор относительно новый, не так много пилотов по сравнению с пользователями лифтофф и велосидрон пробовало трип симулятор.
+### 🍏🪟 FPV FreeRider, [FPV FreeRider](https://store.steampowered.com/app/854250/FPV_Freerider/), [FPV FreeRider Recharged](https://store.steampowered.com/app/813530/FPV_Freerider_Recharged/).
 
-### 🍏🪟 FPV FreeRider, [FPV_Freerider](https://store.steampowered.com/app/854250/FPV_Freerider/), [FPV_Freerider_Recharged](https://store.steampowered.com/app/813530/FPV_Freerider_Recharged/).
+Price: $4.99 USD, with low hardware requirements. I started using it in 2018, and for its price, the physics are decent. However, it can't compare to Velocidrone, Liftoff, or Uncrashed. The graphics are quite basic, and the simulator is mainly for practicing the fundamentals. If you're choosing between the two versions mentioned in the title, I recommend opting for Recharged.
 
-Стоимость $4.99 USD, есть торренты с бесплатной демо версией, небольшие требования к железу. Сама в 2018 начинала на нем, и за свою стоимость физика неплоха, однако с велосидрон, лифтофф, анкрашед не сравнится. Графика так себе, симулятор чисто для отработки самой базы. Если стоит выбор, какую из двух предложенных в заголовке версий выбрать, - брать Recharged.
+### FPV SkyDive: FPV Drone Simulator, [more info here](https://store.steampowered.com/app/1278060/FPVSkyDive__FPV_Drone_Racing__Freestyle_Simulator/)
 
-### FPV SkyDive: FPV Drone Simulator, [подробнее](https://store.steampowered.com/app/1278060/FPVSkyDive__FPV_Drone_Racing__Freestyle_Simulator/)
+It’s free, which is great. The physics for a free simulator are top-notch, but there are better physics options available in other simulators.
 
-Бесплатный, и это круто. Физика для бесплатного - топ, но по физике есть симуляторы лучше.
-
-## Для смартфона
+## For Smartphones
 
 ### Velocidrone
 
-Стоимость $10.5 USD. Оплата в РФ недоступна, нужны смена региона в google play и зарубежная карта. Не требует лицензию и наличие аккаунта на оф сайте. Симулятор сыроват, может не завестить аппаратура на некоторых моделях смартфонов по OTG. Но доступно подключение через ELRS BLE. Ощущается задержка по сравнению с версией для ПК.
+Price: $10.50 USD. No license or account on the official website is required. The simulator is a bit rough around the edges and may not work with some smartphone models via OTG. However, it allows connection through ELRS BLE. There is noticeable latency compared to the PC version.
 
-### FPV FreeRider (обычный платный или демо)
+### FPV FreeRider (standard paid or demo)
 
 ### FPV SkyDive
 
-## Симуляторы для вупа
+## Simulators for Whoops
 
-### Tiny Whoop GO, [подробнее](https://www.tinywhoopclubnetwork.com/twgo).
+### Tiny Whoop GO, [more info here](https://www.tinywhoopclubnetwork.com/twgo).
 
-Бесплатный.
+It’s free.
 
-### Liftoff®: Micro Drones, [подробнее](https://store.steampowered.com/app/1432320/Liftoff_Micro_Drones/).
+### Liftoff®: Micro Drones, [more info here](https://store.steampowered.com/app/1432320/Liftoff_Micro_Drones/).
 
-Стоимость $8.99 USD.
+Price: $8.99 USD.
 
-### Velocidrone Micro Class Quads, [подробнее](https://www.velocidrone.com/shop).
+### Velocidrone Micro Class Quads, [more info here](https://www.velocidrone.com/shop).
 
-Стоимость £16.99 + £4.00
+Price: £16.99 + £4.00
 
-[comment]: <> (## Мероприятия в симах)
+[comment]: <> (## Events in Simulators)
