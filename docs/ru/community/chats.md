@@ -99,6 +99,8 @@
 
 👉 ЧАТ Мероприятий DSG (Drone Sports Global) https://t.me/DSG_EVENT
 
+👉  WAZUP! Crew (полеты на вупах) https://t.me/wazup_crew
+
 👉 PropWash Service Chat (by ValentinaPetrenko) https://t.me/propwashservice
 
 👉 BlackBox (Черный ящик) https://t.me/bfblackbox
@@ -106,8 +108,6 @@
 👉 BlackBox 2.0 https://t.me/blackbox_two
 
 👉 Свидетели ELRS https://t.me/expresslrs_rus
-
-👉 Чат FPV пилотов QT(QUADRO.TEAM) https://t.me/quadroteam
 
 👉 Air Hobby https://t.me/airhobby
 
@@ -140,6 +140,8 @@
 👉 Официальный чат CADDX FPV https://t.me/caddxfpv_ruchat
 
 👉 fpvsim https://t.me/fpvsim
+
+👉 Чат FPV пилотов QT(QUADRO.TEAM) https://t.me/quadroteam
 
 ## Чаты по городам и странам
 
