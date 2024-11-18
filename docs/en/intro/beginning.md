@@ -35,16 +35,16 @@ This leads to two key rules:
 
 ## What is the minimum set needed to fly an FPV drone?
 
-- [Glossary](https://propwashservice.ru/en/community/glossarium)
-- [Transmitter](https://propwashservice.ru/en/intro/tx)
-- [Simulator](https://propwashservice.ru/en/intro/sim)
-- [Headset](https://propwashservice.ru/en/intro/vrx)
-- [Drone](https://propwashservice.ru/en/intro/flightstyles)
-- [Batteries and charger](https://propwashservice.ru/en/intro/power)
-- [Tools and spare parts](https://propwashservice.ru/en/shop/nessesary)
-- [Local community](https://propwashservice.ru/en/community/chats)
+- [Glossary](https://propwashservice.com/en/community/glossarium)
+- [Transmitter](https://propwashservice.com/en/intro/tx)
+- [Simulator](https://propwashservice.com/en/intro/sim)
+- [Headset](https://propwashservice.com/en/intro/vrx)
+- [Drone](https://propwashservice.com/en/intro/flightstyles)
+- [Batteries and charger](https://propwashservice.com/en/intro/power)
+- [Tools and spare parts](https://propwashservice.com/en/shop/nessesary)
+- [Local community](https://propwashservice.com/en/community/chats)
 
-[Examples of starter kits for various budgets](https://propwashservice.ru/en/shop/set).
+[Examples of starter kits for various budgets](https://propwashservice.com/en/shop/set).
 
 ## How much does it cost?
 
@@ -56,7 +56,7 @@ It's not necessary to spend a fortune immediately, but over time, you’ll under
 
 ## Is this for me?
 
-Good question! We recommend learning about the different styles of flying (see [flight styles](https://propwashservice.ru/en/intro/flightstyles)), evaluating your budget, free time, and potential (for example, in Russia, top young drone racers can rise to the top in six months, while older pilots may take three years or more; similarly in filming, the market is becoming crowded with "specialists"). Most importantly, start with a simulator to see if you enjoy it before making any major investments.
+Good question! We recommend learning about the different styles of flying (see [flight styles](https://propwashservice.com/en/intro/flightstyles)), evaluating your budget, free time, and potential (for example, in Russia, top young drone racers can rise to the top in six months, while older pilots may take three years or more; similarly in filming, the market is becoming crowded with "specialists"). Most importantly, start with a simulator to see if you enjoy it before making any major investments.
 
 You can buy used equipment, and if the hobby doesn’t take off, you can sell it with little financial loss, but you’ll gain valuable experience.
 

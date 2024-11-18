@@ -87,7 +87,7 @@ https://www.hd-zero.com/document
 ## Simulators
 
 Simulators can be found on a separate page:
-https://propwashservice.ru/en/intro/sim.html
+https://propwashservice.com/en/intro/sim.html
 
 ## For log analysis
 

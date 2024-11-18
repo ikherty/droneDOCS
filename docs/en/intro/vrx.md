@@ -66,7 +66,7 @@ These can include:
 - Monitor with a built-in/connected receiver
 - Video receiver for connecting to a phone via OTG
 
-Analog helmets and goggles can come with either a single receiver or dual (diversity). Diversity systems typically provide a better image from the drone because you can attach different types of antennas to them. Budget helmets with diversity receivers will display the image from the receiver with the best current signal. In more expensive goggles and helmets, you may find settings for selecting the [operating mode](https://propwashservice.ru/en/settings/skyzone) with diversity, such as in Skyzone with the Steadyview module.
+Analog helmets and goggles can come with either a single receiver or dual (diversity). Diversity systems typically provide a better image from the drone because you can attach different types of antennas to them. Budget helmets with diversity receivers will display the image from the receiver with the best current signal. In more expensive goggles and helmets, you may find settings for selecting the [operating mode](https://propwashservice.com/en/settings/skyzone) with diversity, such as in Skyzone with the Steadyview module.
 
 ### Antennas
 
@@ -86,4 +86,4 @@ When it comes to long-range flying, you should determine what distances interest
 
 For micro-drones (Tiny Whoops), there are currently onboard video system options from HDZero, Walksnail, and analog systems.
 
-If you plan to delve into this topic, check out reviews on current video systems, and attend "flying sessions" of the local FPV community (there are now a number of pilots in every city, and if you haven't met them yet, you can find them through [chats](https://propwashservice.ru/en/community/chats)). In the list of chats, you can also find themed groups for DJI FPV, Walksnail, HDZero, and ask any questions you may have.
+If you plan to delve into this topic, check out reviews on current video systems, and attend "flying sessions" of the local FPV community (there are now a number of pilots in every city, and if you haven't met them yet, you can find them through [chats](https://propwashservice.com/en/community/chats)). In the list of chats, you can also find themed groups for DJI FPV, Walksnail, HDZero, and ask any questions you may have.

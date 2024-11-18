@@ -16,7 +16,7 @@ export const shared = defineConfig({
     ["meta", { property: "og:locale", content: "en" }],
     ["meta", { property: "og:title", content: "DroneDocs" }],
     ["meta", { property: "og:site_name", content: "DroneDocs" }],
-    ["meta", { property: "og:url", content: "https://propwashservice.ru" }],
+    ["meta", { property: "og:url", content: "https://propwashservice.com" }],
     ["meta", { name: "yandex-verification", content: "70a661cfc8a7eb46" }],
     [
       "script",

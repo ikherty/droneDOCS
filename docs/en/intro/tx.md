@@ -193,7 +193,7 @@ Prices start at $110. There are versions with a multimodule, ELRS on 2.4GHz, and
 ## Necessary Accessories
 
 - Battery - if the transmitter does not have a built-in battery, you need to acquire a suitable one for the device. Typically, 2S setups or two Li-Ion 18650 cells in a 2S adapter are used.
-  > A link to the [article about drone batteries](https://propwashservice.ru/en/intro/power.html) is attached separately.
+  > A link to the [article about drone batteries](https://propwashservice.com/en/intro/power.html) is attached separately.
 
 <p class="image-container">
   <img src="/assets/img/lipoTX.webp" height="200" alt="Аккумуляторная батарея, совместимая с RadioMaster TX16S" title="Аккумуляторная батарея, совместимая с RadioMaster TX16S">

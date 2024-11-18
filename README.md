@@ -2,7 +2,7 @@
 
 ![](docs/assets/hero-bg.jpg)
 
-Репозиторий проекта [propwashservice.ru](https://propwashservice.ru)
+Репозиторий проекта [propwashservice.com](https://propwashservice.com)
 
 Данные материалы исходят из личного опыта, наблюдений в FPV сообществе. Никакой рекламы, спонсорства, все по личной инициативе для продвижения хобби в массы. Приятного чтения!
 

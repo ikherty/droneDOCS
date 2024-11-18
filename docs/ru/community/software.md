@@ -87,7 +87,7 @@ https://www.hd-zero.com/document
 ## Симуляторы
 
 Симуляторы находятся на отдельной странице:
-https://propwashservice.ru/ru/intro/sim.html
+https://propwashservice.com/ru/intro/sim.html
 
 ## Для изучения логов
 

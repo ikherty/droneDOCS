@@ -8,7 +8,7 @@ Authors: [Никита](https://github.com/suput), [Валентина](https://
 
 #### For Training
 
-Simulators are essential for learning how to fly. This applies to both beginners—who need to learn the basics of flying—and professionals, who use it to master new tricks and maintain their skills when real-life (IRL) training isn’t possible. For beginners, it’s the first step into the hobby (see [introduction](https://propwashservice.ru/en/intro/beginning#how-much-does-it-cost)).
+Simulators are essential for learning how to fly. This applies to both beginners—who need to learn the basics of flying—and professionals, who use it to master new tricks and maintain their skills when real-life (IRL) training isn’t possible. For beginners, it’s the first step into the hobby (see [introduction](https://propwashservice.com/en/intro/beginning#how-much-does-it-cost)).
 
 #### Saves Your Money and Time
 
