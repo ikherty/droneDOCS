@@ -18,7 +18,7 @@ export const shared = defineConfig({
     ["meta", { property: "og:site_name", content: "DroneDocs" }],
     ["meta", { property: "og:url", content: "https://propwashservice.com" }],
     ["meta", { name: "yandex-verification", content: "58a811d9cca96300" }],
-    ["meta", { name: "google-site-verification" content="GKGhVs-Wh-b7yIw0IU46GlNUZWjNaBgqHtkWT_jZrQs" }],
+    ["meta", { name: "google-site-verification", content: "GKGhVs-Wh-b7yIw0IU46GlNUZWjNaBgqHtkWT_jZrQs" }],
     [
       "script",
       { type: "text/javascript" },
