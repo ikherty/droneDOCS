@@ -52,7 +52,6 @@ function sidebar(): DefaultTheme.SidebarItem[] {
       text: "Покупки",
       collapsed: false,
       items: [
-        { text: "Магазины", link: "/ru/shop/shops" },
         { text: "Must have вещи для хоббистов", link: "/ru/shop/nessesary" },
         { text: "Для самолетчиков", link: "/ru/shop/airplanes" },
         { text: "Стартовые наборы", link: "/ru/shop/set" },
