@@ -1,0 +1,1 @@
+import{_ as e,c as s,o as t}from"./chunks/framework.M7IgKNHy.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"shop/shops.md","filePath":"en/shop/shops.md","lastUpdated":1740336170000}'),o={name:"shop/shops.md"};function a(p,r,n,c,d,h){return t(),s("div")}const m=e(o,[["render",a]]);export{i as __pageData,m as default};
