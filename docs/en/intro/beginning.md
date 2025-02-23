@@ -9,8 +9,6 @@
 
 # Introduction
 
-Authors: [Андрей Щ.](https://github.com/EIIIE), [Валентина](https://github.com/ikherty)
-
 ## What is it, and how is it used?
 
 Drones, or quadcopters, are multirotor flying devices. Depending on the number of motor-propeller groups (MPGs), a Greek prefix is added: two motors - bicopters, three - tricopters, four - quadcopters, six - hexacopters, eight - octocopters, and there are various other configurations for specific tasks.
@@ -22,7 +20,7 @@ Common abbreviations for quadcopters include drone, quad, and copter.
 Even within the same number of propellers, drones vary in size. Instead of referring to exact dimensions in centimeters, people typically refer to the propeller diameter (in inches), as the propeller size, number of blades, and their pitch define the thrust produced by the drone.
 
 <p class="image-container">
-  <img src="/assets/img/size-6-5-4-3-inch-mini-quad-frame-1024x499.webp" width="600" alt="выставленные в ряд коптеры с разными размерами рам">
+  <img src="/assets/img/size-6-5-4-3-inch-mini-quad-frame-1024x499.webp" width="600" alt="copters lined up with different frame sizes">
 </p>
 
 However, "bigger" doesn’t necessarily mean "better." The more propellers and motors, the larger the frame and batteries required, increasing the drone's weight. It's the thrust-to-weight ratio that determines how agile a drone will be.
@@ -35,16 +33,15 @@ This leads to two key rules:
 
 ## What is the minimum set needed to fly an FPV drone?
 
-- [Glossary](https://propwashservice.com/en/community/glossarium)
-- [Transmitter](https://propwashservice.com/en/intro/tx)
-- [Simulator](https://propwashservice.com/en/intro/sim)
-- [Headset](https://propwashservice.com/en/intro/vrx)
-- [Drone](https://propwashservice.com/en/intro/flightstyles)
-- [Batteries and charger](https://propwashservice.com/en/intro/power)
-- [Tools and spare parts](https://propwashservice.com/en/shop/nessesary)
-- [Local community](https://propwashservice.com/en/community/chats)
+- [Dictionary](https://oscarliang.com/fpv-dictionary/)
+- [Transmitter](https://propwashservice.com/intro/tx)
+- [Simulator](https://propwashservice.com/intro/sim)
+- [Video system](https://propwashservice.com/intro/vrx)
+- [Drone](https://propwashservice.com/intro/flightstyles)
+- [Batteries and charger](https://propwashservice.com/intro/power)
+- [Tools and spare parts](https://propwashservice.com/shop/nessesary)
 
-[Examples of starter kits for various budgets](https://propwashservice.com/en/shop/set).
+[Examples of starter kits for various budgets](https://propwashservice.com/shop/set).
 
 ## How much does it cost?
 
@@ -56,7 +53,7 @@ It's not necessary to spend a fortune immediately, but over time, you’ll under
 
 ## Is this for me?
 
-Good question! We recommend learning about the different styles of flying (see [flight styles](https://propwashservice.com/en/intro/flightstyles)), evaluating your budget, free time, and potential (for example, in Russia, top young drone racers can rise to the top in six months, while older pilots may take three years or more; similarly in filming, the market is becoming crowded with "specialists"). Most importantly, start with a simulator to see if you enjoy it before making any major investments.
+Good question! We recommend learning about the different styles of flying (see [flight styles](https://propwashservice.com/intro/flightstyles)), evaluating your budget, free time, and potential (for example, in Russia, top young drone racers can rise to the top in six months, while older pilots may take three years or more; similarly in filming, the market is becoming crowded with "specialists"). Most importantly, start with a simulator to see if you enjoy it before making any major investments.
 
 You can buy used equipment, and if the hobby doesn’t take off, you can sell it with little financial loss, but you’ll gain valuable experience.
 

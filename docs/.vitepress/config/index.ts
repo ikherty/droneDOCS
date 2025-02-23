@@ -6,7 +6,7 @@ import { ru } from "./ru";
 export default defineConfig({
   ...shared,
   locales: {
-    ru: { label: "Русский", ...ru },
-    root: { label: "English", ...en },
+    ru: { label: "Русский", lang: "ru", ...ru },
+    root: { label: "English", lang: "en", ...en },
   },
 });

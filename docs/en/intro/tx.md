@@ -9,15 +9,13 @@
 
 # How to Choose a Remote Control System?
 
-> Authors: [Andrey Sh.](https://github.com/EIIIE), [Valentina](https://github.com/ikherty)
-
 ## Summary
 
 A Remote Control System (also known as R/C Equipment, transmitter, controller, or joystick) is a device that converts the positions of sticks (gimbals) and switches into commands for the drone.  
 The stick positions are sent to the radio transmitter (TX), which converts the signals into commands based on a specific data transmission protocol. These commands are transmitted to the drone "over the air" at a designated frequency (usually 900 MHz or 2.4 GHz). Onboard the drone, the commands are received by the radio receiver (RX) and sent to the flight controller (FC) for execution.
 
 <p class="image-container">
-  <img src="/assets/img/tx-rx.webp" width="600" alt="Связь между аппаратурой и дроном" title="Связь между аппаратурой и дроном">
+  <img src="/assets/img/tx-rx.webp" width="600" alt="Communication between TX and drone" title="Communication between TX and drone">
 </p>
 
 ## Data transmission protocols
@@ -87,8 +85,8 @@ The transmitter can be either integrated (soldered onto the board) or external (
 </style>
 
 <p class="img-inline">
-  <img class="left" style="height: 340px;" src="/assets/img/TBS-Mambo-Tracer-module-and-PCB-antenna-picture-by-LIVYU-768x520.jpg" alt="Аппаратура без кожуха" title="Аппаратура без кожуха">
-  <img class="right" style="height: 340px;" src="/assets/img/happy-odel-2_4ghz-es24tx.webp" alt="Внешний модуль ELRS" title="Внешний модуль ELRS">
+  <img class="left" style="height: 340px;" src="/assets/img/TBS-Mambo-Tracer-module-and-PCB-antenna-picture-by-LIVYU-768x520.jpg" alt="TX inside" title="TX inside">
+  <img class="right" style="height: 340px;" src="/assets/img/happy-odel-2_4ghz-es24tx.webp" alt="External ELRS TX" title="External ELRS TX">
 </p>
 
 The receiver is a small board with antenna(s), installed on the drone and connected to its flight controller via a [UART (Universal Asynchronous Receiver-Transmitter)](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter).
@@ -96,8 +94,8 @@ The receiver is a small board with antenna(s), installed on the drone and connec
 > Below are the Happymodel EP2 ELRS receiver with a ceramic antenna and the Ghost receiver with a dipole antenna.
 
 <p class="image-container">
-    <img style="height: 300px" src="/assets/img/EP2_RX1.webp" alt="Приемник Happymodel ELRS 2.4GHz" title="Приемник Happymodel ELRS 2.4GHz">
-    <img style="height: 300px" src="/assets/img/immersion-rc-ghost-atto-reciever.webp" alt="Приемник Ghost" title="Приемник Ghost">
+    <img style="height: 300px" src="/assets/img/EP2_RX1.webp" alt="Happymodel ELRS 2.4GHz receiver" title="Happymodel ELRS 2.4GHz receiver">
+    <img style="height: 300px" src="/assets/img/immersion-rc-ghost-atto-reciever.webp" alt="Ghost receiver" title="Ghost receiver">
 </p>
 
 **Differences in transmitter and receiver manufacturers do not matter as long as both work on the same protocol. However, if you're dealing with ELRS, it's a good idea to review recommendations and hardware tests from different manufacturers.**
@@ -117,7 +115,7 @@ It is highly recommended to consider transmitters running on OpenTX firmware (th
 Prices typically start at $200, and there are versions with built-in ELRS (be sure to read the description carefully to avoid confusing it with the multimodule (4in1, CC2500), which does not include ELRS or Crossfire). You can install an external transmitter of your choice ($30-$250). It comes in various modifications – colored cases, aluminum gimbals, and touchscreens. Additionally, colorful mods are available for most Radiomaster transmitters.
 
 <p class="image-container">
-  <img src="/assets/img/tx16s.webp" height="400" alt="Аппаратура RADIOMASTER TX16S" title="Аппаратура RADIOMASTER TX16S">
+  <img src="/assets/img/tx16s.webp" height="400" alt="RADIOMASTER TX16S" title="RADIOMASTER TX16S">
 </p>
 
 [**RADIOMASTER BOXER**](https://www.radiomasterrc.com/products/boxer-radio-controller-m2?_pos=1&_sid=194aad403&_ss=r) – A mid-sized option with full-size gimbals and enough switches for even airplane enthusiasts.
@@ -125,7 +123,7 @@ Prices typically start at $200, and there are versions with built-in ELRS (be su
 Priced at $130-$190 depending on the version, there is a model with a built-in 1W ELRS module and multimodules, available in transparent or black casing. It requires two 18650 Li-ion batteries for power, though a 2S pack of 21700 cells will also fit. This transmitter is considered a compromise between the TX16 and more compact options listed below. It's suitable for most beginners and beyond.
 
 <p class="image-container">
-  <img src="/assets/img/BOXER.webp" height="400" alt="Аппаратура RADIOMASTER Boxer" title="Аппаратура RADIOMASTER Boxer">
+  <img src="/assets/img/BOXER.webp" height="400" alt="RADIOMASTER Boxer" title="RADIOMASTER Boxer">
 </p>
 
 [**RADIOMASTER TX12 mk2**](https://www.radiomasterrc.com/products/tx12-mark-ii-radio-controller?_pos=1&_sid=02bbb6530&_ss=r) – A compact "brick" version with smaller gimbals.
@@ -133,7 +131,7 @@ Priced at $130-$190 depending on the version, there is a model with a built-in 1
 Prices usually start at $80, and there are versions with a built-in ELRS module (make sure to read the description carefully). You can also buy colorful casings and aluminum gimbals separately. It requires two 18650 Li-ion batteries for power. This is a great beginner option if you're not sure what you want and need something compact. It's easy to sell in the second-hand market if, for any reason, it doesn't meet your expectations.
 
 <p class="image-container">
-  <img src="/assets/img/tx12.webp" height="400" alt="Аппаратура RADIOMASTER TX12" title="Аппаратура RADIOMASTER TX12">
+  <img src="/assets/img/tx12.webp" height="400" alt="RADIOMASTER TX12" title="RADIOMASTER TX12">
 </p>
 
 [**RADIOMASTER Pocket**](https://www.radiomasterrc.com/collections/transmitter/products/pocket-radio-controller-m2) - Simplified full version of a controller in a "pocket" form factor, inspired by Tango.
@@ -141,7 +139,7 @@ Prices usually start at $80, and there are versions with a built-in ELRS module 
 Prices start at $54, and there are versions with built-in ELRS (read descriptions carefully). The gimbals are minimal size, and there’s currently no way to replace them with higher quality ones. You can separately purchase colorful shells. Unfortunately, the manufacturer only provided buttons with no switches in favor of compactness. For some, this may not be a problem, but [most people prefer](https://t.me/propwash/304) using a switch for arming, as it's a faster and more reliable method compared to a button. You can install an external transmitter module if needed. Powered by two 18650 lion batteries. A good option for a budget setup when you're unsure what you want and need compactness. Being a fresh product, it's unclear what issues might arise.
 
 <p class="image-container">
-  <img src="/assets/img/POCKET.webp" height="400" alt="Аппаратура RADIOMASTER TX12" title="Аппаратура RADIOMASTER Pocket">
+  <img src="/assets/img/POCKET.webp" height="400" alt="RADIOMASTER TX12" title="RADIOMASTER Pocket">
 </p>
 
 [**TBS TANGO 2**](https://www.team-blacksheep.com/products/prod:tbs_tango_2) - Compact controller with a built-in Crossfire transmitter, ideal for traveling light. Don’t confuse it with the first version :)
@@ -151,7 +149,7 @@ There’s a regular version for $160 and a pro version for $200. In Russia, pric
 It uses buttons instead of switches, which may not suit everyone, and it’s not always possible to instantly "disarm" (stop motors). The gimbals sometimes face issues: they use "super technology" with a single sensor for two axes, so calibration must be done strictly according to the manufacturer’s instructions. The gimbals are integrated into the motherboard, so they can't be easily replaced, unlike in Radiomaster controllers. There are occasional problems with screen glitches, "bricking" during firmware updates, and calibration requirements at startup. Despite this, it remains a popular choice.
 
 <p class="image-container">
-  <img src="/assets/img/tango2.webp" height="400" alt="аппаратура TBS Tango 2">
+  <img src="/assets/img/tango2.webp" height="400" alt="TBS Tango 2">
 </p>
 
 [TBS Mambo](https://www.team-blacksheep.com/products/prod:tbs_mambo) - Standard "brick" controller for TBS Tracer fans.
@@ -161,7 +159,7 @@ Price: $140. It comes with a built-in TBS Tracer transmitter. The controller has
 Cons: It feels cheaper than the previously mentioned controllers, with gimbals similar to those of the Tango 2. The "brick" form factor might not be to everyone’s taste.
 
 <p class="image-container">
-  <img src="/assets/img/mambo.webp" height="400" alt="Аппаратура TBS Mambo" title="Аппаратура TBS Mambo">
+  <img src="/assets/img/mambo.webp" height="400" alt="TBS Mambo" title="TBS Mambo">
 </p>
 
 **[Jumper T-Pro](https://www.jumper-rc.com/products/transmitters/t-pro/), [Jumper T-Lite](https://www.jumper-rc.com/products/transmitters/t-lite/), [Radiomaster Zorro](https://www.radiomasterrc.com/products/zorro-radio-controller?_pos=1&_sid=49612d66c&_ss=r)** - transmitters similar in form factor to Tango 2 with built-in ELRS.
@@ -177,9 +175,9 @@ However, these transmitters are not entirely bad, and there are a considerable n
 
 
 <p class="image-container">
-  <img src="/assets/img/t-pro.webp" height="300" alt="Аппаратура Jumper T-Pro" title="Аппаратура Jumper T-Pro">
-  <img src="/assets/img/t-lite.webp" height="300" alt="Аппаратура Jumper T-Lite" title="Аппаратура Jumper T-Lite">
-  <img src="/assets/img/zorro.webp" height="300" alt="Аппаратура RadioMaster ZORRO" title="Аппаратура RadioMaster ZORRO">
+  <img src="/assets/img/t-pro.webp" height="300" alt="Jumper T-Pro" title="Jumper T-Pro">
+  <img src="/assets/img/t-lite.webp" height="300" alt="Jumper T-Lite" title="Jumper T-Lite">
+  <img src="/assets/img/zorro.webp" height="300" alt="RadioMaster ZORRO" title="RadioMaster ZORRO">
 </p>
 
 **[Jumper T-Pro](https://www.jumper-rc.com/t20-p0117.html)** - flattened boxer and still a rare beast
@@ -187,22 +185,22 @@ However, these transmitters are not entirely bad, and there are a considerable n
 Prices start at $110. There are versions with a multimodule, ELRS on 2.4GHz, and ELRS 900MHz—do not confuse them! It's worth noting that the sticks are also available in two types—Hall effect and resistive—and in this case, the version with resistive sticks is more expensive. It seems that Jumper has "fixed" the issue of drifting stick values by replacing the sticks, but this is not certain. It has the necessary number of switches, full-size sticks, and is a relatively compact option. How it will perform in practice remains to be seen; people are gradually purchasing it and sharing their impressions.
 
 <p class="image-container">
-  <img src="/assets/img/t20.webp" height="400" alt="Аппаратура Jumper T20" title="Аппаратура Jumper T20">
+  <img src="/assets/img/t20.webp" height="400" alt="Jumper T20" title="Jumper T20">
 </p>
 
 ## Necessary Accessories
 
 - Battery - if the transmitter does not have a built-in battery, you need to acquire a suitable one for the device. Typically, 2S setups or two Li-Ion 18650 cells in a 2S adapter are used.
-  > A link to the [article about drone batteries](https://propwashservice.com/en/intro/power.html) is attached separately.
+  > A link to the [article about drone batteries](https://propwashservice.com/intro/power.html) is attached separately.
 
 <p class="image-container">
-  <img src="/assets/img/lipoTX.webp" height="200" alt="Аккумуляторная батарея, совместимая с RadioMaster TX16S" title="Аккумуляторная батарея, совместимая с RadioMaster TX16S">
+  <img src="/assets/img/lipoTX.webp" height="200" alt="Battery compatible with RadioMaster TX16S" title="Battery compatible with RadioMaster TX16S">
 </p>
 
 - Neck strap - holding the transmitter in your hands for a couple of hours can be quite a challenge. It is recommended that the strap has a Fastex (a plastic clip in the middle) for situations when you need to put down the transmitter without removing the strap over your head, where you likely have FPV goggles.
 
 <p class="image-container">
-  <img src="/assets/img/neck.webp" height="200" alt="Ремешок для шеи" title="Ремешок для шеи">
+  <img src="/assets/img/neck.webp" height="200" alt="Neck Strap" title="Neck Strap">
 </p>
 ## Transmitter Setup
 

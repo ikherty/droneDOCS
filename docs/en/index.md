@@ -1,7 +1,3 @@
----
-layout: home
----
-
 # About this site
 
 ![](/assets/hero-bg.jpg)

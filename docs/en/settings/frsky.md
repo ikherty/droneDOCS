@@ -1,7 +1,7 @@
-# Прошивки FRSky
+# Firmware for FRSky
 
-* [Все про Р9](https://docs.google.com/document/d/12bokb6-IvIn6Ptn-Y8pzlOggyinKcjDe5J3UJPv5dE8/edit)
-* [Прошивки приемников](https://drive.google.com/file/d/11emna7wwV7G5n2ag5nkR-ojUYYLOQDuX/view)
+* [All about R9](https://docs.google.com/document/d/12bokb6-IvIn6Ptn-Y8pzlOggyinKcjDe5J3UJPv5dE8/edit)
+* [RX Firmwares](https://drive.google.com/file/d/11emna7wwV7G5n2ag5nkR-ojUYYLOQDuX/view)
 * [XJT-Ver170317](https://github.com/ikherty/droneDOCS/raw/main/docs/assets/firmware/XJT-Ver170317.zip)
 
 ACCST NonEu(FCC):  

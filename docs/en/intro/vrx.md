@@ -66,11 +66,11 @@ These can include:
 - Monitor with a built-in/connected receiver
 - Video receiver for connecting to a phone via OTG
 
-Analog helmets and goggles can come with either a single receiver or dual (diversity). Diversity systems typically provide a better image from the drone because you can attach different types of antennas to them. Budget helmets with diversity receivers will display the image from the receiver with the best current signal. In more expensive goggles and helmets, you may find settings for selecting the [operating mode](https://propwashservice.com/en/settings/skyzone) with diversity, such as in Skyzone with the Steadyview module.
+Analog helmets and goggles can come with either a single receiver or dual (diversity). Diversity systems typically provide a better image from the drone because you can attach different types of antennas to them. Budget helmets with diversity receivers will display the image from the receiver with the best current signal. In more expensive goggles and helmets, you may find settings for selecting the [operating mode](https://propwashservice.com/settings/skyzone) with diversity, such as in Skyzone with the Steadyview module.
 
 ### Antennas
 
-You can achieve a better signal by using an antenna suitable for your conditions. [Here’s a short article about antennas from another resource](https://profpv.ru/fpv-antenny-chto-eto-takoe-kak-rabotayut-i-k/).
+You can achieve a better signal by using an antenna suitable for your conditions. [Here’s a short article about antennas from another resource](https://oscarliang.com/best-fpv-antenna/).
 
 For flying in close proximity, a single receiver may be sufficient. If you plan to fly near obstacles and over long distances (long-range), it's advisable to look for a diversity option and use a combination of antennas, such as a patch + clover or pagoda antennas.
 
@@ -86,4 +86,4 @@ When it comes to long-range flying, you should determine what distances interest
 
 For micro-drones (Tiny Whoops), there are currently onboard video system options from HDZero, Walksnail, and analog systems.
 
-If you plan to delve into this topic, check out reviews on current video systems, and attend "flying sessions" of the local FPV community (there are now a number of pilots in every city, and if you haven't met them yet, you can find them through [chats](https://propwashservice.com/en/community/chats)). In the list of chats, you can also find themed groups for DJI FPV, Walksnail, HDZero, and ask any questions you may have.
+If you plan to delve into this topic, check out reviews on current video systems, and attend "flying sessions" of the local FPV community (there are now a number of pilots in every city, and if you haven't met them yet, you can find them via social networking services e.g. Facebook).
