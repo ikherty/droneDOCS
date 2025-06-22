@@ -57,8 +57,6 @@
 
 👉 DRS Микродроны https://t.me/tinywhoop_fpv
 
-👉 По отдельному запросу можно попасть в DRS Долго и далеко (группа по дальнолетам), писать https://t.me/ValentinaPetrenko
-
 👉 DJI FPV Drone / Avata https://t.me/dji_fpv_avata
 
 👉 DRS Разговорчики (болото) https://t.me/drstrep
@@ -103,7 +101,7 @@
 
 👉  WAZUP! Crew (полеты на вупах) https://t.me/wazup_crew
 
-👉 PropWash Service Chat (by ValentinaPetrenko) https://t.me/propwashservice
+👉 PropWash Service Chat https://t.me/propwashservice
 
 👉 BlackBox (Черный ящик) https://t.me/bfblackbox
 
