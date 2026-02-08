@@ -1,5 +1,6 @@
 # Briefly about soldering
-What should you know when soldering electronics?
+
+## What should you know when soldering electronics?
 If you're picking up a soldering iron for the first time, start by practicing on wires or a test board. Don’t ruin your electronics. And make sure to read the entire list before starting.
 
 ## -1. Prepare the room for soldering
@@ -38,6 +39,6 @@ If you were soldering on a board, you might have accidentally knocked off a smal
 Clean the tip with a sponge. Use alcohol and a synthetic brush or cotton swab (as long as it doesn’t leave fibers) to remove flux residue on the board. Check that no solder balls remain on the board behind components or between contacts. Slide heat shrink tubing over soldered wire connections or between a wire and connector. Clean up any remaining solder from the mat or surface you were working on so it doesn’t get on your drone (motor magnets are great at picking up all kinds of debris). And organize your tools to avoid turning your desk into a mess.
 
 ## 8. (Optional) Use coating to protect boards
-After ensuring everything is done correctly and no further soldering is needed, coat the board with coating to protect it from dust, moisture, and accidental short circuits from external contacts. Use special sealants/lacquers for this purpose. You can learn more [here]().
+After ensuring everything is done correctly and no further soldering is needed, coat the board with coating to protect it from dust, moisture, and accidental short circuits from external contacts. Use special sealants/lacquers for this purpose. You can learn more [here](https://propwashservice.com/en/community/coating).
 
 Congratulations, now I’m proud of you! I hope soldering brings you as much joy and usefulness as it does for me.

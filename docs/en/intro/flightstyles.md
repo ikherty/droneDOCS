@@ -2,7 +2,7 @@
 
 First, it's important to determine what you're most interested in, what resources and budget you have, and what you want to achieve (at the very least, give it a try!). FPV drone flights are not always about video shooting; they don't last for half an hour like with Mavics, and they don't just rely on stabilization modes with GPS-assisted return and hover functions.
 
-> If any terms are unclear, check this [dictionary](https://oscarliang.com/fpv-dictionary/).
+> If any terms are unclear, check this [glossary](https://propwashservice.com/en/intro/glossarium).
 
 ## Indoor flying
 
@@ -37,6 +37,8 @@ Examples of cinewhoops and cinematic drones include:
 ## Freestyle
 
 Freestyle flying involves performing acrobatic tricks, either with or without an action camera (like a GoPro). It's all about flying for fun, without the pressure of following a specific style. While many associate freestyle with performing tricks like [Mr. Steele](https://www.youtube.com/@MrSteeleFPV), the beauty of freestyle is that you can fly however you like—it's your choice.
+
+Famous freestylers and tutorials can be found [in the Useful Materials section](https://propwashservice.com/en/community/usefull).
 
 Typically, a freestyle drone has a 5-inch frame, often referred to as a "bus" frame, which accommodates a 30x30 stack or an all-in-one board with separate ESCs on each arm (though this configuration is no longer common for sub-7-inch drones). The camera angle is usually between 15 and 30 degrees, as a rule (though it's individual and you can choose any other), a larger camera angle makes it harder to perform certain tricks.
 
