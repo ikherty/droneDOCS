@@ -1,23 +1,21 @@
-# Полезные LUA скрипты для аппаратуры
+# Useful LUA Scripts for Radios
 
-Для настройки аппаратуры, дрона, передатчика, приемника, а также просмотра логов и даже просто игры существуют различные скрипты, которые помещаются в папку scripts/tools на SD карту аппаратуры. Рекомендую ознакомиться с доступными скриптами ниже.
+Various scripts exist for configuring your radio, drone, transmitter, and receiver, as well as for viewing logs and even playing simple games. These scripts are typically placed in the `scripts/tools` folder on the radio's SD card. I recommend checking out the essential scripts listed below.
 
-## Минимально необходимые для большинства
+## Essential Scripts for Most Pilots
 
-* [Betaflight LUA script](https://github.com/betaflight/betaflight-tx-lua-scripts)
+* [Betaflight LUA Script](https://github.com/betaflight/betaflight-tx-lua-scripts)
+  If telemetry is available from your drone's receiver, you can adjust most Betaflight settings directly from your radio without connecting to a computer. Don't forget to save your changes!
 
-В случае наличия телеметрии с приемника дрона можно настроить большинство настроек бетафлайта, не подключаясь к конфигуратору. Не забудьте сохранить изменения!
+* [ExpressLRS Configurator (if using an ELRS radio system)](https://www.expresslrs.org/quick-start/transmitters/lua-howto/)
+  It is important to use the LUA script version matches your ELRS transmitter version (v2 script for hardware version 2.*.*, v3 script for 3.*.*).
 
-* [ExpressLRS (в случае, если у вас ELRS радиосистема управления)](https://www.expresslrs.org/quick-start/transmitters/lua-howto/)
+* [TBS Agent Lite (for Crossfire/Tracer radio systems)](https://www.team-blacksheep.com/products/prod:agentx)
 
-Важно иметь скрипт той же версии, что и версия вашего ЕЛРС передатчика (v2 для 2.*.*, v3 для 3.*.*).
+## Optional Scripts
 
-* [TBS Agent Lite (для crossfire/tracer радиосистем)](https://www.team-blacksheep.com/products/prod:agentx)
+* [FPV Simulator Script by AlexeyStn](https://github.com/alexeystn/lua-fpv-sim)
+  One of the top racing pilots in Russia, AlexeyStn, created this script that allows you to practice flying if you only have your radio handy.
 
-## Опциональные скрипты
-
-* [Скрипт-симулятор от AlexeyStn (один из ТОПовых пилотов-гонщиков из РФ)](https://github.com/alexeystn/lua-fpv-sim)
-
-Позволяет скоротать время с пользой, если у вас под рукой только аппаратура.
-
-* [Множество скриптов собрано тут](https://github.com/EdgeTX/lua-scripts).
+* [Multi-script Collection](https://github.com/EdgeTX/lua-scripts)
+  A large collection of various LUA scripts for EdgeTX.

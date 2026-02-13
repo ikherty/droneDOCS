@@ -1,22 +1,25 @@
-# Режимы работы SkyZone SteadyView
+# SkyZone SteadyView Operating Modes
 
-Модули приема видео (VRX) Skyzone Steadyview, как и большинство современных VRX модулей, содержит 2 приемника, работающих одновременно. Такая схема позволяет реализовывать различные алгоритмы улучшения приема и итоговой картинки.
-Начиная с аппаратной версии 3.2 Steadyview имеют 4 режима работы.
+The Skyzone Steadyview video receiver (VRX) modules, like most modern VRX modules, contain two receivers that work simultaneously. This setup allows for various algorithms to improve signal reception and the final image quality. Starting from hardware version 3.2, Steadyview has four operating modes.
 
-- В режиме **Div** модуль будет работать в традиционном режиме приема - [диверсити](https://propwashservice.com/ru/intro/videoRx#как-принимать-картинку-с-дрона). Это означает, что на очки будет выводиться аудио и видеосигнал с приемника, имеющего наибольшую силу сигнала (RSSI).
+### Operating Modes:
 
-Mix режимы нацелены на то, чтобы взять картинку сразу с обоих приеимников и попытаться слить ее воедино, убирая помехи.
+- **Div (Diversity)**: The module works in traditional [Diversity](https://propwashservice.com/en/intro/videoRx#how-to-receive-video-from-a-drone) mode. This means the goggles output the audio and video signal from the receiver with the highest signal strength (RSSI).
 
-- Mix1 обеспечивает базовое слияние.
+The **Mix** modes aim to take images from both receivers simultaneously and merge them into one, filtering out interference.
 
-- Mix2 улучшает стабильность синхронизации. Тут речь идет о синхроимпульсе, который идет в начале каждого PAL/NTSC кадра и нужен для синхронизации, если синхроимпульс из-за помех будет неверно прочтен или потерян, итоговая картинка будет искажена.
+- **Mix1**: Provides basic image merging.
 
-- Mix3 улучшает сигнал синхронизации на основе Mix2, максимизирует стабильность видеоизображения и обеспечивает максимальную совместимость с другими устройствами отображения. В этом режиме яркость видеосигнала будет снижена.
+- **Mix2**: Improves synchronization stability. This refers to the sync pulse at the beginning of each PAL/NTSC frame. If the sync pulse is misread or lost due to interference, the resulting image will be distorted.
 
-Для корректной работы этих режимов необходимы последние версии прошивки модуля и очков.
+- **Mix3**: Enhances the sync signal based on Mix2, maximizing video stability and ensuring maximum compatibility with other display devices. Note that video brightness will be reduced in this mode.
 
-P.S. вольный перевод [статьи](https://skyzone.freshdesk.com/support/solutions/articles/151000020976-whats-the-mix1-mix2-mix3-div-mode) с австорскими дополнениями.
+For these modes to work correctly, the latest firmware for both the module and the goggles is required.
 
-Прошивки и инструкции [клац](https://www.skyzonefpv.com/pages/download).
+---
 
-Еще инструкции по [skyzone](https://doggydog.blog/tag/skyzone/).
+*P.S. This is a loose translation of the [official article](https://skyzone.freshdesk.com/support/solutions/articles/151000020976-whats-the-mix1-mix2-mix3-div-mode) with author's additions.*
+
+### Downloads and Guides:
+* [Firmware and Instructions](https://www.skyzonefpv.com/pages/download)
+* [Further Skyzone Guides](https://doggydog.blog/tag/skyzone/)
