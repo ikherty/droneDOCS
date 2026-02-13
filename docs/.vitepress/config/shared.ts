@@ -1,17 +1,99 @@
-import { defineConfig } from "vitepress";
-import { search as ruSearch } from "./ru";
+import { defineConfig, type HeadConfig } from "vitepress";
+import { ViteImageOptimizer } from "vite-plugin-image-optimizer";
+import fs from "node:fs";
+import path from "node:path";
+import { execSync } from "node:child_process";
+import { createContentLoader, type SiteConfig } from "vitepress";
+import { Feed } from "feed";
 
 export const shared = defineConfig({
-  rewrites: {
-    "en/:rest*": ":rest*",
-  },
+  rewrites: { "en/:rest*": ":rest*" },
   ignoreDeadLinks: true,
   lastUpdated: true,
   cleanUrls: true,
   metaChunk: true,
 
+  transformPageData(pageData) {
+    // 1. Meta Description
+    if (!pageData.frontmatter.description && pageData.filePath) {
+      try {
+        const fullPath = path.resolve(process.cwd(), "docs", pageData.filePath);
+        if (fs.existsSync(fullPath)) {
+          const description = excerpt(fs.readFileSync(fullPath, "utf-8"));
+          if (description) {
+            pageData.description = description;
+            pageData.frontmatter.description = description;
+          }
+        }
+      } catch (e: unknown) {
+        console.error(`Failed to generate description for ${pageData.filePath}`, e);
+      }
+    }
+
+    // 2. Simple Authors from Git
+    if (pageData.filePath) {
+      try {
+        const fullPath = path.resolve(process.cwd(), "docs", pageData.filePath);
+        const history = execSync(`git log --follow --format="%an|%ae" -- "${fullPath}"`, { encoding: "utf-8" })
+          .split("\n")
+          .map((l: string) => l.trim())
+          .filter(Boolean);
+
+        const emailsUsed = new Set<string>();
+        const namesUsed = new Set<string>();
+        const authors: string[] = [];
+
+        for (const line of history) {
+          const [name, email] = line.split("|");
+          if (!name || !email || email.includes("[bot]") || emailsUsed.has(email)) continue;
+
+          emailsUsed.add(email);
+          if (!namesUsed.has(name)) {
+            namesUsed.add(name);
+            authors.push(name);
+          }
+        }
+
+        if (authors.length > 0) {
+          pageData.frontmatter.gitAuthors = authors;
+        }
+      } catch {
+        // ignore errors during author extraction
+      }
+    }
+  },
+
+  transformHead({ pageData }) {
+    const head: HeadConfig[] = [];
+    if (pageData.description) {
+      head.push(["meta", { property: "og:description", content: pageData.description }]);
+      head.push(["meta", { name: "twitter:description", content: pageData.description }]);
+    }
+    if (pageData.title) {
+      head.push(["meta", { property: "og:title", content: pageData.title }]);
+      head.push(["meta", { name: "twitter:title", content: pageData.title }]);
+    }
+
+    const jsonLd = {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      headline: pageData.title,
+      description: pageData.description,
+      author: pageData.frontmatter.gitAuthors
+        ? pageData.frontmatter.gitAuthors.map((name: string) => ({ "@type": "Person", name }))
+        : { "@type": "Organization", name: "PropWash Service" },
+    };
+    head.push(["script", { type: "application/ld+json" }, JSON.stringify(jsonLd)]);
+    return head;
+  },
+
+  buildEnd: async (config: SiteConfig) => {
+    await generateFeed(config);
+  },
+  sitemap: { hostname: "https://propwashservice.com" },
   head: [
     ["link", { rel: "icon", type: "image/x-icon", href: "/favicon.svg" }],
+    ["link", { rel: "alternate", type: "application/rss+xml", title: "RSS Feed", href: "/feed.rss" }],
     ["meta", { property: "og:type", content: "website" }],
     ["meta", { property: "og:locale", content: "en" }],
     ["meta", { property: "og:title", content: "DroneDocs" }],
@@ -24,7 +106,6 @@ export const shared = defineConfig({
       { type: "text/javascript" },
       '(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date(); for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }} k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(92209567, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true });',
     ],
-    // ["noscript", {}, ['div', {}, ["img", {src: "https://mc.yandex.ru/watch/92209567", style: "position:absolute; left:-9999px;"}]]],
   ],
 
   themeConfig: {
@@ -41,16 +122,70 @@ export const shared = defineConfig({
       { icon: "youtube", link: "https://www.youtube.com/@PropWashService" },
     ],
     search: {
-      provider: "algolia",
+      provider: "local",
       options: {
-        appId: "T2WUNRWNAH",
-        apiKey: "682cbd880443f6771b3b4c37c137984e",
-        indexName: "propwashservice_ru",
         locales: {
-          ...ruSearch,
+          ru: {
+            translations: {
+              button: { buttonText: "Поиск", buttonAriaLabel: "Поиск" },
+              modal: {
+                noResultsText: "Нет результатов по запросу",
+                resetButtonTitle: "Сбросить поиск",
+                footer: { selectText: "выбрать", navigateText: "перейти", closeText: "закрыть" },
+              },
+            },
+          },
         },
       },
     },
-    // carbonAds: { code: '', placement: '' }
   },
+  vite: { plugins: [ViteImageOptimizer()] },
 });
+
+function excerpt(content: string) {
+  if (!content) return "";
+  const stripped = content
+    .replace(/^---[\s\S]*?---\n*/, "")
+    .replace(/<style[\s\S]*?<\/style>/gi, "")
+    .replace(/<script[\s\S]*?<\/script>/gi, "")
+    .replace(/#+ .*/g, "")
+    .replace(/!\[.*?\]\(.*?\)/g, "")
+    .replace(/\[(.*?)\]\(.*?\)/g, "$1")
+    .replace(/<.*?>/g, "")
+    .replace(/`{1,3}.*?`{1,3}/gs, "")
+    .replace(/&[a-z0-9#]+;/gi, "")
+    .replace(/\s+/g, " ")
+    .trim();
+  return stripped.length > 160 ? stripped.slice(0, 157) + "..." : stripped;
+}
+
+async function generateFeed(config: SiteConfig) {
+  const hostname = "https://propwashservice.com";
+  const feed = new Feed({
+    title: "DroneDocs",
+    description: "FPV Guides",
+    id: hostname,
+    link: hostname,
+    language: "ru",
+    image: `${hostname}/favicon.svg`,
+    favicon: `${hostname}/favicon.svg`,
+    copyright: "PropWash Service",
+  });
+  const posts = await createContentLoader("**/*.md", { excerpt: true, render: true }).load();
+  posts.sort((a, b) => +new Date(b.frontmatter.date || 0) - +new Date(a.frontmatter.date || 0));
+  for (const { url, excerpt, frontmatter, html } of posts) {
+    if (url.includes("/public/")) continue;
+    feed.addItem({
+      title: frontmatter.title || "DroneDocs Article",
+      id: `${hostname}${url}`,
+      link: `${hostname}${url}`,
+      description: excerpt,
+      content: html,
+      author: [{ name: "PropWash Service", link: hostname }],
+      date: frontmatter.date ? new Date(frontmatter.date) : new Date(),
+    });
+  }
+  const outDir = path.resolve(config.outDir);
+  if (!fs.existsSync(outDir)) fs.mkdirSync(outDir, { recursive: true });
+  fs.writeFileSync(path.join(outDir, "feed.rss"), feed.rss2());
+}

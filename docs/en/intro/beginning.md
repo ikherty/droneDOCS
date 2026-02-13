@@ -9,7 +9,6 @@
 
 # Introduction
 
-Authors: [Andrey Sh.](https://github.com/EIIIE), [Valentina](https://github.com/ikherty)
 
 ## What is it, and how is it used?
 

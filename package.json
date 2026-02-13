@@ -15,21 +15,24 @@
     "eslint-plugin-markdown": "^3.0.0",
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-vue": "^9.9.0",
-    "husky": "^8.0.0",
-    "lint-staged": "^13.1.0",
+    "feed": "^5.2.0",
+    "husky": "^9.1.7",
+    "lint-staged": "^16.2.7",
     "prettier": "^2.8.3",
     "sass": "^1.58.0",
-    "typescript": "^5.9.0"
+    "sharp": "^0.34.5",
+    "svgo": "^4.0.0",
+    "typescript": "^5.9.0",
+    "vite-plugin-image-optimizer": "^2.0.3"
   },
   "scripts": {
-    "prebuild": "node scripts/generate-sitemap.cjs",
     "dev": "vitepress dev docs",
     "build": "vitepress build docs",
     "preview": "vitepress preview docs",
     "build-preview": "yarn build && yarn preview",
     "lint": "eslint . --fix",
     "format-all": "npx prettier . --write --ignore-unknown",
-    "prepare": "husky install"
+    "prepare": "husky"
   },
   "dependencies": {
     "vitepress": "^1.6.0"
