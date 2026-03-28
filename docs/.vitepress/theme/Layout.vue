@@ -8,10 +8,12 @@ const inBrowser = typeof window !== "undefined";
 
 const authors = computed(() => frontmatter.value.gitAuthors || []);
 
-// Следим за изменением языка и обновляем куки
+// Save preference when language changes
 watchEffect(() => {
   if (inBrowser) {
-    document.cookie = `nf_lang=${lang.value}; expires=Mon, 1 Jan 2030 00:00:00 UTC; path=/`;
+    const locale = lang.value.split("-")[0];
+    localStorage.setItem("user-locale", locale);
+    document.cookie = `nf_lang=${locale}; expires=Mon, 1 Jan 2030 00:00:00 UTC; path=/`;
   }
 });
 </script>
