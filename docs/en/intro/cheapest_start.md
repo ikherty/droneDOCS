@@ -56,7 +56,7 @@ BetaFPV Aquila, Cetus, Emax Tinyhawk BTF/RTF kits, GEPRC TinyGO.
 
 Especially avoid ready-to-fly kits (drone + radio + goggles in one bag). They will bring you nothing but problems, and they **cannot be upgraded** — you will have to replace almost the entire kit, which will end up being much more expensive.
 
-*(For a bit more detail on why you shouldn't buy a Cetus — read [this post](https://t.me/fpvearth/571561/575721)).*
+*(For a bit more detail on why you shouldn't buy a Cetus — read [this post](/shop/set#why-shouldn-t-you-buy-a-cetus)).*
 
 **Conclusion:** Any cheap RTF set will have issues with setup, compatibility, and replacing parts. People in community chats simply won't be able to help you — it's better to stay away from these boxes from the start.
 :::
