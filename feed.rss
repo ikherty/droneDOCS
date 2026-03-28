@@ -4,7 +4,7 @@
         <title>DroneDocs</title>
         <link>https://propwashservice.com</link>
         <description>FPV Guides</description>
-        <lastBuildDate>Sat, 28 Mar 2026 17:43:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Mar 2026 18:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ru</language>
@@ -18,7 +18,7 @@
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/en/community/bags</link>
             <guid isPermaLink="false">https://propwashservice.com/en/community/bags</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="planning-to-fly-will-they-allow-equipment-drones-and-batteries-on-board" tabindex="-1">Planning to fly? Will they allow equipment, drones, and batteries on board? <a class="header-anchor" href="#planning-to-fly-will-they-allow-equipment-drones-and-batteries-on-board" aria-label="Permalink to &quot;Planning to fly? Will they allow equipment, drones, and batteries on board?&quot;">&ZeroWidthSpace;</a></h1>
 <p>For air travel, you must place batteries and drones in your carry-on luggage. Other equipment without batteries can be placed in checked baggage.</p>
 <p>Batteries must have a manufacturer's label showing their specifications. Generally, airlines have no issues if each battery is less than 100 or 160 Wh. Sometimes after scanning on the belt, they may ask to see one of the batteries. It's advisable that batteries are not fully charged and are in storage mode (which is also beneficial when not flying between sessions). Ideally, insulate the connectors with electrical tape or printed caps. Batteries must be stored strictly in a fireproof LiPo bag.</p>
@@ -32,7 +32,7 @@
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/en/community/chats</link>
             <guid isPermaLink="false">https://propwashservice.com/en/community/chats</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="well-known-fpv-and-aviation-chats-and-channels" tabindex="-1">Well-known FPV and Aviation Chats and Channels <a class="header-anchor" href="#well-known-fpv-and-aviation-chats-and-channels" aria-label="Permalink to &quot;Well-known FPV and Aviation Chats and Channels&quot;">&ZeroWidthSpace;</a></h1>
 <h2 id="chat-rules" tabindex="-1">Chat Rules <a class="header-anchor" href="#chat-rules" aria-label="Permalink to &quot;Chat Rules&quot;">&ZeroWidthSpace;</a></h2>
 <h3 id="general-rules-for-drs-groups" tabindex="-1">General Rules for DRS Groups: <a class="header-anchor" href="#general-rules-for-drs-groups" aria-label="Permalink to &quot;General Rules for DRS Groups:&quot;">&ZeroWidthSpace;</a></h3>
@@ -193,7 +193,7 @@ We ask everyone to add an avatar!</p>
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/en/community/coating</link>
             <guid isPermaLink="false">https://propwashservice.com/en/community/coating</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="everything-about-waterproofing" tabindex="-1">Everything about Waterproofing <a class="header-anchor" href="#everything-about-waterproofing" aria-label="Permalink to &quot;Everything about Waterproofing&quot;">&ZeroWidthSpace;</a></h1>
 <p>Flying in snow or rain without waterproofing is a risky endeavor for drones. If moisture gets onto active electronics, glitches such as sudden motor failure or loss of connection are likely (and in most cases, occur). Falling into salt water (the sea) leads to oxidation and circuit damage.</p>
 <h2 id="what-should-be-covered-with-sealant" tabindex="-1">What should be covered with sealant? <a class="header-anchor" href="#what-should-be-covered-with-sealant" aria-label="Permalink to &quot;What should be covered with sealant?&quot;">&ZeroWidthSpace;</a></h2>
@@ -516,7 +516,7 @@ We ask everyone to add an avatar!</p>
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/en/community/software</link>
             <guid isPermaLink="false">https://propwashservice.com/en/community/software</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="software" tabindex="-1">Software <a class="header-anchor" href="#software" aria-label="Permalink to &quot;Software&quot;">&ZeroWidthSpace;</a></h1>
 <div class="language- vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span>For Windows files with the extension .EXE</span></span>
 <span class="line"><span>For Linux - .rpm, .deb</span></span>
@@ -609,7 +609,7 @@ Older versions - <a href="https://github.com/bw1129/PIDtoolbox/releases" target=
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/en/community/soldering</link>
             <guid isPermaLink="false">https://propwashservice.com/en/community/soldering</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="briefly-about-soldering" tabindex="-1">Briefly about soldering <a class="header-anchor" href="#briefly-about-soldering" aria-label="Permalink to &quot;Briefly about soldering&quot;">&ZeroWidthSpace;</a></h1>
 <h2 id="what-should-you-know-when-soldering-electronics" tabindex="-1">What should you know when soldering electronics? <a class="header-anchor" href="#what-should-you-know-when-soldering-electronics" aria-label="Permalink to &quot;What should you know when soldering electronics?&quot;">&ZeroWidthSpace;</a></h2>
 <p>If you're picking up a soldering iron for the first time, start by practicing on wires or a test board. Don’t ruin your electronics. And make sure to read the entire list before starting.</p>
@@ -645,7 +645,7 @@ Older versions - <a href="https://github.com/bw1129/PIDtoolbox/releases" target=
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/en/community/usefull</link>
             <guid isPermaLink="false">https://propwashservice.com/en/community/usefull</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="useful-resources-in-one-place" tabindex="-1">Useful Resources in One Place <a class="header-anchor" href="#useful-resources-in-one-place" aria-label="Permalink to &quot;Useful Resources in One Place&quot;">&ZeroWidthSpace;</a></h1>
 <h2 id="channels-with-flight-examples" tabindex="-1">Channels with Flight Examples: <a class="header-anchor" href="#channels-with-flight-examples" aria-label="Permalink to &quot;Channels with Flight Examples:&quot;">&ZeroWidthSpace;</a></h2>
 <ul>
@@ -754,7 +754,7 @@ Older versions - <a href="https://github.com/bw1129/PIDtoolbox/releases" target=
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/en/</link>
             <guid isPermaLink="false">https://propwashservice.com/en/</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="about-this-site" tabindex="-1">About this site <a class="header-anchor" href="#about-this-site" aria-label="Permalink to &quot;About this site&quot;">&ZeroWidthSpace;</a></h1>
 <p><img src="/assets/hero-bg.jpg" alt=""></p>
 <p>These materials are based on personal experience and observations in the FPV community. No ads or sponsorships, everything is done on personal initiative to promote the hobby to the masses.
@@ -775,7 +775,7 @@ To navigate, go to the Menu on the left-hand side. Enjoy reading!</p>
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/en/intro/beginning</link>
             <guid isPermaLink="false">https://propwashservice.com/en/intro/beginning</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="introduction" tabindex="-1">Introduction <a class="header-anchor" href="#introduction" aria-label="Permalink to &quot;Introduction&quot;">&ZeroWidthSpace;</a></h1>
 <h2 id="what-is-it-and-how-is-it-used" tabindex="-1">What is it, and how is it used? <a class="header-anchor" href="#what-is-it-and-how-is-it-used" aria-label="Permalink to &quot;What is it, and how is it used?&quot;">&ZeroWidthSpace;</a></h2>
 <p>Drones, or quadcopters, are multirotor flying devices. Depending on the number of motor-propeller groups (MPGs), a Greek prefix is added: two motors - bicopters, three - tricopters, four - quadcopters, six - hexacopters, eight - octocopters, and there are various other configurations for specific tasks.</p>
@@ -823,7 +823,7 @@ But reducing weight requires a careful approach. If weight is only reduced from 
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/en/intro/flightstyles</link>
             <guid isPermaLink="false">https://propwashservice.com/en/intro/flightstyles</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="types-of-fpv-flying-what-are-they-and-how-do-they-differ" tabindex="-1">Types of FPV flying: what are they, and how do they differ? <a class="header-anchor" href="#types-of-fpv-flying-what-are-they-and-how-do-they-differ" aria-label="Permalink to &quot;Types of FPV flying: what are they, and how do they differ?&quot;">&ZeroWidthSpace;</a></h1>
 <p>First, it's important to determine what you're most interested in, what resources and budget you have, and what you want to achieve (at the very least, give it a try!). FPV drone flights are not always about video shooting; they don't last for half an hour like with Mavics, and they don't just rely on stabilization modes with GPS-assisted return and hover functions.</p>
 <blockquote>
@@ -892,7 +892,7 @@ But reducing weight requires a careful approach. If weight is only reduced from 
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/en/intro/glossarium</link>
             <guid isPermaLink="false">https://propwashservice.com/en/intro/glossarium</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <description><![CDATA[<h1 id="fpv-glossary" tabindex="-1">FPV Glossary <a class="header-anchor" href="#fpv-glossary" aria-label="Permalink to &quot;FPV Glossary&quot;">&ZeroWidthSpace;</a></h1>
 <p>This glossary explains common Russian FPV slang terms and abbreviations used in the FPV drone community.</p>
 <p>| Term (Russian) | Meaning (English) |
@@ -1197,7 +1197,7 @@ But reducing weight requires a careful approach. If weight is only reduced from 
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/en/intro/power</link>
             <guid isPermaLink="false">https://propwashservice.com/en/intro/power</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="brief-overview-of-batteries-and-chargers" tabindex="-1">Brief overview of batteries and chargers <a class="header-anchor" href="#brief-overview-of-batteries-and-chargers" aria-label="Permalink to &quot;Brief overview of batteries and chargers&quot;">&ZeroWidthSpace;</a></h1>
 <h2 id="what-types-of-batteries-are-used-and-what-do-the-numbers-on-them-mean" tabindex="-1">What types of batteries are used, and what do the numbers on them mean? <a class="header-anchor" href="#what-types-of-batteries-are-used-and-what-do-the-numbers-on-them-mean" aria-label="Permalink to &quot;What types of batteries are used, and what do the numbers on them mean?&quot;">&ZeroWidthSpace;</a></h2>
 <p>Batteries are selected based on the specific tasks and motor-propeller group of the aircraft. Manufacturers often list approximate specifications for batteries suited to typical drone classes in product descriptions. But what do these numbers mean?</p>
@@ -1256,7 +1256,7 @@ But reducing weight requires a careful approach. If weight is only reduced from 
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/en/intro/sim</link>
             <guid isPermaLink="false">https://propwashservice.com/en/intro/sim</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="sims-flight-simulators" tabindex="-1">Sims, Flight Simulators <a class="header-anchor" href="#sims-flight-simulators" aria-label="Permalink to &quot;Sims, Flight Simulators&quot;">&ZeroWidthSpace;</a></h1>
 <p>Why do you need a drone flight simulator, where can you get one, and how do you choose the most realistic one? Can you download it for free?</p>
 <h2 id="why-do-you-need-a-simulator" tabindex="-1">Why Do You Need a Simulator? <a class="header-anchor" href="#why-do-you-need-a-simulator" aria-label="Permalink to &quot;Why Do You Need a Simulator?&quot;">&ZeroWidthSpace;</a></h2>
@@ -1334,7 +1334,7 @@ Velocidrone (sometimes mistakenly called Velocity) is considered the best simula
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/en/intro/tx</link>
             <guid isPermaLink="false">https://propwashservice.com/en/intro/tx</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="how-to-choose-a-remote-control-system" tabindex="-1">How to Choose a Remote Control System? <a class="header-anchor" href="#how-to-choose-a-remote-control-system" aria-label="Permalink to &quot;How to Choose a Remote Control System?&quot;">&ZeroWidthSpace;</a></h1>
 <blockquote>
 <p>Authors: <a href="https://github.com/EIIIE" target="_blank" rel="noreferrer">Andrey Sh.</a>, <a href="https://github.com/ikherty" target="_blank" rel="noreferrer">Valentina</a></p>
@@ -1477,7 +1477,7 @@ Yes, <strong>but...</strong></p>
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/en/intro/vrx</link>
             <guid isPermaLink="false">https://propwashservice.com/en/intro/vrx</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="fpv-video-systems-what-are-they-and-how-to-choose" tabindex="-1">FPV Video Systems - what are they and how to choose? <a class="header-anchor" href="#fpv-video-systems-what-are-they-and-how-to-choose" aria-label="Permalink to &quot;FPV Video Systems - what are they and how to choose?&quot;">&ZeroWidthSpace;</a></h1>
 <p>What video systems are currently relevant? What is diversity and DVR? Should you get a headset or goggles? Are Avatar and DJI compatible? What’s the difference between Integra and G2? More details below.</p>
 <h2 id="digital-or-analog-what-does-it-mean" tabindex="-1">Digital or Analog, what does it mean? <a class="header-anchor" href="#digital-or-analog-what-does-it-mean" aria-label="Permalink to &quot;Digital or Analog, what does it mean?&quot;">&ZeroWidthSpace;</a></h2>
@@ -1546,7 +1546,7 @@ Yes, <strong>but...</strong></p>
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/en/settings/FAQ</link>
             <guid isPermaLink="false">https://propwashservice.com/en/settings/FAQ</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="top-9-frequently-asked-questions" tabindex="-1">Top 9 Frequently Asked Questions <a class="header-anchor" href="#top-9-frequently-asked-questions" aria-label="Permalink to &quot;Top 9 Frequently Asked Questions&quot;">&ZeroWidthSpace;</a></h1>
 <p>(Article in progress)</p>
 <h2 id="hello-i-m-a-beginner-which-drone-should-i-choose" tabindex="-1">Hello, I'm a beginner. Which drone should I choose? <a class="header-anchor" href="#hello-i-m-a-beginner-which-drone-should-i-choose" aria-label="Permalink to &quot;Hello, I'm a beginner. Which drone should I choose?&quot;">&ZeroWidthSpace;</a></h2>
@@ -1590,7 +1590,7 @@ Yes, <strong>but...</strong></p>
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/en/settings/frsky</link>
             <guid isPermaLink="false">https://propwashservice.com/en/settings/frsky</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="firmware-for-frsky" tabindex="-1">Firmware for FRSky <a class="header-anchor" href="#firmware-for-frsky" aria-label="Permalink to &quot;Firmware for FRSky&quot;">&ZeroWidthSpace;</a></h1>
 <ul>
 <li><a href="https://docs.google.com/document/d/12bokb6-IvIn6Ptn-Y8pzlOggyinKcjDe5J3UJPv5dE8/edit" target="_blank" rel="noreferrer">All about R9</a></li>
@@ -1610,7 +1610,7 @@ Yes, <strong>but...</strong></p>
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/en/settings/rates</link>
             <guid isPermaLink="false">https://propwashservice.com/en/settings/rates</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="rates-in-betaflight" tabindex="-1">Rates in Betaflight <a class="header-anchor" href="#rates-in-betaflight" aria-label="Permalink to &quot;Rates in Betaflight&quot;">&ZeroWidthSpace;</a></h1>
 <p>Found in the <strong>PID Tuning</strong> section, under the <strong>Rateprofile Settings</strong> tab.</p>
 <h2 id="rate-systems-in-betaflight" tabindex="-1">Rate Systems in Betaflight <a class="header-anchor" href="#rate-systems-in-betaflight" aria-label="Permalink to &quot;Rate Systems in Betaflight&quot;">&ZeroWidthSpace;</a></h2>
@@ -1683,7 +1683,7 @@ Yes, <strong>but...</strong></p>
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/en/settings/scripts</link>
             <guid isPermaLink="false">https://propwashservice.com/en/settings/scripts</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="useful-lua-scripts-for-radios" tabindex="-1">Useful LUA Scripts for Radios <a class="header-anchor" href="#useful-lua-scripts-for-radios" aria-label="Permalink to &quot;Useful LUA Scripts for Radios&quot;">&ZeroWidthSpace;</a></h1>
 <p>Various scripts exist for configuring your radio, drone, transmitter, and receiver, as well as for viewing logs and even playing simple games. These scripts are typically placed in the <code>scripts/tools</code> folder on the radio's SD card. I recommend checking out the essential scripts listed below.</p>
 <h2 id="essential-scripts-for-most-pilots" tabindex="-1">Essential Scripts for Most Pilots <a class="header-anchor" href="#essential-scripts-for-most-pilots" aria-label="Permalink to &quot;Essential Scripts for Most Pilots&quot;">&ZeroWidthSpace;</a></h2>
@@ -1718,7 +1718,7 @@ A large collection of various LUA scripts for EdgeTX.</p>
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/en/settings/skyzone</link>
             <guid isPermaLink="false">https://propwashservice.com/en/settings/skyzone</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <description><![CDATA[<h1 id="skyzone-steadyview-operating-modes" tabindex="-1">SkyZone SteadyView Operating Modes <a class="header-anchor" href="#skyzone-steadyview-operating-modes" aria-label="Permalink to &quot;SkyZone SteadyView Operating Modes&quot;">&ZeroWidthSpace;</a></h1>
 <p>The Skyzone Steadyview video receiver (VRX) modules, like most modern VRX modules, contain two receivers that work simultaneously. This setup allows for various algorithms to improve signal reception and the final image quality. Starting from hardware version 3.2, Steadyview has four operating modes.</p>
 <h3 id="operating-modes" tabindex="-1">Operating Modes: <a class="header-anchor" href="#operating-modes" aria-label="Permalink to &quot;Operating Modes:&quot;">&ZeroWidthSpace;</a></h3>
@@ -1772,7 +1772,7 @@ A large collection of various LUA scripts for EdgeTX.</p>
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/en/shop/DIY</link>
             <guid isPermaLink="false">https://propwashservice.com/en/shop/DIY</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <description><![CDATA[<h1 id="how-to-choose-components-for-building-a-drone" tabindex="-1">How to Choose Components for Building a Drone? <a class="header-anchor" href="#how-to-choose-components-for-building-a-drone" aria-label="Permalink to &quot;How to Choose Components for Building a Drone?&quot;">&ZeroWidthSpace;</a></h1>
 <p>Beginners often find it difficult to determine which components and specifications to choose, and more importantly, how much it will all cost. Below is a list of compatible components for various build types.</p>
 <blockquote>
@@ -1943,7 +1943,7 @@ A large collection of various LUA scripts for EdgeTX.</p>
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/en/shop/airplanes</link>
             <guid isPermaLink="false">https://propwashservice.com/en/shop/airplanes</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <description><![CDATA[<h1 id="parts-and-consumables-for-rc-fpv-planes-and-wings" tabindex="-1">Parts and Consumables for RC FPV Planes and Wings <a class="header-anchor" href="#parts-and-consumables-for-rc-fpv-planes-and-wings" aria-label="Permalink to &quot;Parts and Consumables for RC FPV Planes and Wings&quot;">&ZeroWidthSpace;</a></h1>
 <p>|                   Item                   |                                          Description                                          |                                                                                                                                                                           Link                                                                                                                                                                            |                                                   Photo                                                   |
 | :</p>
@@ -2052,7 +2052,7 @@ A large collection of various LUA scripts for EdgeTX.</p>
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/en/shop/lifehacks</link>
             <guid isPermaLink="false">https://propwashservice.com/en/shop/lifehacks</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<h5 id="no-advertising-just-tips-based-on-personal-experience" tabindex="-1">No advertising, just tips based on personal experience. <a class="header-anchor" href="#no-advertising-just-tips-based-on-personal-experience" aria-label="Permalink to &quot;No advertising, just tips based on personal experience.&quot;">&ZeroWidthSpace;</a></h5>
 <h5 id="p-s-this-was-relevant-until-february-2022-but-let-s-hope-that-someday-these-tips-will-be-useful-again-wishing-everyone-the-best" tabindex="-1">P.S. This was relevant until February 2022, but let's hope that someday these tips will be useful again... wishing everyone the best. <a class="header-anchor" href="#p-s-this-was-relevant-until-february-2022-but-let-s-hope-that-someday-these-tips-will-be-useful-again-wishing-everyone-the-best" aria-label="Permalink to &quot;P.S. This was relevant until February 2022, but let's hope that someday these tips will be useful again... wishing everyone the best.&quot;">&ZeroWidthSpace;</a></h5>
 <h2 id="usd-as-default" tabindex="-1">USD as default! <a class="header-anchor" href="#usd-as-default" aria-label="Permalink to &quot;USD as default!&quot;">&ZeroWidthSpace;</a></h2>
@@ -2091,7 +2091,7 @@ This way, withdrawing to a card with a dollar account, you can pay without conve
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/en/shop/nessesary</link>
             <guid isPermaLink="false">https://propwashservice.com/en/shop/nessesary</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <description><![CDATA[<h1 id="fpv-drone-consumables-and-essential-equipment" tabindex="-1">FPV Drone Consumables and Essential Equipment <a class="header-anchor" href="#fpv-drone-consumables-and-essential-equipment" aria-label="Permalink to &quot;FPV Drone Consumables and Essential Equipment&quot;">&ZeroWidthSpace;</a></h1>
 <p>When building a quadcopter, you'll need tools, spare parts, and various consumables. The list below covers the essentials for FPV drones. You can also find shopping lists for FPV airplanes and flying wings on this site. The links provided are from previous orders; if a link is broken or you want to save money, use the product names or images to search for alternatives. If you find a dead link, please open an issue.</p>
 <p>| Item | Description | Link | Photo |
@@ -2508,7 +2508,7 @@ This way, withdrawing to a card with a dollar account, you can pay without conve
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/en/shop/set</link>
             <guid isPermaLink="false">https://propwashservice.com/en/shop/set</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="beginner-s-kit" tabindex="-1">Beginner's Kit <a class="header-anchor" href="#beginner-s-kit" aria-label="Permalink to &quot;Beginner's Kit&quot;">&ZeroWidthSpace;</a></h1>
 <p>Which starting set to choose, how to start the FPV hobby, what are KIT/BNF, why &quot;Cetus&quot; might not be the best choice, options for various budgets, and much more can be found below.</p>
 <h2 id="introduction" tabindex="-1">Introduction <a class="header-anchor" href="#introduction" aria-label="Permalink to &quot;Introduction&quot;">&ZeroWidthSpace;</a></h2>
@@ -2615,7 +2615,7 @@ For airplanes, a &quot;KIT&quot; set often means just the airframe without any e
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/en/shop/shops</link>
             <guid isPermaLink="false">https://propwashservice.com/en/shop/shops</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="list-of-fpv-related-shops" tabindex="-1">List of FPV Related Shops <a class="header-anchor" href="#list-of-fpv-related-shops" aria-label="Permalink to &quot;List of FPV Related Shops&quot;">&ZeroWidthSpace;</a></h1>
 <p>Russian stores:<br></p>
 <DT><A HREF="https://air-hobby.ru" >Air-Hobby (Moscow)</A></DT>
@@ -2651,7 +2651,7 @@ International and other shops:<br>
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/en/theworld/Serbija</link>
             <guid isPermaLink="false">https://propwashservice.com/en/theworld/Serbija</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="fpv-in-serbia-guide" tabindex="-1">FPV in Serbia Guide <a class="header-anchor" href="#fpv-in-serbia-guide" aria-label="Permalink to &quot;FPV in Serbia Guide&quot;">&ZeroWidthSpace;</a></h1>
 <p>This page contains notes from the FPV community in Serbia: spot maps, chat links, flying regulations, and more.</p>
 <h2 id="laws" tabindex="-1">Laws <a class="header-anchor" href="#laws" aria-label="Permalink to &quot;Laws&quot;">&ZeroWidthSpace;</a></h2>
@@ -2758,7 +2758,7 @@ Send invoices to <a href="mailto:ukprevozin@gmail.com" target="_blank" rel="nore
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/ru/community/bags</link>
             <guid isPermaLink="false">https://propwashservice.com/ru/community/bags</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="планирую-перелет-на-самолете-пропустят-ли-оборудование-дроны-и-аккумуляторы-на-борт" tabindex="-1">Планирую перелет на самолете, пропустят ли оборудование, дроны и аккумуляторы на борт? <a class="header-anchor" href="#планирую-перелет-на-самолете-пропустят-ли-оборудование-дроны-и-аккумуляторы-на-борт" aria-label="Permalink to &quot;Планирую перелет на самолете, пропустят ли оборудование, дроны и аккумуляторы на борт?&quot;">&ZeroWidthSpace;</a></h1>
 <p>Для перевозки в самолете необходимо поместить аккумуляторы и дроны в ручную кладь. Остальное оборудование без аккумуляторов можно положить в багаж.</p>
 <p>Аккумуляторы должны иметь наклейку производителя, где будут указаны характеристики. Как правило, у авиакомпаний нет претензий, если каждый аккумулятор менее 100 или 160 Вт/ч. Иногда после сканирования на ленте просят показать один из аккумуляторов. Желательно, чтобы аккумуляторы не были заряжены, находились в состоянии storage(полезно не только в момент перевозки, но и при неиспользовании между вылетами). По хорошему заизолировать разъемы изолентой или печатными колпачками. Размещаться аккумуляторы должны строго в противопожарной сумке.</p>
@@ -2772,7 +2772,7 @@ Send invoices to <a href="mailto:ukprevozin@gmail.com" target="_blank" rel="nore
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/ru/community/chats</link>
             <guid isPermaLink="false">https://propwashservice.com/ru/community/chats</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="общеизвестные-чаты-и-каналы-по-fpv-и-авиа-тематике" tabindex="-1">Общеизвестные чаты и каналы по FPV и авиа тематике <a class="header-anchor" href="#общеизвестные-чаты-и-каналы-по-fpv-и-авиа-тематике" aria-label="Permalink to &quot;Общеизвестные чаты и каналы по FPV и авиа тематике&quot;">&ZeroWidthSpace;</a></h1>
 <h2 id="правила-чатов" tabindex="-1">Правила чатов <a class="header-anchor" href="#правила-чатов" aria-label="Permalink to &quot;Правила чатов&quot;">&ZeroWidthSpace;</a></h2>
 <h3 id="общие-правила-для-групп-drs" tabindex="-1">Общие правила для групп DRS: <a class="header-anchor" href="#общие-правила-для-групп-drs" aria-label="Permalink to &quot;Общие правила для групп DRS:&quot;">&ZeroWidthSpace;</a></h3>
@@ -2932,7 +2932,7 @@ Send invoices to <a href="mailto:ukprevozin@gmail.com" target="_blank" rel="nore
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/ru/community/coating</link>
             <guid isPermaLink="false">https://propwashservice.com/ru/community/coating</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="все-про-влагозащиту" tabindex="-1">Все про влагозащиту <a class="header-anchor" href="#все-про-влагозащиту" aria-label="Permalink to &quot;Все про влагозащиту&quot;">&ZeroWidthSpace;</a></h1>
 <p>Без влагозащиты летать в снег и дождь на дронах рисковая затея - при попадании влаги на работающую электронику возможны (и в большинстве случаев возникают) глюки в виде внезапного отказа двигателей, потери связи, а при падении в соленую воду (море) окислы и повреждение схемы.</p>
 <h2 id="что-необходимо-покрывать-герметиком" tabindex="-1">Что необходимо покрывать герметиком? <a class="header-anchor" href="#что-необходимо-покрывать-герметиком" aria-label="Permalink to &quot;Что необходимо покрывать герметиком?&quot;">&ZeroWidthSpace;</a></h2>
@@ -3257,7 +3257,7 @@ Send invoices to <a href="mailto:ukprevozin@gmail.com" target="_blank" rel="nore
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/ru/community/software</link>
             <guid isPermaLink="false">https://propwashservice.com/ru/community/software</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="используемое-программное-обеспечение" tabindex="-1">Используемое программное обеспечение <a class="header-anchor" href="#используемое-программное-обеспечение" aria-label="Permalink to &quot;Используемое программное обеспечение&quot;">&ZeroWidthSpace;</a></h1>
 <div class="language- vp-adaptive-theme"><button title="Copy Code" class="copy"></button><span class="lang"></span><pre class="shiki shiki-themes github-light github-dark vp-code" tabindex="0" v-pre=""><code><span class="line"><span>Для Windows файлы с расширением .EXE</span></span>
 <span class="line"><span>Для Linux .rpm, .deb</span></span>
@@ -3351,7 +3351,7 @@ Send invoices to <a href="mailto:ukprevozin@gmail.com" target="_blank" rel="nore
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/ru/community/soldering</link>
             <guid isPermaLink="false">https://propwashservice.com/ru/community/soldering</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="коротко-про-паику" tabindex="-1">Коротко про пайку <a class="header-anchor" href="#коротко-про-паику" aria-label="Permalink to &quot;Коротко про пайку&quot;">&ZeroWidthSpace;</a></h1>
 <h2 id="что-нужно-знать-при-паике-электроники" tabindex="-1">Что нужно знать при пайке электроники? <a class="header-anchor" href="#что-нужно-знать-при-паике-электроники" aria-label="Permalink to &quot;Что нужно знать при пайке электроники?&quot;">&ZeroWidthSpace;</a></h2>
 <p>Если берешь паяльник впервые в руки - начни с тренировки на проводах или макетке, не порть электронику. И не забудь прочитать весь список до начала процесса.</p>
@@ -3390,7 +3390,7 @@ Send invoices to <a href="mailto:ukprevozin@gmail.com" target="_blank" rel="nore
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/ru/community/usefull</link>
             <guid isPermaLink="false">https://propwashservice.com/ru/community/usefull</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="полезные-ресурсы-в-одном-месте" tabindex="-1">Полезные ресурсы в одном месте <a class="header-anchor" href="#полезные-ресурсы-в-одном-месте" aria-label="Permalink to &quot;Полезные ресурсы в одном месте&quot;">&ZeroWidthSpace;</a></h1>
 <h2 id="каналы-с-примерами-полетов" tabindex="-1">Каналы с примерами полетов: <a class="header-anchor" href="#каналы-с-примерами-полетов" aria-label="Permalink to &quot;Каналы с примерами полетов:&quot;">&ZeroWidthSpace;</a></h2>
 <ul>
@@ -3499,7 +3499,7 @@ Send invoices to <a href="mailto:ukprevozin@gmail.com" target="_blank" rel="nore
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/ru/</link>
             <guid isPermaLink="false">https://propwashservice.com/ru/</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="о-ресурсе" tabindex="-1">О ресурсе <a class="header-anchor" href="#о-ресурсе" aria-label="Permalink to &quot;О ресурсе&quot;">&ZeroWidthSpace;</a></h1>
 <p><img src="/assets/hero-bg.jpg" alt=""></p>
 <p>Данные материалы исходят из личного опыта, наблюдений в FPV сообществе. Никакой рекламы, спонсорства, все по личной инициативе для продвижения хобби в массы.
@@ -3520,7 +3520,7 @@ Send invoices to <a href="mailto:ukprevozin@gmail.com" target="_blank" rel="nore
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/ru/intro/beginning</link>
             <guid isPermaLink="false">https://propwashservice.com/ru/intro/beginning</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="введение" tabindex="-1">Введение <a class="header-anchor" href="#введение" aria-label="Permalink to &quot;Введение&quot;">&ZeroWidthSpace;</a></h1>
 <h2 id="что-за-фрукт-и-с-чем-едят" tabindex="-1">Что за фрукт и с чем едят? <a class="header-anchor" href="#что-за-фрукт-и-с-чем-едят" aria-label="Permalink to &quot;Что за фрукт и с чем едят?&quot;">&ZeroWidthSpace;</a></h2>
 <p>Коптеры представляют собой летательные аппараты (ЛА) мультироторного типа. В зависимости от числа винто-моторных групп (ВМГ) добавляется греческая приставка:
@@ -3572,7 +3572,7 @@ Send invoices to <a href="mailto:ukprevozin@gmail.com" target="_blank" rel="nore
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/ru/intro/flightstyles</link>
             <guid isPermaLink="false">https://propwashservice.com/ru/intro/flightstyles</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="стили-полета-какие-они-бывают-чем-отличаются" tabindex="-1">Стили полета, какие они бывают, чем отличаются? <a class="header-anchor" href="#стили-полета-какие-они-бывают-чем-отличаются" aria-label="Permalink to &quot;Стили полета, какие они бывают, чем отличаются?&quot;">&ZeroWidthSpace;</a></h1>
 <p>В первую очередь стоит определить, что вам интереснее всего, какими возможностями и бюджетом обладаете, и чего хотите добиться (как минимум хотя бы попробовать). Полеты на FPV дронах это не всегда съемки видео, не по полчаса как на мавиках, не только в стабилизационных режимах с возвратом и зависанием по GPS..</p>
 <blockquote>
@@ -3647,7 +3647,7 @@ Send invoices to <a href="mailto:ukprevozin@gmail.com" target="_blank" rel="nore
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/ru/intro/glossarium</link>
             <guid isPermaLink="false">https://propwashservice.com/ru/intro/glossarium</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <description><![CDATA[<h1 id="словарь-fpv-шника" tabindex="-1">Словарь FPV-шника <a class="header-anchor" href="#словарь-fpv-шника" aria-label="Permalink to &quot;Словарь FPV-шника&quot;">&ZeroWidthSpace;</a></h1>
 <p>| Кракозябра                            | Перевод |
 |</p>
@@ -3950,7 +3950,7 @@ Send invoices to <a href="mailto:ukprevozin@gmail.com" target="_blank" rel="nore
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/ru/intro/power</link>
             <guid isPermaLink="false">https://propwashservice.com/ru/intro/power</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="коротко-про-аккумуляторы-и-зарядные-устроиства" tabindex="-1">Коротко про аккумуляторы и зарядные устройства <a class="header-anchor" href="#коротко-про-аккумуляторы-и-зарядные-устроиства" aria-label="Permalink to &quot;Коротко про аккумуляторы и зарядные устройства&quot;">&ZeroWidthSpace;</a></h1>
 <h2 id="какие-аккумуляторы-используются-что-означают-числа-на-них" tabindex="-1">Какие аккумуляторы используются, что означают числа на них? <a class="header-anchor" href="#какие-аккумуляторы-используются-что-означают-числа-на-них" aria-label="Permalink to &quot;Какие аккумуляторы используются, что означают числа на них?&quot;">&ZeroWidthSpace;</a></h2>
 <p>Аккумуляторы подбираются под задачи и винто-моторную группу ЛА. Есть примерные значения характеристик аккумуляторов для типовых классов дронов, нередко к готовым дронам производители в описании указывают их. Что эти цифры означают?</p>
@@ -4011,7 +4011,7 @@ Send invoices to <a href="mailto:ukprevozin@gmail.com" target="_blank" rel="nore
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/ru/intro/sim</link>
             <guid isPermaLink="false">https://propwashservice.com/ru/intro/sim</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="симы-симуляторы-flight-simulator-эмуляторы-полета-и-как-их-только-не-называют" tabindex="-1">Симы, симуляторы, flight simulator, &quot;эмуляторы полета&quot;, и как их только не называют <a class="header-anchor" href="#симы-симуляторы-flight-simulator-эмуляторы-полета-и-как-их-только-не-называют" aria-label="Permalink to &quot;Симы, симуляторы, flight simulator, &quot;эмуляторы полета&quot;, и как их только не называют&quot;">&ZeroWidthSpace;</a></h1>
 <p>Зачем симулятор полетов на дроне нужен, где его взять и как выбрать самый реалистичный? Можно ли скачать бесплатно, торрентом?</p>
 <p>Статья на этапе написания.</p>
@@ -4090,7 +4090,7 @@ Send invoices to <a href="mailto:ukprevozin@gmail.com" target="_blank" rel="nore
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/ru/intro/tx</link>
             <guid isPermaLink="false">https://propwashservice.com/ru/intro/tx</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="как-выбрать-аппаратуру-радиоуправления" tabindex="-1">Как выбрать аппаратуру радиоуправления? <a class="header-anchor" href="#как-выбрать-аппаратуру-радиоуправления" aria-label="Permalink to &quot;Как выбрать аппаратуру радиоуправления?&quot;">&ZeroWidthSpace;</a></h1>
 <blockquote>
 <p>Авторы: <a href="https://github.com/EIIIE" target="_blank" rel="noreferrer">Андрей Щ.</a>, <a href="https://github.com/ikherty" target="_blank" rel="noreferrer">Валентина</a></p>
@@ -4233,7 +4233,7 @@ Send invoices to <a href="mailto:ukprevozin@gmail.com" target="_blank" rel="nore
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/ru/intro/vrx</link>
             <guid isPermaLink="false">https://propwashservice.com/ru/intro/vrx</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="fpv-видеосистемы-какие-они-бывают-и-как-выбрать" tabindex="-1">FPV видеосистемы - какие они бывают и как выбрать? <a class="header-anchor" href="#fpv-видеосистемы-какие-они-бывают-и-как-выбрать" aria-label="Permalink to &quot;FPV видеосистемы - какие они бывают и как выбрать?&quot;">&ZeroWidthSpace;</a></h1>
 <p>Какие видеосистемы актуальны, что такое диверсити и DVR (двр), брать шлем или очки, совместимы ли аватар и джи, чем отличается интегра от г2? Обо всем подробнее ниже.</p>
 <p><strong>Статья в процессе написания</strong></p>
@@ -4307,7 +4307,7 @@ Send invoices to <a href="mailto:ukprevozin@gmail.com" target="_blank" rel="nore
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/ru/settings/FAQ</link>
             <guid isPermaLink="false">https://propwashservice.com/ru/settings/FAQ</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="топ-9-задаваемых-вопросов" tabindex="-1">ТОП 9 задаваемых вопросов <a class="header-anchor" href="#топ-9-задаваемых-вопросов" aria-label="Permalink to &quot;ТОП 9 задаваемых вопросов&quot;">&ZeroWidthSpace;</a></h1>
 <p>(статья в процессе написания)</p>
 <h2 id="здравствуите-я-новичок-какои-мне-дрон-выбрать" tabindex="-1">Здравствуйте, я новичок, какой мне дрон выбрать? <a class="header-anchor" href="#здравствуите-я-новичок-какои-мне-дрон-выбрать" aria-label="Permalink to &quot;Здравствуйте, я новичок, какой мне дрон выбрать?&quot;">&ZeroWidthSpace;</a></h2>
@@ -4350,7 +4350,7 @@ Send invoices to <a href="mailto:ukprevozin@gmail.com" target="_blank" rel="nore
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/ru/settings/frsky</link>
             <guid isPermaLink="false">https://propwashservice.com/ru/settings/frsky</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="прошивки-frsky" tabindex="-1">Прошивки FRSky <a class="header-anchor" href="#прошивки-frsky" aria-label="Permalink to &quot;Прошивки FRSky&quot;">&ZeroWidthSpace;</a></h1>
 <ul>
 <li><a href="https://docs.google.com/document/d/12bokb6-IvIn6Ptn-Y8pzlOggyinKcjDe5J3UJPv5dE8/edit" target="_blank" rel="noreferrer">Все про Р9</a></li>
@@ -4370,7 +4370,7 @@ Send invoices to <a href="mailto:ukprevozin@gmail.com" target="_blank" rel="nore
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/ru/settings/rates</link>
             <guid isPermaLink="false">https://propwashservice.com/ru/settings/rates</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="реиты-rates-в-betaflight" tabindex="-1">Рейты (Rates) в Betaflight <a class="header-anchor" href="#реиты-rates-в-betaflight" aria-label="Permalink to &quot;Рейты (Rates) в Betaflight&quot;">&ZeroWidthSpace;</a></h1>
 <p>Раздел Pid Tuning, вкладка Rateprofile settings.</p>
 <h2 id="системы-реитов-в-бетафлаит" tabindex="-1">Системы рейтов в бетафлайт <a class="header-anchor" href="#системы-реитов-в-бетафлаит" aria-label="Permalink to &quot;Системы рейтов в бетафлайт&quot;">&ZeroWidthSpace;</a></h2>
@@ -4429,7 +4429,7 @@ Center sensitivity многие ставят в диапазоне 70-150. Эк�
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/ru/settings/scripts</link>
             <guid isPermaLink="false">https://propwashservice.com/ru/settings/scripts</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="полезные-lua-скрипты-для-аппаратуры" tabindex="-1">Полезные LUA скрипты для аппаратуры <a class="header-anchor" href="#полезные-lua-скрипты-для-аппаратуры" aria-label="Permalink to &quot;Полезные LUA скрипты для аппаратуры&quot;">&ZeroWidthSpace;</a></h1>
 <p>Для настройки аппаратуры, дрона, передатчика, приемника, а также просмотра логов и даже просто игры существуют различные скрипты, которые помещаются в папку scripts/tools на SD карту аппаратуры. Рекомендую ознакомиться с доступными скриптами ниже.</p>
 <h2 id="минимально-необходимые-для-большинства" tabindex="-1">Минимально необходимые для большинства <a class="header-anchor" href="#минимально-необходимые-для-большинства" aria-label="Permalink to &quot;Минимально необходимые для большинства&quot;">&ZeroWidthSpace;</a></h2>
@@ -4459,7 +4459,7 @@ Center sensitivity многие ставят в диапазоне 70-150. Эк�
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/ru/settings/skyzone</link>
             <guid isPermaLink="false">https://propwashservice.com/ru/settings/skyzone</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="режимы-работы-skyzone-steadyview" tabindex="-1">Режимы работы SkyZone SteadyView <a class="header-anchor" href="#режимы-работы-skyzone-steadyview" aria-label="Permalink to &quot;Режимы работы SkyZone SteadyView&quot;">&ZeroWidthSpace;</a></h1>
 <p>Модули приема видео (VRX) Skyzone Steadyview, как и большинство современных VRX модулей, содержит 2 приемника, работающих одновременно. Такая схема позволяет реализовывать различные алгоритмы улучшения приема и итоговой картинки.
 Начиная с аппаратной версии 3.2 Steadyview имеют 4 режима работы.</p>
@@ -4489,7 +4489,7 @@ Center sensitivity многие ставят в диапазоне 70-150. Эк�
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/ru/shop/DIY</link>
             <guid isPermaLink="false">https://propwashservice.com/ru/shop/DIY</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="как-подобрать-компоненты-для-сборки-дрона" tabindex="-1">Как подобрать компоненты для сборки дрона? <a class="header-anchor" href="#как-подобрать-компоненты-для-сборки-дрона" aria-label="Permalink to &quot;Как подобрать компоненты для сборки дрона?&quot;">&ZeroWidthSpace;</a></h1>
 <p>Новичкам частенько тяжело сориентироваться, что и с какими характеристиками стоит взять, а главное, во сколько всё обойдётся. Предлагаю список совместимых компонентов:</p>
 <blockquote>
@@ -4644,7 +4644,7 @@ Center sensitivity многие ставят в диапазоне 70-150. Эк�
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/ru/shop/airplanes</link>
             <guid isPermaLink="false">https://propwashservice.com/ru/shop/airplanes</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <description><![CDATA[<h1 id="запчасти-и-расходники-для-радиоуправляемых-fpv-самолетов-и-крыльев" tabindex="-1">Запчасти и расходники для радиоуправляемых FPV самолетов и крыльев <a class="header-anchor" href="#запчасти-и-расходники-для-радиоуправляемых-fpv-самолетов-и-крыльев" aria-label="Permalink to &quot;Запчасти и расходники для радиоуправляемых FPV самолетов и крыльев&quot;">&ZeroWidthSpace;</a></h1>
 <p>|                   Наименование                   |                                          Описание                                          |                                                                                                                                                                           Ссылка                                                                                                                                                                            |                                                   Фото                                                   |
 | :</p>
@@ -4753,7 +4753,7 @@ Center sensitivity многие ставят в диапазоне 70-150. Эк�
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/ru/shop/lifehacks</link>
             <guid isPermaLink="false">https://propwashservice.com/ru/shop/lifehacks</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<h5 id="никакои-рекламы-просто-советы-основанные-на-личном-опыте" tabindex="-1">Никакой рекламы, просто советы, основанные на личном опыте. <a class="header-anchor" href="#никакои-рекламы-просто-советы-основанные-на-личном-опыте" aria-label="Permalink to &quot;Никакой рекламы, просто советы, основанные на личном опыте.&quot;">&ZeroWidthSpace;</a></h5>
 <h5 id="p-s-было-актуально-до-февраля-2022-но-будем-надеяться-что-когда-нибудь-все-же-снова-получится-воспользоваться-советами-всем-добра" tabindex="-1">P.S. было актуально до февраля 2022, но будем надеяться, что когда-нибудь все же снова получится воспользоваться советами.. всем добра <a class="header-anchor" href="#p-s-было-актуально-до-февраля-2022-но-будем-надеяться-что-когда-нибудь-все-же-снова-получится-воспользоваться-советами-всем-добра" aria-label="Permalink to &quot;P.S. было актуально до февраля 2022, но будем надеяться, что когда-нибудь все же снова получится воспользоваться советами.. всем добра&quot;">&ZeroWidthSpace;</a></h5>
 <h2 id="usd-as-default" tabindex="-1">USD as default! <a class="header-anchor" href="#usd-as-default" aria-label="Permalink to &quot;USD as default!&quot;">&ZeroWidthSpace;</a></h2>
@@ -4792,7 +4792,7 @@ Center sensitivity многие ставят в диапазоне 70-150. Эк�
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/ru/shop/nessesary</link>
             <guid isPermaLink="false">https://propwashservice.com/ru/shop/nessesary</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <description><![CDATA[<h1 id="расходники-для-fpv-дронов-и-необходимое-оборудование" tabindex="-1">Расходники для FPV дронов и необходимое оборудование <a class="header-anchor" href="#расходники-для-fpv-дронов-и-необходимое-оборудование" aria-label="Permalink to &quot;Расходники для FPV дронов и необходимое оборудование&quot;">&ZeroWidthSpace;</a></h1>
 <p>Что понадобится при сборке квадрокоптера: инструменты, запчасти и расходники для FPV квадрокоптеров и не только. Основные детали указаны в списке, также на сайте вы можете найти список покупок для сборки FPV самолетов и летающих крыльев. Магазины по ссылкам не являются единственными, приведены из списка предыдущих заказов, если хочется сэкономить или ссылка устарела, воспользуйтесь поиском по картинке/названию. В случае, если ссылка недоступна, просьба открыть issue на эту тему.</p>
 <p>|                          Наименование                          |                                                                                   Описание                                                                                    |                                                                                                                                                                                                                                                                                 Ссылка                                                                                                                                                                                                                                                                                 |                                                                           Фото                                                                           |
@@ -5209,7 +5209,7 @@ Center sensitivity многие ставят в диапазоне 70-150. Эк�
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/ru/shop/set</link>
             <guid isPermaLink="false">https://propwashservice.com/ru/shop/set</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="комплект-новичка" tabindex="-1">Комплект новичка <a class="header-anchor" href="#комплект-новичка" aria-label="Permalink to &quot;Комплект новичка&quot;">&ZeroWidthSpace;</a></h1>
 <p>Какой стартовый набор взять, с чего начать FPV хобби, что такое KIT, BNF, чем плох цетус, варианты под различный бюджет и много другое вы найдете ниже.</p>
 <h2 id="введение" tabindex="-1">Введение <a class="header-anchor" href="#введение" aria-label="Permalink to &quot;Введение&quot;">&ZeroWidthSpace;</a></h2>
@@ -5316,7 +5316,7 @@ KIT набор самолета часто подразумевает тольк
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/ru/shop/shops</link>
             <guid isPermaLink="false">https://propwashservice.com/ru/shop/shops</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="список-магазинов-с-fpv-товарами" tabindex="-1">Список магазинов с FPV товарами <a class="header-anchor" href="#список-магазинов-с-fpv-товарами" aria-label="Permalink to &quot;Список магазинов с FPV товарами&quot;">&ZeroWidthSpace;</a></h1>
 <p>Российские магазины:<br></p>
 <DT><A HREF="https://air-hobby.ru" >Воздушное хобби (Москва)</A></DT>
@@ -5352,7 +5352,7 @@ KIT набор самолета часто подразумевает тольк
             <title><![CDATA[DroneDocs Article]]></title>
             <link>https://propwashservice.com/ru/theworld/Serbija</link>
             <guid isPermaLink="false">https://propwashservice.com/ru/theworld/Serbija</guid>
-            <pubDate>Sat, 28 Mar 2026 17:43:15 GMT</pubDate>
+            <pubDate>Sat, 28 Mar 2026 18:12:22 GMT</pubDate>
             <content:encoded><![CDATA[<h1 id="памятка-участников-fpv-in-serbia" tabindex="-1">Памятка участников FPV in Serbia <a class="header-anchor" href="#памятка-участников-fpv-in-serbia" aria-label="Permalink to &quot;Памятка участников FPV in Serbia&quot;">&ZeroWidthSpace;</a></h1>
 <p>Здесь собраны заметки FPV сообщества Сербии: карта спотов, ссылки на чаты, правила для полетов и многое другое.</p>
 <h2 id="законы" tabindex="-1">Законы <a class="header-anchor" href="#законы" aria-label="Permalink to &quot;Законы&quot;">&ZeroWidthSpace;</a></h2>
