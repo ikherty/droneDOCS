@@ -31,6 +31,7 @@ function sidebar(): DefaultTheme.SidebarItem[] {
       collapsed: false,
       items: [
         { text: "Getting started", link: "/intro/beginning" },
+        { text: "The Cheapest Start", link: "/intro/cheapest_start" },
         { text: "Glossary", link: "/intro/glossarium" },
         { text: "Flight styles", link: "/intro/flightstyles" },
         { text: "Simulators", link: "/intro/sim" },
