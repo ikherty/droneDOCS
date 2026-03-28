@@ -66,7 +66,7 @@ These can include:
 - Monitor with a built-in/connected receiver
 - Video receiver for connecting to a phone via OTG
 
-Analog helmets and goggles can come with either a single receiver or dual (diversity). Diversity systems typically provide a better image from the drone because you can attach different types of antennas to them. Budget helmets with diversity receivers will display the image from the receiver with the best current signal. In more expensive goggles and helmets, you may find settings for selecting the [operating mode](https://propwashservice.com/settings/skyzone) with diversity, such as in Skyzone with the Steadyview module.
+Analog helmets and goggles can come with either a single receiver or dual (diversity). Diversity systems typically provide a better image from the drone because you can attach different types of antennas to them. Budget helmets with diversity receivers will display the image from the receiver with the best current signal. In more expensive goggles and helmets, you may find settings for selecting the [operating mode](/settings/skyzone) with diversity, such as in Skyzone with the Steadyview module.
 
 ### Antennas
 

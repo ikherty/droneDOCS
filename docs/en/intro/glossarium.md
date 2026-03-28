@@ -47,7 +47,7 @@ This glossary explains common Russian FPV slang terms and abbreviations used in 
 | ппм, сбас (ppm, sbus) | radio control protocols |
 | аккст, аксес (ACCESS, ACCST) | FrSky protocol variants |
 | бинд (bind) | process of linking a radio receiver to a transmitter; also applies to digital video systems |
-| елрс, кросс, трейсер, гост (ELRS, Crossfire, Tracer, Ghost) | radio control systems, more info: https://propwashservice.com/intro/tx.html |
+| елрс, кросс, трейсер, гост (ELRS, Crossfire, Tracer, Ghost) | radio control systems, [more info](/intro/tx) |
 | ксв (SWR) | Standing Wave Ratio - ratio of maximum to minimum voltage amplitude in a transmission line |
 | бетка (Betaflight) | Betaflight firmware |
 | ченл мап (channel map) | channel order field in Betaflight configurator's receiver section; abbreviation made from first letters of channel names in the transmitter's mixes |

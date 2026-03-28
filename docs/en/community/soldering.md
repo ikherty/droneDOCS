@@ -39,6 +39,6 @@ If you were soldering on a board, you might have accidentally knocked off a smal
 Clean the tip with a sponge. Use alcohol and a synthetic brush or cotton swab (as long as it doesn’t leave fibers) to remove flux residue on the board. Check that no solder balls remain on the board behind components or between contacts. Slide heat shrink tubing over soldered wire connections or between a wire and connector. Clean up any remaining solder from the mat or surface you were working on so it doesn’t get on your drone (motor magnets are great at picking up all kinds of debris). And organize your tools to avoid turning your desk into a mess.
 
 ## 8. (Optional) Use coating to protect boards
-After ensuring everything is done correctly and no further soldering is needed, coat the board with coating to protect it from dust, moisture, and accidental short circuits from external contacts. Use special sealants/lacquers for this purpose. You can learn more [here](https://propwashservice.com/en/community/coating).
+After ensuring everything is done correctly and no further soldering is needed, coat the board with coating to protect it from dust, moisture, and accidental short circuits from external contacts. Use special sealants/lacquers for this purpose. You can learn more [here](/en/community/coating).
 
 Congratulations, now I’m proud of you! I hope soldering brings you as much joy and usefulness as it does for me.

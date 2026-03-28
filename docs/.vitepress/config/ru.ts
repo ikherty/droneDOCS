@@ -41,6 +41,7 @@ function sidebar(): DefaultTheme.SidebarItem[] {
       collapsed: false,
       items: [
         { text: "Вход в хобби", link: "/ru/intro/beginning" },
+        { text: "Самый дешевый старт", link: "/ru/intro/cheapest_start" },
         { text: "Глоссарий", link: "/ru/intro/glossarium" },
         { text: "Стили полета", link: "/ru/intro/flightstyles" },
         { text: "Симулятор", link: "/ru/intro/sim" },

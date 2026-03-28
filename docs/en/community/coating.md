@@ -101,7 +101,7 @@ Silicone. Reminiscent of its first version (see the Legacy section), but with a 
 
 ## FX FPV Aero WARP Silicone Varnish, [buy it here](https://mydrone.ru/?match=all&subcats=Y&pcode_from_q=Y&pshort=Y&pfull=Y&pname=Y&pkeywords=Y&search_performed=Y&q=Aero&dispatch=products.search&security_hash=f42b3402778c170a04c1f0df572242c6)
 
-Silicone varnish. No toxic smell. Comes in a tube, which allows for long storage life. Sets in 20 minutes. The cured layer is viscous and doesn't crack. You can solder through the cured layer. Similar to the [Chinese IP65 circuit protection](https://propwashservice.com/community/coating.html#Chinese-IP65-Circuit-Protection). One removal method is soaking in [Aero Remover](https://www.fpvmatrix.ru/index.php?route=product/product&product_id=327). Detailed review [here](https://youtu.be/inSmXQqUkCw). Summary:
+Silicone varnish. No toxic smell. Comes in a tube, which allows for long storage life. Sets in 20 minutes. The cured layer is viscous and doesn't crack. You can solder through the cured layer. Similar to the [Chinese IP65 circuit protection](#chinese-ip65-circuit-protection). One removal method is soaking in [Aero Remover](https://www.fpvmatrix.ru/index.php?route=product/product&product_id=327). Detailed review [here](https://youtu.be/inSmXQqUkCw). Summary:
 
 - Mid-range price (~600 RUB per tube)
 - Can solder through it
@@ -118,7 +118,7 @@ Silicone varnish. No toxic smell. Comes in a tube, which allows for long storage
 
 ## FX FPV Aero Light Silicone Varnish, [buy it here](https://mydrone.ru/?match=all&subcats=Y&pcode_from_q=Y&pshort=Y&pfull=Y&pname=Y&pkeywords=Y&search_performed=Y&q=Aero&dispatch=products.search&security_hash=f42b3402778c170a04c1f0df572242c6)
 
-Silicone varnish. Has a slight chemical smell but with added fragrance. The fragrance remains after the layer cures. Comes in a tube for long shelf life (previously sold in jars with brushes, where users complained about it drying out). Sets in 15-20 minutes. The cured layer is viscous and doesn't crack. You can solder through it. Similar to [Chinese IP65 circuit protection](https://propwashservice.com/community/coating.html#Chinese-IP65-Circuit-Protection). One removal method is soaking in [Aero Remover](https://www.fpvmatrix.ru/index.php?route=product/product&product_id=327). Detailed review [here](https://youtu.be/inSmXQqUkCw). Summary:
+Silicone varnish. Has a slight chemical smell but with added fragrance. The fragrance remains after the layer cures. Comes in a tube for long shelf life (previously sold in jars with brushes, where users complained about it drying out). Sets in 15-20 minutes. The cured layer is viscous and doesn't crack. You can solder through it. Similar to [Chinese IP65 circuit protection](#chinese-ip65-circuit-protection). One removal method is soaking in [Aero Remover](https://www.fpvmatrix.ru/index.php?route=product/product&product_id=327). Detailed review [here](https://youtu.be/inSmXQqUkCw). Summary:
 
 - Mid-range price (~650 RUB per tube)
 - Can solder through it
@@ -155,7 +155,9 @@ Varnish. Many might assume it's DCA or 422C, but it has a different formula (acc
   <img src="/assets/img/spinner.jpg" width="600" alt="Spinner Liquid">
 </p>
 
-## Chinese IP65 Circuit Protection, [buy it here](https://a.aliexpress.com/_mKX5LuM)
+## Chinese IP65 Circuit Protection
+
+[buy it here](https://a.aliexpress.com/_mKX5LuM)
 
 Varnish. Similar to 422B but more viscous. Also has a pungent smell. Sets in 15 minutes; for full drying, it's better to wait a day, as with other varnishes. One layer is sufficient. You can solder through it, and it can be cleaned off with a brush and acetone. In my personal experience, it hasn't failed or cracked yet. Better not to leave the tube open as it thickens. The volume will last a very long time; it will dry out before you use it all unless you decant it into smaller tubes. Summary:
 

@@ -4,7 +4,7 @@
 
 ## Hello, I'm a beginner. Which drone should I choose?
 
-The choice of drone depends on your desired flight style and conditions. [Learn more](https://propwashservice.com/en/intro/flightstyles).
+The choice of drone depends on your desired flight style and conditions. [Learn more](/intro/flightstyles).
 
 ## Why do the motors rev up (increase RPM) when I lower the throttle?
 
@@ -39,7 +39,7 @@ You have "Turtle Mode" activated (known as "Flip Over After Crash" in Betaflight
 
 ## Why isn't \*anything\* working in Betaflight 4.4?
 
-1. **Configurator Version**: You must use the latest version of the Betaflight Configurator (currently 10.9 or newer, version is displayed at the top left). Old configurator versions may work incorrectly with new firmware versions (see [Software section](https://propwashservice.com/en/community/software)).
+1. **Configurator Version**: You must use the latest version of the Betaflight Configurator (currently 10.9 or newer, version is displayed at the top left). Old configurator versions may work incorrectly with new firmware versions (see [Software section](/community/software)).
 2. **Cloud Build System**: Betaflight 4.4 uses a cloud build system. When flashing, you must specify the required radio protocol (CRSF for ELRS and Crossfire; for SPI receivers, the choice doesn't matter). Options like "Magnetometer" (if you have a compass) must be added in the options string where GPS, Led Strip, OSD, etc., are selected by default. Remove options you don't need, but if unsure, leave them. You can leave other lines as they are. If you check "Core Only," the parameter fields will disappear and the full firmware will be loaded, BUT for F411 and F722 chips, GPS functionality will be missing due to size constraints. If you need GPS, use the cloud build system.
 3. **Custom Defaults**: After flashing, upon the first connection, a window appears asking to apply custom defaults. **You must accept this** for the flight controller configuration to load; otherwise, the firmware won't know about the sensors and ports on the FC.
 
@@ -49,4 +49,4 @@ Flight controller rotation is handled in the "Configuration" tab. The "Calibrate
 
 ## Battery questions: Charging/discharging levels? Charging current? Storage? How long can they stay charged? What is the second connector for?
 
-[Everything about batteries](https://propwashservice.com/en/intro/power)
+[Everything about batteries](/intro/power)

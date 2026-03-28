@@ -4,7 +4,7 @@ The Skyzone Steadyview video receiver (VRX) modules, like most modern VRX module
 
 ### Operating Modes:
 
-- **Div (Diversity)**: The module works in traditional [Diversity](https://propwashservice.com/en/intro/videoRx#how-to-receive-video-from-a-drone) mode. This means the goggles output the audio and video signal from the receiver with the highest signal strength (RSSI).
+- **Div (Diversity)**: The module works in traditional [Diversity](/intro/vrx) mode. This means the goggles output the audio and video signal from the receiver with the highest signal strength (RSSI).
 
 The **Mix** modes aim to take images from both receivers simultaneously and merge them into one, filtering out interference.
 

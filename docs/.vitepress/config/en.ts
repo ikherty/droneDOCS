@@ -59,8 +59,8 @@ function sidebar(): DefaultTheme.SidebarItem[] {
         { text: "Software", link: "/community/software" },
         { text: "Soldering", link: "/community/soldering" },
         { text: "Waterproofing", link: "/community/coating" },
-        { text: "Law", link: "/community/law" },
-        { text: "Traveling with drones", link: "/community/bag" },
+        { text: "FPV bro codex", link: "https://fpvcodex.ru/" },
+        { text: "Traveling with drones", link: "/community/bags" },
       ],
     },
     {

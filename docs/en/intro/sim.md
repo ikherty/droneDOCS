@@ -6,7 +6,7 @@ Why do you need a drone flight simulator, where can you get one, and how do you 
 
 #### For Training
 
-Simulators are essential for learning how to fly. This applies to both beginners—who need to learn the basics of flying—and professionals, who use it to master new tricks and maintain their skills when real-life (IRL) training isn’t possible. For beginners, it’s the first step into the hobby (see [introduction](https://propwashservice.com/intro/beginning#how-much-does-it-cost)).
+Simulators are essential for learning how to fly. This applies to both beginners—who need to learn the basics of flying—and professionals, who use it to master new tricks and maintain their skills when real-life (IRL) training isn’t possible. For beginners, it’s the first step into the hobby (see [introduction](/intro/beginning#how-much-does-it-cost)).
 
 #### Saves Your Money and Time
 

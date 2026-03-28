@@ -17,7 +17,7 @@ If you expect detailed answers and useful advice from the community, it is recom
 
 Don't hesitate to ask clarifying questions, but note that if your question is easily found in a search engine, you might be ignored or told to "Google it." To avoid frustrating people and appearing like someone who cannot use internet resources, try searching in a browser or even within the chat using keywords first.
 
-If you don't know how to describe something, try referring to the [glossary](https://propwashservice.com/en/intro/glossarium).
+If you don't know how to describe something, try referring to the [glossary](/en/intro/glossarium).
 
 Below are general and thematic chats. If you have a question about something specific, it's more useful to contact a thematic chat if one exists in the list below.
 

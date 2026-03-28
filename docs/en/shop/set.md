@@ -10,10 +10,10 @@ Since prices are originally in USD, the cost in other currencies will depend on 
 Currency Converter: [Google Finance](https://g.co/kgs/zsYNPm).
 
 You can also build a drone yourself, but including consumables and tools, it will likely cost more.
-[Example components for builds](https://propwashservice.com/en/shop/DIY) and [Equipment and consumables list](https://propwashservice.com/en/shop/nessesary).
+[Example components for builds](/shop/DIY) and [Equipment and consumables list](/shop/nessesary).
 
 **Please note that any set must primarily include a simulator.**
-- [Simulator examples](https://propwashservice.com/en/intro/sim)
+- [Simulator examples](/intro/sim)
 
 ## What are KIT, RTF, PNP, BNF...
 
@@ -32,13 +32,13 @@ Typically, these kits consist of the cheapest possible parts. They are often giv
 Over time, better RTF kits are appearing on the market. It is recommended to consult with experienced hobbyists about the current relevance of a chosen set before buying.
 
 ### BNF — "Bind and Fly"
-> What "bind" means can be found [here](https://propwashservice.com/en/community/glossarium).
+> What "bind" means can be found [here](/community/glossarium).
 
 **A BNF drone kit includes:**
 - A drone with a pre-soldered receiver;
 - (Optional) A battery and corresponding charger, common for tiny whoops.
 
-Since different radio control systems are **not compatible** with each other (read about [current systems here](https://propwashservice.com/en/intro/tx#data-transmission-protocols)), buyers are often offered a choice of receiver. If no choice is given, the receiver name is usually in the BNF set title or description. You may also be offered a choice of camera (common for DJI FPV drones with Caddx Vista/Air Unit) and motor/propeller groups (specified by battery cell count, e.g., 4S or 6S).
+Since different radio control systems are **not compatible** with each other (read about [current systems here](/intro/tx#data-transmission-protocols)), buyers are often offered a choice of receiver. If no choice is given, the receiver name is usually in the BNF set title or description. You may also be offered a choice of camera (common for DJI FPV drones with Caddx Vista/Air Unit) and motor/propeller groups (specified by battery cell count, e.g., 4S or 6S).
 
 <p align="center">
   <img src="/assets/img/chooseRx.webp" width="600" alt="example of drone variations with receivers">
@@ -74,7 +74,7 @@ Unfortunately, it's very difficult to fully enter the hobby with this budget. Yo
 
 This is a better option than a Cetus because you can continue to use this equipment as you grow. This price range strictly covers analog video with a basic headset. A "Tiny Whoop" is the best drone choice here. Avoid "no-name" manufacturers with questionable quality; the risk is entirely yours.
 
-- **Radios under $100**: Radiomaster [Pocket](https://rcsearch.ru/?s=radiomaster+pocket), [TX12](https://rcsearch.ru/?s=radiomaster+tx12), [Zorro](https://rcsearch.ru/?s=radiomaster+zorro); Jumper [T-pro](https://rcsearch.ru/?s=jumper+t-pro), [T20](https://rcsearch.ru/?s=jumper+t20). [ELRS 2.4GHz](https://propwashservice.com/en/intro/tx) version is recommended. Don't forget batteries!
+- **Radios under $100**: Radiomaster [Pocket](https://rcsearch.ru/?s=radiomaster+pocket), [TX12](https://rcsearch.ru/?s=radiomaster+tx12), [Zorro](https://rcsearch.ru/?s=radiomaster+zorro); Jumper [T-pro](https://rcsearch.ru/?s=jumper+t-pro), [T20](https://rcsearch.ru/?s=jumper+t20). [ELRS 2.4GHz](/intro/tx) version is recommended. Don't forget batteries!
 - **Analog Goggles under $100**: Eachine [EV800D](https://rcsearch.ru/-c1814), [EV800DM](https://rcsearch.ru/-c7798).
 - **Tiny Whoops under $100**: [Mobula6](https://rcsearch.ru/-c29293), [Mobula7](https://rcsearch.ru/-c33913), [Mobeetle6](https://rcsearch.ru/-c35745). Ensure the radio protocol matches your radio (e.g., ELRS).
 - **Charger + (if needed) Power Supply**: [VIFLY WhoopStor](https://rcsearch.ru/-c46257).
@@ -102,16 +102,16 @@ Still an analog video system.
 - **Charger + (if needed) PSU**: [SkyRC B6 Neo](https://rcsearch.ru/-c47308), ToolkitRC [M6D](https://rcsearch.ru/?s=toolkit+m6d), [M7AC](https://rcsearch.ru/-c39020).
 - **Batteries**: CNHL/GNB/Tattu. Start with at least 3-5 packs.
 - **Consumables**: Spare propellers, battery straps.
-- [Tools like Hex drivers and nut wrenches](https://propwashservice.com/en/shop/nessesary).
+- [Tools like Hex drivers and nut wrenches](/shop/nessesary).
 
 ## Comfortable Entry ($800-1500)
 
 Congratulations, you can now choose a video system to your liking!
 
-- [Radio examples. Don't forget batteries!](https://propwashservice.com/en/intro/tx)
-- [Goggles and video systems for your needs](https://propwashservice.com/en/intro/vrx)
-- [Drone styles and radio link compatibility](https://propwashservice.com/en/intro/flightstyles)
-- [Chargers and power supplies](https://propwashservice.com/en/intro/power#how-to-choose-a-charger)
+- [Radio examples. Don't forget batteries!](/intro/tx)
+- [Goggles and video systems for your needs](/intro/vrx)
+- [Drone styles and radio link compatibility](/intro/flightstyles)
+- [Chargers and power supplies](/intro/power#how-to-choose-a-charger)
 - **Batteries**: CNHL/GNB/Tattu/Dogcom. Start with at least 3-5 packs.
 - **Consumables**: Spare propellers, battery straps, and spare parts like arms, motors, or a backup camera if you plan to fly hard.
-- [Tools like Hex drivers and nut wrenches](https://propwashservice.com/en/shop/nessesary).
+- [Tools like Hex drivers and nut wrenches](/shop/nessesary).
