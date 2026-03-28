@@ -9,6 +9,8 @@
 
 # How to Choose a Remote Control System?
 
+> Authors: [Andrey Sh.](https://github.com/EIIIE), [Valentina](https://github.com/ikherty)
+
 ## Summary
 
 A Remote Control System (also known as R/C Equipment, transmitter, controller, or joystick) is a device that converts the positions of sticks (gimbals) and switches into commands for the drone.  
@@ -191,7 +193,7 @@ Prices start at $110. There are versions with a multimodule, ELRS on 2.4GHz, and
 ## Necessary Accessories
 
 - Battery - if the transmitter does not have a built-in battery, you need to acquire a suitable one for the device. Typically, 2S setups or two Li-Ion 18650 cells in a 2S adapter are used.
-  > A link to the [article about drone batteries](https://propwashservice.com/intro/power.html) is attached separately.
+  > A link to the [article about drone batteries](https://propwashservice.com/en/intro/power) is attached separately.
 
 <p class="image-container">
   <img src="/assets/img/lipoTX.webp" height="200" alt="Battery compatible with RadioMaster TX16S" title="Battery compatible with RadioMaster TX16S">
@@ -205,3 +207,6 @@ Prices start at $110. There are versions with a multimodule, ELRS on 2.4GHz, and
 ## Transmitter Setup
 
 [Detailed documentation on EdgeTX](https://edgetx.gitbook.io/edgetx-user-manual/b-and-w-radios)
+
+Video with basic EdgeTX transmitter setup:
+https://www.youtube.com/watch?v=wU67j2G5Ibg

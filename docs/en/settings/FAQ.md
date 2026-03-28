@@ -1,55 +1,52 @@
-# ТОП 9 задаваемых вопросов
+# Top 9 Frequently Asked Questions
 
-(статья в процессе написания)
+(Article in progress)
 
-## Здравствуйте, я новичок, какой мне дрон выбрать?
+## Hello, I'm a beginner. Which drone should I choose?
 
-Выбор дрона зависит от желаемого стиля полета и условий, [подробнее](https://propwashservice.com/ru/intro/flightstyles).
+The choice of drone depends on your desired flight style and conditions. [Learn more](https://propwashservice.com/en/intro/flightstyles).
 
-## Почему моторы набирают обороты ( раскручиваются ), когда я опускаю газ?
+## Why do the motors rev up (increase RPM) when I lower the throttle?
 
-Если лень читать: [ролик на ютубе](https://www.youtube.com/watch?v=OBiZbcUN2Lc&).
+If you're too lazy to read: [YouTube Video](https://www.youtube.com/watch?v=OBiZbcUN2Lc&).
 
-Если лень смотреть: дрон пытается корректно работать, даже несмотря на то, что вы не надели ему пропеллеры. Ему дали команду "увеличь обороты моторов", он это осознал как "увеличить обороты, сдвинуться с места", и пытается лететь. Но происходит ошибка - моторы увеличили обороты, а показания датчиков дали понять, что дрон не сдвинулся с места. Что делать прошивке полетного контроллера в таком случае? Правильно, увеличить еще обороты, чтобы дрон мог сдвинуться с места. Но снова нет движения, и это продолжает повторяться. И все потому, что без пропеллеров он никак не взлетит. Так что не издевайтесь над дроном, поставьте пропеллеры, и идите летать.
+If you're too lazy to watch: The drone is trying to work correctly even though you haven't put propellers on it. It received a command to "increase motor RPM," which it interprets as "increase RPM to move," and it tries to fly. But an error occurs—the motors increased RPM, but the sensor readings indicated the drone didn't move. What should the flight controller firmware do in such a case? Correct, increase RPM even more so the drone can move. But still no movement, and this continues in a loop. It's all because it won't take off without propellers. So don't torture your drone—put the props on and go fly.
 
-## Как правильно ставить пропеллеры?
+## How do I install propellers correctly?
 
-[Старое наглядное видео](https://youtu.be/jTr0UHyp_6A).
+[Old demonstration video](https://youtu.be/jTr0UHyp_6A).
 
-К сожалению, про пушер схему не говорится, но пропеллеры всегда должны тянуть вверх, потому и направлены верхней стороной вверх, даже если моторы перевернуты.
-В случае самолета не вверх, а вперед.
+Unfortunately, it doesn't mention "pusher" configurations, but propellers should always pull upward, so they are always oriented with the top side up, even if the motors are inverted. In the case of an airplane, "upward" means "forward."
 
-## Подскажите, почему мой дрон кувыркается (переворачивается) при попытке взлететь?
+## Why is my drone flipping (overturning) when I try to take off?
 
-Стоит проверить:
+Check the following:
 
-- ориентацию полетного контроллера (соответствуют ли наклоны модели дрона в конфигураторе betaflight на вкладке setup(также Система в ру раскладке) наклонам реального дрона, учитывая, что красная стрека показывает, где расположена камера дрона). Если не соответствует, необходимо повернуть на вкладке Configuration в разделе Board and Sensor Alignment;
-- схему дрона с нумерацией моторов (в betaflight конфигураторе на вкладке моторов должен быть Quad X, если у вас квадрокоптер, порядок моторов должен соответствовать нумерации на схеме);
-- вращение моторов (в betaflight конфигураторе на вкладке моторов отображена схема вращения моторов, по умолчанию она внутреняя, то есть передние пропеллеры крутятся в сторону камеры (стрелки на схеме), также доступна схема внешнего вращения, для этого над схемой надо поставить галку реверса, НО эта стрелка не меняет вращения моторов, она только определяет схему для прошивки, ожидаемый результат);
-- вращения пропеллеров (пропеллеры должны быть установлены согласно схеме вращения, насечка логотипа производителя и размера пропеллера должна смотреть вверх).
+- **Flight Controller Orientation**: Does the tilt of the drone model in the Betaflight Configurator "Setup" tab match the tilt of the real drone? (The red arrow shows where the camera is located). If it doesn't match, you must adjust it on the "Configuration" tab in the "Board and Sensor Alignment" section.
+- **Motor Mapping**: In the Betaflight "Motors" tab, the mixer should be "Quad X" (for quadcopters), and the motor order must match the numbering in the diagram.
+- **Motor Rotation**: The "Motors" tab shows the rotation direction. By default, it's "props-in" (front props spin toward the camera). "Props-out" is also available by checking the "Motor direction is reversed" box. NOTE: This checkbox does not change the motor rotation; it only tells the firmware what direction to expect.
+- **Propeller Installation**: Propellers must be installed according to the rotation scheme. The manufacturer's logo and size markings on the propeller should face upward.
 
-## Почему дрон не реагирует на газ и крутит моторы парами?
+## Why doesn't the drone respond to throttle and spin motors in pairs?
 
-У вас активирован режим "черепаха", как его называют в сообществе. В режимах (modes) бетафлайта он называется flip over after crash. Он используется в случае, если ваш дрон застял где-то и ему нужен толчок, чтобы оттуда вылететь, или он лежит вверх тормашками на горизонтальной поверхности, и вам необходимо, чтобы он кувыркнулся/перевернулся, и полетел дальше. Отключите данную опцию, заармите дрон, и он станет нормально реагировать на стики, если все базовые настройки корректны и пропеллеры надеты на моторы.
+You have "Turtle Mode" activated (known as "Flip Over After Crash" in Betaflight "Modes"). It's used if your drone is stuck and needs a nudge to fly out, or if it's upside down on a flat surface and you need it to flip over to resume flight. Deactivate this option, arm the drone, and it should respond normally to the sticks if basic settings are correct and props are installed.
 
-## Как забиндить crossfire / ELRS / frsky?
+## How do I bind Crossfire / ELRS / FrSky?
 
 * [Crossfire](https://doggydog.blog/update/obnovlyaem-i-bindim-tbs-crossfire/)
 * [ELRS](https://expresslrs.ru/Manuals/Binding/)
-* [Frsky](https://rcdetails.info/kak-privyazat-priemnik-k-apparature-upravleniya-frsky-taranis/)
+* [FrSky](https://rcdetails.info/kak-privyazat-priemnik-k-apparature-upravleniya-frsky-taranis/)
 
-## Почему у меня не работает \*что угодно\* в betaflight 4.4?
+## Why isn't \*anything\* working in Betaflight 4.4?
 
-Первое: версия конфигуратора бетафлайт должна быть последней (на данный момент 10.9, версия отображается вверху слева), старые версии конфигуратора в связке с новой версии прошивки могут работать некорректно (см. [раздел ПО](https://propwashservice.com/ru/community/software)).
+1. **Configurator Version**: You must use the latest version of the Betaflight Configurator (currently 10.9 or newer, version is displayed at the top left). Old configurator versions may work incorrectly with new firmware versions (see [Software section](https://propwashservice.com/en/community/software)).
+2. **Cloud Build System**: Betaflight 4.4 uses a cloud build system. When flashing, you must specify the required radio protocol (CRSF for ELRS and Crossfire; for SPI receivers, the choice doesn't matter). Options like "Magnetometer" (if you have a compass) must be added in the options string where GPS, Led Strip, OSD, etc., are selected by default. Remove options you don't need, but if unsure, leave them. You can leave other lines as they are. If you check "Core Only," the parameter fields will disappear and the full firmware will be loaded, BUT for F411 and F722 chips, GPS functionality will be missing due to size constraints. If you need GPS, use the cloud build system.
+3. **Custom Defaults**: After flashing, upon the first connection, a window appears asking to apply custom defaults. **You must accept this** for the flight controller configuration to load; otherwise, the firmware won't know about the sensors and ports on the FC.
 
-Второе: для 4.4 версии бетафлайта используется система облачной сборки. При прошивке необходимо указать необходимый радио протокол (crsf для elrs и crossfire, при spi приемнике не важно, что там указывать), опции по типу магнитометра (если у вас есть компас на дроне) необходимо добавлять в строке, где по умолчанию уже выбраны GPS, Led Strip, OSD и тд, лишние же опции наоборот можно убрать, но если не уверены в их необходимости - оставьте. Остальные строки можно не трогать. Если вы поставите галку Core Only, то поля с параметрами уйдут, и будет загружена полная прошивка, НО для F411 и F722 не будет функционала GPS, так как размер прошивки уже больше доступного места в этих контроллерах, и если вам все же нужен GPS, то используйте облачную систему сборки.
+## I calibrated the accelerometer, but the drone model is still rotated incorrectly. What do I do?
 
-Третье: после прошивки при первом подключении появляется окно с предложением применить пользовательские настройки - обязательно надо принять, чтобы загрузилась конфигурация полетного контроллера, иначе прошивка не будет знать о датчиках и портах на полетном контроллере.
+Flight controller rotation is handled in the "Configuration" tab. The "Calibrate Accelerometer" button only calibrates the horizontal position; it doesn't know the heading (yaw). You must set the rotation offset manually.
 
-## Я откалибровал акселлерометр, но модель дрона все равно повернута не туда, что делать?
+## Battery questions: Charging/discharging levels? Charging current? Storage? How long can they stay charged? What is the second connector for?
 
-Поворот полетного контроллера осуществляется на вкладке Конфигурация, кнопка "Калибровать акселлерометр" позволяет только откалибровать в горизонтальном положении, откуда ему знать, где какая сторона - вам необходимо сделать это вручную.
-
-## До скольки заряжать, разряжать аккумуляторы? Каким током заряжать аккумуляторы? Как хранить аккумуляторы? Сколько можно держать аккумуляторы в заряженном состоянии? Зачем нужен второй разъем на батарее:
-
-[Все про аккумуляторы](https://propwashservice.com/ru/intro/power)
+[Everything about batteries](https://propwashservice.com/en/intro/power)

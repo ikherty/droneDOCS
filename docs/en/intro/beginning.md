@@ -9,6 +9,7 @@
 
 # Introduction
 
+
 ## What is it, and how is it used?
 
 Drones, or quadcopters, are multirotor flying devices. Depending on the number of motor-propeller groups (MPGs), a Greek prefix is added: two motors - bicopters, three - tricopters, four - quadcopters, six - hexacopters, eight - octocopters, and there are various other configurations for specific tasks.
@@ -33,15 +34,16 @@ This leads to two key rules:
 
 ## What is the minimum set needed to fly an FPV drone?
 
-- [Dictionary](https://oscarliang.com/fpv-dictionary/)
-- [Transmitter](https://propwashservice.com/intro/tx)
-- [Simulator](https://propwashservice.com/intro/sim)
-- [Video system](https://propwashservice.com/intro/vrx)
-- [Drone](https://propwashservice.com/intro/flightstyles)
-- [Batteries and charger](https://propwashservice.com/intro/power)
-- [Tools and spare parts](https://propwashservice.com/shop/nessesary)
+- [Dictionary](https://propwashservice.com/en/intro/glossarium)
+- [Transmitter](https://propwashservice.com/en/intro/tx)
+- [Simulator](https://propwashservice.com/en/intro/sim)
+- [Video system](https://propwashservice.com/en/intro/vrx)
+- [Drone](https://propwashservice.com/en/intro/flightstyles)
+- [Batteries and charger](https://propwashservice.com/en/intro/power)
+- [Tools and spare parts](https://propwashservice.com/en/shop/nessesary)
+- [Local community](https://propwashservice.com/en/community/chats)
 
-[Examples of starter kits for various budgets](https://propwashservice.com/shop/set).
+[Examples of starter kits for various budgets](https://propwashservice.com/en/shop/set).
 
 ## How much does it cost?
 

@@ -1,68 +1,73 @@
-# Рейты (Rates) в Betaflight
+# Rates in Betaflight
 
-Раздел Pid Tuning, вкладка Rateprofile settings.
+Found in the **PID Tuning** section, under the **Rateprofile Settings** tab.
 
-## Системы рейтов в бетафлайт
+## Rate Systems in Betaflight
 
-Классическая система рейтов Betaflight (была по дефолту до 4.2 включительно) использовала три параметра:
+The classic Betaflight rate system (the default up to version 4.2) used three parameters:
 
-- RC Rate, который возвращает линейную зависимость между положением стика и скоростью; максимальная скорость в град/с при полном отклонении стика в 200 раз превышает значение RC Rate в конфигураторе.
-- Super Rate, который экспоненциально увеличивает предыдущую линейную скорость по мере того, как стики удаляются от центра. Он практически не влияет на центральное положение. Точка перегиба кривой не меняется.
-  Значение Super Rate = 0,5 удваивает скорость при максимальном отклонении стика.
-- RC Expo, которое добавляет вторую кривую поверх предыдущих значений в районе центрального положения стика, и не влияет на максимальную скорость.
-  Значение RC Expo = 0,5 в конфигураторе сгладит кривую скорости около центрального положения стика в 2 раза.
+- **RC Rate**: Establishes a linear relationship between stick position and rotation speed. The maximum speed in deg/s at full stick deflection is 200 times the RC Rate value in the configurator.
+- **Super Rate**: Exponentially increases the linear speed as the sticks move away from the center. It has almost no effect on the center position. The curve's transition point remains fixed. A Super Rate of 0.5 doubles the speed at maximum stick deflection.
+- **RC Expo**: Adds a secondary curve on top of the previous values around the center stick position without affecting the maximum speed. An RC Expo of 0.5 in the configurator smooths the speed curve near the center by a factor of 2.
 
-Запутанно и не до конца понятно, не правда ли?
+Confusing and not entirely intuitive, right?
 
-Когда мы настраиваем наши рейты, мы в первую очередь заботимся о трех вещах:
+When we tune our rates, we primarily care about three things:
+1. **Center Sensitivity**: How "twitchy" the reaction is near the center value.
+2. **Maximum Rotation Speed**: How fast the aircraft rotates during a full flip or roll.
+3. **Exponential Transition**: How quickly the sensitivity changes as we move the stick from the center to the edge.
 
-- «чувствительность» в центре стика, или насколько «дерганой» будет реакция при отклонениях около центрального значения;
-- максимальная скорость вращения при полном отклонении стика, т. е. как быстро ЛА будет вращаться, когда мы делаем флип/ролл;
-- насколько быстро изменяется чувствительность, когда мы перемещаем стик от центра до самого края оси, или «точка экспоненциального изгиба».
+Although the classic Betaflight rate scheme has been around for a long time, it has many drawbacks. This led to the introduction of the **Actual** system in version 4.2 (along with others used by different firmwares), which became the primary system starting with 4.3. The parameters of the "Actual" system are much more understandable for the average user, allowing specific parts of the curve to be changed without shifting the rest of the range.
 
-Несмотря на то, что схема рейтов Betaflight существуют уже давно, она имеет множество недостатков, из-за чего в 4.2 была введена система actual (и еще несколько, использумых другими прошивками, но эта станет основной с 4.3).
-Параметры схемы рейтов actual намного понятнее простому пользователю и позволяют менять конкретные значения получаемой кривой без сдвигов в остальном диапазоне.
+### Actual Rate Parameters:
 
-Поясним параметры:
+- **Center Sensitivity**: Directly sets the "base" linear response to stick movement. The value entered represents the actual stick sensitivity in the center in degrees/sec. This is the "feel" of the center responsiveness.
+- **Max Rate**: Sets the desired maximum rotation speed in degrees/sec. It creates a "wedge-shaped" linear graph from the center value to the max speed at full deflection.
+- **Expo**: An exponential coefficient that curves the interval between the center and the maximum value.
 
-- Center sensitivity - значение «центральной чувствительности», чтобы напрямую настроить «базовую» линейную реакцию на движение стика. Значение, введенное для «центральной чувствительности», представляет фактическую чувствительность стика в центре в градусах/сек. Введенное число — это «ощущение» центра, которое вы получите при линейной скорости, настроенной на заданное значение град/с. Это своего рода «базовая» отзывчивость.
-- Max Rate, чтобы установить желаемую максимальную скорость вращения в градусах/с и сделать «клинообразный» линейный график изменения скорости от центральных значений до максимальной скорости при полном отклонении стика.
-- Expo, экспоненциальный коэффициент, который изгибает получаемый интервал между центром и крайним значением.
+[Link to the original Pull Request](https://github.com/betaflight/betaflight/pull/9495)
 
-[Тот самый пулл реквест](https://github.com/betaflight/betaflight/pull/9495)
+**Ultimately, it is recommended to use the "Actual" system. All further recommendations will focus on it.**
 
-**В конечном итоге, рекомендуется использовать actual систему. Все дальнейшие рекомендации будут для нее.**
+## Which Rates are Best to Use?
 
-## Какие рейты лучше всего использовать?
+There are no universal rates; they are chosen based on your flight style. Generally, "low rates" are used for smooth flights or racing, while "high rates" are needed for "sharp" freestyle. "Low" typically means a Max Rate around 400-550 deg/sec, while "high" Max Rate is usually between 800-1200 deg/sec, depending on how fast you want the drone to flip or roll.
 
-Универсальных рейтов не существует, они подбираются под ваш стиль полета. Можно только уточнить, что для плавных полетов или гонок чаще используются "низкие рейты", для "резкого" фристайла нужны "высокие" рейты. Под низкими предполагается, что Max Rate будет в районе 400-550 град/сек, для высоких Max Rate будет в районе 800-1200, смотря насколько быстро дрон должен совершать обороты при отклонениях стиков.
-Center sensitivity многие ставят в диапазоне 70-150. Экспонента подбирается индивидуально. Вы можете менять значения в таблице и смотреть, как меняется график (rates preview) под таблицей, на котором можно представить стик с roll и pitch осями вашей аппаратуры и увидеть, как будет меняться значение при определенном отклонении стика. При включенной аппаратуре можно наблюдать за вращением модели дрона там же.
+Many pilots set **Center Sensitivity** in the 70-150 range. **Expo** is highly individual. You can change values in the table and watch the "Rates Preview" graph beneath it. You can visualize the roll and pitch axes of your controller and see how the rotation speed changes at specific stick deflections. If your radio is connected, you can see the 3D model rotate in real-time.
 
-Касаемо значений по осям (строкам в столбцах), вы можете на все оси поставить одинаковые значения, можете изменить для какой-то оси любой параметр на ваше усмотрение.
-Не бойтесь экспериметировать с рейтами, пробуйте менять их (естественно, учтите, что при высоких рейтах дрон будет очень маневренным, а при низких вы скорее всего не успеете сделать флип или ролл на небольшой высоте). Со временем вы станете лучше понимать, какие рейты вам подходят больше. И как говорится, лучшие рейты, это те, на которых вы отлетали 1000 часов:)
+Regarding axes (the rows in the columns): you can set identical values for all axes, or change any parameter for a specific axis to your liking. Don't be afraid to experiment. Keep in mind that high rates make the drone very maneuverable, while at very low rates, you might not have enough time to complete a flip or roll at a low altitude. Over time, you'll better understand which rates suit you. As they say: the best rates are the ones you've flown 1,000 hours on!
 
-## Что еще можно настроить на вкладке с рейтами?
+## What Else Can Be Adjusted on the Rates Tab?
 
-Есть еще 4 параметра: Throttle Limit, Throttle Limit %, Throttle Mid, Throttle Expo. Все они отвечают за работу оси газа.
+There are 4 additional parameters: **Throttle Limit**, **Throttle Limit %**, **Throttle Mid**, and **Throttle Expo**. These control the throttle axis.
 
-В случае, если вас устраивает работа стика газа на вашем дроне, вам не следует менять Throttle Limit и его процент. Если вы хотите, чтобы стик газа имел меньший диапазон (актуально в основном для гонщиков) можно указать Throttle Limit = clip и Throttle Limit % на уровне конечного значения газа, и тогда ваш газ от 0 до 100% будет работать в указаном диапазоне. Если вы хотите "придушить", ограничить обороты моторов, можете указать Throttle Limit = scale и Throttle Limit % = 80+-, смотря до какого уровня газа вы хотите ограничить обороты, и тогда от минимального до максимального положения стика газа обороты моторов будут меняться от 0 до указанного Throttle Limit %.
+- **Throttle Limit**: If you are happy with your throttle response, leave these alone.
+  - **Clip**: If you want the throttle stick to have a smaller range (common for racers), set "Throttle Limit = Clip" and "Throttle Limit %" to your desired end value. Your 0-100% stick travel will then operate within that range.
+  - **Scale**: If you want to "cap" or limit the motor's power, set "Throttle Limit = Scale" and "Throttle Limit %" (e.g., 80%). Motor RPM will then scale from 0 to 80% across the full stick range.
+- **Throttle Mid & Throttle Expo**: Usually used by freestyle and cinematic pilots. Racers prefer a linear throttle response.
+  - **Throttle Mid**: The throttle level where you want to apply the exponent for smoother control.
+  - **Throttle Expo**: The strength of that exponent. An exponent around the "hover" throttle level makes it easier to maintain altitude and perform smooth takeoffs and landings.
 
-Throttle Mid, Throttle Expo, как правило, необходимы для фристайлеров и синематик пилотов, гонщики стараются не использовать экспоненту на газу, чтобы обороты моторов менялись "линейно". Throttle Mid является уровнем газа, на котором вы бы хотели поставить экпоненту, чтобы получить более плавное изменение оборотов, Throttle Expo как раз отвечает за эту экспоненту. Экспонента на уровне газа висения позволяет проще удерживать дрон в одном положении, а также плавно сажать и плавно взлетать. Вы можете выставить на OSD параметр Throttle position, взлететь на дроне, попробовать зависнуть, и обратить внимание на значение газа, либо по параметру из осд, либо ориентировочно по стику газа. Например, оказалось, что дрон зависает на 30% газа, значит в Throttle Mid можно указать 0.3, а Throttle Expo хватит в диапазоне 0.3-0.4. Сохраните настройки и попробуйте. Не стоит бояться менять эти 4 параметра, хуже дрону вы не сделаете.
+To set these, check your **Throttle position** on the OSD while hovering. If the drone hovers at 30% throttle, set Throttle Mid to 0.3. A Throttle Expo of 0.3-0.4 is usually sufficient. Don't be afraid to change these; you won't break the drone.
 
-## Профили рейтов
+## Rate Profiles
 
-Вы можете сделать есколько профилей рейтов и в зависимости от нужного стиля полета переключать их перед/во время полета. Также полезно, если вы планируете дать порулить кому-то, чтобы человек попробовал ваш дрон на удобных для него рейтах, или в случае, если вы обучаете новичка на своем дроне. Смена рейт профиля производится: через осд меню, в которое можно зайти стик командой
-([стик команды](https://2.bp.blogspot.com/-6j_FSBSycEI/XLUUY90qklI/AAAAAAAAEug/xsLM5y7Sya8AeYKKshsgWrf7NLs01DSYgCLcBGAs/s1600/StickPositions%2Bcopy.jpg)); в луа скрипте бетафлайт с аппаратуры ([скачать скрипт на аппаратуру можно тут](https://github.com/betaflight/betaflight-tx-lua-scripts/releases)); по тумблеру, если вы настроили это в режиме adjustments (expert mode on, "rate profile selection" в поле "then apply", и естественно надо настроить остальные параметры в этой строке).
-Но многие летают и с одним постоянным профилем, вас никто не заставляет использовать несколько, главное, случайно не переключите нужный профиль на другой, который будет скорее всего в дефолтовом значении, если вы ничего не меняли там.
+You can create multiple rate profiles and switch between them before or during flight. This is useful for different flight styles, letting someone else try your drone, or training a beginner.
 
-## Рекомендуемые значения рейтов от ikherty(Валентины) для новичков
+You can switch profiles via:
+- **OSD Menu**: Entered via [stick commands](https://2.bp.blogspot.com/-6j_FSBSycEI/XLUUY90qklI/AAAAAAAAEug/xsLM5y7Sya8AeYKKshsgWrf7NLs01DSYgCLcBGAs/s1600/StickPositions%2Bcopy.jpg).
+- **Betaflight LUA Script**: From your radio ([download here](https://github.com/betaflight/betaflight-tx-lua-scripts/releases)).
+- **Adjustments Tab**: Using a physical switch (Expert Mode on -> "Rate Profile Selection" in the "then apply" field).
 
-Чтобы не переруливать и учиться летать на дроне, рекомендую ставить низкие рейты:
+Most pilots stick to one profile. If you only use one, just ensure you don't accidentally switch to a default profile mid-flight.
 
-(для всех осей)
+## Recommended Rates for Beginners (by ikherty)
 
-- Center sensitivity = 70
-- Max Rate = 400
-- Expo = 0.2
-- Throttle Mid = (газ висения, для типовых 5" это 0.3, для тяжелых вупов это 0.4-0.55)
-- Throttle Expo = 0.35
+To avoid over-correcting and learn smoother control, I recommend starting with low rates:
+
+(Apply to all axes):
+- **Center Sensitivity**: 70
+- **Max Rate**: 400
+- **Expo**: 0.2
+- **Throttle Mid**: Hover throttle (approx. 0.3 for a standard 5", 0.4-0.55 for heavy whoops)
+- **Throttle Expo**: 0.35

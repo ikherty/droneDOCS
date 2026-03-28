@@ -33,6 +33,8 @@
 
 💸 FPV барахолка Москва https://t.me/fpvsale
 
+💸 KZ отзывы о продавцах в Казахстане https://t.me/+QUxQ6JJ94Ns4YzNi
+
 💸 Антикризисный FPV шоппинг https://t.me/fpvshopping
 
 💸 Предзаказы с различных магазинов (сервис от QUADRO.TEAM) https://t.me/keksexpress
@@ -54,8 +56,6 @@
 👉 DRS Крылья https://t.me/FPVwing
 
 👉 DRS Микродроны https://t.me/tinywhoop_fpv
-
-👉 По отдельному запросу можно попасть в DRS Долго и далеко (группа по дальнолетам), писать https://t.me/ValentinaPetrenko
 
 👉 DJI FPV Drone / Avata https://t.me/dji_fpv_avata
 
@@ -101,7 +101,7 @@
 
 👉  WAZUP! Crew (полеты на вупах) https://t.me/wazup_crew
 
-👉 PropWash Service Chat (by ValentinaPetrenko) https://t.me/propwashservice
+👉 PropWash Service Chat https://t.me/propwashservice
 
 👉 BlackBox (Черный ящик) https://t.me/bfblackbox
 

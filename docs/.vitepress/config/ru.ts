@@ -38,9 +38,10 @@ function sidebar(): DefaultTheme.SidebarItem[] {
   return [
     {
       text: "Введение",
-      collapsed: true,
+      collapsed: false,
       items: [
         { text: "Вход в хобби", link: "/ru/intro/beginning" },
+        { text: "Глоссарий", link: "/ru/intro/glossarium" },
         { text: "Стили полета", link: "/ru/intro/flightstyles" },
         { text: "Симулятор", link: "/ru/intro/sim" },
         { text: "Аппаратура", link: "/ru/intro/tx" },
@@ -50,7 +51,7 @@ function sidebar(): DefaultTheme.SidebarItem[] {
     },
     {
       text: "Покупки",
-      collapsed: false,
+      collapsed: true,
       items: [
         { text: "Must have вещи для хоббистов", link: "/ru/shop/nessesary" },
         { text: "Для самолетчиков", link: "/ru/shop/airplanes" },
@@ -60,9 +61,8 @@ function sidebar(): DefaultTheme.SidebarItem[] {
     },
     {
       text: "Сообщество",
-      collapsed: false,
+      collapsed: true,
       items: [
-        { text: "Глоссарий", link: "/ru/community/glossarium" },
         { text: "Чаты", link: "/ru/community/chats" },
         { text: "Полезные материалы", link: "/ru/community/usefull" },
         { text: "Программное обеспечение", link: "/ru/community/software" },
@@ -74,7 +74,7 @@ function sidebar(): DefaultTheme.SidebarItem[] {
     },
     {
       text: "Настройки",
-      collapsed: false,
+      collapsed: true,
       items: [
         { text: "Вопросы новичков", link: "/ru/settings/FAQ" },
         { text: "Рейты", link: "/ru/settings/rates" },

@@ -1,42 +1,55 @@
-<!-- docs/.vitepress/theme/Layout.vue -->
 <script setup lang="ts">
 import DefaultTheme from "vitepress/theme";
 import { useData } from "vitepress";
-import { ref, watchEffect } from "vue";
+import { watchEffect, computed } from "vue";
 
-const { lang } = useData();
+const { lang, frontmatter } = useData();
 const inBrowser = typeof window !== "undefined";
 
-// Функция для получения значения куки
-function getCookie(name: string) {
-  const value = `; ${document.cookie}`;
-  const parts = value.split(`; ${name}=`);
-  if (parts.length === 2) return parts.pop().split(";").shift();
-}
+const authors = computed(() => frontmatter.value.gitAuthors || []);
 
-// Устанавливаем язык из куки, если он существует
-if (inBrowser) {
-  const savedLang = getCookie("nf_lang");
-  if (savedLang) {
-    lang.value = savedLang;
-  }
-}
-
-// Следим за изменением языка и обновляем куки
+// Save preference when language changes
 watchEffect(() => {
   if (inBrowser) {
-    document.cookie = `nf_lang=${lang.value}; expires=Mon, 1 Jan 2030 00:00:00 UTC; path=/`;
+    const locale = lang.value.split("-")[0];
+    localStorage.setItem("user-locale", locale);
+    document.cookie = `nf_lang=${locale}; expires=Mon, 1 Jan 2030 00:00:00 UTC; path=/`;
   }
 });
+</script>
 
-// Функция для переключения языка
-function switchLanguage(newLang: string) {
-  lang.value = newLang;
-}
+<script lang="ts">
+export default {
+  name: "Layout", // eslint-disable-line vue/multi-word-component-names
+};
 </script>
 
 <template>
-  <DefaultTheme.Layout />
-  <button @click="switchLanguage('ru')">Русский</button>
-  <button @click="switchLanguage('root')">English</button>
+  <DefaultTheme.Layout>
+    <template #doc-footer-before>
+      <div v-if="authors.length" class="authors-section">
+        <span class="authors-label">{{ lang.startsWith("ru") ? "Авторы:" : "Authors:" }}</span>
+        <span class="authors-list">{{ authors.join(", ") }}</span>
+      </div>
+    </template>
+  </DefaultTheme.Layout>
 </template>
+
+<style scoped>
+.authors-section {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--vp-c-divider);
+  font-size: 0.9rem;
+  color: var(--vp-c-text-2);
+}
+
+.authors-label {
+  font-weight: bold;
+  margin-right: 0.5rem;
+}
+
+.authors-list {
+  display: inline;
+}
+</style>

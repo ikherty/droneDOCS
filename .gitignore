@@ -9,3 +9,5 @@ docs/.vitepress/cache
 docs/.vitepress/dist
 
 yarn-error.log
+
+public/sitemap.xml

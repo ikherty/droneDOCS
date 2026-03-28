@@ -1,122 +1,117 @@
-# Комплект новичка
+# Beginner's Kit
 
-Какой стартовый набор взять, с чего начать FPV хобби, что такое KIT, BNF, чем плох цетус, варианты под различный бюджет и много другое вы найдете ниже.
+Which starting set to choose, how to start the FPV hobby, what are KIT/BNF, why "Cetus" might not be the best choice, options for various budgets, and much more can be found below.
 
-## Введение
+## Introduction
 
-В данной статье предлагаются варианты наборов "собери свой набор сам" с готовыми коптерами под определенные бюджеты. **Просьба перед изучением предложенных вариантов изучить статьи из раздела "Введение" (см. панель меню слева)**.
-Так как цены изначально в долларах, стоимость в рублях будет зависеть от текущего курса. Стоит учитывать, что на различных площадках могут быть свои курсы, а в локальных магазинах дополнительные наценки.
-Конвертер валют: https://g.co/kgs/zsYNPm.
+This article provides "build it yourself" set options with ready-made drones for specific budgets. **Before exploring these options, please study the articles in the "Introduction" section (see the menu on the left)**.
 
-Также вы можете собрать самостоятельно дрон, но с учетом расходных материалов и инструментов это вам обойдется дороже.
-[Примеры компонентов для сборок](https://propwashservice.com/ru/shop/DIY) и [список оборудования и расходников](https://propwashservice.com/ru/shop/nessesary).
+Since prices are originally in USD, the cost in other currencies will depend on the current exchange rate. Keep in mind that different platforms may have their own rates, and local stores may apply additional markups.
+Currency Converter: [Google Finance](https://g.co/kgs/zsYNPm).
 
-**Обращаю внимание, что любой набор должен включать в себя в первую очередь симулятор.**
+You can also build a drone yourself, but including consumables and tools, it will likely cost more.
+[Example components for builds](https://propwashservice.com/en/shop/DIY) and [Equipment and consumables list](https://propwashservice.com/en/shop/nessesary).
 
-- [Примеры симуляторов](https://propwashservice.com/ru/intro/sim)
+**Please note that any set must primarily include a simulator.**
+- [Simulator examples](https://propwashservice.com/en/intro/sim)
 
-## Что такое KIT, RTF, PNP, BNF..
+## What are KIT, RTF, PNP, BNF...
 
-В названиях товаров часто встречаются RTF, BNF, PNP И ARF (KIT). Эти аббревиатуры уточняют комплектацию товара.
+In product names, you'll often see RTF, BNF, PNP, and ARF (KIT). These abbreviations specify the product's completeness.
 
-### RTF — это "Ready to fly", что означает "готов к полету". Также иногда используется название "Starter kit".
+### RTF — "Ready to Fly"
+Also sometimes called a "Starter Kit".
 
-**В RTF набор квадрокоптера входят:**
+**An RTF drone kit includes:**
+- A drone with a receiver compatible with the included radio;
+- A radio controller;
+- A battery (or several);
+- A charger for the included battery.
 
-- Квадрокоптер с приемником, совместимым с пультом;
-- Пульт управления;
-- Аккумулятор (или несколько);
-- Зарядное устройство для комплектного аккумулятора.
+Typically, these kits consist of the cheapest possible parts. They are often given as gifts or bought by beginners. Most hobbyists **strongly recommend against** starting with these, as you'll likely have to buy everything from scratch if you want to expand your fleet, leaving the old kit useless.
+Over time, better RTF kits are appearing on the market. It is recommended to consult with experienced hobbyists about the current relevance of a chosen set before buying.
 
-Как правило, такие наборы состоят из самых дешевых частей, их часто дарят или покупают ввиду неопытности, в большистве случаев хоббисты настоятельно **не рекомендуют** начинать с таких, поскольку при желании расширить свой ассортимент дронов, скорее всего, придется покупать все с нуля, а этот набор будет лежать без дела.
-Со временем на рынке появляются варианты RTF китов получше. Перед покупкой рекомендуется проконсультироваться с хоббистами насчет актуальности выбранного набора.
+### BNF — "Bind and Fly"
+> What "bind" means can be found [here](https://propwashservice.com/en/community/glossarium).
 
-### BNF — "Bind and Fly", что означает "забинди и летай"
+**A BNF drone kit includes:**
+- A drone with a pre-soldered receiver;
+- (Optional) A battery and corresponding charger, common for tiny whoops.
 
-> что такое "бинд" смотри [тут](https://propwashservice.com/ru/community/glossarium)
-
-**В BNF набор квадрокоптера входят:**
-
-- Квадрокоптер с припаянным приемником;
-- (опционально) Аккумулятор и соответствующее зарядное устройство, актуально для tiny whoop-ов.
-
-Поскольку различные системы радиоуправления **не совместимы** между собой (подробнее про [актуальные системы тут](https://propwashservice.com/ru/intro/tx#протоколы-передачи-данных) ), покупателю часто предлагается выбор приемника, если такого нет, то название приемника указано в названии/описании BNF набора. Также в таких опциях может быть предложен выбор камеры, актуально для дронов на DJI FPV с caddx vista/air unit, и выбор винто-моторной группы (в опциях указывается количество ячеек аккумулятора, S, пример на картинке)
+Since different radio control systems are **not compatible** with each other (read about [current systems here](https://propwashservice.com/en/intro/tx#data-transmission-protocols)), buyers are often offered a choice of receiver. If no choice is given, the receiver name is usually in the BNF set title or description. You may also be offered a choice of camera (common for DJI FPV drones with Caddx Vista/Air Unit) and motor/propeller groups (specified by battery cell count, e.g., 4S or 6S).
 
 <p align="center">
-  <img src="/assets/img/chooseRx.webp" width="600" alt="пример вариаций квадрокоптера с приемниками">
+  <img src="/assets/img/chooseRx.webp" width="600" alt="example of drone variations with receivers">
 </p>
-После покупки такого набора вам понадобится обновить прошивку приемника и произвести бинд с аппаратурой, в случае цифровой видеосистемы обновить прошивку на ней и также произвести бинд с очками, в настройках прошивки полетного контроллера (по умолчанию в большинстве готовых дронов betaflight, смотрите внимательно описание товара) выставить правильный мапинг каналов ([подробнее](https://oscarliang.com/channel-map/)) и указать режимы для тумблеров ([подробнее](https://oscarliang.com/betaflight-modes/)).
 
-### PNP — Plug and Play, что означает "подключи и пользуйся".
+After purchasing such a kit, you'll need to update the receiver firmware and bind it with your radio. For digital video systems, you'll also need to update its firmware and bind it with your goggles. In the flight controller firmware settings (usually Betaflight; check product description), you must set the correct channel mapping ([more details](https://oscarliang.com/channel-map/)) and configure modes for your switches ([more details](https://oscarliang.com/betaflight-modes/)).
 
-**В PNP набор квадрокоптера входит:**
+### PNP — "Plug and Play"
+**A PNP drone kit includes:**
+- A drone without a receiver.
 
-- Квадрокоптер без приемника.
+As you might have guessed, you'll first need to buy a receiver, solder it in, and then follow the same steps as for a BNF kit.
 
-Как вы уже догадались, к нему вам понадобится в первую очередь купить приемник, припаять его, далее пройти те же шаги, что для BNF набора.
+### ARF (KIT sets) — "Almost Ready to Fly"
+ARF kits imply a set of all parts necessary for assembly. Modern ARF kits are rare and often sold by large bloggers or major brands. On AliExpress, you often find outdated versions that are not recommended without consulting hobbyists.
+For airplanes, a "KIT" set often means just the airframe without any electronics. Always check the description carefully.
 
-### ARF (KIT наборы) - "Almost Ready to Fly", то есть «собери и летай».
+## Why shouldn't you buy a "Cetus"?
 
-КИТ наборы квадрокоптеров подразумевают комплект всех деталей, необходимых для сборки, но современных наборов очень мало, чаще можно встретить в штатах от каких-то крупных блогеров или брендов, на алиэкспресс и подобных площадках чаще встречаются старые неактуальные варианты, которые брать без рекомендаций хоббистов нежелательно.
-KIT набор самолета часто подразумевает только тушку самолета без электроники, внимательно изучайте описание товара.
+BetaFPV was one of the first to release an RTF starter kit, and initially, the idea seemed great—buy and fly without worrying about missing parts. GEP-RC, EMAX, and Eachine followed with their own interpretations. However, these are often built so cheaply that the equipment quality is only good for "feeling out" the hobby, not for long-term use. Many hobbyists who receive or buy these eventually sell or discard them because the quality and functionality aren't enough for full immersion.
 
-## Почему не стоит брать цетус?
+BetaFPV's line grew into the [Cetus series](https://betafpv.com/collections/best-fpv-kits). They come in various versions, but they all share a common problem: BetaFPV's inconsistent quality. Despite their experience, they often struggle with reliable electronics, frequent small manufacturing defects, and poor soldering. A major issue is components "popping off" boards during crashes, requiring professional repair or replacement. Their goggles often have basic internals with poor receiver sensitivity. Their radios use a fork of EdgeTX rather than being integrated into the main project, and they are slow to update features. In their ELRS products, they sometimes ignore developer recommendations, resulting in worse performance than more affordable alternatives like Happymodel.
 
-BetaFPV одни из первых выпустили стартер кит в варианте RTF, и поначалу идея показалась классной - бери и летай, не думая, что что-то забыл приобрести. Следом geprc, emax, eachine также выпустили свои интерпретации наборов. Все бы ничего, но все они собраны настолько бюджетно, что качество оборудования подойдет только для того, чтобы "пощупать", а не пользоваться им постоянно. Каждый второй хоббист, получивший подобный набор в подарок или купивший его, чтобы попробовать, в конечном итоге продает или выбрасывает его полностью, так как для полного погружения в хобби качества и функционала предлагаемых в наборе компонентов недостаточно.
+Of course, if you already have one, feel free to fly it and see if you enjoy the hobby. "A bad experience is still an experience." You might get lucky and get a defect-free unit that teaches you the basics. But statistics generally suggest otherwise.
 
-Что касается набора от бетафпв - он разросся в линейку под названием [цетус (cetus)](https://betafpv.com/collections/best-fpv-kits). Цетусы есть в различных вариациях, но всех их объединяет одна большая проблема - betafpv. Несмотря на большой опыт в FPV, эта фирма так и не научилась делать качественную электронику, каждый раз у них множество мелких "косяков", из-за которых портится все впечатление и брать их продукцию хочется все меньше и меньше. Одна из главных проблем на данный момент - непропай компонентов на платах, из-за чего при ударах дрона происходят отвалы разъемов, чипов, и без вмешательства мастера или серьезного диалога с производителем вам придется выбросить дрон. В шлеме они ставят максимально простую начинку, чувствительности приемника в большинстве случаев хватает лишь на небольшие дистанции. Что касается аппаратуры - они "выпендрились" и сделали форк популярной прошивки EdgeTX, вместо того, чтобы добавить свою модель в этот проект, и не сильно спешат обновлять функционал своей прошивки. В своей продукции под ЕЛРС они также нередко игнорируют рекомендации разработчиков, из-за чего их приемники и передатчики дают результаты хуже, чем альтернативные более бюджетные, например, от happymodel.
+## I want to start, but have no money ($50-200)
 
-Само собой, если вам все же подарили подобный набор, никто вам не мешает попробовать полетать на нем, определиться с дальнейшими целями. "Плохой опыт тоже опыт". Может быть, вам повезет, и попадется комплект без брака, который научит вас основам, и такое возможно. Но статистика пока показывает в основном противоположное.
+Unfortunately, it's very difficult to fully enter the hobby with this budget. Your best bet is an EdgeTX radio with USB charging capability, batteries for the radio, and a simulator. You won't be able to fly a real drone initially, but you'll get a feel for the controls and decide how interested you are. You can also participate in online races; with good results, you might join a racing team, find sponsors, and move up the "career ladder."
 
-## Хочу в хобби, но денег нет (50-200$)
+- **Radio examples**: Radiomaster [Pocket](https://rcsearch.ru/?s=radiomaster+pocket), [TX12](https://rcsearch.ru/?s=radiomaster+tx12), [Zorro](https://rcsearch.ru/?s=radiomaster+zorro), [Boxer](https://rcsearch.ru/?s=radiomaster+boxer).
 
-К сожалению, с таким бюджетом очень сложно войти полноценно в хобби. Лучший вариант для вас это аппаратура на EdgeTX с возможностью зарядки от USB, аккумуляторы для аппаратуры (см. описание товара), симулятор. Да, вы не сможете первое время летать на дроне, но зато у вас будет возможность ощутить управление, определиться, насколько вам интересно данное хобби, и будет цель накопить деньги на дрон, шлем и все необходимое для использования. Также учтите, что можно активно участвовать в онлайн гонках, и при достойных результатах попасть в известную гоночную команду, обрести спонсоров и двигаться дальше по "карьерной лестнице" гонщика.
+## Most Budget-Friendly Set for Indoor/Calm Weather Flying ($250-350)
 
-- Примеры аппаратур: Radiomaster [Pocket](https://rcsearch.ru/?s=radiomaster+pocket), [TX12](https://rcsearch.ru/?s=radiomaster+tx12), [Zorro](https://rcsearch.ru/?s=radiomaster+zorro), [Boxer](https://rcsearch.ru/?s=radiomaster+boxer)
+This is a better option than a Cetus because you can continue to use this equipment as you grow. This price range strictly covers analog video with a basic headset. A "Tiny Whoop" is the best drone choice here. Avoid "no-name" manufacturers with questionable quality; the risk is entirely yours.
 
-## Самый бюджетный набор для полетов дома и в безветренную погоду на улице (250-350$)
+- **Radios under $100**: Radiomaster [Pocket](https://rcsearch.ru/?s=radiomaster+pocket), [TX12](https://rcsearch.ru/?s=radiomaster+tx12), [Zorro](https://rcsearch.ru/?s=radiomaster+zorro); Jumper [T-pro](https://rcsearch.ru/?s=jumper+t-pro), [T20](https://rcsearch.ru/?s=jumper+t20). [ELRS 2.4GHz](https://propwashservice.com/en/intro/tx) version is recommended. Don't forget batteries!
+- **Analog Goggles under $100**: Eachine [EV800D](https://rcsearch.ru/-c1814), [EV800DM](https://rcsearch.ru/-c7798).
+- **Tiny Whoops under $100**: [Mobula6](https://rcsearch.ru/-c29293), [Mobula7](https://rcsearch.ru/-c33913), [Mobeetle6](https://rcsearch.ru/-c35745). Ensure the radio protocol matches your radio (e.g., ELRS).
+- **Charger + (if needed) Power Supply**: [VIFLY WhoopStor](https://rcsearch.ru/-c46257).
+- **Batteries**: GNB/Tattu according to whoop specs. For 65mm, 1S 300-380mAh; for 75mm, 1S or 2S 450-550mAh. Note: Whoops often use internal PH2.0 connectors. If possible, switch to BT2.0/A30 connectors for better performance. The suggested charger supports both.
+- **Consumables**: Spare propellers matching your motor shaft diameter.
 
-Вариант лучше, чем cetus от betafpv, потому что вы сможете в дальнейшем использовать это же оборудование, и оно будет более надежным. В данном ценовом диапазоне уместится только аналоговая видеосвязь с самым простым шлемом. Из дронов лучшим вариантом будет tiny whoop. Также встречаются дроны от "ноунейм" производителей, качество компонентов которых оставляет желать лучшего. Все риски от выбора таких дронов лежат исключительно на вас.
+## Budget Outdoor Starter Set ($400-500)
 
-- Примеры аппаратур до 100$: Radiomaster [Pocket](https://rcsearch.ru/?s=radiomaster+pocket), [TX12](https://rcsearch.ru/?s=radiomaster+tx12), [Zorro](https://rcsearch.ru/?s=radiomaster+zorro); Jumper [T-pro](https://rcsearch.ru/?s=jumper+t-pro), [T20](https://rcsearch.ru/?s=jumper+t20). Рекомендуется [ELRS 2.4](https://propwashservice.com/ru/intro/tx) версия. Не забудьте аккумуляторы!
-- Примеры аналоговых шлемов до 100$: Eachine [EV800D](https://rcsearch.ru/-c1814), [EV800DM](https://rcsearch.ru/-c7798)
-- Примеры tiny whoop до 100$: [mobula6](https://rcsearch.ru/-c29293), [mobula7](https://rcsearch.ru/-c33913), [mobeetle6](https://rcsearch.ru/-c35745) (должен быть с таким же радиопротоколом, если пульт ЕЛРС, то и дрон на ЕЛРС, на той же частоте)
-- Зарядное устройство + (при необходимости) блок питания (БП): [VIFLY WhoopStor](https://rcsearch.ru/-c46257)
-- Аккумуляторы: gnb/tattu с рекомендуемыми характеристиками для выбранного вупа, для 6 (65мм) это 1S 300-380mAh, для 7 (75мм) это 1 или 2S (см. описание вупа) на 450-550mAh. Учтите, что у вупа в стоке вероятно ph2.0 разъем для аккумуляторов.
-  Если вы решите остаться на нем, аккумуляторы должны быть с тем же разъемом. Если есть возможность перепаяться, рекомендуется перевести вуп на BT2.0/A30 разъем, и аккумуляторы брать с тем же разъемом. На предложенном заряднике оба варианта разъемов.
-- Расходники: запасные пропеллеры того же диаметра с тем же диаметром отверстия под вал
+Still an analog video system.
 
-## Стартовый бюджетный набор для полетов на улице (400-500$)
+- **Radios under $150**: Radiomaster [Pocket](https://rcsearch.ru/?s=radiomaster+pocket), [TX12](https://rcsearch.ru/?s=radiomaster+tx12), [Zorro](https://rcsearch.ru/?s=radiomaster+zorro), [Boxer](https://rcsearch.ru/?s=radiomaster+boxer); Jumper [T-pro](https://rcsearch.ru/?s=jumper+t-pro), [T20](https://rcsearch.ru/?s=jumper+t20). ELRS 2.4GHz recommended.
+- **Analog Goggles under $100**: Eachine [EV800D](https://rcsearch.ru/-c1814), [EV800DM](https://rcsearch.ru/-c7798).
+- **Drones under $200**: [HGLRC Drashark](https://rcsearch.ru/-c46627), [Happymodel Mobula8](https://rcsearch.ru/-c46027), [Crux3](https://rcsearch.ru/-c30667), [Crux35](https://rcsearch.ru/-c45326), [iFlight Baby Nazgul Nano](https://rcsearch.ru/-c35553), [GEPRC Smart Phantom 2.5"](https://rcsearch.ru/-c27390). Ensure analog video and matching radio protocol.
+- **Charger + (if needed) Power Supply**: For 1S: [WhoopStor](https://rcsearch.ru/-c46257). For 2S+: [SkyRC B6 Neo](https://rcsearch.ru/-c47308), ToolkitRC [M6](https://rcsearch.ru/-c6063), [M7](https://rcsearch.ru/-c25346), [M6D (Dual Port)](https://rcsearch.ru/?s=toolkit+m6d), [M7AC (Built-in PSU)](https://rcsearch.ru/-c39020), [iSDT 608AC](https://rcsearch.ru/-c8911). Check connector types (e.g., XT60/XT30).
+- **Batteries**: CNHL/GNB/Tattu. Start with at least 3-5 packs.
+- **Consumables**: Spare propellers, battery straps.
 
-И это все еще аналоговая видеосистема.
+## Comfortable Budget Entry ($550-800)
 
-- Примеры аппаратур до 150$: Radiomaster [Pocket](https://rcsearch.ru/?s=radiomaster+pocket), [TX12](https://rcsearch.ru/?s=radiomaster+tx12), [Zorro](https://rcsearch.ru/?s=radiomaster+zorro), [Boxer](https://rcsearch.ru/?s=radiomaster+boxer); Jumper [T-pro](https://rcsearch.ru/?s=jumper+t-pro), [T20](https://rcsearch.ru/?s=jumper+t20). Рекомендуется [ELRS 2.4](https://propwashservice.com/ru/intro/tx) версия. Не забудьте аккумуляторы!
-- Примеры аналоговых шлемов до 100$: Eachine [EV800D](https://rcsearch.ru/-c1814), [EV800DM](https://rcsearch.ru/-c7798)
-- Примеры дронов до 200$: [HGLRC Drashark](https://rcsearch.ru/-c46627), [happymodel mobula8](https://rcsearch.ru/-c46027), [crux3](https://rcsearch.ru/-c30667), [crux35](https://rcsearch.ru/-c45326), [iFlight Baby Nazgul Nano](https://rcsearch.ru/-c35553), [GEPRC Smart Phantom 2.5"](https://rcsearch.ru/-c27390) (должен быть на аналоговой видеосистеме, с приемником на таком же радиопротоколе, что и пульт; если пульт ЕЛРС, то и дрон на ЕЛРС, на той же частоте)
-- Зарядное устройство + (при необходимости) блок питания (БП): для 1S [VIFLY WhoopStor](https://rcsearch.ru/-c46257), для 2+S [skyrc b6 neo](https://rcsearch.ru/-c47308), ToolkitRC [M6](https://rcsearch.ru/-c6063), [M7](https://rcsearch.ru/-c25346), [M6D(двухпортовый)](https://rcsearch.ru/?s=toolkit+m6d), [M7AC(со встроенным БП)](https://rcsearch.ru/-c39020), [iSDT 608AC(со встроенным БП)](https://rcsearch.ru/-c8911), [m4 pocket(карманный вариант)](https://rcsearch.ru/-c32468); [ISDT PD60(карманный вариант)](https://rcsearch.ru/-c16236), [Q6 nano](https://rcsearch.ru/-c14405) (обратите внимание на входной разъем и питающее напряжение, а также разъем под аккумулятор, не забудьте переходник, если необходимо, например XT60 to XT30)
-- Аккумуляторы: cnhl/gnb/tattu с рекомендуемыми характеристиками для выбранного дрона на тех же разъемах, рекомендуется для начала минимум 3-5шт
-- Расходники: запасные пропеллеры того же диаметра с тем же типом крепления и диаметром отверстия под вал, ремешки для аккумуляторов
+Still an analog video system.
 
-## Бюджетный комфортный вход (550-800$)
+- **Radios under $150**: Radiomaster [Pocket](https://rcsearch.ru/?s=radiomaster+pocket), [TX12](https://rcsearch.ru/?s=radiomaster+tx12), [Zorro](https://rcsearch.ru/?s=radiomaster+zorro), [Boxer](https://rcsearch.ru/?s=radiomaster+boxer). ELRS 2.4GHz recommended.
+- **Analog Goggles under $300**: Eachine [EV200D](https://rcsearch.ru/-c2397), [EV300D](https://rcsearch.ru/-c10462); [Skyzone SKY02](https://rcsearch.ru/?s=Skyzone+SKY02) (S, V, C, X versions are similar; OLED screens on X), [Cobra X](https://rcsearch.ru/-c20692). Check second-hand markets for deals.
+- **Drones under $250**: Sets up to 3.5" (e.g., [GEPRC Smart 35](https://rcsearch.ru/-c27048)) or 5" racers like [iFlight Nazgul5](https://rcsearch.ru/-c45174) or [Titan XL5](https://rcsearch.ru/-c36404). Note: 6S batteries are more powerful but more expensive.
+- **Charger + (if needed) PSU**: [SkyRC B6 Neo](https://rcsearch.ru/-c47308), ToolkitRC [M6D](https://rcsearch.ru/?s=toolkit+m6d), [M7AC](https://rcsearch.ru/-c39020).
+- **Batteries**: CNHL/GNB/Tattu. Start with at least 3-5 packs.
+- **Consumables**: Spare propellers, battery straps.
+- [Tools like Hex drivers and nut wrenches](https://propwashservice.com/en/shop/nessesary).
 
-И это все еще аналоговая видеосистема.
+## Comfortable Entry ($800-1500)
 
-- Примеры аппаратур до 150$: Radiomaster [Pocket](https://rcsearch.ru/?s=radiomaster+pocket), [TX12](https://rcsearch.ru/?s=radiomaster+tx12), [Zorro](https://rcsearch.ru/?s=radiomaster+zorro), [Boxer](https://rcsearch.ru/?s=radiomaster+boxer); Jumper [T-pro](https://rcsearch.ru/?s=jumper+t-pro), [T20](https://rcsearch.ru/?s=jumper+t20). Рекомендуется [ELRS 2.4](https://propwashservice.com/ru/intro/tx) версия. Не забудьте аккумуляторы!
-- Примеры аналоговых шлемов/очков до 300$: Eachine [ev200d](https://rcsearch.ru/-c2397), [ev300d](https://rcsearch.ru/-c10462); [Skyzone SKY02](https://rcsearch.ru/?s=Skyzone+SKY02) (S,V,C,X,O - суть примерно одинаковая, только у О олед экраны; стоит глянуть на барахолке, будет дешевле, и возможно попадется SKY03 за ту же цену), [cobra X](https://rcsearch.ru/-c20692) (не путать с S, lite) и не забудьте аккумулятор!
-- Примеры дронов до 250$: варианты из набора выше до 3.5", [GEPRC Smart 35 Analog 3.5" BNF ELRS](https://rcsearch.ru/-c27048) или уже 5" варианты по типу [iFlight Nazgul5 5" RaceCam R1 BNF ELRS 2.4](https://rcsearch.ru/-c45174), [iFlight TITAN XL5 BLITZ F7 6S BNF ELRS 2.4GHz](https://rcsearch.ru/-c36404) (должен быть на аналоговой видеосистеме, с приемником на таком же радиопротоколе, что и пульт; если пульт ЕЛРС, то и дрон на ЕЛРС, на той же частоте. Обратите внимание на количество ячеек аккумулятора, в случае 5" 6S бодрее, но и дороже!)
-- Зарядное устройство + (при необходимости) блок питания (БП): [skyrc b6 neo](https://rcsearch.ru/-c47308), ToolkitRC [M6](https://rcsearch.ru/-c6063), [M7](https://rcsearch.ru/-c25346), [M6D(двухпортовый)](https://rcsearch.ru/?s=toolkit+m6d), [M7AC(со встроенным БП)](https://rcsearch.ru/-c39020), [iSDT 608AC(со встроенным БП)](https://rcsearch.ru/-c8911), [m4 pocket(карманный вариант)](https://rcsearch.ru/-c32468); [ISDT PD60(карманный вариант)](https://rcsearch.ru/-c16236), [Q6 nano](https://rcsearch.ru/-c14405) (обратите внимание на входной разъем и питающее напряжение, а также разъем под аккумулятор, не забудьте переходник, если необходимо, например XT60 to XT30)
-- Аккумуляторы: cnhl/gnb/tattu с рекомендуемыми характеристиками для выбранного дрона на тех же разъемах, рекомендуется для начала минимум 3-5шт.
-- Расходники: запасные пропеллеры того же диаметра с тем же типом крепления и диаметром отверстия под вал, ремешки для аккумуляторов.
-- [Инструмент по типу шестигранников, ключей для гаек моторов](https://propwashservice.com/ru/shop/nessesary)
+Congratulations, you can now choose a video system to your liking!
 
-## Комфортный вход (800-1500$)
-
-Поздравляю, у вас есть возможность выбрать видеосистему на свой вкус!
-
-- [Примеры аппаратур. Не забудьте аккумуляторы!](https://propwashservice.com/ru/intro/tx)
-- [Очки с видеосистемой под ваши задачи](https://propwashservice.com/ru/intro/vrx)
-- [Дрон под желаемый стиль полета с приемником того же радиолинка, что и в аппаратуре](https://propwashservice.com/ru/intro/flightstyles)
-- [Зарядное устройство + (при необходимости) блок питания (БП)](https://propwashservice.com/ru/intro/power#как-выбрать-зарядное-устроиство)
-- Аккумуляторы: cnhl/gnb/tattu/dogcom с рекомендуемыми характеристиками для выбранного дрона на тех же разъемах, рекомендуется для начала минимум 3-5шт
-- Расходники: запасные пропеллеры того же диаметра с тем же типом крепления и диаметром отверстия под вал, ремешки для аккумуляторов, если планируете активные полеты, то и запасные части дрона - мотор, луч, камеру..
-- [Инструмент по типу шестигранников, ключей для гаек моторов](https://propwashservice.com/ru/shop/nessesary)
+- [Radio examples. Don't forget batteries!](https://propwashservice.com/en/intro/tx)
+- [Goggles and video systems for your needs](https://propwashservice.com/en/intro/vrx)
+- [Drone styles and radio link compatibility](https://propwashservice.com/en/intro/flightstyles)
+- [Chargers and power supplies](https://propwashservice.com/en/intro/power#how-to-choose-a-charger)
+- **Batteries**: CNHL/GNB/Tattu/Dogcom. Start with at least 3-5 packs.
+- **Consumables**: Spare propellers, battery straps, and spare parts like arms, motors, or a backup camera if you plan to fly hard.
+- [Tools like Hex drivers and nut wrenches](https://propwashservice.com/en/shop/nessesary).

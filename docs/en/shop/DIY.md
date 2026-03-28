@@ -1,144 +1,149 @@
-# Как подобрать компоненты для сборки дрона?
+# How to Choose Components for Building a Drone?
 
-Новичкам частенько тяжело сориентироваться, что и с какими характеристиками стоит взять, а главное, во сколько всё обойдётся. Предлагаю список совместимых компонентов:
+Beginners often find it difficult to determine which components and specifications to choose, and more importantly, how much it will all cost. Below is a list of compatible components for various build types.
 
-> Приемник выбирается в зависимости от вашего передатчика.
+> **Note**: Your receiver choice must match your radio transmitter.
+> 
+> **Note**: As of 2022, support for flight controllers based on F722 and F411 processors is gradually being phased out due to limited memory (512kB). Currently, firmware features are being scaled back for these chips; Betaflight 4.4 uses a new cloud build system to manage this. [Detailed explanation here](https://oscarliang.com/f1-f3-f4-flight-controller/).
 
-> В 2022 году стало известно, что в дальнейшем постепенно планируется прекращение поддержки полетников на базе f722 и f411 процессоров из-за малого количества памяти (512кБ, [подробно тут](https://oscarliang.com/f1-f3-f4-flight-controller/)), на данный момент просто урезается функционал прошивок под эти полетники, в betaflight 4.4 уже используется новая система сборки.
+[Check out RotorBuilds for community build examples](https://rotorbuilds.com/).
 
-[Примеры сборок различных пилотов можно найти здесь](https://rotorbuilds.com/).
+---
 
-## 65мм бесколлекторный, БК (brushless) Tiny Whoop (тинивуп) на аналоговой видеосистеме:
+## 65mm Brushless Tiny Whoop (Analog Video)
 
-- Моторы 19000-23000кв 0702/0802/0803
-- Регуляторы+полетник+приёмник+видеопередатчик "aio flight controller 4 in 1" (fc+esc+receiver+vtx) на elrs 2.4 встроенном приемнике
-- Камера по типу runcam nano 3/foxeer razer piko/caddx ant lite
-- Пропы 3 лопасти gemfan 31мм
-- Рама happymodel 65/ betafpv meteor65
-- Аккумуляторы tattu/gnb 1s c разъемом bt2.0/gnb27 (разъемы на дроне и батах должны совпадать) 300-380mAh
+- **Motors**: 19000-23000KV (size 0702 / 0802 / 0803)
+- **AIO Flight Controller**: 4-in-1 (FC + ESC + Receiver + VTX), ideally with built-in ELRS 2.4GHz
+- **Camera**: Nano-size (e.g., RunCam Nano 3, Foxeer Razer Pico, Caddx Ant Lite)
+- **Propellers**: 31mm 3-blade (e.g., Gemfan)
+- **Frame**: 65mm (e.g., HappyModel Mobula6, BetaFPV Meteor65)
+- **Batteries**: 1S 300-380mAh with BT2.0 or GNB27 connectors (ensure drone and battery connectors match)
 
-## 75мм бесколлекторный, БК (brushless) Tiny Whoop (тинивуп) на аналоговой видеосистеме:
+## 75mm Brushless Tiny Whoop (Analog Video)
 
-- Моторы 18000-20000кв 1002 для бодрого фристайла или размером 0802 для легкой сборки
-- Регуляторы+полетник+приёмник+видеопередатчик "aio flight controller 4 in 1" (fc+esc+receiver+vtx) на elrs 2.4 встроенном приемнике по типу happymodel aio crazyf4 elrs (но если вы используете frsky передатчик, есть и такой вариант с соответствующим приемником) или aio без встроенного видеопередатчика и отдельно видеопередатчик по типу ovx300
-- Камера по типу caddx ant lite
-- Пропы 3-4 лопасти gemfan/hq prop 40мм
-- Рама happymodel mobula7 / betafpv meteor75
-- Аккумуляторы tattu/gnb 1s c разъемом bt2.0/gnb27 (разъемы на дроне и батах должны совпадать) 450-550mAh
+- **Motors**: 18000-20000KV (size 1002 for freestyle, 0802 for lightweight builds)
+- **AIO Flight Controller**: 4-in-1 (FC + ESC + Receiver + VTX), e.g., HappyModel CrazyF4 ELRS. Alternatively, an AIO without VTX + a separate VTX (e.g., OVX300).
+- **Camera**: Caddx Ant Lite or similar
+- **Propellers**: 40mm 3-4 blade (e.g., Gemfan, HQProp)
+- **Frame**: 75mm (e.g., HappyModel Mobula7, BetaFPV Meteor75)
+- **Batteries**: 1S 450-550mAh with BT2.0 or GNB27 connectors
 
-## 75мм бесколлекторный, БК (brushless) Tiny Whoop (тинивуп) на цифровой видеосистеме HDZero/Avatar:
+## 75mm Brushless Tiny Whoop (Digital Video: HDZero/Avatar)
 
-- Моторы 18000-20000кв 1002
-- Регуляторы+полетник+приёмник "aio flight controller 3 in 1" (fc+esc+receiver) на elrs 2.4 встроенном приемнике по типу happymodel crossf4 elrs
-- kit набор видеосистемы по типу hdzero whoop bundle или walksnail avatar mini kit 1s lite
-- Пропы 3-4 лопасти gemfan/hq prop 40мм
-- Рама happymodel mobula7 / betafpv meteor75
-- Аккумуляторы tattu/gnb 1s c разъемом bt2.0/gnb27 (разъемы на дроне и батах должны совпадать) 450-550mAh
+- **Motors**: 18000-20000KV (size 1002)
+- **AIO Flight Controller**: 3-in-1 (FC + ESC + Receiver) with built-in ELRS, e.g., HappyModel CrossF4 ELRS
+- **Video System**: HDZero Whoop Bundle or Walksnail Avatar Mini 1S Lite Kit
+- **Propellers**: 40mm 3-4 blade
+- **Frame**: 75mm (e.g., HappyModel Mobula7, BetaFPV Meteor75)
+- **Batteries**: 1S 450-550mAh with BT2.0 or GNB27 connectors
 
-## 80мм бесколлекторный, БК (brushless) Tiny Whoop (тинивуп):
+## 80mm Brushless Tiny Whoop
 
-- Моторы 18000-20000кв 1002/1003
-- Регуляторы+полетник+приёмник "aio flight controller 3 in 1" (fc+esc+receiver) на elrs 2.4 встроенном приемнике по типу happymodel crossf4 elrs
-- Набор под вашу видеосистему - цифровые киты из набора под 75мм или аналоговый видеопередатчик по типу ovx300+камера по типу caddx ant lite
-- Пропы 3-4 лопасти gemfan 45мм
-- Рама betafpv meteor 75 PRO
-- Аккумуляторы tattu/gnb 1s c разъемом bt2.0/gnb27 (разъемы на дроне и батах должны совпадать) 550mAh
+- **Motors**: 18000-20000KV (size 1002 / 1003)
+- **AIO Flight Controller**: 3-in-1 (FC + ESC + Receiver) with built-in ELRS
+- **Video System**: Digital kits (same as 75mm) or Analog (e.g., OVX300 VTX + Caddx Ant Lite camera)
+- **Propellers**: 45mm 3-4 blade (e.g., Gemfan)
+- **Frame**: BetaFPV Meteor75 Pro
+- **Batteries**: 1S 550mAh with BT2.0 or GNB27 connectors
 
 ## CineWhoop
 
-- Рама под 2-3.5" пропеллеры и одноплатник 25.5\*25.5
-- Одноплатник (AIO, полетник+регуляторы) на 15-35А (в зависимости от потребления мотора на максимуме+20% запаса) с контроллером F405/F7/H7
-- Моторы 1404-2004 в зависимости от пропеллера и задач, для полной гопро ближе к 2004 и сетап под 6S (2600-3200кв), для раздетой 1408 под 4S (3800-4200кв) достаточно
-- Набор под вашу видеосистему - цифровые киты caddx vista или dji o3 unit / walksnail avatar lite / hdzero whoop или race v3 vtx или аналоговый видеопередатчик+камера+антенна компактных размеров
-- Аккумуляторы 600-1000мАч в зависимости от выбранной винто-моторной группы
+- **Frame**: Designed for 2" to 3.5" propellers with 25.5x25.5mm mounting
+- **AIO Flight Controller**: 15-35A (depending on motor draw + 20% margin) with F405 / F7 / H7 processor
+- **Motors**: 1404 to 2004 size. For a full GoPro, use 2004 size on 6S (2600-3200KV). For a "Naked" GoPro, 1408 size on 4S (3800-4200KV) is sufficient.
+- **Video System**: Digital (Caddx Vista, DJI O3, Walksnail Avatar Lite, HDZero) or compact Analog
+- **Batteries**: 600-1000mAh depending on the motor/prop combo
 
-## 2-2,5" зубочистка
+## 2" to 2.5" Toothpick
 
-- Рама 88-100мм для 2", для 2,5" 110-120мм
-- Моторы 1102-1106 7500кв+- для 2S и 5500+-кв для 3S
-- Одноплатник (AIO, полетник+регуляторы) на 15-25А (в зависимости от потребления мотора на максимуме+20% запаса) с контроллером F405/F7/H7
-- Камера формата нано
-- Видеопередатчик (аналоговый) с минимальным весом - happymodel ovx300/tbs unify pro32/rush tiny tank либо цифровая система под ваши очки - caddx vista (dji) / walksnail avatar lite / hdzero whoop или race v3 vtx
-- Пропы 2-3 лопасти от gemfan/hq prop
-- Аккумуляторы 300-500мАч 60-80С в зависимости от выбранной винто-моторной группы
+- **Frame**: 88-100mm for 2", 110-120mm for 2.5"
+- **Motors**: 1102-1106 size. ~7500KV for 2S, ~5500KV for 3S
+- **AIO Flight Controller**: 15-25A with F405 / F7 / H7 processor
+- **Camera**: Nano-size
+- **Video System**: Lightweight Analog (HappyModel OVX300, TBS Unify Pro32, Rush Tiny Tank) or Digital (Caddx Vista, Avatar Lite, HDZero)
+- **Propellers**: 2-3 blade (Gemfan, HQProp)
+- **Batteries**: 300-500mAh 60-80C
 
-## 3" коптер
+## 3" Quadcopter
 
-- Рама 120-150мм под 3"
-- Стек полетник+регулятор 4в1 или одноплатник (AIO, полетник+регуляторы) на 20-25А (в зависимости от потребления мотора на максимуме+20% запаса) с контроллером F405/F7/H7
-- Моторы 1306-1506 4000кв+- под 4S или 2800+-кв под 6S
-- Видеопередатчик (аналоговый) с минимальным весом - happymodel ovx300/tbs unify pro32/rush tiny tank либо цифровая система под ваши очки - caddx vista или dji o3 unit / walksnail avatar lite / hdzero whoop или race v3 vtx
-- Камера нано формата (14мм шириной, рекомендуется предварительно посмотреть описание рамы, рекомендуемые размеры)
-- Аккумуляторы 600-850мАч 60-100С в зависимости от выбранной винто-моторной группы
+- **Frame**: 120-150mm for 3" props
+- **Stack or AIO**: 20-25A with F405 / F7 / H7 processor
+- **Motors**: 1306-1506 size. ~4000KV for 4S, ~2800KV for 6S
+- **Video System**: Lightweight Analog or Digital (DJI O3, Vista, Avatar, HDZero)
+- **Camera**: Nano-size (14mm wide; check frame compatibility)
+- **Batteries**: 600-850mAh 60-100C
 
-## 3.5" зубочистка
+## 3.5" Toothpick
 
-- Рама 140-160мм под 3.5" по типу crux35
-- Одноплатник (AIO, полетник+регуляторы) на 20-35А в зависимости от потребления мотора на максимуме+20% запаса
-- Моторы 1404-1506 3900кв+- под 4S или 2600+-кв под 6S
-- Видеопередатчик (аналоговый) с минимальным весом - happymodel ovx300/tbs unify pro3/rush tiny tank либо цифровая система под ваши очки - caddx vista (dji) / walksnail avatar lite / hdzero whoop или race v3 vtx
-- Камера нано формата (14мм шириной, рекомендуется предварительно посмотреть описание рамы, рекомендуемые размеры)
-- Аккумуляторы 600-850мАч 60-100С в зависимости от выбранной винто-моторной группы
+- **Frame**: 140-160mm (e.g., Crux35)
+- **AIO Flight Controller**: 20-35A
+- **Motors**: 1404-1506 size. ~3900KV for 4S, ~2600KV for 6S
+- **Video System**: Lightweight Analog or Digital
+- **Camera**: Nano-size (14mm wide)
+- **Batteries**: 600-850mAh 60-100C
 
-## 5" гоночный:
+## 5" Racing Drone
 
-> чем меньше вес, тем лучше (в среднем, гоночные 5" 250-300г)
+> **Target**: Lower weight is better (approx. 250-300g without battery).
 
-[Регламент от DSG (Drone Sports Globa) на 2023](https://disk.yandex.ru/i/jnf-UcFgCBd4eQ).
+- **Frame**: 200-230mm Stretched-X or True-X
+- **Motors**: 2207 / 2306 size, 1800-2000KV (check race regulations)
+- **Stack (FC + ESC)**: F405 / F7 / H7 processor with 40-65A 4-in-1 ESC (20x20mm mounting)
+- **Video System**: Analog (low-latency Micro/Nano camera like Foxeer Predator or RunCam Racer + 25mW VTX per regulations)
+- **Antenna**: Circularly polarized (e.g., Lollipop) recessed in a canopy or mount
+- **Propellers**: R38, 51466, or 5146.5
+- **LEDs**: Addressable WS2812 (at least 10 per arm), ideally with an external 5V BEC
+- **Batteries**: High discharge 6S 1100-1400mAh 100-200C (e.g., Tattu R-Line, Dogcom)
 
-- Аккумуляторы лучше с большой токоотдачей, 6s 100-200C 1100-1400mAh, для скоростных треков только tattu/dogcom
-- Моторы 2207/2306 1800-2000кв (стоит глянуть регламент, если планируете участвовать в гонках)
-- Стек (fc+esc) с полетником на F405/F722/F745/F765/H743 и регулятором 4in1 40-65A. формфактор стека 20\*20
-- Рама 200-230мм вытянутый икс или крест
-- Видеопередатчик 25mW по регламенту
-- АНАЛОГОВАЯ камера с низкой задержкой формата микро или нано по типу foxeer predator или runcam racer
-- Антенна с круговой поляризацией по типу lollipop утопленная в канопу или в маунте на стойках рамы
-- Пропы R38 или 51466 или 5146.5
-- Управляемые светодиоды, от 10 шт на каждый луч с размещением с двух сторон, идеально 5В на базе ws2812 с внешним беком (для разгрузки бека полетника)
+## 5" Freestyle Drone
 
-## 5" фристайловый:
+> **Target**: Weight is secondary to durability and flight feel.
 
-> весом можно пренебречь
+- **Frame**: "Bus" style (e.g., Apex 5, AOS 5)
+- **Motors**: 2207 / 2306 size, ~1800KV
+- **Stack (FC + ESC)**: F405 / F7 / H7 + 40-65A
+- **Camera**: Micro-size
+- **Video System**: Digital or Analog; antenna should be mounted on a "stalk" to clear the battery and action camera
+- **Batteries**: 6S 1100-1400mAh 100-150C
 
-- Рама автобус по типу apex 5/aos 5
-- Моторы 2207/2306 1800+-кв
-- Стек (fc+esc) F405/F722/F745/F765/H743 + 40-65A
-- Камера формата микро
-- Видеосистема под ваш шлем, антенна, вынесенная на ножке, чтобы не перекрывалась аккумулятором и экшн камерой
-- Аккумуляторы 6s 1100-1400mAh 100-150C
+## 5.5" Freestyle Drone
 
-## 5.5" фристайловый:
+> **Target**: Excellent for carrying a full-size GoPro.
 
-> отличный вариант для фристайла с GoPro
+- **Frame**: AOS 5.5 or similar
+- **Motors**: 2208 size, ~1800KV
+- **Stack (FC + ESC)**: F405 / F7 / H7 + 40-65A
+- **Video System**: Digital or Analog; stalk-mounted antenna
+- **Batteries**: 6S 1300-1500mAh 100-150C
 
-- Рама по типу aos 5.5
-- Моторы 2208 1800+-кв
-- Стек (fc+esc) F405/F722/F745/F765/H743 + 40-65A
-- Видеосистема под ваш шлем, антенна, вынесенная на ножке, чтобы не перекрывалась аккумулятором и экшн камерой
-- Аккумуляторы 6s 1300-1500mAh 100-150C
+## 7" Long Range (Long-Range)
 
-## 7" дальнолет:
+> **Best with**: INAV or ArduPilot
 
-> под inav/ardupilot
+- **Frame**: Robust, with 5-6mm thick arms (4mm will cause "jello" in video)
+- **Motors**: 2306 (lightweight) to 2808 size. 1250-1300KV for 6S, 1600-1750KV for 4S
+- **Stack (FC + ESC)**: 35-60A ESC + FC with I2C and Barometer support
+- **GPS**: High-quality GPS with Magnetometer (e.g., Holybro Nano M8, Matek M8Q, Flywoo Goku M10)
+- **Propellers**: 7x4x3 (HQProp)
+- **Video System**: Digital or Analog; stalk-mounted antenna
+- **Batteries**: 
+  - Li-Ion packs (18650 or 21700) 4S2P/6S2P for 25-45 min flight time
+  - LiPo 4S1P/6S1P for 10-25 min flight time
 
-- Аккуммуляторы: сборка из lion 18650 или 21700 4s2p/6s2p для 25-45 минут полетного времени, 6s1p/4s1p для 10-25 минут полетного времени
-- Моторы 2306(если легкая сборка)-2808(если с экшн камерой) на 1250-1300кв под 6S или 1600-1750кв под 4S
-- gps с магнитометром по типу holybro nano m8, matek m8q, flywoo goku m10
-- Cтек с регулятором 35-60А и полетным контроллером, поддерживающим inav/ardupilot с i2c, baro
-- Пропеллеры 2-3 лопасти, неплохие по эффективности hq 7\*4\*3
-- Рама вместительная, с лучами 5-6мм, на 4мм будет желе
-- Видеосистема под ваш шлем, антенна, вынесенная на ножке
+## 7" Freestyle/Cinematic
 
-## 7" фристайл-синематик:
+> **Best with**: Betaflight
 
-> под betaflight
+- **Frame**: 6mm+ arms, "DeadCat" style (front arms pushed out) to keep props out of the camera view at low tilts
+- **Motors**: 2406-2808 size, 1300-1500KV
+- **Stack (FC + ESC)**: 45-60A ESC + F405 / F7 / H7 FC
+- **GPS**: Optional
+- **Propellers**: 7x3-4.5x3 (HQProp)
+- **Video System**: Digital or Analog; stalk-mounted antenna
+- **Batteries**: 
+  - High-discharge Li-Ion 21700 6S1P
+  - LiPo 6S 3000-5000mAh 50C+
 
-- Аккуммуляторы: сборка из высокотоковых lion 21700 6s1p или lipo 6s 3000-5000mAh 50C+
-- Моторы 2406-2808 на 1300-15000кв
-- gps опционально
-- Cтек с регулятором 45-60А и полетным контроллером f405/f722/f745/h743
-- Пропеллеры 2-3 лопасти, hq 7\*3-4.5\*3
-- Рама с лучами толщиной от 6мм, с максимально раздвинутыми передними лучами для отсутствия пропов в кадре, если планируется угол камеры меньше 30 градусов
-- Видеосистема под ваш шлем, антенна, вынесенная на ножке
+---
 
-Также можно глянуть [сайт JB](https://www.fpvknowitall.com/), часть компонентов продается только в штатах, но вполне доступно расписан каждый раздел и приведены хорошие примеры.
+*For more information, visit [Joshua Bardwell's FPVKnowItAll](https://www.fpvknowitall.com/); while some components are US-specific, his breakdowns and examples are excellent.*
