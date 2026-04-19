@@ -42,6 +42,8 @@ function sidebar(): DefaultTheme.SidebarItem[] {
       items: [
         { text: "Вход в хобби", link: "/ru/intro/beginning" },
         { text: "Самый дешевый старт", link: "/ru/intro/cheapest_start" },
+        { text: "Какие дроны НЕ покупать", link: "/ru/intro/not_to_buy" },
+        { text: "5 мифов про FPV", link: "/ru/intro/myths" },
         { text: "Глоссарий", link: "/ru/intro/glossarium" },
         { text: "Стили полета", link: "/ru/intro/flightstyles" },
         { text: "Симулятор", link: "/ru/intro/sim" },
